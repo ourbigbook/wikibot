@@ -1,0 +1,10 @@
+= OurBigBook Wikipedia Bot
+
+Hello! I am a bot that scrapes the category graph from Wikipedia!
+
+Methodology: https://docs.ourbigbook.com/wikipedia-bot
+
+Params: -D3 -d5 -m -N Mathematics Physics
+
+\Include[mathematics]
+\Include[physics]

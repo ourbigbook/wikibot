@@ -1,0 +1,642 @@
+= Software development philosophies
+{wiki=Category:Software_development_philosophies}
+
+= Programming principles
+{parent=Software development philosophies}
+{wiki=Category:Programming_principles}
+
+= Abstraction principle (computer programming)
+{parent=Programming principles}
+{wiki=Abstraction_principle_(computer_programming)}
+
+= Booch method
+{parent=Programming principles}
+{wiki=Booch_method}
+
+= Code reuse
+{parent=Programming principles}
+{wiki=Code_reuse}
+
+= Cohesion (computer science)
+{parent=Programming principles}
+{wiki=Cohesion_(computer_science)}
+
+= Command–query separation
+{parent=Programming principles}
+{wiki=Command–query_separation}
+
+= Composition over inheritance
+{parent=Programming principles}
+{wiki=Composition_over_inheritance}
+
+= Coupling (computer programming)
+{parent=Programming principles}
+{wiki=Coupling_(computer_programming)}
+
+= Defensive programming
+{parent=Programming principles}
+{wiki=Defensive_programming}
+
+= Dependency inversion principle
+{parent=Programming principles}
+{wiki=Dependency_inversion_principle}
+
+= Deutsch limit
+{parent=Programming principles}
+{wiki=Deutsch_limit}
+
+= Discoverability
+{parent=Programming principles}
+{wiki=Discoverability}
+
+= Don't repeat yourself
+{parent=Programming principles}
+{wiki=Don't_repeat_yourself}
+
+= Encapsulation (computer programming)
+{parent=Programming principles}
+{wiki=Encapsulation_(computer_programming)}
+
+= Fail-fast
+{parent=Programming principles}
+{wiki=Fail-fast}
+
+= GRASP (object-oriented design)
+{parent=Programming principles}
+{wiki=GRASP_(object-oriented_design)}
+
+= Information hiding
+{parent=Programming principles}
+{wiki=Information_hiding}
+
+= Interface segregation principle
+{parent=Programming principles}
+{wiki=Interface_segregation_principle}
+
+= Inversion of control
+{parent=Programming principles}
+{wiki=Inversion_of_control}
+
+= Law of Demeter
+{parent=Programming principles}
+{wiki=Law_of_Demeter}
+
+= Loose coupling
+{parent=Programming principles}
+{wiki=Loose_coupling}
+
+= Ninety–ninety rule
+{parent=Programming principles}
+{wiki=Ninety–ninety_rule}
+
+= Offensive programming
+{parent=Programming principles}
+{wiki=Offensive_programming}
+
+= Principle of least astonishment
+{parent=Programming principles}
+{wiki=Principle_of_least_astonishment}
+
+= Pristine Sources
+{parent=Programming principles}
+{wiki=Pristine_Sources}
+
+= Rule of three (computer programming)
+{parent=Programming principles}
+{wiki=Rule_of_three_(computer_programming)}
+
+= SOLID
+{parent=Programming principles}
+{wiki=SOLID}
+
+= Separation of mechanism and policy
+{parent=Programming principles}
+{wiki=Separation_of_mechanism_and_policy}
+
+= Single-responsibility principle
+{parent=Programming principles}
+{wiki=Single-responsibility_principle}
+
+= The Power of 10: Rules for Developing Safety-Critical Code
+{parent=Programming principles}
+{wiki=The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code}
+
+= Uniform access principle
+{parent=Programming principles}
+{wiki=Uniform_access_principle}
+
+= Zen of Python
+{parent=Programming principles}
+{wiki=Zen_of_Python}
+
+= Zero one infinity rule
+{parent=Programming principles}
+{wiki=Zero_one_infinity_rule}
+
+= Acceptance test-driven development
+{parent=Software development philosophies}
+{wiki=Acceptance_test-driven_development}
+
+= After the Software Wars
+{parent=Software development philosophies}
+{wiki=After_the_Software_Wars}
+
+= Agile software development
+{parent=Software development philosophies}
+{wiki=Agile_software_development}
+
+= Dynamic systems development method
+{parent=Agile software development}
+{wiki=Dynamic_systems_development_method}
+
+= Acceptance testing
+{parent=Agile software development}
+{wiki=Acceptance_testing}
+
+= Adaptation (computer science)
+{parent=Agile software development}
+{wiki=Adaptation_(computer_science)}
+
+= Adaptive software development
+{parent=Agile software development}
+{wiki=Adaptive_software_development}
+
+= Agile Automation
+{parent=Agile software development}
+{wiki=Agile_Automation}
+
+= Agile application
+{parent=Agile software development}
+{wiki=Agile_application}
+
+= Agile architecture
+{parent=Agile software development}
+{wiki=Agile_architecture}
+
+= Agile contracts
+{parent=Agile software development}
+{wiki=Agile_contracts}
+
+= Agile management
+{parent=Agile software development}
+{wiki=Agile_management}
+
+= Agile modeling
+{parent=Agile software development}
+{wiki=Agile_modeling}
+
+= Agile testing
+{parent=Agile software development}
+{wiki=Agile_testing}
+
+= Agile unified process
+{parent=Agile software development}
+{wiki=Agile_unified_process}
+
+= Agilo for Trac
+{parent=Agile software development}
+{wiki=Agilo_for_Trac}
+
+= Alistair Cockburn
+{parent=Agile software development}
+{wiki=Alistair_Cockburn}
+
+= Analysis paralysis
+{parent=Agile software development}
+{wiki=Analysis_paralysis}
+
+= Andy Hunt (author)
+{parent=Agile software development}
+{wiki=Andy_Hunt_(author)}
+
+= Ayotle
+{parent=Agile software development}
+{wiki=Ayotle}
+
+= Azure DevOps Server
+{parent=Agile software development}
+{wiki=Azure_DevOps_Server}
+
+= Build light indicator
+{parent=Agile software development}
+{wiki=Build_light_indicator}
+
+= Burndown chart
+{parent=Agile software development}
+{wiki=Burndown_chart}
+
+= Comparison of scrum software
+{parent=Agile software development}
+{wiki=Comparison_of_scrum_software}
+
+= Continuous configuration automation
+{parent=Agile software development}
+{wiki=Continuous_configuration_automation}
+
+= Continuous integration
+{parent=Agile software development}
+{wiki=Continuous_integration}
+
+= DBmaestro
+{parent=Agile software development}
+{wiki=DBmaestro}
+
+= Design sprint
+{parent=Agile software development}
+{wiki=Design_sprint}
+
+= DevOps
+{parent=Agile software development}
+{wiki=DevOps}
+
+= Disciplined agile delivery
+{parent=Agile software development}
+{wiki=Disciplined_agile_delivery}
+
+= Distributed agile software development
+{parent=Agile software development}
+{wiki=Distributed_agile_software_development}
+
+= Exit criteria
+{parent=Agile software development}
+{wiki=Exit_criteria}
+
+= Feature-driven development
+{parent=Agile software development}
+{wiki=Feature-driven_development}
+
+= Flyway (software)
+{parent=Agile software development}
+{wiki=Flyway_(software)}
+
+= ICONIX
+{parent=Agile software development}
+{wiki=ICONIX}
+
+= Infrastructure as code
+{parent=Agile software development}
+{wiki=Infrastructure_as_code}
+
+= JHipster
+{parent=Agile software development}
+{wiki=JHipster}
+
+= Jeff Sutherland
+{parent=Agile software development}
+{wiki=Jeff_Sutherland}
+
+= Jim Highsmith
+{parent=Agile software development}
+{wiki=Jim_Highsmith}
+
+= Ken Schwaber
+{parent=Agile software development}
+{wiki=Ken_Schwaber}
+
+= Kent Beck
+{parent=Agile software development}
+{wiki=Kent_Beck}
+
+= Liquibase
+{parent=Agile software development}
+{wiki=Liquibase}
+
+= Martin Fowler (software engineer)
+{parent=Agile software development}
+{wiki=Martin_Fowler_(software_engineer)}
+
+= Mike Beedle
+{parent=Agile software development}
+{wiki=Mike_Beedle}
+
+= P-Modeling Framework
+{parent=Agile software development}
+{wiki=P-Modeling_Framework}
+
+= PTC Integrity
+{parent=Agile software development}
+{wiki=PTC_Integrity}
+
+= Pair programming
+{parent=Agile software development}
+{wiki=Pair_programming}
+
+= Presenter first (software approach)
+{parent=Agile software development}
+{wiki=Presenter_first_(software_approach)}
+
+= Product backlog
+{parent=Agile software development}
+{wiki=Product_backlog}
+
+= RATF
+{parent=Agile software development}
+{wiki=RATF}
+
+= Robert C. Martin
+{parent=Agile software development}
+{wiki=Robert_C._Martin}
+
+= Ron Jeffries
+{parent=Agile software development}
+{wiki=Ron_Jeffries}
+
+= SMART Process Acceleration Development Environment
+{parent=Agile software development}
+{wiki=SMART_Process_Acceleration_Development_Environment}
+
+= Scrumban
+{parent=Agile software development}
+{wiki=Scrumban}
+
+= Scrumedge
+{parent=Agile software development}
+{wiki=Scrumedge}
+
+= Service design sprint
+{parent=Agile software development}
+{wiki=Service_design_sprint}
+
+= Spike (software development)
+{parent=Agile software development}
+{wiki=Spike_(software_development)}
+
+= Stand-up meeting
+{parent=Agile software development}
+{wiki=Stand-up_meeting}
+
+= Thoughtworks
+{parent=Agile software development}
+{wiki=Thoughtworks}
+
+= Timeboxing
+{parent=Agile software development}
+{wiki=Timeboxing}
+
+= User story
+{parent=Agile software development}
+{wiki=User_story}
+
+= Validated learning
+{parent=Agile software development}
+{wiki=Validated_learning}
+
+= Velocity (software development)
+{parent=Agile software development}
+{wiki=Velocity_(software_development)}
+
+= Ward Cunningham
+{parent=Agile software development}
+{wiki=Ward_Cunningham}
+
+= Behavior-driven development
+{parent=Software development philosophies}
+{wiki=Behavior-driven_development}
+
+= Best practice
+{parent=Software development philosophies}
+{wiki=Best_practice}
+
+= Comment programming
+{parent=Software development philosophies}
+{wiki=Comment_programming}
+
+= Continuous test-driven development
+{parent=Software development philosophies}
+{wiki=Continuous_test-driven_development}
+
+= Cowboy coding
+{parent=Software development philosophies}
+{wiki=Cowboy_coding}
+
+= Domain-driven design
+{parent=Software development philosophies}
+{wiki=Domain-driven_design}
+
+= Extreme programming
+{parent=Software development philosophies}
+{wiki=Extreme_programming}
+
+= Chrysler Comprehensive Compensation System
+{parent=Extreme programming}
+{wiki=Chrysler_Comprehensive_Compensation_System}
+
+= Class-responsibility-collaboration card
+{parent=Extreme programming}
+{wiki=Class-responsibility-collaboration_card}
+
+= Code refactoring
+{parent=Extreme programming}
+{wiki=Code_refactoring}
+
+= CppUnit
+{parent=Extreme programming}
+{wiki=CppUnit}
+
+= CsUnit
+{parent=Extreme programming}
+{wiki=CsUnit}
+
+= DUnit
+{parent=Extreme programming}
+{wiki=DUnit}
+
+= Daily build
+{parent=Extreme programming}
+{wiki=Daily_build}
+
+= Database refactoring
+{parent=Extreme programming}
+{wiki=Database_refactoring}
+
+= Extreme programming practices
+{parent=Extreme programming}
+{wiki=Extreme_programming_practices}
+
+= Extreme project management
+{parent=Extreme programming}
+{wiki=Extreme_project_management}
+
+= FUnit
+{parent=Extreme programming}
+{wiki=FUnit}
+
+= Google Guice
+{parent=Extreme programming}
+{wiki=Google_Guice}
+
+= Google Test
+{parent=Extreme programming}
+{wiki=Google_Test}
+
+= JRipples
+{parent=Extreme programming}
+{wiki=JRipples}
+
+= JUnit
+{parent=Extreme programming}
+{wiki=JUnit}
+
+= Jtest
+{parent=Extreme programming}
+{wiki=Jtest}
+
+= Mauve (test suite)
+{parent=Extreme programming}
+{wiki=Mauve_(test_suite)}
+
+= Mike Cohn
+{parent=Extreme programming}
+{wiki=Mike_Cohn}
+
+= Mock object
+{parent=Extreme programming}
+{wiki=Mock_object}
+
+= Multi-stage continuous integration
+{parent=Extreme programming}
+{wiki=Multi-stage_continuous_integration}
+
+= NUnit
+{parent=Extreme programming}
+{wiki=NUnit}
+
+= NUnitAsp
+{parent=Extreme programming}
+{wiki=NUnitAsp}
+
+= PHPUnit
+{parent=Extreme programming}
+{wiki=PHPUnit}
+
+= Regression testing
+{parent=Extreme programming}
+{wiki=Regression_testing}
+
+= SUnit
+{parent=Extreme programming}
+{wiki=SUnit}
+
+= TestDox
+{parent=Extreme programming}
+{wiki=TestDox}
+
+= Unit testing
+{parent=Extreme programming}
+{wiki=Unit_testing}
+
+= Visual Studio Unit Testing Framework
+{parent=Extreme programming}
+{wiki=Visual_Studio_Unit_Testing_Framework}
+
+= XUnit.net
+{parent=Extreme programming}
+{wiki=XUnit.net}
+
+= Homesteading the Noosphere
+{parent=Software development philosophies}
+{wiki=Homesteading_the_Noosphere}
+
+= Iterative and incremental development
+{parent=Software development philosophies}
+{wiki=Iterative_and_incremental_development}
+
+= KISS principle
+{parent=Software development philosophies}
+{wiki=KISS_principle}
+
+= Kanban (development)
+{parent=Software development philosophies}
+{wiki=Kanban_(development)}
+
+= Law of conservation of complexity
+{parent=Software development philosophies}
+{wiki=Law_of_conservation_of_complexity}
+
+= Lean software development
+{parent=Software development philosophies}
+{wiki=Lean_software_development}
+
+= Lightweight methodology
+{parent=Software development philosophies}
+{wiki=Lightweight_methodology}
+
+= List of software development philosophies
+{parent=Software development philosophies}
+{wiki=List_of_software_development_philosophies}
+
+= Mayo-Smith pyramid
+{parent=Software development philosophies}
+{wiki=Mayo-Smith_pyramid}
+
+= Minimalism (computing)
+{parent=Software development philosophies}
+{wiki=Minimalism_(computing)}
+
+= Open–closed principle
+{parent=Software development philosophies}
+{wiki=Open–closed_principle}
+
+= Planning poker
+{parent=Software development philosophies}
+{wiki=Planning_poker}
+
+= Release early, release often
+{parent=Software development philosophies}
+{wiki=Release_early,_release_often}
+
+= Rule of least power
+{parent=Software development philosophies}
+{wiki=Rule_of_least_power}
+
+= Scaled agile framework
+{parent=Software development philosophies}
+{wiki=Scaled_agile_framework}
+
+= Scrum (software development)
+{parent=Software development philosophies}
+{wiki=Scrum_(software_development)}
+
+= Secure by design
+{parent=Software development philosophies}
+{wiki=Secure_by_design}
+
+= Specification by example
+{parent=Software development philosophies}
+{wiki=Specification_by_example}
+
+= Test-driven development
+{parent=Software development philosophies}
+{wiki=Test-driven_development}
+
+= The Cathedral and the Bazaar
+{parent=Software development philosophies}
+{wiki=The_Cathedral_and_the_Bazaar}
+
+= The Magic Cauldron (essay)
+{parent=Software development philosophies}
+{wiki=The_Magic_Cauldron_(essay)}
+
+= Transformation Priority Premise
+{parent=Software development philosophies}
+{wiki=Transformation_Priority_Premise}
+
+= Unix philosophy
+{parent=Software development philosophies}
+{wiki=Unix_philosophy}
+
+= Waterfall model
+{parent=Software development philosophies}
+{wiki=Waterfall_model}
+
+= Worse is better
+{parent=Software development philosophies}
+{wiki=Worse_is_better}
+
+= Write once, compile anywhere
+{parent=Software development philosophies}
+{wiki=Write_once,_compile_anywhere}
+
+= You aren't gonna need it
+{parent=Software development philosophies}
+{wiki=You_aren't_gonna_need_it}

@@ -1,0 +1,986 @@
+= Polynomials
+{wiki=Polynomials}
+
+= Generating functions
+{parent=Polynomials}
+{wiki=Generating_functions}
+
+= Betti number
+{parent=Generating functions}
+{wiki=Betti_number}
+
+= Cyclic sieving
+{parent=Generating functions}
+{wiki=Cyclic_sieving}
+
+= Factorial moment generating function
+{parent=Generating functions}
+{wiki=Factorial_moment_generating_function}
+
+= Generating function
+{parent=Generating functions}
+{wiki=Generating_function}
+
+= Generating function transformation
+{parent=Generating functions}
+{wiki=Generating_function_transformation}
+
+= Matsushima's formula
+{parent=Generating functions}
+{wiki=Matsushima's_formula}
+
+= Moment-generating function
+{parent=Generating functions}
+{wiki=Moment-generating_function}
+
+= Probability-generating function
+{parent=Generating functions}
+{wiki=Probability-generating_function}
+
+= Tau function (integrable systems)
+{parent=Generating functions}
+{wiki=Tau_function_(integrable_systems)}
+
+= Weisner's method
+{parent=Generating functions}
+{wiki=Weisner's_method}
+
+= Homogeneous polynomials
+{parent=Polynomials}
+{wiki=Homogeneous_polynomials}
+
+= Quadratic forms
+{parent=Homogeneous polynomials}
+{wiki=Quadratic_forms}
+
+= Complete homogeneous symmetric polynomial
+{parent=Homogeneous polynomials}
+{wiki=Complete_homogeneous_symmetric_polynomial}
+
+= Diagonal form
+{parent=Homogeneous polynomials}
+{wiki=Diagonal_form}
+
+= Elementary symmetric polynomial
+{parent=Homogeneous polynomials}
+{wiki=Elementary_symmetric_polynomial}
+
+= Polynomial SOS
+{parent=Homogeneous polynomials}
+{wiki=Polynomial_SOS}
+
+= Power sum symmetric polynomial
+{parent=Homogeneous polynomials}
+{wiki=Power_sum_symmetric_polynomial}
+
+= SOS-convexity
+{parent=Homogeneous polynomials}
+{wiki=SOS-convexity}
+
+= Schur polynomial
+{parent=Homogeneous polynomials}
+{wiki=Schur_polynomial}
+
+= Orthogonal polynomials
+{parent=Polynomials}
+{wiki=Orthogonal_polynomials}
+
+= Affine q-Krawtchouk polynomials
+{parent=Orthogonal polynomials}
+{wiki=Affine_q-Krawtchouk_polynomials}
+
+= Affine root system
+{parent=Orthogonal polynomials}
+{wiki=Affine_root_system}
+
+= Al-Salam–Carlitz polynomials
+{parent=Orthogonal polynomials}
+{wiki=Al-Salam–Carlitz_polynomials}
+
+= Al-Salam–Chihara polynomials
+{parent=Orthogonal polynomials}
+{wiki=Al-Salam–Chihara_polynomials}
+
+= Askey scheme
+{parent=Orthogonal polynomials}
+{wiki=Askey_scheme}
+
+= Askey–Gasper inequality
+{parent=Orthogonal polynomials}
+{wiki=Askey–Gasper_inequality}
+
+= Associated Legendre polynomials
+{parent=Orthogonal polynomials}
+{wiki=Associated_Legendre_polynomials}
+
+= Bateman polynomials
+{parent=Orthogonal polynomials}
+{wiki=Bateman_polynomials}
+
+= Bessel polynomials
+{parent=Orthogonal polynomials}
+{wiki=Bessel_polynomials}
+
+= Big q-Laguerre polynomials
+{parent=Orthogonal polynomials}
+{wiki=Big_q-Laguerre_polynomials}
+
+= Biorthogonal polynomial
+{parent=Orthogonal polynomials}
+{wiki=Biorthogonal_polynomial}
+
+= Christoffel–Darboux formula
+{parent=Orthogonal polynomials}
+{wiki=Christoffel–Darboux_formula}
+
+= Classical orthogonal polynomials
+{parent=Orthogonal polynomials}
+{wiki=Classical_orthogonal_polynomials}
+
+= Continuous Hahn polynomials
+{parent=Orthogonal polynomials}
+{wiki=Continuous_Hahn_polynomials}
+
+= Continuous big q-Hermite polynomials
+{parent=Orthogonal polynomials}
+{wiki=Continuous_big_q-Hermite_polynomials}
+
+= Continuous dual Hahn polynomials
+{parent=Orthogonal polynomials}
+{wiki=Continuous_dual_Hahn_polynomials}
+
+= Continuous dual q-Hahn polynomials
+{parent=Orthogonal polynomials}
+{wiki=Continuous_dual_q-Hahn_polynomials}
+
+= Continuous q-Hahn polynomials
+{parent=Orthogonal polynomials}
+{wiki=Continuous_q-Hahn_polynomials}
+
+= Continuous q-Hermite polynomials
+{parent=Orthogonal polynomials}
+{wiki=Continuous_q-Hermite_polynomials}
+
+= Continuous q-Jacobi polynomials
+{parent=Orthogonal polynomials}
+{wiki=Continuous_q-Jacobi_polynomials}
+
+= Continuous q-Laguerre polynomials
+{parent=Orthogonal polynomials}
+{wiki=Continuous_q-Laguerre_polynomials}
+
+= Discrete Chebyshev polynomials
+{parent=Orthogonal polynomials}
+{wiki=Discrete_Chebyshev_polynomials}
+
+= Discrete orthogonal polynomials
+{parent=Orthogonal polynomials}
+{wiki=Discrete_orthogonal_polynomials}
+
+= Discrete q-Hermite polynomials
+{parent=Orthogonal polynomials}
+{wiki=Discrete_q-Hermite_polynomials}
+
+= Dual Hahn polynomials
+{parent=Orthogonal polynomials}
+{wiki=Dual_Hahn_polynomials}
+
+= Dual q-Hahn polynomials
+{parent=Orthogonal polynomials}
+{wiki=Dual_q-Hahn_polynomials}
+
+= Favard's theorem
+{parent=Orthogonal polynomials}
+{wiki=Favard's_theorem}
+
+= Gegenbauer polynomials
+{parent=Orthogonal polynomials}
+{wiki=Gegenbauer_polynomials}
+
+= Hahn polynomials
+{parent=Orthogonal polynomials}
+{wiki=Hahn_polynomials}
+
+= Hall–Littlewood polynomials
+{parent=Orthogonal polynomials}
+{wiki=Hall–Littlewood_polynomials}
+
+= Heckman–Opdam polynomials
+{parent=Orthogonal polynomials}
+{wiki=Heckman–Opdam_polynomials}
+
+= Jack function
+{parent=Orthogonal polynomials}
+{wiki=Jack_function}
+
+= Jacobi polynomials
+{parent=Orthogonal polynomials}
+{wiki=Jacobi_polynomials}
+
+= Koornwinder polynomials
+{parent=Orthogonal polynomials}
+{wiki=Koornwinder_polynomials}
+
+= Kravchuk polynomials
+{parent=Orthogonal polynomials}
+{wiki=Kravchuk_polynomials}
+
+= Little q-Jacobi polynomials
+{parent=Orthogonal polynomials}
+{wiki=Little_q-Jacobi_polynomials}
+
+= Little q-Laguerre polynomials
+{parent=Orthogonal polynomials}
+{wiki=Little_q-Laguerre_polynomials}
+
+= Macdonald polynomials
+{parent=Orthogonal polynomials}
+{wiki=Macdonald_polynomials}
+
+= Mehler kernel
+{parent=Orthogonal polynomials}
+{wiki=Mehler_kernel}
+
+= Mehler–Heine formula
+{parent=Orthogonal polynomials}
+{wiki=Mehler–Heine_formula}
+
+= Meixner polynomials
+{parent=Orthogonal polynomials}
+{wiki=Meixner_polynomials}
+
+= Meixner–Pollaczek polynomials
+{parent=Orthogonal polynomials}
+{wiki=Meixner–Pollaczek_polynomials}
+
+= Multiple orthogonal polynomials
+{parent=Orthogonal polynomials}
+{wiki=Multiple_orthogonal_polynomials}
+
+= Orthogonal polynomials on the unit circle
+{parent=Orthogonal polynomials}
+{wiki=Orthogonal_polynomials_on_the_unit_circle}
+
+= Plancherel–Rotach asymptotics
+{parent=Orthogonal polynomials}
+{wiki=Plancherel–Rotach_asymptotics}
+
+= Pseudo-Zernike polynomials
+{parent=Orthogonal polynomials}
+{wiki=Pseudo-Zernike_polynomials}
+
+= Pseudo Jacobi polynomials
+{parent=Orthogonal polynomials}
+{wiki=Pseudo_Jacobi_polynomials}
+
+= Q-Bessel polynomials
+{parent=Orthogonal polynomials}
+{wiki=Q-Bessel_polynomials}
+
+= Q-Charlier polynomials
+{parent=Orthogonal polynomials}
+{wiki=Q-Charlier_polynomials}
+
+= Q-Hahn polynomials
+{parent=Orthogonal polynomials}
+{wiki=Q-Hahn_polynomials}
+
+= Q-Krawtchouk polynomials
+{parent=Orthogonal polynomials}
+{wiki=Q-Krawtchouk_polynomials}
+
+= Q-Laguerre polynomials
+{parent=Orthogonal polynomials}
+{wiki=Q-Laguerre_polynomials}
+
+= Q-Meixner polynomials
+{parent=Orthogonal polynomials}
+{wiki=Q-Meixner_polynomials}
+
+= Q-Meixner–Pollaczek polynomials
+{parent=Orthogonal polynomials}
+{wiki=Q-Meixner–Pollaczek_polynomials}
+
+= Q-Racah polynomials
+{parent=Orthogonal polynomials}
+{wiki=Q-Racah_polynomials}
+
+= Quantum q-Krawtchouk polynomials
+{parent=Orthogonal polynomials}
+{wiki=Quantum_q-Krawtchouk_polynomials}
+
+= Rodrigues' formula
+{parent=Orthogonal polynomials}
+{wiki=Rodrigues'_formula}
+
+= Rogers polynomials
+{parent=Orthogonal polynomials}
+{wiki=Rogers_polynomials}
+
+= Sobolev orthogonal polynomials
+{parent=Orthogonal polynomials}
+{wiki=Sobolev_orthogonal_polynomials}
+
+= Stieltjes–Wigert polynomials
+{parent=Orthogonal polynomials}
+{wiki=Stieltjes–Wigert_polynomials}
+
+= Turán's inequalities
+{parent=Orthogonal polynomials}
+{wiki=Turán's_inequalities}
+
+= Zernike polynomials
+{parent=Orthogonal polynomials}
+{wiki=Zernike_polynomials}
+
+= Polynomial functions
+{parent=Polynomials}
+{wiki=Category:Polynomial_functions}
+
+= Constant function
+{parent=Polynomial functions}
+{wiki=Constant_function}
+
+= Cubic function
+{parent=Polynomial functions}
+{wiki=Cubic_function}
+
+= Linear function
+{parent=Polynomial functions}
+{wiki=Linear_function}
+
+= Linear function (calculus)
+{parent=Polynomial functions}
+{wiki=Linear_function_(calculus)}
+
+= Newton polytope
+{parent=Polynomial functions}
+{wiki=Newton_polytope}
+
+= Quadratic function
+{parent=Polynomial functions}
+{wiki=Quadratic_function}
+
+= Quartic function
+{parent=Polynomial functions}
+{wiki=Quartic_function}
+
+= Quintic function
+{parent=Polynomial functions}
+{wiki=Quintic_function}
+
+= Ring of polynomial functions
+{parent=Polynomial functions}
+{wiki=Ring_of_polynomial_functions}
+
+= Polynomials factorization algorithms
+{parent=Polynomials}
+{wiki=Category:Polynomials_factorization_algorithms}
+
+= Rational functions
+{parent=Polynomials}
+{wiki=Rational_functions}
+
+= Partial fractions
+{parent=Rational functions}
+{wiki=Partial_fractions}
+
+= Chebyshev rational functions
+{parent=Rational functions}
+{wiki=Chebyshev_rational_functions}
+
+= Elliptic rational functions
+{parent=Rational functions}
+{wiki=Elliptic_rational_functions}
+
+= Hartogs–Rosenthal theorem
+{parent=Rational functions}
+{wiki=Hartogs–Rosenthal_theorem}
+
+= Legendre rational functions
+{parent=Rational functions}
+{wiki=Legendre_rational_functions}
+
+= Linear fractional transformation
+{parent=Rational functions}
+{wiki=Linear_fractional_transformation}
+
+= Padé approximant
+{parent=Rational functions}
+{wiki=Padé_approximant}
+
+= Polylogarithm
+{parent=Rational functions}
+{wiki=Polylogarithm}
+
+= Rational function
+{parent=Rational functions}
+{wiki=Rational_function}
+
+= Theorems about polynomials
+{parent=Polynomials}
+{wiki=Category:Theorems_about_polynomials}
+
+= Abel–Ruffini theorem
+{parent=Theorems about polynomials}
+{wiki=Abel–Ruffini_theorem}
+
+= Bernstein's theorem (polynomials)
+{parent=Theorems about polynomials}
+{wiki=Bernstein's_theorem_(polynomials)}
+
+= Binomial theorem
+{parent=Theorems about polynomials}
+{wiki=Binomial_theorem}
+
+= Cohn's theorem
+{parent=Theorems about polynomials}
+{wiki=Cohn's_theorem}
+
+= Complex conjugate root theorem
+{parent=Theorems about polynomials}
+{wiki=Complex_conjugate_root_theorem}
+
+= Descartes' rule of signs
+{parent=Theorems about polynomials}
+{wiki=Descartes'_rule_of_signs}
+
+= Equioscillation theorem
+{parent=Theorems about polynomials}
+{wiki=Equioscillation_theorem}
+
+= Factor theorem
+{parent=Theorems about polynomials}
+{wiki=Factor_theorem}
+
+= Gauss's lemma (polynomials)
+{parent=Theorems about polynomials}
+{wiki=Gauss's_lemma_(polynomials)}
+
+= Gauss–Lucas theorem
+{parent=Theorems about polynomials}
+{wiki=Gauss–Lucas_theorem}
+
+= Grace–Walsh–Szegő theorem
+{parent=Theorems about polynomials}
+{wiki=Grace–Walsh–Szegő_theorem}
+
+= Hilbert's irreducibility theorem
+{parent=Theorems about polynomials}
+{wiki=Hilbert's_irreducibility_theorem}
+
+= Kharitonov's theorem
+{parent=Theorems about polynomials}
+{wiki=Kharitonov's_theorem}
+
+= Lagrange's theorem (number theory)
+{parent=Theorems about polynomials}
+{wiki=Lagrange's_theorem_(number_theory)}
+
+= Marden's theorem
+{parent=Theorems about polynomials}
+{wiki=Marden's_theorem}
+
+= Mason–Stothers theorem
+{parent=Theorems about polynomials}
+{wiki=Mason–Stothers_theorem}
+
+= Multi-homogeneous Bézout theorem
+{parent=Theorems about polynomials}
+{wiki=Multi-homogeneous_Bézout_theorem}
+
+= Multinomial theorem
+{parent=Theorems about polynomials}
+{wiki=Multinomial_theorem}
+
+= Polynomial remainder theorem
+{parent=Theorems about polynomials}
+{wiki=Polynomial_remainder_theorem}
+
+= Rational root theorem
+{parent=Theorems about polynomials}
+{wiki=Rational_root_theorem}
+
+= Routh–Hurwitz theorem
+{parent=Theorems about polynomials}
+{wiki=Routh–Hurwitz_theorem}
+
+= Additive polynomial
+{parent=Polynomials}
+{wiki=Additive_polynomial}
+
+= Algebraic equation
+{parent=Polynomials}
+{wiki=Algebraic_equation}
+
+= Algebraic function
+{parent=Polynomials}
+{wiki=Algebraic_function}
+
+= Alternating polynomial
+{parent=Polynomials}
+{wiki=Alternating_polynomial}
+
+= Angelescu polynomials
+{parent=Polynomials}
+{wiki=Angelescu_polynomials}
+
+= Appell sequence
+{parent=Polynomials}
+{wiki=Appell_sequence}
+
+= Bell polynomials
+{parent=Polynomials}
+{wiki=Bell_polynomials}
+
+= Bernoulli polynomials
+{parent=Polynomials}
+{wiki=Bernoulli_polynomials}
+
+= Bernoulli polynomials of the second kind
+{parent=Polynomials}
+{wiki=Bernoulli_polynomials_of_the_second_kind}
+
+= Bernoulli umbra
+{parent=Polynomials}
+{wiki=Bernoulli_umbra}
+
+= Bernstein polynomial
+{parent=Polynomials}
+{wiki=Bernstein_polynomial}
+
+= Bernstein–Sato polynomial
+{parent=Polynomials}
+{wiki=Bernstein–Sato_polynomial}
+
+= Binomial type
+{parent=Polynomials}
+{wiki=Binomial_type}
+
+= Bollobás–Riordan polynomial
+{parent=Polynomials}
+{wiki=Bollobás–Riordan_polynomial}
+
+= Bombieri norm
+{parent=Polynomials}
+{wiki=Bombieri_norm}
+
+= Bracket polynomial
+{parent=Polynomials}
+{wiki=Bracket_polynomial}
+
+= Bring radical
+{parent=Polynomials}
+{wiki=Bring_radical}
+
+= Cavalieri's quadrature formula
+{parent=Polynomials}
+{wiki=Cavalieri's_quadrature_formula}
+
+= Chebyshev polynomials
+{parent=Polynomials}
+{wiki=Chebyshev_polynomials}
+
+= Coefficient diagram method
+{parent=Polynomials}
+{wiki=Coefficient_diagram_method}
+
+= Cohn's irreducibility criterion
+{parent=Polynomials}
+{wiki=Cohn's_irreducibility_criterion}
+
+= Complex quadratic polynomial
+{parent=Polynomials}
+{wiki=Complex_quadratic_polynomial}
+
+= Constant term
+{parent=Polynomials}
+{wiki=Constant_term}
+
+= Cubic equation
+{parent=Polynomials}
+{wiki=Cubic_equation}
+
+= Cyclic redundancy check
+{parent=Polynomials}
+{wiki=Cyclic_redundancy_check}
+
+= Degree of a polynomial
+{parent=Polynomials}
+{wiki=Degree_of_a_polynomial}
+
+= Derivation of the Routh array
+{parent=Polynomials}
+{wiki=Derivation_of_the_Routh_array}
+
+= Dickson polynomial
+{parent=Polynomials}
+{wiki=Dickson_polynomial}
+
+= Difference polynomials
+{parent=Polynomials}
+{wiki=Difference_polynomials}
+
+= Discriminant
+{parent=Polynomials}
+{wiki=Discriminant}
+
+= Divided power structure
+{parent=Polynomials}
+{wiki=Divided_power_structure}
+
+= Division polynomials
+{parent=Polynomials}
+{wiki=Division_polynomials}
+
+= Ehrhart polynomial
+{parent=Polynomials}
+{wiki=Ehrhart_polynomial}
+
+= Exponential polynomial
+{parent=Polynomials}
+{wiki=Exponential_polynomial}
+
+= External ray
+{parent=Polynomials}
+{wiki=External_ray}
+
+= Fibonacci polynomials
+{parent=Polynomials}
+{wiki=Fibonacci_polynomials}
+
+= Geometrical properties of polynomial roots
+{parent=Polynomials}
+{wiki=Geometrical_properties_of_polynomial_roots}
+
+= Graph polynomial
+{parent=Polynomials}
+{wiki=Graph_polynomial}
+
+= HOMFLY polynomial
+{parent=Polynomials}
+{wiki=HOMFLY_polynomial}
+
+= Hermite polynomials
+{parent=Polynomials}
+{wiki=Hermite_polynomials}
+
+= Hilbert's Nullstellensatz
+{parent=Polynomials}
+{wiki=Hilbert's_Nullstellensatz}
+
+= Hilbert's thirteenth problem
+{parent=Polynomials}
+{wiki=Hilbert's_thirteenth_problem}
+
+= Hiptmair–Xu preconditioner
+{parent=Polynomials}
+{wiki=Hiptmair–Xu_preconditioner}
+
+= Hurwitz polynomial
+{parent=Polynomials}
+{wiki=Hurwitz_polynomial}
+
+= Integer-valued polynomial
+{parent=Polynomials}
+{wiki=Integer-valued_polynomial}
+
+= Invariant polynomial
+{parent=Polynomials}
+{wiki=Invariant_polynomial}
+
+= Jacobian conjecture
+{parent=Polynomials}
+{wiki=Jacobian_conjecture}
+
+= Jones polynomial
+{parent=Polynomials}
+{wiki=Jones_polynomial}
+
+= Kazhdan–Lusztig polynomial
+{parent=Polynomials}
+{wiki=Kazhdan–Lusztig_polynomial}
+
+= Knot polynomial
+{parent=Polynomials}
+{wiki=Knot_polynomial}
+
+= Lagrange polynomial
+{parent=Polynomials}
+{wiki=Lagrange_polynomial}
+
+= Laguerre polynomials
+{parent=Polynomials}
+{wiki=Laguerre_polynomials}
+
+= Laurent polynomial
+{parent=Polynomials}
+{wiki=Laurent_polynomial}
+
+= Lebesgue constant
+{parent=Polynomials}
+{wiki=Lebesgue_constant}
+
+= Legendre moment
+{parent=Polynomials}
+{wiki=Legendre_moment}
+
+= Legendre polynomials
+{parent=Polynomials}
+{wiki=Legendre_polynomials}
+
+= Lehmer's conjecture
+{parent=Polynomials}
+{wiki=Lehmer's_conjecture}
+
+= Lill's method
+{parent=Polynomials}
+{wiki=Lill's_method}
+
+= Lindsey–Fox algorithm
+{parent=Polynomials}
+{wiki=Lindsey–Fox_algorithm}
+
+= Linearised polynomial
+{parent=Polynomials}
+{wiki=Linearised_polynomial}
+
+= List of polynomial topics
+{parent=Polynomials}
+{wiki=List_of_polynomial_topics}
+
+= Littlewood polynomial
+{parent=Polynomials}
+{wiki=Littlewood_polynomial}
+
+= Mahler measure
+{parent=Polynomials}
+{wiki=Mahler_measure}
+
+= Maximum length sequence
+{parent=Polynomials}
+{wiki=Maximum_length_sequence}
+
+= Minimal polynomial of 2cos(2pi/n)
+{parent=Polynomials}
+{wiki=Minimal_polynomial_of_2cos(2pi/n)}
+
+= Mittag-Leffler polynomials
+{parent=Polynomials}
+{wiki=Mittag-Leffler_polynomials}
+
+= Monic polynomial
+{parent=Polynomials}
+{wiki=Monic_polynomial}
+
+= Monomial order
+{parent=Polynomials}
+{wiki=Monomial_order}
+
+= Morley–Wang–Xu element
+{parent=Polynomials}
+{wiki=Morley–Wang–Xu_element}
+
+= Multilinear polynomial
+{parent=Polynomials}
+{wiki=Multilinear_polynomial}
+
+= Multiplicative sequence
+{parent=Polynomials}
+{wiki=Multiplicative_sequence}
+
+= Neumann polynomial
+{parent=Polynomials}
+{wiki=Neumann_polynomial}
+
+= Neville's algorithm
+{parent=Polynomials}
+{wiki=Neville's_algorithm}
+
+= Newton polynomial
+{parent=Polynomials}
+{wiki=Newton_polynomial}
+
+= Order polynomial
+{parent=Polynomials}
+{wiki=Order_polynomial}
+
+= P-recursive equation
+{parent=Polynomials}
+{wiki=P-recursive_equation}
+
+= Permutation polynomial
+{parent=Polynomials}
+{wiki=Permutation_polynomial}
+
+= Perron's irreducibility criterion
+{parent=Polynomials}
+{wiki=Perron's_irreducibility_criterion}
+
+= Polynomial Wigner–Ville distribution
+{parent=Polynomials}
+{wiki=Polynomial_Wigner–Ville_distribution}
+
+= Polynomial evaluation
+{parent=Polynomials}
+{wiki=Polynomial_evaluation}
+
+= Polynomial expansion
+{parent=Polynomials}
+{wiki=Polynomial_expansion}
+
+= Polynomial interpolation
+{parent=Polynomials}
+{wiki=Polynomial_interpolation}
+
+= Polynomial matrix spectral factorization
+{parent=Polynomials}
+{wiki=Polynomial_matrix_spectral_factorization}
+
+= Polynomial ring
+{parent=Polynomials}
+{wiki=Polynomial_ring}
+
+= Polynomial root-finding algorithms
+{parent=Polynomials}
+{wiki=Polynomial_root-finding_algorithms}
+
+= Polynomial sequence
+{parent=Polynomials}
+{wiki=Polynomial_sequence}
+
+= Polynomial solutions of P-recursive equations
+{parent=Polynomials}
+{wiki=Polynomial_solutions_of_P-recursive_equations}
+
+= Polynomials calculating sums of powers of arithmetic progressions
+{parent=Polynomials}
+{wiki=Polynomials_calculating_sums_of_powers_of_arithmetic_progressions}
+
+= Q-difference polynomial
+{parent=Polynomials}
+{wiki=Q-difference_polynomial}
+
+= Quartic equation
+{parent=Polynomials}
+{wiki=Quartic_equation}
+
+= Quasisymmetric function
+{parent=Polynomials}
+{wiki=Quasisymmetric_function}
+
+= Reciprocal polynomial
+{parent=Polynomials}
+{wiki=Reciprocal_polynomial}
+
+= Remez algorithm
+{parent=Polynomials}
+{wiki=Remez_algorithm}
+
+= Ring of symmetric functions
+{parent=Polynomials}
+{wiki=Ring_of_symmetric_functions}
+
+= Romanovski polynomials
+{parent=Polynomials}
+{wiki=Romanovski_polynomials}
+
+= Rook polynomial
+{parent=Polynomials}
+{wiki=Rook_polynomial}
+
+= Root of unity
+{parent=Polynomials}
+{wiki=Root_of_unity}
+
+= Rosenbrock function
+{parent=Polynomials}
+{wiki=Rosenbrock_function}
+
+= Routh–Hurwitz stability criterion
+{parent=Polynomials}
+{wiki=Routh–Hurwitz_stability_criterion}
+
+= Ruffini's rule
+{parent=Polynomials}
+{wiki=Ruffini's_rule}
+
+= Septic equation
+{parent=Polynomials}
+{wiki=Septic_equation}
+
+= Sextic equation
+{parent=Polynomials}
+{wiki=Sextic_equation}
+
+= Shapiro polynomials
+{parent=Polynomials}
+{wiki=Shapiro_polynomials}
+
+= Sheffer sequence
+{parent=Polynomials}
+{wiki=Sheffer_sequence}
+
+= Sister Beiter conjecture
+{parent=Polynomials}
+{wiki=Sister_Beiter_conjecture}
+
+= Stability radius
+{parent=Polynomials}
+{wiki=Stability_radius}
+
+= Stable polynomial
+{parent=Polynomials}
+{wiki=Stable_polynomial}
+
+= Stanley symmetric function
+{parent=Polynomials}
+{wiki=Stanley_symmetric_function}
+
+= Stirling polynomials
+{parent=Polynomials}
+{wiki=Stirling_polynomials}
+
+= Symmetric polynomial
+{parent=Polynomials}
+{wiki=Symmetric_polynomial}
+
+= Theory of equations
+{parent=Polynomials}
+{wiki=Theory_of_equations}
+
+= Thomae's formula
+{parent=Polynomials}
+{wiki=Thomae's_formula}
+
+= Touchard polynomials
+{parent=Polynomials}
+{wiki=Touchard_polynomials}
+
+= Trigonometric polynomial
+{parent=Polynomials}
+{wiki=Trigonometric_polynomial}
+
+= Tutte polynomial
+{parent=Polynomials}
+{wiki=Tutte_polynomial}
+
+= Umbral calculus
+{parent=Polynomials}
+{wiki=Umbral_calculus}
+
+= Vandermonde polynomial
+{parent=Polynomials}
+{wiki=Vandermonde_polynomial}
+
+= Vieta's formulas
+{parent=Polynomials}
+{wiki=Vieta's_formulas}
+
+= Wilkinson's polynomial
+{parent=Polynomials}
+{wiki=Wilkinson's_polynomial}
+
+= Zolotarev polynomials
+{parent=Polynomials}
+{wiki=Zolotarev_polynomials}

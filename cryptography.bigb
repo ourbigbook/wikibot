@@ -1,0 +1,7162 @@
+= Cryptography
+{wiki=Cryptography}
+
+= Applications of cryptography
+{parent=Cryptography}
+{wiki=Category:Applications_of_cryptography}
+
+= Anonymity networks
+{parent=Applications of cryptography}
+{wiki=Category:Anonymity_networks}
+
+= Authentication methods
+{parent=Applications of cryptography}
+{wiki=Category:Authentication_methods}
+
+= Decentralized autonomous organizations
+{parent=Applications of cryptography}
+{wiki=Category:Decentralized_autonomous_organizations}
+
+= Digital rights management
+{parent=Applications of cryptography}
+{wiki=Digital_rights_management}
+
+= E-commerce
+{parent=Applications of cryptography}
+{wiki=E-commerce}
+
+= Financial cryptography
+{parent=Applications of cryptography}
+{wiki=Financial_cryptography}
+
+= Kleptography
+{parent=Applications of cryptography}
+{wiki=Kleptography}
+
+= Ransomware
+{parent=Applications of cryptography}
+{wiki=Ransomware}
+
+= Secret broadcasting
+{parent=Applications of cryptography}
+{wiki=Category:Secret_broadcasting}
+
+= All-or-nothing transform
+{parent=Applications of cryptography}
+{wiki=All-or-nothing_transform}
+
+= Authentication
+{parent=Applications of cryptography}
+{wiki=Authentication}
+
+= Bingo voting
+{parent=Applications of cryptography}
+{wiki=Bingo_voting}
+
+= Broadcast encryption
+{parent=Applications of cryptography}
+{wiki=Broadcast_encryption}
+
+= ChainGPT
+{parent=Applications of cryptography}
+{wiki=ChainGPT}
+
+= Code signing
+{parent=Applications of cryptography}
+{wiki=Code_signing}
+
+= Confidentiality
+{parent=Applications of cryptography}
+{wiki=Confidentiality}
+
+= Crypto-anarchism
+{parent=Applications of cryptography}
+{wiki=Crypto-anarchism}
+
+= Cryptocurrency
+{parent=Applications of cryptography}
+{wiki=Cryptocurrency}
+
+= DRE-i with enhanced privacy
+{parent=Applications of cryptography}
+{wiki=DRE-i_with_enhanced_privacy}
+
+= Foreign instrumentation signals intelligence
+{parent=Applications of cryptography}
+{wiki=Foreign_instrumentation_signals_intelligence}
+
+= Friend-to-friend
+{parent=Applications of cryptography}
+{wiki=Friend-to-friend}
+
+= LinOTP
+{parent=Applications of cryptography}
+{wiki=LinOTP}
+
+= MultiOTP
+{parent=Applications of cryptography}
+{wiki=MultiOTP}
+
+= OpenBSD Cryptographic Framework
+{parent=Applications of cryptography}
+{wiki=OpenBSD_Cryptographic_Framework}
+
+= OpenPuff
+{parent=Applications of cryptography}
+{wiki=OpenPuff}
+
+= Passwordless authentication
+{parent=Applications of cryptography}
+{wiki=Passwordless_authentication}
+
+= Prêt à Voter
+{parent=Applications of cryptography}
+{wiki=Prêt_à_Voter}
+
+= Pseudonym
+{parent=Applications of cryptography}
+{wiki=Pseudonym}
+
+= Publicly Verifiable Secret Sharing
+{parent=Applications of cryptography}
+{wiki=Publicly_Verifiable_Secret_Sharing}
+
+= Punchscan
+{parent=Applications of cryptography}
+{wiki=Punchscan}
+
+= Radiofrequency MASINT
+{parent=Applications of cryptography}
+{wiki=Radiofrequency_MASINT}
+
+= Risk-based authentication
+{parent=Applications of cryptography}
+{wiki=Risk-based_authentication}
+
+= Rublon
+{parent=Applications of cryptography}
+{wiki=Rublon}
+
+= Scantegrity
+{parent=Applications of cryptography}
+{wiki=Scantegrity}
+
+= Signals intelligence by alliances, nations and industries
+{parent=Applications of cryptography}
+{wiki=Signals_intelligence_by_alliances,_nations_and_industries}
+
+= Signals intelligence operational platforms by nation
+{parent=Applications of cryptography}
+{wiki=Signals_intelligence_operational_platforms_by_nation}
+
+= Steganography tools
+{parent=Applications of cryptography}
+{wiki=Steganography_tools}
+
+= Traitor tracing
+{parent=Applications of cryptography}
+{wiki=Traitor_tracing}
+
+= WikiLeaks
+{parent=Applications of cryptography}
+{wiki=WikiLeaks}
+
+= X.1035
+{parent=Applications of cryptography}
+{wiki=X.1035}
+
+= Classical cryptography
+{parent=Cryptography}
+{wiki=Classical_cryptography}
+
+= Classical ciphers
+{parent=Classical cryptography}
+{wiki=Category:Classical_ciphers}
+
+= Cardan grille
+{parent=Classical cryptography}
+{wiki=Cardan_grille}
+
+= Cipher runes
+{parent=Classical cryptography}
+{wiki=Cipher_runes}
+
+= Kiss (cryptanalysis)
+{parent=Classical cryptography}
+{wiki=Kiss_(cryptanalysis)}
+
+= Russian copulation
+{parent=Classical cryptography}
+{wiki=Russian_copulation}
+
+= Cryptographers
+{parent=Cryptography}
+{wiki=Cryptographers}
+
+= Cryptographer stubs
+{parent=Cryptographers}
+{wiki=Category:Cryptographer_stubs}
+
+= Cryptographers by nationality
+{parent=Cryptographers}
+{wiki=Category:Cryptographers_by_nationality}
+
+= International Association for Cryptologic Research fellows
+{parent=Cryptographers}
+{wiki=Category:International_Association_for_Cryptologic_Research_fellows}
+
+= Modern cryptographers
+{parent=Cryptographers}
+{wiki=Category:Modern_cryptographers}
+
+= Pre-computer cryptographers
+{parent=Cryptographers}
+{wiki=Category:Pre-computer_cryptographers}
+
+= Recreational cryptographers
+{parent=Cryptographers}
+{wiki=Category:Recreational_cryptographers}
+
+= Women cryptographers
+{parent=Cryptographers}
+{wiki=Category:Women_cryptographers}
+
+= Aggelos Kiayias
+{parent=Cryptographers}
+{wiki=Aggelos_Kiayias}
+
+= Julia Wetzel
+{parent=Cryptographers}
+{wiki=Julia_Wetzel}
+
+= Laura Holmes
+{parent=Cryptographers}
+{wiki=Laura_Holmes}
+
+= List of cryptographers
+{parent=Cryptographers}
+{wiki=List_of_cryptographers}
+
+= Nadim Kobeissi
+{parent=Cryptographers}
+{wiki=Nadim_Kobeissi}
+
+= Taino (rapper)
+{parent=Cryptographers}
+{wiki=Taino_(rapper)}
+
+= Cryptographic attacks
+{parent=Cryptography}
+{wiki=Category:Cryptographic_attacks}
+
+= Attacks on public-key cryptosystems
+{parent=Cryptographic attacks}
+{wiki=Category:Attacks_on_public-key_cryptosystems}
+
+= Chosen-plaintext attacks
+{parent=Cryptographic attacks}
+{wiki=Category:Chosen-plaintext_attacks}
+
+= Cryptanalytic software
+{parent=Cryptographic attacks}
+{wiki=Category:Cryptanalytic_software}
+
+= Password cracking software
+{parent=Cryptographic attacks}
+{wiki=Category:Password_cracking_software}
+
+= Side-channel attacks
+{parent=Cryptographic attacks}
+{wiki=Side-channel_attacks}
+
+= 3-subset meet-in-the-middle attack
+{parent=Cryptographic attacks}
+{wiki=3-subset_meet-in-the-middle_attack}
+
+= Acoustic cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Acoustic_cryptanalysis}
+
+= Adaptive chosen-ciphertext attack
+{parent=Cryptographic attacks}
+{wiki=Adaptive_chosen-ciphertext_attack}
+
+= Adversary (cryptography)
+{parent=Cryptographic attacks}
+{wiki=Adversary_(cryptography)}
+
+= Aircrack-ng
+{parent=Cryptographic attacks}
+{wiki=Aircrack-ng}
+
+= Attack model
+{parent=Cryptographic attacks}
+{wiki=Attack_model}
+
+= Biclique attack
+{parent=Cryptographic attacks}
+{wiki=Biclique_attack}
+
+= Birthday attack
+{parent=Cryptographic attacks}
+{wiki=Birthday_attack}
+
+= Bit-flipping attack
+{parent=Cryptographic attacks}
+{wiki=Bit-flipping_attack}
+
+= Black-bag cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Black-bag_cryptanalysis}
+
+= Black bag operation
+{parent=Cryptographic attacks}
+{wiki=Black_bag_operation}
+
+= Boomerang attack
+{parent=Cryptographic attacks}
+{wiki=Boomerang_attack}
+
+= Brute-force attack
+{parent=Cryptographic attacks}
+{wiki=Brute-force_attack}
+
+= Chosen-ciphertext attack
+{parent=Cryptographic attacks}
+{wiki=Chosen-ciphertext_attack}
+
+= Ciphertext-only attack
+{parent=Cryptographic attacks}
+{wiki=Ciphertext-only_attack}
+
+= Collision attack
+{parent=Cryptographic attacks}
+{wiki=Collision_attack}
+
+= Contact analysis
+{parent=Cryptographic attacks}
+{wiki=Contact_analysis}
+
+= Coppersmith's attack
+{parent=Cryptographic attacks}
+{wiki=Coppersmith's_attack}
+
+= Correlation attack
+{parent=Cryptographic attacks}
+{wiki=Correlation_attack}
+
+= Cryptanalytic computer
+{parent=Cryptographic attacks}
+{wiki=Cryptanalytic_computer}
+
+= CryptoLocker
+{parent=Cryptographic attacks}
+{wiki=CryptoLocker}
+
+= Cube attack
+{parent=Cryptographic attacks}
+{wiki=Cube_attack}
+
+= Custom hardware attack
+{parent=Cryptographic attacks}
+{wiki=Custom_hardware_attack}
+
+= DROWN attack
+{parent=Cryptographic attacks}
+{wiki=DROWN_attack}
+
+= Davies attack
+{parent=Cryptographic attacks}
+{wiki=Davies_attack}
+
+= Dictionary attack
+{parent=Cryptographic attacks}
+{wiki=Dictionary_attack}
+
+= Differential-linear attack
+{parent=Cryptographic attacks}
+{wiki=Differential-linear_attack}
+
+= Differential cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Differential_cryptanalysis}
+
+= Distinguishing attack
+{parent=Cryptographic attacks}
+{wiki=Distinguishing_attack}
+
+= Distributed.net
+{parent=Cryptographic attacks}
+{wiki=Distributed.net}
+
+= Downgrade attack
+{parent=Cryptographic attacks}
+{wiki=Downgrade_attack}
+
+= Duqu
+{parent=Cryptographic attacks}
+{wiki=Duqu}
+
+= ElcomSoft
+{parent=Cryptographic attacks}
+{wiki=ElcomSoft}
+
+= FREAK
+{parent=Cryptographic attacks}
+{wiki=FREAK}
+
+= Flame (malware)
+{parent=Cryptographic attacks}
+{wiki=Flame_(malware)}
+
+= Fluhrer, Mantin and Shamir attack
+{parent=Cryptographic attacks}
+{wiki=Fluhrer,_Mantin_and_Shamir_attack}
+
+= Frequency analysis
+{parent=Cryptographic attacks}
+{wiki=Frequency_analysis}
+
+= Gardening (cryptanalysis)
+{parent=Cryptographic attacks}
+{wiki=Gardening_(cryptanalysis)}
+
+= Hardware backdoor
+{parent=Cryptographic attacks}
+{wiki=Hardware_backdoor}
+
+= Hardware keylogger
+{parent=Cryptographic attacks}
+{wiki=Hardware_keylogger}
+
+= Higher-order differential cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Higher-order_differential_cryptanalysis}
+
+= Impossible differential cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Impossible_differential_cryptanalysis}
+
+= Index of coincidence
+{parent=Cryptographic attacks}
+{wiki=Index_of_coincidence}
+
+= Integral cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Integral_cryptanalysis}
+
+= Interlock protocol
+{parent=Cryptographic attacks}
+{wiki=Interlock_protocol}
+
+= Interpolation attack
+{parent=Cryptographic attacks}
+{wiki=Interpolation_attack}
+
+= John Herivel
+{parent=Cryptographic attacks}
+{wiki=John_Herivel}
+
+= Kasiski examination
+{parent=Cryptographic attacks}
+{wiki=Kasiski_examination}
+
+= Key-recovery attack
+{parent=Cryptographic attacks}
+{wiki=Key-recovery_attack}
+
+= Keystroke logging
+{parent=Cryptographic attacks}
+{wiki=Keystroke_logging}
+
+= Known-key distinguishing attack
+{parent=Cryptographic attacks}
+{wiki=Known-key_distinguishing_attack}
+
+= Known-plaintext attack
+{parent=Cryptographic attacks}
+{wiki=Known-plaintext_attack}
+
+= Length extension attack
+{parent=Cryptographic attacks}
+{wiki=Length_extension_attack}
+
+= Linear cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Linear_cryptanalysis}
+
+= Locky
+{parent=Cryptographic attacks}
+{wiki=Locky}
+
+= LogicLocker
+{parent=Cryptographic attacks}
+{wiki=LogicLocker}
+
+= Lucky Thirteen attack
+{parent=Cryptographic attacks}
+{wiki=Lucky_Thirteen_attack}
+
+= MD5CRK
+{parent=Cryptographic attacks}
+{wiki=MD5CRK}
+
+= Man-in-the-middle attack
+{parent=Cryptographic attacks}
+{wiki=Man-in-the-middle_attack}
+
+= Meet-in-the-middle attack
+{parent=Cryptographic attacks}
+{wiki=Meet-in-the-middle_attack}
+
+= Message forgery
+{parent=Cryptographic attacks}
+{wiki=Message_forgery}
+
+= Metasploit
+{parent=Cryptographic attacks}
+{wiki=Metasploit}
+
+= Microsoft Office password protection
+{parent=Cryptographic attacks}
+{wiki=Microsoft_Office_password_protection}
+
+= Military Cryptanalytics
+{parent=Cryptographic attacks}
+{wiki=Military_Cryptanalytics}
+
+= Mod n cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Mod_n_cryptanalysis}
+
+= Padding oracle attack
+{parent=Cryptographic attacks}
+{wiki=Padding_oracle_attack}
+
+= Partial-matching meet-in-the-middle attack
+{parent=Cryptographic attacks}
+{wiki=Partial-matching_meet-in-the-middle_attack}
+
+= Partitioning cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Partitioning_cryptanalysis}
+
+= Passive attack
+{parent=Cryptographic attacks}
+{wiki=Passive_attack}
+
+= Password cracking
+{parent=Cryptographic attacks}
+{wiki=Password_cracking}
+
+= Piling-up lemma
+{parent=Cryptographic attacks}
+{wiki=Piling-up_lemma}
+
+= Pre-play attack
+{parent=Cryptographic attacks}
+{wiki=Pre-play_attack}
+
+= Preimage attack
+{parent=Cryptographic attacks}
+{wiki=Preimage_attack}
+
+= Pwdump
+{parent=Cryptographic attacks}
+{wiki=Pwdump}
+
+= ROCA vulnerability
+{parent=Cryptographic attacks}
+{wiki=ROCA_vulnerability}
+
+= Rebound attack
+{parent=Cryptographic attacks}
+{wiki=Rebound_attack}
+
+= Regin (malware)
+{parent=Cryptographic attacks}
+{wiki=Regin_(malware)}
+
+= Related-key attack
+{parent=Cryptographic attacks}
+{wiki=Related-key_attack}
+
+= Replay attack
+{parent=Cryptographic attacks}
+{wiki=Replay_attack}
+
+= Riverbank Publications
+{parent=Cryptographic attacks}
+{wiki=Riverbank_Publications}
+
+= Rootkit
+{parent=Cryptographic attacks}
+{wiki=Rootkit}
+
+= Rotational cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Rotational_cryptanalysis}
+
+= Rubber-hose cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Rubber-hose_cryptanalysis}
+
+= SciEngines GmbH
+{parent=Cryptographic attacks}
+{wiki=SciEngines_GmbH}
+
+= Self-service password reset
+{parent=Cryptographic attacks}
+{wiki=Self-service_password_reset}
+
+= Side-channel attack
+{parent=Cryptographic attacks}
+{wiki=Side-channel_attack}
+
+= Slide attack
+{parent=Cryptographic attacks}
+{wiki=Slide_attack}
+
+= Small subgroup confinement attack
+{parent=Cryptographic attacks}
+{wiki=Small_subgroup_confinement_attack}
+
+= Steganalysis
+{parent=Cryptographic attacks}
+{wiki=Steganalysis}
+
+= Stream cipher attacks
+{parent=Cryptographic attacks}
+{wiki=Stream_cipher_attacks}
+
+= Stuxnet
+{parent=Cryptographic attacks}
+{wiki=Stuxnet}
+
+= Supply chain attack
+{parent=Cryptographic attacks}
+{wiki=Supply_chain_attack}
+
+= Tempest (codename)
+{parent=Cryptographic attacks}
+{wiki=Tempest_(codename)}
+
+= TeslaCrypt
+{parent=Cryptographic attacks}
+{wiki=TeslaCrypt}
+
+= Time/memory/data tradeoff attack
+{parent=Cryptographic attacks}
+{wiki=Time/memory/data_tradeoff_attack}
+
+= Traffic analysis
+{parent=Cryptographic attacks}
+{wiki=Traffic_analysis}
+
+= Truncated differential cryptanalysis
+{parent=Cryptographic attacks}
+{wiki=Truncated_differential_cryptanalysis}
+
+= Turingery
+{parent=Cryptographic attacks}
+{wiki=Turingery}
+
+= Watermarking attack
+{parent=Cryptographic attacks}
+{wiki=Watermarking_attack}
+
+= Weak key
+{parent=Cryptographic attacks}
+{wiki=Weak_key}
+
+= Wiener's attack
+{parent=Cryptographic attacks}
+{wiki=Wiener's_attack}
+
+= XSL attack
+{parent=Cryptographic attacks}
+{wiki=XSL_attack}
+
+= Zendian problem
+{parent=Cryptographic attacks}
+{wiki=Zendian_problem}
+
+= Zygalski sheets
+{parent=Cryptographic attacks}
+{wiki=Zygalski_sheets}
+
+= Cryptographic hardware
+{parent=Cryptography}
+{wiki=Category:Cryptographic_hardware}
+
+= Cryptanalytic devices
+{parent=Cryptographic hardware}
+{wiki=Category:Cryptanalytic_devices}
+
+= Encryption device accessories
+{parent=Cryptographic hardware}
+{wiki=Category:Encryption_device_accessories}
+
+= Encryption devices
+{parent=Cryptographic hardware}
+{wiki=Category:Encryption_devices}
+
+= Smart cards
+{parent=Cryptographic hardware}
+{wiki=Smart_cards}
+
+= BID/60
+{parent=Cryptographic hardware}
+{wiki=BID/60}
+
+= BID 610
+{parent=Cryptographic hardware}
+{wiki=BID_610}
+
+= Blockscale
+{parent=Cryptographic hardware}
+{wiki=Blockscale}
+
+= CYPRIS (microchip)
+{parent=Cryptographic hardware}
+{wiki=CYPRIS_(microchip)}
+
+= Combined Cipher Machine
+{parent=Cryptographic hardware}
+{wiki=Combined_Cipher_Machine}
+
+= Creed & Company
+{parent=Cryptographic hardware}
+{wiki=Creed_&_Company}
+
+= Cryptex
+{parent=Cryptographic hardware}
+{wiki=Cryptex}
+
+= Cryptographic accelerator
+{parent=Cryptographic hardware}
+{wiki=Cryptographic_accelerator}
+
+= EFF DES cracker
+{parent=Cryptographic hardware}
+{wiki=EFF_DES_cracker}
+
+= ESIM
+{parent=Cryptographic hardware}
+{wiki=ESIM}
+
+= Enigma machine
+{parent=Cryptographic hardware}
+{wiki=Enigma_machine}
+
+= Fialka
+{parent=Cryptographic hardware}
+{wiki=Fialka}
+
+= Fish (cryptography)
+{parent=Cryptographic hardware}
+{wiki=Fish_(cryptography)}
+
+= Hardware-based full disk encryption
+{parent=Cryptographic hardware}
+{wiki=Hardware-based_full_disk_encryption}
+
+= Hardware security module
+{parent=Cryptographic hardware}
+{wiki=Hardware_security_module}
+
+= Hebern rotor machine
+{parent=Cryptographic hardware}
+{wiki=Hebern_rotor_machine}
+
+= Hengzhi chip
+{parent=Cryptographic hardware}
+{wiki=Hengzhi_chip}
+
+= IBM 4758
+{parent=Cryptographic hardware}
+{wiki=IBM_4758}
+
+= IBM 4764
+{parent=Cryptographic hardware}
+{wiki=IBM_4764}
+
+= IBM 4765
+{parent=Cryptographic hardware}
+{wiki=IBM_4765}
+
+= IBM 4767
+{parent=Cryptographic hardware}
+{wiki=IBM_4767}
+
+= IBM 4768
+{parent=Cryptographic hardware}
+{wiki=IBM_4768}
+
+= IBM 4769
+{parent=Cryptographic hardware}
+{wiki=IBM_4769}
+
+= KG-13
+{parent=Cryptographic hardware}
+{wiki=KG-13}
+
+= Lacida
+{parent=Cryptographic hardware}
+{wiki=Lacida}
+
+= Lorenz cipher
+{parent=Cryptographic hardware}
+{wiki=Lorenz_cipher}
+
+= M-209
+{parent=Cryptographic hardware}
+{wiki=M-209}
+
+= M-325
+{parent=Cryptographic hardware}
+{wiki=M-325}
+
+= M-94
+{parent=Cryptographic hardware}
+{wiki=M-94}
+
+= Mercury (cipher machine)
+{parent=Cryptographic hardware}
+{wiki=Mercury_(cipher_machine)}
+
+= NEMA (machine)
+{parent=Cryptographic hardware}
+{wiki=NEMA_(machine)}
+
+= Nitrokey
+{parent=Cryptographic hardware}
+{wiki=Nitrokey}
+
+= Noreen
+{parent=Cryptographic hardware}
+{wiki=Noreen}
+
+= OMI cryptograph
+{parent=Cryptographic hardware}
+{wiki=OMI_cryptograph}
+
+= Pinwheel (cryptography)
+{parent=Cryptographic hardware}
+{wiki=Pinwheel_(cryptography)}
+
+= Plugboard
+{parent=Cryptographic hardware}
+{wiki=Plugboard}
+
+= Rambutan (cryptography)
+{parent=Cryptographic hardware}
+{wiki=Rambutan_(cryptography)}
+
+= SIGABA
+{parent=Cryptographic hardware}
+{wiki=SIGABA}
+
+= SIM card
+{parent=Cryptographic hardware}
+{wiki=SIM_card}
+
+= Schlüsselgerät 39
+{parent=Cryptographic hardware}
+{wiki=Schlüsselgerät_39}
+
+= Schlüsselgerät 41
+{parent=Cryptographic hardware}
+{wiki=Schlüsselgerät_41}
+
+= Secure cryptoprocessor
+{parent=Cryptographic hardware}
+{wiki=Secure_cryptoprocessor}
+
+= Secure telephone
+{parent=Cryptographic hardware}
+{wiki=Secure_telephone}
+
+= Siemens and Halske T52
+{parent=Cryptographic hardware}
+{wiki=Siemens_and_Halske_T52}
+
+= Stencil Subtractor
+{parent=Cryptographic hardware}
+{wiki=Stencil_Subtractor}
+
+= Syko Cipher Device
+{parent=Cryptographic hardware}
+{wiki=Syko_Cipher_Device}
+
+= TLS acceleration
+{parent=Cryptographic hardware}
+{wiki=TLS_acceleration}
+
+= Tamper-resistant security module
+{parent=Cryptographic hardware}
+{wiki=Tamper-resistant_security_module}
+
+= Titan Security Key
+{parent=Cryptographic hardware}
+{wiki=Titan_Security_Key}
+
+= Typex
+{parent=Cryptographic hardware}
+{wiki=Typex}
+
+= YubiKey
+{parent=Cryptographic hardware}
+{wiki=YubiKey}
+
+= Cryptographic primitives
+{parent=Cryptography}
+{wiki=Cryptographic_primitives}
+
+= Computational hardness assumptions
+{parent=Cryptographic primitives}
+{wiki=Computational_hardness_assumptions}
+
+= Black-box obfuscation
+{parent=Cryptographic primitives}
+{wiki=Black-box_obfuscation}
+
+= Block cipher
+{parent=Cryptographic primitives}
+{wiki=Block_cipher}
+
+= Bricklayer function
+{parent=Cryptographic primitives}
+{wiki=Bricklayer_function}
+
+= Commitment scheme
+{parent=Cryptographic primitives}
+{wiki=Commitment_scheme}
+
+= Comparison of cryptographic hash functions
+{parent=Cryptographic primitives}
+{wiki=Comparison_of_cryptographic_hash_functions}
+
+= Cryptographic hash function
+{parent=Cryptographic primitives}
+{wiki=Cryptographic_hash_function}
+
+= Cryptographic primitive
+{parent=Cryptographic primitives}
+{wiki=Cryptographic_primitive}
+
+= Digital signature
+{parent=Cryptographic primitives}
+{wiki=Digital_signature}
+
+= Distributed point function
+{parent=Cryptographic primitives}
+{wiki=Distributed_point_function}
+
+= Functional encryption
+{parent=Cryptographic primitives}
+{wiki=Functional_encryption}
+
+= Group signature
+{parent=Cryptographic primitives}
+{wiki=Group_signature}
+
+= HEAAN
+{parent=Cryptographic primitives}
+{wiki=HEAAN}
+
+= Homomorphic encryption
+{parent=Cryptographic primitives}
+{wiki=Homomorphic_encryption}
+
+= Indistinguishability obfuscation
+{parent=Cryptographic primitives}
+{wiki=Indistinguishability_obfuscation}
+
+= Key exchange
+{parent=Cryptographic primitives}
+{wiki=Key_exchange}
+
+= Mask generation function
+{parent=Cryptographic primitives}
+{wiki=Mask_generation_function}
+
+= Mix network
+{parent=Cryptographic primitives}
+{wiki=Mix_network}
+
+= Oblivious transfer
+{parent=Cryptographic primitives}
+{wiki=Oblivious_transfer}
+
+= One-way compression function
+{parent=Cryptographic primitives}
+{wiki=One-way_compression_function}
+
+= One-way function
+{parent=Cryptographic primitives}
+{wiki=One-way_function}
+
+= Private information retrieval
+{parent=Cryptographic primitives}
+{wiki=Private_information_retrieval}
+
+= Pseudorandom permutation
+{parent=Cryptographic primitives}
+{wiki=Pseudorandom_permutation}
+
+= Round (cryptography)
+{parent=Cryptographic primitives}
+{wiki=Round_(cryptography)}
+
+= Searchable symmetric encryption
+{parent=Cryptographic primitives}
+{wiki=Searchable_symmetric_encryption}
+
+= Shabal
+{parent=Cryptographic primitives}
+{wiki=Shabal}
+
+= Stream cipher
+{parent=Cryptographic primitives}
+{wiki=Stream_cipher}
+
+= Structured encryption
+{parent=Cryptographic primitives}
+{wiki=Structured_encryption}
+
+= T-function
+{parent=Cryptographic primitives}
+{wiki=T-function}
+
+= Trapdoor function
+{parent=Cryptographic primitives}
+{wiki=Trapdoor_function}
+
+= Types of physical unclonable function
+{parent=Cryptographic primitives}
+{wiki=Types_of_physical_unclonable_function}
+
+= Cryptographic protocols
+{parent=Cryptography}
+{wiki=Cryptographic_protocols}
+
+= Authentication protocols
+{parent=Cryptographic protocols}
+{wiki=Authentication_protocols}
+
+= Computer access control protocols
+{parent=Cryptographic protocols}
+{wiki=Category:Computer_access_control_protocols}
+
+= Key-agreement protocols
+{parent=Cryptographic protocols}
+{wiki=Category:Key-agreement_protocols}
+
+= Key transport protocols
+{parent=Cryptographic protocols}
+{wiki=Category:Key_transport_protocols}
+
+= Mix networks
+{parent=Cryptographic protocols}
+{wiki=Mix_networks}
+
+= Multicast encryption
+{parent=Cryptographic protocols}
+{wiki=Multicast_encryption}
+
+= Secure Shell
+{parent=Cryptographic protocols}
+{wiki=Secure_Shell}
+
+= Zero-knowledge protocols
+{parent=Cryptographic protocols}
+{wiki=Category:Zero-knowledge_protocols}
+
+= 3-D Secure
+{parent=Cryptographic protocols}
+{wiki=3-D_Secure}
+
+= ALTS
+{parent=Cryptographic protocols}
+{wiki=ALTS}
+
+= ANSI ASC X9.95 Standard
+{parent=Cryptographic protocols}
+{wiki=ANSI_ASC_X9.95_Standard}
+
+= AS1 (networking)
+{parent=Cryptographic protocols}
+{wiki=AS1_(networking)}
+
+= AS2
+{parent=Cryptographic protocols}
+{wiki=AS2}
+
+= Alice and Bob
+{parent=Cryptographic protocols}
+{wiki=Alice_and_Bob}
+
+= Anshel–Anshel–Goldfeld key exchange
+{parent=Cryptographic protocols}
+{wiki=Anshel–Anshel–Goldfeld_key_exchange}
+
+= Anti-replay
+{parent=Cryptographic protocols}
+{wiki=Anti-replay}
+
+= AuthIP
+{parent=Cryptographic protocols}
+{wiki=AuthIP}
+
+= Authentication and Key Agreement
+{parent=Cryptographic protocols}
+{wiki=Authentication_and_Key_Agreement}
+
+= Automatic Certificate Management Environment
+{parent=Cryptographic protocols}
+{wiki=Automatic_Certificate_Management_Environment}
+
+= Autoroll
+{parent=Cryptographic protocols}
+{wiki=Autoroll}
+
+= BGPsec
+{parent=Cryptographic protocols}
+{wiki=BGPsec}
+
+= Bilateral key exchange
+{parent=Cryptographic protocols}
+{wiki=Bilateral_key_exchange}
+
+= BitTorrent protocol encryption
+{parent=Cryptographic protocols}
+{wiki=BitTorrent_protocol_encryption}
+
+= Broadcast to Allied Merchant Ships
+{parent=Cryptographic protocols}
+{wiki=Broadcast_to_Allied_Merchant_Ships}
+
+= CAVE-based authentication
+{parent=Cryptographic protocols}
+{wiki=CAVE-based_authentication}
+
+= CCMP (cryptography)
+{parent=Cryptographic protocols}
+{wiki=CCMP_(cryptography)}
+
+= CECPQ1
+{parent=Cryptographic protocols}
+{wiki=CECPQ1}
+
+= CECPQ2
+{parent=Cryptographic protocols}
+{wiki=CECPQ2}
+
+= Certificate Management Protocol
+{parent=Cryptographic protocols}
+{wiki=Certificate_Management_Protocol}
+
+= Certificate Management over CMS
+{parent=Cryptographic protocols}
+{wiki=Certificate_Management_over_CMS}
+
+= Certification path validation algorithm
+{parent=Cryptographic protocols}
+{wiki=Certification_path_validation_algorithm}
+
+= Code Access Security
+{parent=Cryptographic protocols}
+{wiki=Code_Access_Security}
+
+= Cryptographic Message Syntax
+{parent=Cryptographic protocols}
+{wiki=Cryptographic_Message_Syntax}
+
+= Cryptographic protocol
+{parent=Cryptographic protocols}
+{wiki=Cryptographic_protocol}
+
+= Cryptographically Generated Address
+{parent=Cryptographic protocols}
+{wiki=Cryptographically_Generated_Address}
+
+= Datagram Transport Layer Security
+{parent=Cryptographic protocols}
+{wiki=Datagram_Transport_Layer_Security}
+
+= Delegated Path Discovery
+{parent=Cryptographic protocols}
+{wiki=Delegated_Path_Discovery}
+
+= Delegated Path Validation
+{parent=Cryptographic protocols}
+{wiki=Delegated_Path_Validation}
+
+= Delegated credential
+{parent=Cryptographic protocols}
+{wiki=Delegated_credential}
+
+= Deniable authentication
+{parent=Cryptographic protocols}
+{wiki=Deniable_authentication}
+
+= Digest access authentication
+{parent=Cryptographic protocols}
+{wiki=Digest_access_authentication}
+
+= DigiCipher 2
+{parent=Cryptographic protocols}
+{wiki=DigiCipher_2}
+
+= Digital credential
+{parent=Cryptographic protocols}
+{wiki=Digital_credential}
+
+= Distance-bounding protocol
+{parent=Cryptographic protocols}
+{wiki=Distance-bounding_protocol}
+
+= Distributed System Security Architecture
+{parent=Cryptographic protocols}
+{wiki=Distributed_System_Security_Architecture}
+
+= DomainKeys
+{parent=Cryptographic protocols}
+{wiki=DomainKeys}
+
+= DomainKeys Identified Mail
+{parent=Cryptographic protocols}
+{wiki=DomainKeys_Identified_Mail}
+
+= Ecash
+{parent=Cryptographic protocols}
+{wiki=Ecash}
+
+= Encrypted key exchange
+{parent=Cryptographic protocols}
+{wiki=Encrypted_key_exchange}
+
+= Enrollment over Secure Transport
+{parent=Cryptographic protocols}
+{wiki=Enrollment_over_Secure_Transport}
+
+= Firefly (key exchange protocol)
+{parent=Cryptographic protocols}
+{wiki=Firefly_(key_exchange_protocol)}
+
+= Garbled circuit
+{parent=Cryptographic protocols}
+{wiki=Garbled_circuit}
+
+= Garlic routing
+{parent=Cryptographic protocols}
+{wiki=Garlic_routing}
+
+= Generic Bootstrapping Architecture
+{parent=Cryptographic protocols}
+{wiki=Generic_Bootstrapping_Architecture}
+
+= Generic Security Service Algorithm for Secret Key Transaction
+{parent=Cryptographic protocols}
+{wiki=Generic_Security_Service_Algorithm_for_Secret_Key_Transaction}
+
+= Grid Security Infrastructure
+{parent=Cryptographic protocols}
+{wiki=Grid_Security_Infrastructure}
+
+= Group Domain of Interpretation
+{parent=Cryptographic protocols}
+{wiki=Group_Domain_of_Interpretation}
+
+= H.235
+{parent=Cryptographic protocols}
+{wiki=H.235}
+
+= HTTP/1.1 Upgrade header
+{parent=Cryptographic protocols}
+{wiki=HTTP/1.1_Upgrade_header}
+
+= HTTPS
+{parent=Cryptographic protocols}
+{wiki=HTTPS}
+
+= Hashcash
+{parent=Cryptographic protocols}
+{wiki=Hashcash}
+
+= High Assurance Internet Protocol Encryptor
+{parent=Cryptographic protocols}
+{wiki=High_Assurance_Internet_Protocol_Encryptor}
+
+= Host Identity Protocol
+{parent=Cryptographic protocols}
+{wiki=Host_Identity_Protocol}
+
+= I2P
+{parent=Cryptographic protocols}
+{wiki=I2P}
+
+= IEEE 802.11i-2004
+{parent=Cryptographic protocols}
+{wiki=IEEE_802.11i-2004}
+
+= IPsec
+{parent=Cryptographic protocols}
+{wiki=IPsec}
+
+= Integrated Encryption Scheme
+{parent=Cryptographic protocols}
+{wiki=Integrated_Encryption_Scheme}
+
+= Internet Key Exchange
+{parent=Cryptographic protocols}
+{wiki=Internet_Key_Exchange}
+
+= Internet Security Association and Key Management Protocol
+{parent=Cryptographic protocols}
+{wiki=Internet_Security_Association_and_Key_Management_Protocol}
+
+= JSON Web Encryption
+{parent=Cryptographic protocols}
+{wiki=JSON_Web_Encryption}
+
+= Kerberized Internet Negotiation of Keys
+{parent=Cryptographic protocols}
+{wiki=Kerberized_Internet_Negotiation_of_Keys}
+
+= Key-based routing
+{parent=Cryptographic protocols}
+{wiki=Key-based_routing}
+
+= Key Management Interoperability Protocol
+{parent=Cryptographic protocols}
+{wiki=Key_Management_Interoperability_Protocol}
+
+= List of Tor onion services
+{parent=Cryptographic protocols}
+{wiki=List_of_Tor_onion_services}
+
+= MIKEY
+{parent=Cryptographic protocols}
+{wiki=MIKEY}
+
+= Microsoft Point-to-Point Encryption
+{parent=Cryptographic protocols}
+{wiki=Microsoft_Point-to-Point_Encryption}
+
+= Multi-party fair exchange protocol
+{parent=Cryptographic protocols}
+{wiki=Multi-party_fair_exchange_protocol}
+
+= Neuman–Stubblebine protocol
+{parent=Cryptographic protocols}
+{wiki=Neuman–Stubblebine_protocol}
+
+= NewHope
+{parent=Cryptographic protocols}
+{wiki=NewHope}
+
+= OCSP stapling
+{parent=Cryptographic protocols}
+{wiki=OCSP_stapling}
+
+= OMEMO
+{parent=Cryptographic protocols}
+{wiki=OMEMO}
+
+= Oakley protocol
+{parent=Cryptographic protocols}
+{wiki=Oakley_protocol}
+
+= Off-the-Record Messaging
+{parent=Cryptographic protocols}
+{wiki=Off-the-Record_Messaging}
+
+= Offline private key protocol
+{parent=Cryptographic protocols}
+{wiki=Offline_private_key_protocol}
+
+= Onion routing
+{parent=Cryptographic protocols}
+{wiki=Onion_routing}
+
+= Online Certificate Status Protocol
+{parent=Cryptographic protocols}
+{wiki=Online_Certificate_Status_Protocol}
+
+= Openswan
+{parent=Cryptographic protocols}
+{wiki=Openswan}
+
+= PQXDH
+{parent=Cryptographic protocols}
+{wiki=PQXDH}
+
+= Password Authenticated Key Exchange by Juggling
+{parent=Cryptographic protocols}
+{wiki=Password_Authenticated_Key_Exchange_by_Juggling}
+
+= Privacy-Enhanced Mail
+{parent=Cryptographic protocols}
+{wiki=Privacy-Enhanced_Mail}
+
+= Private Communications Technology
+{parent=Cryptographic protocols}
+{wiki=Private_Communications_Technology}
+
+= Proof of secure erasure
+{parent=Cryptographic protocols}
+{wiki=Proof_of_secure_erasure}
+
+= Protocol for Carrying Authentication for Network Access
+{parent=Cryptographic protocols}
+{wiki=Protocol_for_Carrying_Authentication_for_Network_Access}
+
+= Publius (publishing system)
+{parent=Cryptographic protocols}
+{wiki=Publius_(publishing_system)}
+
+= SCVP
+{parent=Cryptographic protocols}
+{wiki=SCVP}
+
+= SPNEGO
+{parent=Cryptographic protocols}
+{wiki=SPNEGO}
+
+= Salted Challenge Response Authentication Mechanism
+{parent=Cryptographic protocols}
+{wiki=Salted_Challenge_Response_Authentication_Mechanism}
+
+= Secure Communications Interoperability Protocol
+{parent=Cryptographic protocols}
+{wiki=Secure_Communications_Interoperability_Protocol}
+
+= Secure Hypertext Transfer Protocol
+{parent=Cryptographic protocols}
+{wiki=Secure_Hypertext_Transfer_Protocol}
+
+= Secure Neighbor Discovery
+{parent=Cryptographic protocols}
+{wiki=Secure_Neighbor_Discovery}
+
+= Secure Real-time Transport Protocol
+{parent=Cryptographic protocols}
+{wiki=Secure_Real-time_Transport_Protocol}
+
+= Secure copy protocol
+{parent=Cryptographic protocols}
+{wiki=Secure_copy_protocol}
+
+= Secure multi-party computation
+{parent=Cryptographic protocols}
+{wiki=Secure_multi-party_computation}
+
+= Security Protocols Open Repository
+{parent=Cryptographic protocols}
+{wiki=Security_Protocols_Open_Repository}
+
+= Signal Protocol
+{parent=Cryptographic protocols}
+{wiki=Signal_Protocol}
+
+= Signature Record Type Definition
+{parent=Cryptographic protocols}
+{wiki=Signature_Record_Type_Definition}
+
+= Silent Circle Instant Messaging Protocol
+{parent=Cryptographic protocols}
+{wiki=Silent_Circle_Instant_Messaging_Protocol}
+
+= Simple Authentication and Security Layer
+{parent=Cryptographic protocols}
+{wiki=Simple_Authentication_and_Security_Layer}
+
+= Simple Certificate Enrollment Protocol
+{parent=Cryptographic protocols}
+{wiki=Simple_Certificate_Enrollment_Protocol}
+
+= Simultaneous Authentication of Equals
+{parent=Cryptographic protocols}
+{wiki=Simultaneous_Authentication_of_Equals}
+
+= Tcpcrypt
+{parent=Cryptographic protocols}
+{wiki=Tcpcrypt}
+
+= Temporal Key Integrity Protocol
+{parent=Cryptographic protocols}
+{wiki=Temporal_Key_Integrity_Protocol}
+
+= Time stamp protocol
+{parent=Cryptographic protocols}
+{wiki=Time_stamp_protocol}
+
+= Tor (network)
+{parent=Cryptographic protocols}
+{wiki=Tor_(network)}
+
+= Transport Layer Security
+{parent=Cryptographic protocols}
+{wiki=Transport_Layer_Security}
+
+= Vouch by Reference
+{parent=Cryptographic protocols}
+{wiki=Vouch_by_Reference}
+
+= WLAN Authentication and Privacy Infrastructure
+{parent=Cryptographic protocols}
+{wiki=WLAN_Authentication_and_Privacy_Infrastructure}
+
+= Wi-Fi Protected Access
+{parent=Cryptographic protocols}
+{wiki=Wi-Fi_Protected_Access}
+
+= Wi-Fi Protected Setup
+{parent=Cryptographic protocols}
+{wiki=Wi-Fi_Protected_Setup}
+
+= Wired Equivalent Privacy
+{parent=Cryptographic protocols}
+{wiki=Wired_Equivalent_Privacy}
+
+= Wireless Transport Layer Security
+{parent=Cryptographic protocols}
+{wiki=Wireless_Transport_Layer_Security}
+
+= X.509
+{parent=Cryptographic protocols}
+{wiki=X.509}
+
+= XKMS
+{parent=Cryptographic protocols}
+{wiki=XKMS}
+
+= YAK (cryptography)
+{parent=Cryptographic protocols}
+{wiki=YAK_(cryptography)}
+
+= Yahalom (protocol)
+{parent=Cryptographic protocols}
+{wiki=Yahalom_(protocol)}
+
+= ZRTP
+{parent=Cryptographic protocols}
+{wiki=ZRTP}
+
+= Zimmermann–Sassaman key-signing protocol
+{parent=Cryptographic protocols}
+{wiki=Zimmermann–Sassaman_key-signing_protocol}
+
+= Cryptographic software
+{parent=Cryptography}
+{wiki=Cryptographic_software}
+
+= OpenPGP
+{parent=Cryptographic software}
+{wiki=OpenPGP}
+
+= SSH File Transfer Protocol clients
+{parent=Cryptographic software}
+{wiki=Category:SSH_File_Transfer_Protocol_clients}
+
+= Tor (anonymity network)
+{parent=Cryptographic software}
+{wiki=Tor_(anonymity_network)}
+
+= Transport Layer Security implementation
+{parent=Cryptographic software}
+{wiki=Category:Transport_Layer_Security_implementation}
+
+= ACE Encrypt
+{parent=Cryptographic software}
+{wiki=ACE_Encrypt}
+
+= AbsoluteTelnet
+{parent=Cryptographic software}
+{wiki=AbsoluteTelnet}
+
+= Acid Cryptofiler
+{parent=Cryptographic software}
+{wiki=Acid_Cryptofiler}
+
+= Android Privacy Guard
+{parent=Cryptographic software}
+{wiki=Android_Privacy_Guard}
+
+= Authenticated Identity Body
+{parent=Cryptographic software}
+{wiki=Authenticated_Identity_Body}
+
+= Autocrypt
+{parent=Cryptographic software}
+{wiki=Autocrypt}
+
+= BSAFE
+{parent=Cryptographic software}
+{wiki=BSAFE}
+
+= Bcrypt
+{parent=Cryptographic software}
+{wiki=Bcrypt}
+
+= BestCrypt
+{parent=Cryptographic software}
+{wiki=BestCrypt}
+
+= BitLocker
+{parent=Cryptographic software}
+{wiki=BitLocker}
+
+= Bitfrost
+{parent=Cryptographic software}
+{wiki=Bitfrost}
+
+= Bitmessage
+{parent=Cryptographic software}
+{wiki=Bitmessage}
+
+= Bitwarden
+{parent=Cryptographic software}
+{wiki=Bitwarden}
+
+= Botan (programming library)
+{parent=Cryptographic software}
+{wiki=Botan_(programming_library)}
+
+= Bouncy Castle (cryptography)
+{parent=Cryptographic software}
+{wiki=Bouncy_Castle_(cryptography)}
+
+= CAPICOM
+{parent=Cryptographic software}
+{wiki=CAPICOM}
+
+= Ccrypt
+{parent=Cryptographic software}
+{wiki=Ccrypt}
+
+= CipherSaber
+{parent=Cryptographic software}
+{wiki=CipherSaber}
+
+= Column level encryption
+{parent=Cryptographic software}
+{wiki=Column_level_encryption}
+
+= Comparison of SSH clients
+{parent=Cryptographic software}
+{wiki=Comparison_of_SSH_clients}
+
+= Comparison of SSH servers
+{parent=Cryptographic software}
+{wiki=Comparison_of_SSH_servers}
+
+= Comparison of TLS implementations
+{parent=Cryptographic software}
+{wiki=Comparison_of_TLS_implementations}
+
+= Comparison of VoIP software
+{parent=Cryptographic software}
+{wiki=Comparison_of_VoIP_software}
+
+= Comparison of disk encryption software
+{parent=Cryptographic software}
+{wiki=Comparison_of_disk_encryption_software}
+
+= Comparison of encrypted external drives
+{parent=Cryptographic software}
+{wiki=Comparison_of_encrypted_external_drives}
+
+= Confide
+{parent=Cryptographic software}
+{wiki=Confide}
+
+= Core FTP
+{parent=Cryptographic software}
+{wiki=Core_FTP}
+
+= Corkscrew (program)
+{parent=Cryptographic software}
+{wiki=Corkscrew_(program)}
+
+= CrossCrypt
+{parent=Cryptographic software}
+{wiki=CrossCrypt}
+
+= CrypTool
+{parent=Cryptographic software}
+{wiki=CrypTool}
+
+= Crypt (Unix)
+{parent=Cryptographic software}
+{wiki=Crypt_(Unix)}
+
+= Cryptlib
+{parent=Cryptographic software}
+{wiki=Cryptlib}
+
+= CryptoBuddy
+{parent=Cryptographic software}
+{wiki=CryptoBuddy}
+
+= CryptoGraf
+{parent=Cryptographic software}
+{wiki=CryptoGraf}
+
+= CryptoVerif
+{parent=Cryptographic software}
+{wiki=CryptoVerif}
+
+= Crypto API (Linux)
+{parent=Cryptographic software}
+{wiki=Crypto_API_(Linux)}
+
+= Cryptocat
+{parent=Cryptographic software}
+{wiki=Cryptocat}
+
+= Cryptol
+{parent=Cryptographic software}
+{wiki=Cryptol}
+
+= Cryptoloop
+{parent=Cryptographic software}
+{wiki=Cryptoloop}
+
+= Dashlane
+{parent=Cryptographic software}
+{wiki=Dashlane}
+
+= Data Protection API
+{parent=Cryptographic software}
+{wiki=Data_Protection_API}
+
+= Degree of anonymity
+{parent=Cryptographic software}
+{wiki=Degree_of_anonymity}
+
+= Disk encryption software
+{parent=Cryptographic software}
+{wiki=Disk_encryption_software}
+
+= Dm-crypt
+{parent=Cryptographic software}
+{wiki=Dm-crypt}
+
+= Dropbear (software)
+{parent=Cryptographic software}
+{wiki=Dropbear_(software)}
+
+= E4M
+{parent=Cryptographic software}
+{wiki=E4M}
+
+= ECryptfs
+{parent=Cryptographic software}
+{wiki=ECryptfs}
+
+= EJBCA
+{parent=Cryptographic software}
+{wiki=EJBCA}
+
+= ESSH Client
+{parent=Cryptographic software}
+{wiki=ESSH_Client}
+
+= Encrypting File System
+{parent=Cryptographic software}
+{wiki=Encrypting_File_System}
+
+= Encryption software
+{parent=Cryptographic software}
+{wiki=Encryption_software}
+
+= Enigmail
+{parent=Cryptographic software}
+{wiki=Enigmail}
+
+= Everykey
+{parent=Cryptographic software}
+{wiki=Everykey}
+
+= FileVault
+{parent=Cryptographic software}
+{wiki=FileVault}
+
+= Filesystem-level encryption
+{parent=Cryptographic software}
+{wiki=Filesystem-level_encryption}
+
+= Flash proxy
+{parent=Cryptographic software}
+{wiki=Flash_proxy}
+
+= FreeOTFE
+{parent=Cryptographic software}
+{wiki=FreeOTFE}
+
+= GNU Privacy Guard
+{parent=Cryptographic software}
+{wiki=GNU_Privacy_Guard}
+
+= GNU fcrypt
+{parent=Cryptographic software}
+{wiki=GNU_fcrypt}
+
+= GPG Mail
+{parent=Cryptographic software}
+{wiki=GPG_Mail}
+
+= GnoMint
+{parent=Cryptographic software}
+{wiki=GnoMint}
+
+= GnuTLS
+{parent=Cryptographic software}
+{wiki=GnuTLS}
+
+= Gpg4win
+{parent=Cryptographic software}
+{wiki=Gpg4win}
+
+= Guardian Project (software)
+{parent=Cryptographic software}
+{wiki=Guardian_Project_(software)}
+
+= HElib
+{parent=Cryptographic software}
+{wiki=HElib}
+
+= Hushmail
+{parent=Cryptographic software}
+{wiki=Hushmail}
+
+= I.CX
+{parent=Cryptographic software}
+{wiki=I.CX}
+
+= IAIK-JCE
+{parent=Cryptographic software}
+{wiki=IAIK-JCE}
+
+= Java Anon Proxy
+{parent=Cryptographic software}
+{wiki=Java_Anon_Proxy}
+
+= Java Cryptography Architecture
+{parent=Cryptographic software}
+{wiki=Java_Cryptography_Architecture}
+
+= KAME project
+{parent=Cryptographic software}
+{wiki=KAME_project}
+
+= KeePass
+{parent=Cryptographic software}
+{wiki=KeePass}
+
+= KeeWeb
+{parent=Cryptographic software}
+{wiki=KeeWeb}
+
+= Keygen
+{parent=Cryptographic software}
+{wiki=Keygen}
+
+= L3cos
+{parent=Cryptographic software}
+{wiki=L3cos}
+
+= LastPass
+{parent=Cryptographic software}
+{wiki=LastPass}
+
+= Libdvdcss
+{parent=Cryptographic software}
+{wiki=Libdvdcss}
+
+= Libgcrypt
+{parent=Cryptographic software}
+{wiki=Libgcrypt}
+
+= LibreSSL
+{parent=Cryptographic software}
+{wiki=LibreSSL}
+
+= Linux Unified Key Setup
+{parent=Cryptographic software}
+{wiki=Linux_Unified_Key_Setup}
+
+= Mailfence
+{parent=Cryptographic software}
+{wiki=Mailfence}
+
+= Mailvelope
+{parent=Cryptographic software}
+{wiki=Mailvelope}
+
+= MatrixSSL
+{parent=Cryptographic software}
+{wiki=MatrixSSL}
+
+= Mbed TLS
+{parent=Cryptographic software}
+{wiki=Mbed_TLS}
+
+= McAfee Change Control
+{parent=Cryptographic software}
+{wiki=McAfee_Change_Control}
+
+= Mcrypt
+{parent=Cryptographic software}
+{wiki=Mcrypt}
+
+= Microsoft Autofill
+{parent=Cryptographic software}
+{wiki=Microsoft_Autofill}
+
+= Microsoft CryptoAPI
+{parent=Cryptographic software}
+{wiki=Microsoft_CryptoAPI}
+
+= Microsoft SEAL
+{parent=Cryptographic software}
+{wiki=Microsoft_SEAL}
+
+= Mitro
+{parent=Cryptographic software}
+{wiki=Mitro}
+
+= Mod openpgp
+{parent=Cryptographic software}
+{wiki=Mod_openpgp}
+
+= Mujahedeen Secrets
+{parent=Cryptographic software}
+{wiki=Mujahedeen_Secrets}
+
+= NaCl (software)
+{parent=Cryptographic software}
+{wiki=NaCl_(software)}
+
+= Nautilus (secure telephone)
+{parent=Cryptographic software}
+{wiki=Nautilus_(secure_telephone)}
+
+= Netpgp
+{parent=Cryptographic software}
+{wiki=Netpgp}
+
+= Nettle (cryptographic library)
+{parent=Cryptographic software}
+{wiki=Nettle_(cryptographic_library)}
+
+= Network Security Services
+{parent=Cryptographic software}
+{wiki=Network_Security_Services}
+
+= Next-Generation Secure Computing Base
+{parent=Cryptographic software}
+{wiki=Next-Generation_Secure_Computing_Base}
+
+= NordLocker
+{parent=Cryptographic software}
+{wiki=NordLocker}
+
+= OTPW
+{parent=Cryptographic software}
+{wiki=OTPW}
+
+= Offer Assistant
+{parent=Cryptographic software}
+{wiki=Offer_Assistant}
+
+= OpenBSD
+{parent=Cryptographic software}
+{wiki=OpenBSD}
+
+= OpenFHE
+{parent=Cryptographic software}
+{wiki=OpenFHE}
+
+= OpenKeychain
+{parent=Cryptographic software}
+{wiki=OpenKeychain}
+
+= OpenSSH
+{parent=Cryptographic software}
+{wiki=OpenSSH}
+
+= OpenSSL
+{parent=Cryptographic software}
+{wiki=OpenSSL}
+
+= OpenXPKI
+{parent=Cryptographic software}
+{wiki=OpenXPKI}
+
+= Opportunistic encryption
+{parent=Cryptographic software}
+{wiki=Opportunistic_encryption}
+
+= PALISADE (software)
+{parent=Cryptographic software}
+{wiki=PALISADE_(software)}
+
+= PGPDisk
+{parent=Cryptographic software}
+{wiki=PGPDisk}
+
+= PGPfone
+{parent=Cryptographic software}
+{wiki=PGPfone}
+
+= Password Safe
+{parent=Cryptographic software}
+{wiki=Password_Safe}
+
+= Peerio
+{parent=Cryptographic software}
+{wiki=Peerio}
+
+= Phoner
+{parent=Cryptographic software}
+{wiki=Phoner}
+
+= Pleasant Password Server
+{parent=Cryptographic software}
+{wiki=Pleasant_Password_Server}
+
+= Pretty Easy privacy
+{parent=Cryptographic software}
+{wiki=Pretty_Easy_privacy}
+
+= Pretty Good Privacy
+{parent=Cryptographic software}
+{wiki=Pretty_Good_Privacy}
+
+= Private Disk
+{parent=Cryptographic software}
+{wiki=Private_Disk}
+
+= ProVerif
+{parent=Cryptographic software}
+{wiki=ProVerif}
+
+= Proton Mail
+{parent=Cryptographic software}
+{wiki=Proton_Mail}
+
+= PuTTY
+{parent=Cryptographic software}
+{wiki=PuTTY}
+
+= Rclone
+{parent=Cryptographic software}
+{wiki=Rclone}
+
+= Retroshare
+{parent=Cryptographic software}
+{wiki=Retroshare}
+
+= Rubberhose (file system)
+{parent=Cryptographic software}
+{wiki=Rubberhose_(file_system)}
+
+= S/KEY
+{parent=Cryptographic software}
+{wiki=S/KEY}
+
+= S2n
+{parent=Cryptographic software}
+{wiki=S2n}
+
+= SSLeay
+{parent=Cryptographic software}
+{wiki=SSLeay}
+
+= Scramdisk
+{parent=Cryptographic software}
+{wiki=Scramdisk}
+
+= SecureCRT
+{parent=Cryptographic software}
+{wiki=SecureCRT}
+
+= Sentry 2020
+{parent=Cryptographic software}
+{wiki=Sentry_2020}
+
+= Session (software)
+{parent=Cryptographic software}
+{wiki=Session_(software)}
+
+= Sha1sum
+{parent=Cryptographic software}
+{wiki=Sha1sum}
+
+= Signal (software)
+{parent=Cryptographic software}
+{wiki=Signal_(software)}
+
+= Silent Circle (software)
+{parent=Cryptographic software}
+{wiki=Silent_Circle_(software)}
+
+= Ssh-agent
+{parent=Cryptographic software}
+{wiki=Ssh-agent}
+
+= StrongSwan
+{parent=Cryptographic software}
+{wiki=StrongSwan}
+
+= Stunnel
+{parent=Cryptographic software}
+{wiki=Stunnel}
+
+= Syndie
+{parent=Cryptographic software}
+{wiki=Syndie}
+
+= Syskey
+{parent=Cryptographic software}
+{wiki=Syskey}
+
+= Tamarin Prover
+{parent=Cryptographic software}
+{wiki=Tamarin_Prover}
+
+= Teamwire
+{parent=Cryptographic software}
+{wiki=Teamwire}
+
+= Tera Term
+{parent=Cryptographic software}
+{wiki=Tera_Term}
+
+= TextSecure
+{parent=Cryptographic software}
+{wiki=TextSecure}
+
+= Threema
+{parent=Cryptographic software}
+{wiki=Threema}
+
+= Tinfoil Hat Linux
+{parent=Cryptographic software}
+{wiki=Tinfoil_Hat_Linux}
+
+= Tresorit
+{parent=Cryptographic software}
+{wiki=Tresorit}
+
+= TrueCrypt
+{parent=Cryptographic software}
+{wiki=TrueCrypt}
+
+= TrueCrypt version history
+{parent=Cryptographic software}
+{wiki=TrueCrypt_version_history}
+
+= TtyEmulator
+{parent=Cryptographic software}
+{wiki=TtyEmulator}
+
+= Twinkle (software)
+{parent=Cryptographic software}
+{wiki=Twinkle_(software)}
+
+= United States v. Stumbo
+{parent=Cryptographic software}
+{wiki=United_States_v._Stumbo}
+
+= VeraCrypt
+{parent=Cryptographic software}
+{wiki=VeraCrypt}
+
+= Whisper Systems
+{parent=Cryptographic software}
+{wiki=Whisper_Systems}
+
+= WinPT
+{parent=Cryptographic software}
+{wiki=WinPT}
+
+= WinSCP
+{parent=Cryptographic software}
+{wiki=WinSCP}
+
+= Wire (software)
+{parent=Cryptographic software}
+{wiki=Wire_(software)}
+
+= WolfSSH
+{parent=Cryptographic software}
+{wiki=WolfSSH}
+
+= WolfSSL
+{parent=Cryptographic software}
+{wiki=WolfSSL}
+
+= Xx messenger
+{parent=Cryptographic software}
+{wiki=Xx_messenger}
+
+= Zfone
+{parent=Cryptographic software}
+{wiki=Zfone}
+
+= Cryptography contests
+{parent=Cryptography}
+{wiki=Category:Cryptography_contests}
+
+= Advanced Encryption Standard process
+{parent=Cryptography contests}
+{wiki=Advanced_Encryption_Standard_process}
+
+= CAESAR Competition
+{parent=Cryptography contests}
+{wiki=CAESAR_Competition}
+
+= DESCHALL Project
+{parent=Cryptography contests}
+{wiki=DESCHALL_Project}
+
+= DES Challenges
+{parent=Cryptography contests}
+{wiki=DES_Challenges}
+
+= ESTREAM
+{parent=Cryptography contests}
+{wiki=ESTREAM}
+
+= LCS35
+{parent=Cryptography contests}
+{wiki=LCS35}
+
+= NESSIE
+{parent=Cryptography contests}
+{wiki=NESSIE}
+
+= NIST Post-Quantum Cryptography Standardization
+{parent=Cryptography contests}
+{wiki=NIST_Post-Quantum_Cryptography_Standardization}
+
+= NIST hash function competition
+{parent=Cryptography contests}
+{wiki=NIST_hash_function_competition}
+
+= National Cipher Challenge
+{parent=Cryptography contests}
+{wiki=National_Cipher_Challenge}
+
+= Password Hashing Competition
+{parent=Cryptography contests}
+{wiki=Password_Hashing_Competition}
+
+= RSA Factoring Challenge
+{parent=Cryptography contests}
+{wiki=RSA_Factoring_Challenge}
+
+= RSA Secret-Key Challenge
+{parent=Cryptography contests}
+{wiki=RSA_Secret-Key_Challenge}
+
+= Cryptography law
+{parent=Cryptography}
+{wiki=Cryptography_law}
+
+= Cryptography case law
+{parent=Cryptography law}
+{wiki=Category:Cryptography_case_law}
+
+= Encryption debate
+{parent=Cryptography law}
+{wiki=Category:Encryption_debate}
+
+= Export and import control of cryptography
+{parent=Cryptography law}
+{wiki=Category:Export_and_import_control_of_cryptography}
+
+= AACS encryption key controversy
+{parent=Cryptography law}
+{wiki=AACS_encryption_key_controversy}
+
+= Anti–computer forensics
+{parent=Cryptography law}
+{wiki=Anti–computer_forensics}
+
+= DeCSS
+{parent=Cryptography law}
+{wiki=DeCSS}
+
+= ECC patents
+{parent=Cryptography law}
+{wiki=ECC_patents}
+
+= Electronic Communications Act 2000
+{parent=Cryptography law}
+{wiki=Electronic_Communications_Act_2000}
+
+= Electronic Signatures in Global and National Commerce Act
+{parent=Cryptography law}
+{wiki=Electronic_Signatures_in_Global_and_National_Commerce_Act}
+
+= Electronic signatures and law
+{parent=Cryptography law}
+{wiki=Electronic_signatures_and_law}
+
+= Government Paperwork Elimination Act
+{parent=Cryptography law}
+{wiki=Government_Paperwork_Elimination_Act}
+
+= Illegal number
+{parent=Cryptography law}
+{wiki=Illegal_number}
+
+= Key disclosure law
+{parent=Cryptography law}
+{wiki=Key_disclosure_law}
+
+= Penet remailer
+{parent=Cryptography law}
+{wiki=Penet_remailer}
+
+= Peter Junger
+{parent=Cryptography law}
+{wiki=Peter_Junger}
+
+= Qrpff
+{parent=Cryptography law}
+{wiki=Qrpff}
+
+= Regulation of Investigatory Powers Act 2000
+{parent=Cryptography law}
+{wiki=Regulation_of_Investigatory_Powers_Act_2000}
+
+= Texas Instruments signing key controversy
+{parent=Cryptography law}
+{wiki=Texas_Instruments_signing_key_controversy}
+
+= Cryptography lists and comparisons
+{parent=Cryptography}
+{wiki=Category:Cryptography_lists_and_comparisons}
+
+= Books on cryptography
+{parent=Cryptography lists and comparisons}
+{wiki=Books_on_cryptography}
+
+= Cipher security summary
+{parent=Cryptography lists and comparisons}
+{wiki=Cipher_security_summary}
+
+= Comparison of cryptography libraries
+{parent=Cryptography lists and comparisons}
+{wiki=Comparison_of_cryptography_libraries}
+
+= Glossary of cryptographic keys
+{parent=Cryptography lists and comparisons}
+{wiki=Glossary_of_cryptographic_keys}
+
+= Hash function security summary
+{parent=Cryptography lists and comparisons}
+{wiki=Hash_function_security_summary}
+
+= Index of cryptography articles
+{parent=Cryptography lists and comparisons}
+{wiki=Index_of_cryptography_articles}
+
+= List of applications using PKCS 11
+{parent=Cryptography lists and comparisons}
+{wiki=List_of_applications_using_PKCS_11}
+
+= List of ciphertexts
+{parent=Cryptography lists and comparisons}
+{wiki=List_of_ciphertexts}
+
+= List of cryptographic file systems
+{parent=Cryptography lists and comparisons}
+{wiki=List_of_cryptographic_file_systems}
+
+= List of telecommunications encryption terms
+{parent=Cryptography lists and comparisons}
+{wiki=List_of_telecommunications_encryption_terms}
+
+= Outline of cryptography
+{parent=Cryptography lists and comparisons}
+{wiki=Outline_of_cryptography}
+
+= Timeline of cryptography
+{parent=Cryptography lists and comparisons}
+{wiki=Timeline_of_cryptography}
+
+= Cryptography organizations
+{parent=Cryptography}
+{wiki=Category:Cryptography_organizations}
+
+= Certificate authorities
+{parent=Cryptography organizations}
+{wiki=Certificate_authorities}
+
+= Cryptography companies
+{parent=Cryptography organizations}
+{wiki=Category:Cryptography_companies}
+
+= Cryptography conferences
+{parent=Cryptography organizations}
+{wiki=Category:Cryptography_conferences}
+
+= Cypherpunks
+{parent=Cryptography organizations}
+{wiki=Cypherpunks}
+
+= National Security Agency
+{parent=Cryptography organizations}
+{wiki=National_Security_Agency}
+
+= National cyber security centres
+{parent=Cryptography organizations}
+{wiki=Category:National_cyber_security_centres}
+
+= United States Army Signals Intelligence Service
+{parent=Cryptography organizations}
+{wiki=Category:United_States_Army_Signals_Intelligence_Service}
+
+= Abhorchdienst
+{parent=Cryptography organizations}
+{wiki=Abhorchdienst}
+
+= American Cryptogram Association
+{parent=Cryptography organizations}
+{wiki=American_Cryptogram_Association}
+
+= Arlington Hall
+{parent=Cryptography organizations}
+{wiki=Arlington_Hall}
+
+= Australian Cyber Security Centre
+{parent=Cryptography organizations}
+{wiki=Australian_Cyber_Security_Centre}
+
+= Australian Signals Directorate
+{parent=Cryptography organizations}
+{wiki=Australian_Signals_Directorate}
+
+= B-Dienst
+{parent=Cryptography organizations}
+{wiki=B-Dienst}
+
+= Black Chamber
+{parent=Cryptography organizations}
+{wiki=Black_Chamber}
+
+= Bletchley Park
+{parent=Cryptography organizations}
+{wiki=Bletchley_Park}
+
+= CAcert.org
+{parent=Cryptography organizations}
+{wiki=CAcert.org}
+
+= COSIC
+{parent=Cryptography organizations}
+{wiki=COSIC}
+
+= Central Security Service
+{parent=Cryptography organizations}
+{wiki=Central_Security_Service}
+
+= Centre for Applied Cryptographic Research
+{parent=Cryptography organizations}
+{wiki=Centre_for_Applied_Cryptographic_Research}
+
+= Centre for Cybersecurity & Cybercrime Investigation
+{parent=Cryptography organizations}
+{wiki=Centre_for_Cybersecurity_&_Cybercrime_Investigation}
+
+= Cipher Bureau (Poland)
+{parent=Cryptography organizations}
+{wiki=Cipher_Bureau_(Poland)}
+
+= Cipher Department of the High Command of the Luftwaffe
+{parent=Cryptography organizations}
+{wiki=Cipher_Department_of_the_High_Command_of_the_Luftwaffe}
+
+= Cipher Department of the High Command of the Wehrmacht
+{parent=Cryptography organizations}
+{wiki=Cipher_Department_of_the_High_Command_of_the_Wehrmacht}
+
+= Communications & Information Services Corps
+{parent=Cryptography organizations}
+{wiki=Communications_&_Information_Services_Corps}
+
+= Communications Security Establishment
+{parent=Cryptography organizations}
+{wiki=Communications_Security_Establishment}
+
+= Cryptology Research Society of India
+{parent=Cryptography organizations}
+{wiki=Cryptology_Research_Society_of_India}
+
+= Diplomatic Wireless Service
+{parent=Cryptography organizations}
+{wiki=Diplomatic_Wireless_Service}
+
+= Dundee Society
+{parent=Cryptography organizations}
+{wiki=Dundee_Society}
+
+= ECRYPT
+{parent=Cryptography organizations}
+{wiki=ECRYPT}
+
+= FAPSI
+{parent=Cryptography organizations}
+{wiki=FAPSI}
+
+= Far East Combined Bureau
+{parent=Cryptography organizations}
+{wiki=Far_East_Combined_Bureau}
+
+= Finnish Defence Intelligence Agency
+{parent=Cryptography organizations}
+{wiki=Finnish_Defence_Intelligence_Agency}
+
+= Fleet Radio Unit
+{parent=Cryptography organizations}
+{wiki=Fleet_Radio_Unit}
+
+= Fleet Radio Unit, Melbourne
+{parent=Cryptography organizations}
+{wiki=Fleet_Radio_Unit,_Melbourne}
+
+= GCHQ
+{parent=Cryptography organizations}
+{wiki=GCHQ}
+
+= GCHQ Bude
+{parent=Cryptography organizations}
+{wiki=GCHQ_Bude}
+
+= General der Nachrichtenaufklärung
+{parent=Cryptography organizations}
+{wiki=General_der_Nachrichtenaufklärung}
+
+= General der Nachrichtenaufklärung Training Referat
+{parent=Cryptography organizations}
+{wiki=General_der_Nachrichtenaufklärung_Training_Referat}
+
+= HM Government Communications Centre
+{parent=Cryptography organizations}
+{wiki=HM_Government_Communications_Centre}
+
+= Hut 3
+{parent=Cryptography organizations}
+{wiki=Hut_3}
+
+= Hut 4
+{parent=Cryptography organizations}
+{wiki=Hut_4}
+
+= Hut 6
+{parent=Cryptography organizations}
+{wiki=Hut_6}
+
+= Hut 7
+{parent=Cryptography organizations}
+{wiki=Hut_7}
+
+= Hut 8
+{parent=Cryptography organizations}
+{wiki=Hut_8}
+
+= International Association for Cryptologic Research
+{parent=Cryptography organizations}
+{wiki=International_Association_for_Cryptologic_Research}
+
+= Luftnachrichten Abteilung 350
+{parent=Cryptography organizations}
+{wiki=Luftnachrichten_Abteilung_350}
+
+= MI1
+{parent=Cryptography organizations}
+{wiki=MI1}
+
+= MI8
+{parent=Cryptography organizations}
+{wiki=MI8}
+
+= Military Intelligence Service (United States)
+{parent=Cryptography organizations}
+{wiki=Military_Intelligence_Service_(United_States)}
+
+= National Cryptologic Museum
+{parent=Cryptography organizations}
+{wiki=National_Cryptologic_Museum}
+
+= National Cyber Security Centre (Ireland)
+{parent=Cryptography organizations}
+{wiki=National_Cyber_Security_Centre_(Ireland)}
+
+= National Defence Radio Establishment
+{parent=Cryptography organizations}
+{wiki=National_Defence_Radio_Establishment}
+
+= National Institute of Standards and Technology
+{parent=Cryptography organizations}
+{wiki=National_Institute_of_Standards_and_Technology}
+
+= National Vigilance Park
+{parent=Cryptography organizations}
+{wiki=National_Vigilance_Park}
+
+= Naval Security Group
+{parent=Cryptography organizations}
+{wiki=Naval_Security_Group}
+
+= OP-20-G
+{parent=Cryptography organizations}
+{wiki=OP-20-G}
+
+= On the roof gang
+{parent=Cryptography organizations}
+{wiki=On_the_roof_gang}
+
+= Operation Stella Polaris
+{parent=Cryptography organizations}
+{wiki=Operation_Stella_Polaris}
+
+= PC Bruno
+{parent=Cryptography organizations}
+{wiki=PC_Bruno}
+
+= Pers Z S
+{parent=Cryptography organizations}
+{wiki=Pers_Z_S}
+
+= RSA Security
+{parent=Cryptography organizations}
+{wiki=RSA_Security}
+
+= Radio Battalion
+{parent=Cryptography organizations}
+{wiki=Radio_Battalion}
+
+= Radio Reconnaissance Platoon
+{parent=Cryptography organizations}
+{wiki=Radio_Reconnaissance_Platoon}
+
+= Research Office of the Reich Air Ministry
+{parent=Cryptography organizations}
+{wiki=Research_Office_of_the_Reich_Air_Ministry}
+
+= Ritchie Boys
+{parent=Cryptography organizations}
+{wiki=Ritchie_Boys}
+
+= Room 40
+{parent=Cryptography organizations}
+{wiki=Room_40}
+
+= SECG
+{parent=Cryptography organizations}
+{wiki=SECG}
+
+= Secure Communication based on Quantum Cryptography
+{parent=Cryptography organizations}
+{wiki=Secure_Communication_based_on_Quantum_Cryptography}
+
+= Signal Intelligence Service
+{parent=Cryptography organizations}
+{wiki=Signal_Intelligence_Service}
+
+= Special Communications Service of Russia
+{parent=Cryptography organizations}
+{wiki=Special_Communications_Service_of_Russia}
+
+= Station CAST
+{parent=Cryptography organizations}
+{wiki=Station_CAST}
+
+= Station HYPO
+{parent=Cryptography organizations}
+{wiki=Station_HYPO}
+
+= United States Coast Guard Unit 387 Cryptanalysis Unit
+{parent=Cryptography organizations}
+{wiki=United_States_Coast_Guard_Unit_387_Cryptanalysis_Unit}
+
+= Wireless Experimental Centre
+{parent=Cryptography organizations}
+{wiki=Wireless_Experimental_Centre}
+
+= Women in Bletchley Park
+{parent=Cryptography organizations}
+{wiki=Women_in_Bletchley_Park}
+
+= Y service
+{parent=Cryptography organizations}
+{wiki=Y_service}
+
+= Cryptography publications
+{parent=Cryptography}
+{wiki=Category:Cryptography_publications}
+
+= Cryptography books
+{parent=Cryptography publications}
+{wiki=Category:Cryptography_books}
+
+= Cryptography in fiction
+{parent=Cryptography publications}
+{wiki=Category:Cryptography_in_fiction}
+
+= Cryptography journals
+{parent=Cryptography publications}
+{wiki=Category:Cryptography_journals}
+
+= Communication Theory of Secrecy Systems
+{parent=Cryptography publications}
+{wiki=Communication_Theory_of_Secrecy_Systems}
+
+= Encyclopedia of Cryptography and Security
+{parent=Cryptography publications}
+{wiki=Encyclopedia_of_Cryptography_and_Security}
+
+= National Information Assurance Glossary
+{parent=Cryptography publications}
+{wiki=National_Information_Assurance_Glossary}
+
+= National Security Agency academic publications
+{parent=Cryptography publications}
+{wiki=National_Security_Agency_academic_publications}
+
+= Walsh Report (cryptography)
+{parent=Cryptography publications}
+{wiki=Walsh_Report_(cryptography)}
+
+= Cryptography standards
+{parent=Cryptography}
+{wiki=Cryptography_standards}
+
+= Digital rights management standards
+{parent=Cryptography standards}
+{wiki=Category:Digital_rights_management_standards}
+
+= ABA digital signature guidelines
+{parent=Cryptography standards}
+{wiki=ABA_digital_signature_guidelines}
+
+= Advanced electronic signature
+{parent=Cryptography standards}
+{wiki=Advanced_electronic_signature}
+
+= Associated Signature Containers
+{parent=Cryptography standards}
+{wiki=Associated_Signature_Containers}
+
+= CAdES (computing)
+{parent=Cryptography standards}
+{wiki=CAdES_(computing)}
+
+= CRYPTREC
+{parent=Cryptography standards}
+{wiki=CRYPTREC}
+
+= Canonical XML
+{parent=Cryptography standards}
+{wiki=Canonical_XML}
+
+= Certificate signing request
+{parent=Cryptography standards}
+{wiki=Certificate_signing_request}
+
+= Commercial National Security Algorithm Suite
+{parent=Cryptography standards}
+{wiki=Commercial_National_Security_Algorithm_Suite}
+
+= Cryptographic Module Validation Program
+{parent=Cryptography standards}
+{wiki=Cryptographic_Module_Validation_Program}
+
+= DigiDoc
+{parent=Cryptography standards}
+{wiki=DigiDoc}
+
+= EIDAS
+{parent=Cryptography standards}
+{wiki=EIDAS}
+
+= European Information Technologies Certification
+{parent=Cryptography standards}
+{wiki=European_Information_Technologies_Certification}
+
+= European Information Technologies Certification Academy
+{parent=Cryptography standards}
+{wiki=European_Information_Technologies_Certification_Academy}
+
+= FIPS 140
+{parent=Cryptography standards}
+{wiki=FIPS_140}
+
+= FIPS 140-2
+{parent=Cryptography standards}
+{wiki=FIPS_140-2}
+
+= FIPS 140-3
+{parent=Cryptography standards}
+{wiki=FIPS_140-3}
+
+= H.234
+{parent=Cryptography standards}
+{wiki=H.234}
+
+= IEEE 802.1AE
+{parent=Cryptography standards}
+{wiki=IEEE_802.1AE}
+
+= IEEE P1363
+{parent=Cryptography standards}
+{wiki=IEEE_P1363}
+
+= IEEE P1619
+{parent=Cryptography standards}
+{wiki=IEEE_P1619}
+
+= ISO/IEC 18014
+{parent=Cryptography standards}
+{wiki=ISO/IEC_18014}
+
+= ISO 19092-2
+{parent=Cryptography standards}
+{wiki=ISO_19092-2}
+
+= NSA Suite A Cryptography
+{parent=Cryptography standards}
+{wiki=NSA_Suite_A_Cryptography}
+
+= NSA Suite B Cryptography
+{parent=Cryptography standards}
+{wiki=NSA_Suite_B_Cryptography}
+
+= P-384
+{parent=Cryptography standards}
+{wiki=P-384}
+
+= PAdES
+{parent=Cryptography standards}
+{wiki=PAdES}
+
+= PBKDF2
+{parent=Cryptography standards}
+{wiki=PBKDF2}
+
+= PKCS
+{parent=Cryptography standards}
+{wiki=PKCS}
+
+= PKCS 1
+{parent=Cryptography standards}
+{wiki=PKCS_1}
+
+= PKCS 11
+{parent=Cryptography standards}
+{wiki=PKCS_11}
+
+= PKCS 12
+{parent=Cryptography standards}
+{wiki=PKCS_12}
+
+= PKCS 7
+{parent=Cryptography standards}
+{wiki=PKCS_7}
+
+= PKCS 8
+{parent=Cryptography standards}
+{wiki=PKCS_8}
+
+= Qualified digital certificate
+{parent=Cryptography standards}
+{wiki=Qualified_digital_certificate}
+
+= Qualified electronic signature
+{parent=Cryptography standards}
+{wiki=Qualified_electronic_signature}
+
+= Qualified website authentication certificate
+{parent=Cryptography standards}
+{wiki=Qualified_website_authentication_certificate}
+
+= SM9 (cryptography standard)
+{parent=Cryptography standards}
+{wiki=SM9_(cryptography_standard)}
+
+= Secure signature creation device
+{parent=Cryptography standards}
+{wiki=Secure_signature_creation_device}
+
+= Trust service provider
+{parent=Cryptography standards}
+{wiki=Trust_service_provider}
+
+= Trusted Data Format
+{parent=Cryptography standards}
+{wiki=Trusted_Data_Format}
+
+= Web Cryptography API
+{parent=Cryptography standards}
+{wiki=Web_Cryptography_API}
+
+= XAdES
+{parent=Cryptography standards}
+{wiki=XAdES}
+
+= XML Encryption
+{parent=Cryptography standards}
+{wiki=XML_Encryption}
+
+= XML Signature
+{parent=Cryptography standards}
+{wiki=XML_Signature}
+
+= ZertES
+{parent=Cryptography standards}
+{wiki=ZertES}
+
+= Cryptography stubs
+{parent=Cryptography}
+{wiki=Category:Cryptography_stubs}
+
+= A-1 (code)
+{parent=Cryptography stubs}
+{wiki=A-1_(code)}
+
+= ABC (stream cipher)
+{parent=Cryptography stubs}
+{wiki=ABC_(stream_cipher)}
+
+= ANDVT
+{parent=Cryptography stubs}
+{wiki=ANDVT}
+
+= Access structure
+{parent=Cryptography stubs}
+{wiki=Access_structure}
+
+= Acme Commodity and Phrase Code
+{parent=Cryptography stubs}
+{wiki=Acme_Commodity_and_Phrase_Code}
+
+= Adiantum (cipher)
+{parent=Cryptography stubs}
+{wiki=Adiantum_(cipher)}
+
+= Ascon (cipher)
+{parent=Cryptography stubs}
+{wiki=Ascon_(cipher)}
+
+= Audrey Ruth Briggs
+{parent=Cryptography stubs}
+{wiki=Audrey_Ruth_Briggs}
+
+= BEAR and LION ciphers
+{parent=Cryptography stubs}
+{wiki=BEAR_and_LION_ciphers}
+
+= BID 150
+{parent=Cryptography stubs}
+{wiki=BID_150}
+
+= Bar mitzvah attack
+{parent=Cryptography stubs}
+{wiki=Bar_mitzvah_attack}
+
+= Blum–Micali algorithm
+{parent=Cryptography stubs}
+{wiki=Blum–Micali_algorithm}
+
+= Brute Force: Cracking the Data Encryption Standard
+{parent=Cryptography stubs}
+{wiki=Brute_Force:_Cracking_the_Data_Encryption_Standard}
+
+= CAST-256
+{parent=Cryptography stubs}
+{wiki=CAST-256}
+
+= CIKS-1
+{parent=Cryptography stubs}
+{wiki=CIKS-1}
+
+= CJCSG
+{parent=Cryptography stubs}
+{wiki=CJCSG}
+
+= CLEFIA
+{parent=Cryptography stubs}
+{wiki=CLEFIA}
+
+= CRYPTON
+{parent=Cryptography stubs}
+{wiki=CRYPTON}
+
+= CS-Cipher
+{parent=Cryptography stubs}
+{wiki=CS-Cipher}
+
+= CWC mode
+{parent=Cryptography stubs}
+{wiki=CWC_mode}
+
+= Capstone (cryptography)
+{parent=Cryptography stubs}
+{wiki=Capstone_(cryptography)}
+
+= Card Verifiable Certificate
+{parent=Cryptography stubs}
+{wiki=Card_Verifiable_Certificate}
+
+= Certification on demand
+{parent=Cryptography stubs}
+{wiki=Certification_on_demand}
+
+= Chaos communications
+{parent=Cryptography stubs}
+{wiki=Chaos_communications}
+
+= Chaos machine
+{parent=Cryptography stubs}
+{wiki=Chaos_machine}
+
+= Ciphr
+{parent=Cryptography stubs}
+{wiki=Ciphr}
+
+= Client certificate
+{parent=Cryptography stubs}
+{wiki=Client_certificate}
+
+= Common reference string model
+{parent=Cryptography stubs}
+{wiki=Common_reference_string_model}
+
+= Communications Machine
+{parent=Cryptography stubs}
+{wiki=Communications_Machine}
+
+= Concrete security
+{parent=Cryptography stubs}
+{wiki=Concrete_security}
+
+= Controlled Cryptographic Item
+{parent=Cryptography stubs}
+{wiki=Controlled_Cryptographic_Item}
+
+= Crab (cipher)
+{parent=Cryptography stubs}
+{wiki=Crab_(cipher)}
+
+= CryptMT
+{parent=Cryptography stubs}
+{wiki=CryptMT}
+
+= Crypto-1
+{parent=Cryptography stubs}
+{wiki=Crypto-1}
+
+= Crypto (book)
+{parent=Cryptography stubs}
+{wiki=Crypto_(book)}
+
+= Crypto Leaks
+{parent=Cryptography stubs}
+{wiki=Crypto_Leaks}
+
+= Cryptographic Quarterly
+{parent=Cryptography stubs}
+{wiki=Cryptographic_Quarterly}
+
+= Cryptographic log on
+{parent=Cryptography stubs}
+{wiki=Cryptographic_log_on}
+
+= Cryptographie indéchiffrable
+{parent=Cryptography stubs}
+{wiki=Cryptographie_indéchiffrable}
+
+= Cryptography Research
+{parent=Cryptography stubs}
+{wiki=Cryptography_Research}
+
+= Cryptography newsgroups
+{parent=Cryptography stubs}
+{wiki=Cryptography_newsgroups}
+
+= Cryptologia
+{parent=Cryptography stubs}
+{wiki=Cryptologia}
+
+= Cryptology ePrint Archive
+{parent=Cryptography stubs}
+{wiki=Cryptology_ePrint_Archive}
+
+= Cryptomenysis Patefacta
+{parent=Cryptography stubs}
+{wiki=Cryptomenysis_Patefacta}
+
+= Cryptoperiod
+{parent=Cryptography stubs}
+{wiki=Cryptoperiod}
+
+= DEAL
+{parent=Cryptography stubs}
+{wiki=DEAL}
+
+= DECIM
+{parent=Cryptography stubs}
+{wiki=DECIM}
+
+= DICING
+{parent=Cryptography stubs}
+{wiki=DICING}
+
+= Data Authentication Algorithm
+{parent=Cryptography stubs}
+{wiki=Data_Authentication_Algorithm}
+
+= Decorrelation theory
+{parent=Cryptography stubs}
+{wiki=Decorrelation_theory}
+
+= Detached signature
+{parent=Cryptography stubs}
+{wiki=Detached_signature}
+
+= Differential fault analysis
+{parent=Cryptography stubs}
+{wiki=Differential_fault_analysis}
+
+= Digital Signature Standard
+{parent=Cryptography stubs}
+{wiki=Digital_Signature_Standard}
+
+= Digital signature forgery
+{parent=Cryptography stubs}
+{wiki=Digital_signature_forgery}
+
+= Distribution ensemble
+{parent=Cryptography stubs}
+{wiki=Distribution_ensemble}
+
+= Doug Stinson
+{parent=Cryptography stubs}
+{wiki=Doug_Stinson}
+
+= Dragon (cipher)
+{parent=Cryptography stubs}
+{wiki=Dragon_(cipher)}
+
+= Dusting attack
+{parent=Cryptography stubs}
+{wiki=Dusting_attack}
+
+= Dynamic secrets
+{parent=Cryptography stubs}
+{wiki=Dynamic_secrets}
+
+= EnRUPT
+{parent=Cryptography stubs}
+{wiki=EnRUPT}
+
+= Ephemeral key
+{parent=Cryptography stubs}
+{wiki=Ephemeral_key}
+
+= EuroCrypt
+{parent=Cryptography stubs}
+{wiki=EuroCrypt}
+
+= Even code
+{parent=Cryptography stubs}
+{wiki=Even_code}
+
+= Export of cryptography
+{parent=Cryptography stubs}
+{wiki=Export_of_cryptography}
+
+= Extendable-output function
+{parent=Cryptography stubs}
+{wiki=Extendable-output_function}
+
+= F-FCSR
+{parent=Cryptography stubs}
+{wiki=F-FCSR}
+
+= FASCINATOR
+{parent=Cryptography stubs}
+{wiki=FASCINATOR}
+
+= FEA-M
+{parent=Cryptography stubs}
+{wiki=FEA-M}
+
+= FISH (cipher)
+{parent=Cryptography stubs}
+{wiki=FISH_(cipher)}
+
+= FORK-256
+{parent=Cryptography stubs}
+{wiki=FORK-256}
+
+= Falcon (signature scheme)
+{parent=Cryptography stubs}
+{wiki=Falcon_(signature_scheme)}
+
+= Frogbit (cipher)
+{parent=Cryptography stubs}
+{wiki=Frogbit_(cipher)}
+
+= Full Domain Hash
+{parent=Cryptography stubs}
+{wiki=Full_Domain_Hash}
+
+= GBDE
+{parent=Cryptography stubs}
+{wiki=GBDE}
+
+= GGH signature scheme
+{parent=Cryptography stubs}
+{wiki=GGH_signature_scheme}
+
+= Geli (software)
+{parent=Cryptography stubs}
+{wiki=Geli_(software)}
+
+= Generic group model
+{parent=Cryptography stubs}
+{wiki=Generic_group_model}
+
+= Group-based cryptography
+{parent=Cryptography stubs}
+{wiki=Group-based_cryptography}
+
+= Grøstl
+{parent=Cryptography stubs}
+{wiki=Grøstl}
+
+= HAIFA construction
+{parent=Cryptography stubs}
+{wiki=HAIFA_construction}
+
+= HAS-160
+{parent=Cryptography stubs}
+{wiki=HAS-160}
+
+= HAS-V
+{parent=Cryptography stubs}
+{wiki=HAS-V}
+
+= HAVAL
+{parent=Cryptography stubs}
+{wiki=HAVAL}
+
+= HC-256
+{parent=Cryptography stubs}
+{wiki=HC-256}
+
+= HX-63
+{parent=Cryptography stubs}
+{wiki=HX-63}
+
+= Hermes8
+{parent=Cryptography stubs}
+{wiki=Hermes8}
+
+= Horton principle
+{parent=Cryptography stubs}
+{wiki=Horton_principle}
+
+= IDEA NXT
+{parent=Cryptography stubs}
+{wiki=IDEA_NXT}
+
+= ISO/IEC 10116
+{parent=Cryptography stubs}
+{wiki=ISO/IEC_10116}
+
+= Initiative for Open Authentication
+{parent=Cryptography stubs}
+{wiki=Initiative_for_Open_Authentication}
+
+= Iraqi block cipher
+{parent=Cryptography stubs}
+{wiki=Iraqi_block_cipher}
+
+= JADE (cipher machine)
+{parent=Cryptography stubs}
+{wiki=JADE_(cipher_machine)}
+
+= JH (hash function)
+{parent=Cryptography stubs}
+{wiki=JH_(hash_function)}
+
+= Japanese M-1 cipher machine
+{parent=Cryptography stubs}
+{wiki=Japanese_M-1_cipher_machine}
+
+= Journal of Cryptology
+{parent=Cryptography stubs}
+{wiki=Journal_of_Cryptology}
+
+= KCDSA
+{parent=Cryptography stubs}
+{wiki=KCDSA}
+
+= KCipher-2
+{parent=Cryptography stubs}
+{wiki=KCipher-2}
+
+= KL-43
+{parent=Cryptography stubs}
+{wiki=KL-43}
+
+= KL-51
+{parent=Cryptography stubs}
+{wiki=KL-51}
+
+= KOV-14
+{parent=Cryptography stubs}
+{wiki=KOV-14}
+
+= KOV-21
+{parent=Cryptography stubs}
+{wiki=KOV-21}
+
+= KSD-64
+{parent=Cryptography stubs}
+{wiki=KSD-64}
+
+= KSV-21
+{parent=Cryptography stubs}
+{wiki=KSV-21}
+
+= KY-58
+{parent=Cryptography stubs}
+{wiki=KY-58}
+
+= KY-68
+{parent=Cryptography stubs}
+{wiki=KY-68}
+
+= Key clustering
+{parent=Cryptography stubs}
+{wiki=Key_clustering}
+
+= Key generator
+{parent=Cryptography stubs}
+{wiki=Key_generator}
+
+= Key signature (cryptography)
+{parent=Cryptography stubs}
+{wiki=Key_signature_(cryptography)}
+
+= Key signing party
+{parent=Cryptography stubs}
+{wiki=Key_signing_party}
+
+= Keysigning
+{parent=Cryptography stubs}
+{wiki=Keysigning}
+
+= Kmc-Subset137
+{parent=Cryptography stubs}
+{wiki=Kmc-Subset137}
+
+= Kryptographik
+{parent=Cryptography stubs}
+{wiki=Kryptographik}
+
+= LEVIATHAN (cipher)
+{parent=Cryptography stubs}
+{wiki=LEVIATHAN_(cipher)}
+
+= LEX (cipher)
+{parent=Cryptography stubs}
+{wiki=LEX_(cipher)}
+
+= LILI-128
+{parent=Cryptography stubs}
+{wiki=LILI-128}
+
+= Ladder-DES
+{parent=Cryptography stubs}
+{wiki=Ladder-DES}
+
+= Lane (hash function)
+{parent=Cryptography stubs}
+{wiki=Lane_(hash_function)}
+
+= M6 (cipher)
+{parent=Cryptography stubs}
+{wiki=M6_(cipher)}
+
+= M8 (cipher)
+{parent=Cryptography stubs}
+{wiki=M8_(cipher)}
+
+= MAG (cipher)
+{parent=Cryptography stubs}
+{wiki=MAG_(cipher)}
+
+= MESH (cipher)
+{parent=Cryptography stubs}
+{wiki=MESH_(cipher)}
+
+= MICKEY
+{parent=Cryptography stubs}
+{wiki=MICKEY}
+
+= MMB (cipher)
+{parent=Cryptography stubs}
+{wiki=MMB_(cipher)}
+
+= Matt Curtin
+{parent=Cryptography stubs}
+{wiki=Matt_Curtin}
+
+= Mercy (cipher)
+{parent=Cryptography stubs}
+{wiki=Mercy_(cipher)}
+
+= Mimic function
+{parent=Cryptography stubs}
+{wiki=Mimic_function}
+
+= Mir-1
+{parent=Cryptography stubs}
+{wiki=Mir-1}
+
+= MultiSwap
+{parent=Cryptography stubs}
+{wiki=MultiSwap}
+
+= N-hash
+{parent=Cryptography stubs}
+{wiki=N-hash}
+
+= NESTOR (encryption)
+{parent=Cryptography stubs}
+{wiki=NESTOR_(encryption)}
+
+= NLS (cipher)
+{parent=Cryptography stubs}
+{wiki=NLS_(cipher)}
+
+= NUSH
+{parent=Cryptography stubs}
+{wiki=NUSH}
+
+= NaSHA
+{parent=Cryptography stubs}
+{wiki=NaSHA}
+
+= National Institute of Cryptology Research and Development
+{parent=Cryptography stubs}
+{wiki=National_Institute_of_Cryptology_Research_and_Development}
+
+= Navajo I
+{parent=Cryptography stubs}
+{wiki=Navajo_I}
+
+= New Data Seal
+{parent=Cryptography stubs}
+{wiki=New_Data_Seal}
+
+= Nimbus (cipher)
+{parent=Cryptography stubs}
+{wiki=Nimbus_(cipher)}
+
+= Nonlinear-feedback shift register
+{parent=Cryptography stubs}
+{wiki=Nonlinear-feedback_shift_register}
+
+= Null encryption
+{parent=Cryptography stubs}
+{wiki=Null_encryption}
+
+= OPIE Authentication System
+{parent=Cryptography stubs}
+{wiki=OPIE_Authentication_System}
+
+= ORYX
+{parent=Cryptography stubs}
+{wiki=ORYX}
+
+= Open Media Commons
+{parent=Cryptography stubs}
+{wiki=Open_Media_Commons}
+
+= Oracle attack
+{parent=Cryptography stubs}
+{wiki=Oracle_attack}
+
+= PC1 cipher
+{parent=Cryptography stubs}
+{wiki=PC1_cipher}
+
+= PMAC (cryptography)
+{parent=Cryptography stubs}
+{wiki=PMAC_(cryptography)}
+
+= Paper key
+{parent=Cryptography stubs}
+{wiki=Paper_key}
+
+= Pass (software)
+{parent=Cryptography stubs}
+{wiki=Pass_(software)}
+
+= Permutation box
+{parent=Cryptography stubs}
+{wiki=Permutation_box}
+
+= Petname
+{parent=Cryptography stubs}
+{wiki=Petname}
+
+= Pike (cipher)
+{parent=Cryptography stubs}
+{wiki=Pike_(cipher)}
+
+= Pointcheval–Stern signature algorithm
+{parent=Cryptography stubs}
+{wiki=Pointcheval–Stern_signature_algorithm}
+
+= Polar Bear (cipher)
+{parent=Cryptography stubs}
+{wiki=Polar_Bear_(cipher)}
+
+= Polyinstantiation
+{parent=Cryptography stubs}
+{wiki=Polyinstantiation}
+
+= Product cipher
+{parent=Cryptography stubs}
+{wiki=Product_cipher}
+
+= Pseudo-Hadamard transform
+{parent=Cryptography stubs}
+{wiki=Pseudo-Hadamard_transform}
+
+= REDOC
+{parent=Cryptography stubs}
+{wiki=REDOC}
+
+= Reeds–Sloane algorithm
+{parent=Cryptography stubs}
+{wiki=Reeds–Sloane_algorithm}
+
+= Reflector (cipher machine)
+{parent=Cryptography stubs}
+{wiki=Reflector_(cipher_machine)}
+
+= Rekeying (cryptography)
+{parent=Cryptography stubs}
+{wiki=Rekeying_(cryptography)}
+
+= Rockex
+{parent=Cryptography stubs}
+{wiki=Rockex}
+
+= S-1 block cipher
+{parent=Cryptography stubs}
+{wiki=S-1_block_cipher}
+
+= SAVILLE
+{parent=Cryptography stubs}
+{wiki=SAVILLE}
+
+= SC2000
+{parent=Cryptography stubs}
+{wiki=SC2000}
+
+= SEAL (cipher)
+{parent=Cryptography stubs}
+{wiki=SEAL_(cipher)}
+
+= SHARK
+{parent=Cryptography stubs}
+{wiki=SHARK}
+
+= SIGTOT
+{parent=Cryptography stubs}
+{wiki=SIGTOT}
+
+= SMASH (hash)
+{parent=Cryptography stubs}
+{wiki=SMASH_(hash)}
+
+= SOBER-128
+{parent=Cryptography stubs}
+{wiki=SOBER-128}
+
+= SOSEMANUK
+{parent=Cryptography stubs}
+{wiki=SOSEMANUK}
+
+= SSS (cipher)
+{parent=Cryptography stubs}
+{wiki=SSS_(cipher)}
+
+= STU-I
+{parent=Cryptography stubs}
+{wiki=STU-I}
+
+= SXAL/MBAL
+{parent=Cryptography stubs}
+{wiki=SXAL/MBAL}
+
+= Schnorr group
+{parent=Cryptography stubs}
+{wiki=Schnorr_group}
+
+= Scream (cipher)
+{parent=Cryptography stubs}
+{wiki=Scream_(cipher)}
+
+= Secure access module
+{parent=Cryptography stubs}
+{wiki=Secure_access_module}
+
+= Selected Areas in Cryptography
+{parent=Cryptography stubs}
+{wiki=Selected_Areas_in_Cryptography}
+
+= Shackle code
+{parent=Cryptography stubs}
+{wiki=Shackle_code}
+
+= Slidex
+{parent=Cryptography stubs}
+{wiki=Slidex}
+
+= Smart cow problem
+{parent=Cryptography stubs}
+{wiki=Smart_cow_problem}
+
+= Snefru
+{parent=Cryptography stubs}
+{wiki=Snefru}
+
+= Spectr-H64
+{parent=Cryptography stubs}
+{wiki=Spectr-H64}
+
+= Spectral Hash
+{parent=Cryptography stubs}
+{wiki=Spectral_Hash}
+
+= Square (cipher)
+{parent=Cryptography stubs}
+{wiki=Square_(cipher)}
+
+= Standard model (cryptography)
+{parent=Cryptography stubs}
+{wiki=Standard_model_(cryptography)}
+
+= StegFS
+{parent=Cryptography stubs}
+{wiki=StegFS}
+
+= Strong RSA assumption
+{parent=Cryptography stubs}
+{wiki=Strong_RSA_assumption}
+
+= Sub-group hiding
+{parent=Cryptography stubs}
+{wiki=Sub-group_hiding}
+
+= Subject Alternative Name
+{parent=Cryptography stubs}
+{wiki=Subject_Alternative_Name}
+
+= Switchover
+{parent=Cryptography stubs}
+{wiki=Switchover}
+
+= TRBDK3 YAEA
+{parent=Cryptography stubs}
+{wiki=TRBDK3_YAEA}
+
+= TSC-3
+{parent=Cryptography stubs}
+{wiki=TSC-3}
+
+= Tate pairing
+{parent=Cryptography stubs}
+{wiki=Tate_pairing}
+
+= The American Black Chamber
+{parent=Cryptography stubs}
+{wiki=The_American_Black_Chamber}
+
+= Time-based authentication
+{parent=Cryptography stubs}
+{wiki=Time-based_authentication}
+
+= Torus-based cryptography
+{parent=Cryptography stubs}
+{wiki=Torus-based_cryptography}
+
+= Treyfer
+{parent=Cryptography stubs}
+{wiki=Treyfer}
+
+= Trustico
+{parent=Cryptography stubs}
+{wiki=Trustico}
+
+= Turing (cipher)
+{parent=Cryptography stubs}
+{wiki=Turing_(cipher)}
+
+= Two-Track-MAC
+{parent=Cryptography stubs}
+{wiki=Two-Track-MAC}
+
+= U-229
+{parent=Cryptography stubs}
+{wiki=U-229}
+
+= U-Key
+{parent=Cryptography stubs}
+{wiki=U-Key}
+
+= U-Prove
+{parent=Cryptography stubs}
+{wiki=U-Prove}
+
+= UES (cipher)
+{parent=Cryptography stubs}
+{wiki=UES_(cipher)}
+
+= VINSON
+{parent=Cryptography stubs}
+{wiki=VINSON}
+
+= Variably Modified Permutation Composition
+{parent=Cryptography stubs}
+{wiki=Variably_Modified_Permutation_Composition}
+
+= WAKE (cipher)
+{parent=Cryptography stubs}
+{wiki=WAKE_(cipher)}
+
+= WG (cipher)
+{parent=Cryptography stubs}
+{wiki=WG_(cipher)}
+
+= Wireless Public Key Infrastructure
+{parent=Cryptography stubs}
+{wiki=Wireless_Public_Key_Infrastructure}
+
+= Witness-indistinguishable proof
+{parent=Cryptography stubs}
+{wiki=Witness-indistinguishable_proof}
+
+= Woo–Lam
+{parent=Cryptography stubs}
+{wiki=Woo–Lam}
+
+= Xor–encrypt–xor
+{parent=Cryptography stubs}
+{wiki=Xor–encrypt–xor}
+
+= Yamb
+{parent=Cryptography stubs}
+{wiki=Yamb}
+
+= ZUC stream cipher
+{parent=Cryptography stubs}
+{wiki=ZUC_stream_cipher}
+
+= Zero-knowledge password proof
+{parent=Cryptography stubs}
+{wiki=Zero-knowledge_password_proof}
+
+= Zodiac (cipher)
+{parent=Cryptography stubs}
+{wiki=Zodiac_(cipher)}
+
+= Cryptologic education
+{parent=Cryptography}
+{wiki=Category:Cryptologic_education}
+
+= Agostino Amadi
+{parent=Cryptologic education}
+{wiki=Agostino_Amadi}
+
+= Boaz Tsaban
+{parent=Cryptologic education}
+{wiki=Boaz_Tsaban}
+
+= Julia Ward
+{parent=Cryptologic education}
+{wiki=Julia_Ward}
+
+= National Cryptologic School
+{parent=Cryptologic education}
+{wiki=National_Cryptologic_School}
+
+= Disk encryption
+{parent=Cryptography}
+{wiki=Disk_encryption}
+
+= Cold boot attack
+{parent=Disk encryption}
+{wiki=Cold_boot_attack}
+
+= Disk encryption theory
+{parent=Disk encryption}
+{wiki=Disk_encryption_theory}
+
+= EncFS
+{parent=Disk encryption}
+{wiki=EncFS}
+
+= In re Boucher
+{parent=Disk encryption}
+{wiki=In_re_Boucher}
+
+= TRESOR
+{parent=Disk encryption}
+{wiki=TRESOR}
+
+= Transparent data encryption
+{parent=Disk encryption}
+{wiki=Transparent_data_encryption}
+
+= USB flash drive security
+{parent=Disk encryption}
+{wiki=USB_flash_drive_security}
+
+= United States v. Fricosu
+{parent=Disk encryption}
+{wiki=United_States_v._Fricosu}
+
+= History of cryptography
+{parent=Cryptography}
+{wiki=History_of_cryptography}
+
+= Code talkers
+{parent=History of cryptography}
+{wiki=Code_talkers}
+
+= Riverbank Laboratories
+{parent=History of cryptography}
+{wiki=Riverbank_Laboratories}
+
+= Rotor machines
+{parent=History of cryptography}
+{wiki=Rotor_machines}
+
+= Signals intelligence of World War I
+{parent=History of cryptography}
+{wiki=Category:Signals_intelligence_of_World_War_I}
+
+= Signals intelligence of World War II
+{parent=History of cryptography}
+{wiki=Category:Signals_intelligence_of_World_War_II}
+
+= Undeciphered historical codes and ciphers
+{parent=History of cryptography}
+{wiki=Category:Undeciphered_historical_codes_and_ciphers}
+
+= World War II Japanese cryptography
+{parent=History of cryptography}
+{wiki=Category:World_War_II_Japanese_cryptography}
+
+= 40-bit encryption
+{parent=History of cryptography}
+{wiki=40-bit_encryption}
+
+= 56-bit encryption
+{parent=History of cryptography}
+{wiki=56-bit_encryption}
+
+= ANOM
+{parent=History of cryptography}
+{wiki=ANOM}
+
+= Al-Kindi
+{parent=History of cryptography}
+{wiki=Al-Kindi}
+
+= Apple–FBI encryption dispute
+{parent=History of cryptography}
+{wiki=Apple–FBI_encryption_dispute}
+
+= BATCO
+{parent=History of cryptography}
+{wiki=BATCO}
+
+= Babington Plot
+{parent=History of cryptography}
+{wiki=Babington_Plot}
+
+= Battle of Midway
+{parent=History of cryptography}
+{wiki=Battle_of_Midway}
+
+= Beale ciphers
+{parent=History of cryptography}
+{wiki=Beale_ciphers}
+
+= CAVNET
+{parent=History of cryptography}
+{wiki=CAVNET}
+
+= Card catalog (cryptology)
+{parent=History of cryptography}
+{wiki=Card_catalog_(cryptology)}
+
+= Central Bureau
+{parent=History of cryptography}
+{wiki=Central_Bureau}
+
+= Choctaw code talkers
+{parent=History of cryptography}
+{wiki=Choctaw_code_talkers}
+
+= Clipper chip
+{parent=History of cryptography}
+{wiki=Clipper_chip}
+
+= Code-O-Graph
+{parent=History of cryptography}
+{wiki=Code-O-Graph}
+
+= Code-talker paradox
+{parent=History of cryptography}
+{wiki=Code-talker_paradox}
+
+= Code Girls
+{parent=History of cryptography}
+{wiki=Code_Girls}
+
+= Code talker
+{parent=History of cryptography}
+{wiki=Code_talker}
+
+= Commercial code (communications)
+{parent=History of cryptography}
+{wiki=Commercial_code_(communications)}
+
+= Content Scramble System
+{parent=History of cryptography}
+{wiki=Content_Scramble_System}
+
+= Copiale cipher
+{parent=History of cryptography}
+{wiki=Copiale_cipher}
+
+= Cryptanalysis of the Enigma
+{parent=History of cryptography}
+{wiki=Cryptanalysis_of_the_Enigma}
+
+= Cryptanalysis of the Lorenz cipher
+{parent=History of cryptography}
+{wiki=Cryptanalysis_of_the_Lorenz_cipher}
+
+= Crypto Wars
+{parent=History of cryptography}
+{wiki=Crypto_Wars}
+
+= Cryptogram
+{parent=History of cryptography}
+{wiki=Cryptogram}
+
+= Cyrillic Projector
+{parent=History of cryptography}
+{wiki=Cyrillic_Projector}
+
+= Dorabella Cipher
+{parent=History of cryptography}
+{wiki=Dorabella_Cipher}
+
+= Encryption by date
+{parent=History of cryptography}
+{wiki=Encryption_by_date}
+
+= Erich Hüttenhain
+{parent=History of cryptography}
+{wiki=Erich_Hüttenhain}
+
+= Ferdinand Voegele
+{parent=History of cryptography}
+{wiki=Ferdinand_Voegele}
+
+= German Army cryptographic systems of World War II
+{parent=History of cryptography}
+{wiki=German_Army_cryptographic_systems_of_World_War_II}
+
+= German submarine U-505
+{parent=History of cryptography}
+{wiki=German_submarine_U-505}
+
+= Grill (cryptology)
+{parent=History of cryptography}
+{wiki=Grill_(cryptology)}
+
+= Gulf of Tonkin incident
+{parent=History of cryptography}
+{wiki=Gulf_of_Tonkin_incident}
+
+= Japanese army and diplomatic codes
+{parent=History of cryptography}
+{wiki=Japanese_army_and_diplomatic_codes}
+
+= Japanese cryptology from the 1500s to Meiji
+{parent=History of cryptography}
+{wiki=Japanese_cryptology_from_the_1500s_to_Meiji}
+
+= Japanese naval codes
+{parent=History of cryptography}
+{wiki=Japanese_naval_codes}
+
+= Kryptos
+{parent=History of cryptography}
+{wiki=Kryptos}
+
+= Lavabit
+{parent=History of cryptography}
+{wiki=Lavabit}
+
+= Magic (cryptography)
+{parent=History of cryptography}
+{wiki=Magic_(cryptography)}
+
+= Michel de Castelnau
+{parent=History of cryptography}
+{wiki=Michel_de_Castelnau}
+
+= Mlecchita vikalpa
+{parent=History of cryptography}
+{wiki=Mlecchita_vikalpa}
+
+= Mulabhadra
+{parent=History of cryptography}
+{wiki=Mulabhadra}
+
+= NSAKEY
+{parent=History of cryptography}
+{wiki=NSAKEY}
+
+= Notarikon
+{parent=History of cryptography}
+{wiki=Notarikon}
+
+= Operation CHAOS
+{parent=History of cryptography}
+{wiki=Operation_CHAOS}
+
+= Operation Ruthless
+{parent=History of cryptography}
+{wiki=Operation_Ruthless}
+
+= Peter Novopashenny
+{parent=History of cryptography}
+{wiki=Peter_Novopashenny}
+
+= Poem code
+{parent=History of cryptography}
+{wiki=Poem_code}
+
+= Polish Enigma double
+{parent=History of cryptography}
+{wiki=Polish_Enigma_double}
+
+= Polygraphia Nova
+{parent=History of cryptography}
+{wiki=Polygraphia_Nova}
+
+= Project MERRIMAC
+{parent=History of cryptography}
+{wiki=Project_MERRIMAC}
+
+= RAF raid on La Caine (1944)
+{parent=History of cryptography}
+{wiki=RAF_raid_on_La_Caine_(1944)}
+
+= Rasterschlüssel 44
+{parent=History of cryptography}
+{wiki=Rasterschlüssel_44}
+
+= Room 641A
+{parent=History of cryptography}
+{wiki=Room_641A}
+
+= Rudolf Bailovic
+{parent=History of cryptography}
+{wiki=Rudolf_Bailovic}
+
+= SMS Magdeburg
+{parent=History of cryptography}
+{wiki=SMS_Magdeburg}
+
+= Secret decoder ring
+{parent=History of cryptography}
+{wiki=Secret_decoder_ring}
+
+= Shugborough inscription
+{parent=History of cryptography}
+{wiki=Shugborough_inscription}
+
+= Smithy code
+{parent=History of cryptography}
+{wiki=Smithy_code}
+
+= Substitution cipher
+{parent=History of cryptography}
+{wiki=Substitution_cipher}
+
+= Syllabical and Steganographical Table
+{parent=History of cryptography}
+{wiki=Syllabical_and_Steganographical_Table}
+
+= TICOM
+{parent=History of cryptography}
+{wiki=TICOM}
+
+= The Alphabet Cipher
+{parent=History of cryptography}
+{wiki=The_Alphabet_Cipher}
+
+= The Codebreakers
+{parent=History of cryptography}
+{wiki=The_Codebreakers}
+
+= The Magic Words are Squeamish Ossifrage
+{parent=History of cryptography}
+{wiki=The_Magic_Words_are_Squeamish_Ossifrage}
+
+= The world wonders
+{parent=History of cryptography}
+{wiki=The_world_wonders}
+
+= Trench code
+{parent=History of cryptography}
+{wiki=Trench_code}
+
+= USS Liberty incident
+{parent=History of cryptography}
+{wiki=USS_Liberty_incident}
+
+= USS Pueblo (AGER-2)
+{parent=History of cryptography}
+{wiki=USS_Pueblo_(AGER-2)}
+
+= United States Naval Computing Machine Laboratory
+{parent=History of cryptography}
+{wiki=United_States_Naval_Computing_Machine_Laboratory}
+
+= Venona project
+{parent=History of cryptography}
+{wiki=Venona_project}
+
+= Voynich manuscript
+{parent=History of cryptography}
+{wiki=Voynich_manuscript}
+
+= Walter Fricke
+{parent=History of cryptography}
+{wiki=Walter_Fricke}
+
+= Wilhelm Fenner
+{parent=History of cryptography}
+{wiki=Wilhelm_Fenner}
+
+= Wilhelm Tranow
+{parent=History of cryptography}
+{wiki=Wilhelm_Tranow}
+
+= William Blair (surgeon)
+{parent=History of cryptography}
+{wiki=William_Blair_(surgeon)}
+
+= World War II cryptography
+{parent=History of cryptography}
+{wiki=World_War_II_cryptography}
+
+= World War I cryptography
+{parent=History of cryptography}
+{wiki=World_War_I_cryptography}
+
+= Zimmermann Telegram
+{parent=History of cryptography}
+{wiki=Zimmermann_Telegram}
+
+= Key management
+{parent=Cryptography}
+{wiki=Key_management}
+
+= Key derivation functions
+{parent=Key management}
+{wiki=Key_derivation_functions}
+
+= Key pre-distribution
+{parent=Key management}
+{wiki=Category:Key_pre-distribution}
+
+= AES key schedule
+{parent=Key management}
+{wiki=AES_key_schedule}
+
+= AN/PYQ-10
+{parent=Key management}
+{wiki=AN/PYQ-10}
+
+= ASC X9
+{parent=Key management}
+{wiki=ASC_X9}
+
+= Authenticated Key Exchange
+{parent=Key management}
+{wiki=Authenticated_Key_Exchange}
+
+= Blom's scheme
+{parent=Key management}
+{wiki=Blom's_scheme}
+
+= CA/Browser Forum
+{parent=Key management}
+{wiki=CA/Browser_Forum}
+
+= Certificate authority
+{parent=Key management}
+{wiki=Certificate_authority}
+
+= Certificate policy
+{parent=Key management}
+{wiki=Certificate_policy}
+
+= Certificate revocation list
+{parent=Key management}
+{wiki=Certificate_revocation_list}
+
+= Certification Practice Statement
+{parent=Key management}
+{wiki=Certification_Practice_Statement}
+
+= Computational trust
+{parent=Key management}
+{wiki=Computational_trust}
+
+= Crypto-shredding
+{parent=Key management}
+{wiki=Crypto-shredding}
+
+= Cryptographic key types
+{parent=Key management}
+{wiki=Cryptographic_key_types}
+
+= DNS-based Authentication of Named Entities
+{parent=Key management}
+{wiki=DNS-based_Authentication_of_Named_Entities}
+
+= Derived unique key per transaction
+{parent=Key management}
+{wiki=Derived_unique_key_per_transaction}
+
+= Domain-validated certificate
+{parent=Key management}
+{wiki=Domain-validated_certificate}
+
+= Domain Name System Security Extensions
+{parent=Key management}
+{wiki=Domain_Name_System_Security_Extensions}
+
+= Extended Validation Certificate
+{parent=Key management}
+{wiki=Extended_Validation_Certificate}
+
+= Fill device
+{parent=Key management}
+{wiki=Fill_device}
+
+= Forward secrecy
+{parent=Key management}
+{wiki=Forward_secrecy}
+
+= GateKeeper (access control device)
+{parent=Key management}
+{wiki=GateKeeper_(access_control_device)}
+
+= KIK-30
+{parent=Key management}
+{wiki=KIK-30}
+
+= KYK-13
+{parent=Key management}
+{wiki=KYK-13}
+
+= Key (cryptography)
+{parent=Key management}
+{wiki=Key_(cryptography)}
+
+= Key authentication
+{parent=Key management}
+{wiki=Key_authentication}
+
+= Key ceremony
+{parent=Key management}
+{wiki=Key_ceremony}
+
+= Key checksum value
+{parent=Key management}
+{wiki=Key_checksum_value}
+
+= Key derivation function
+{parent=Key management}
+{wiki=Key_derivation_function}
+
+= Key distribution
+{parent=Key management}
+{wiki=Key_distribution}
+
+= Key distribution center
+{parent=Key management}
+{wiki=Key_distribution_center}
+
+= Key distribution in wireless sensor networks
+{parent=Key management}
+{wiki=Key_distribution_in_wireless_sensor_networks}
+
+= Key encapsulation mechanism
+{parent=Key management}
+{wiki=Key_encapsulation_mechanism}
+
+= Key escrow
+{parent=Key management}
+{wiki=Key_escrow}
+
+= Key generation
+{parent=Key management}
+{wiki=Key_generation}
+
+= Key server (cryptographic)
+{parent=Key management}
+{wiki=Key_server_(cryptographic)}
+
+= Key size
+{parent=Key management}
+{wiki=Key_size}
+
+= Key stretching
+{parent=Key management}
+{wiki=Key_stretching}
+
+= Key whitening
+{parent=Key management}
+{wiki=Key_whitening}
+
+= Keybase
+{parent=Key management}
+{wiki=Keybase}
+
+= Keyfile
+{parent=Key management}
+{wiki=Keyfile}
+
+= Media Key Block
+{parent=Key management}
+{wiki=Media_Key_Block}
+
+= Offline root certificate authority
+{parent=Key management}
+{wiki=Offline_root_certificate_authority}
+
+= OpenIKED
+{parent=Key management}
+{wiki=OpenIKED}
+
+= Pre-shared key
+{parent=Key management}
+{wiki=Pre-shared_key}
+
+= Public key certificate
+{parent=Key management}
+{wiki=Public_key_certificate}
+
+= Public key infrastructure
+{parent=Key management}
+{wiki=Public_key_infrastructure}
+
+= SSHFP record
+{parent=Key management}
+{wiki=SSHFP_record}
+
+= Secure key issuing cryptography
+{parent=Key management}
+{wiki=Secure_key_issuing_cryptography}
+
+= Self-signed certificate
+{parent=Key management}
+{wiki=Self-signed_certificate}
+
+= Session key
+{parent=Key management}
+{wiki=Session_key}
+
+= Shared secret
+{parent=Key management}
+{wiki=Shared_secret}
+
+= Signal operating instructions
+{parent=Key management}
+{wiki=Signal_operating_instructions}
+
+= Simple Key-Management for Internet Protocol
+{parent=Key management}
+{wiki=Simple_Key-Management_for_Internet_Protocol}
+
+= Simple public-key infrastructure
+{parent=Key management}
+{wiki=Simple_public-key_infrastructure}
+
+= Static key
+{parent=Key management}
+{wiki=Static_key}
+
+= Ticket Granting Ticket
+{parent=Key management}
+{wiki=Ticket_Granting_Ticket}
+
+= Trust anchor
+{parent=Key management}
+{wiki=Trust_anchor}
+
+= Validation authority
+{parent=Key management}
+{wiki=Validation_authority}
+
+= Web of trust
+{parent=Key management}
+{wiki=Web_of_trust}
+
+= Wildcard certificate
+{parent=Key management}
+{wiki=Wildcard_certificate}
+
+= Zeroisation
+{parent=Key management}
+{wiki=Zeroisation}
+
+= National Security Agency cryptography
+{parent=Cryptography}
+{wiki=Category:National_Security_Agency_cryptography}
+
+= Data Encryption Standard
+{parent=National Security Agency cryptography}
+{wiki=Data_Encryption_Standard}
+
+= National Security Agency encryption devices
+{parent=National Security Agency cryptography}
+{wiki=Category:National_Security_Agency_encryption_devices}
+
+= Martin and Mitchell defection
+{parent=National Security Agency cryptography}
+{wiki=Martin_and_Mitchell_defection}
+
+= Mary Hughes Budenbach
+{parent=National Security Agency cryptography}
+{wiki=Mary_Hughes_Budenbach}
+
+= Multiprogram Research Facility
+{parent=National Security Agency cryptography}
+{wiki=Multiprogram_Research_Facility}
+
+= NSA cryptography
+{parent=National Security Agency cryptography}
+{wiki=NSA_cryptography}
+
+= Simon (cipher)
+{parent=National Security Agency cryptography}
+{wiki=Simon_(cipher)}
+
+= Skipjack (cipher)
+{parent=National Security Agency cryptography}
+{wiki=Skipjack_(cipher)}
+
+= Speck (cipher)
+{parent=National Security Agency cryptography}
+{wiki=Speck_(cipher)}
+
+= Public-key cryptography
+{parent=Cryptography}
+{wiki=Public-key_cryptography}
+
+= Pairing-based cryptography
+{parent=Public-key cryptography}
+{wiki=Pairing-based_cryptography}
+
+= Post-quantum cryptography
+{parent=Public-key cryptography}
+{wiki=Post-quantum_cryptography}
+
+= Anonymous veto network
+{parent=Public-key cryptography}
+{wiki=Anonymous_veto_network}
+
+= Attribute-based encryption
+{parent=Public-key cryptography}
+{wiki=Attribute-based_encryption}
+
+= Authorization certificate
+{parent=Public-key cryptography}
+{wiki=Authorization_certificate}
+
+= BLISS signature scheme
+{parent=Public-key cryptography}
+{wiki=BLISS_signature_scheme}
+
+= Blind signature
+{parent=Public-key cryptography}
+{wiki=Blind_signature}
+
+= Certificate-based encryption
+{parent=Public-key cryptography}
+{wiki=Certificate-based_encryption}
+
+= Certificateless cryptography
+{parent=Public-key cryptography}
+{wiki=Certificateless_cryptography}
+
+= Chain of trust
+{parent=Public-key cryptography}
+{wiki=Chain_of_trust}
+
+= Cohen's cryptosystem
+{parent=Public-key cryptography}
+{wiki=Cohen's_cryptosystem}
+
+= Diffie–Hellman key exchange
+{parent=Public-key cryptography}
+{wiki=Diffie–Hellman_key_exchange}
+
+= Digital Signature Algorithm
+{parent=Public-key cryptography}
+{wiki=Digital_Signature_Algorithm}
+
+= Distributed key generation
+{parent=Public-key cryptography}
+{wiki=Distributed_key_generation}
+
+= EdDSA
+{parent=Public-key cryptography}
+{wiki=EdDSA}
+
+= Elliptic-curve cryptography
+{parent=Public-key cryptography}
+{wiki=Elliptic-curve_cryptography}
+
+= Elliptic Curve Digital Signature Algorithm
+{parent=Public-key cryptography}
+{wiki=Elliptic_Curve_Digital_Signature_Algorithm}
+
+= Hash-based cryptography
+{parent=Public-key cryptography}
+{wiki=Hash-based_cryptography}
+
+= Hyperelliptic curve cryptography
+{parent=Public-key cryptography}
+{wiki=Hyperelliptic_curve_cryptography}
+
+= Identity-based conditional proxy re-encryption
+{parent=Public-key cryptography}
+{wiki=Identity-based_conditional_proxy_re-encryption}
+
+= Identity-based cryptography
+{parent=Public-key cryptography}
+{wiki=Identity-based_cryptography}
+
+= Identity-based encryption
+{parent=Public-key cryptography}
+{wiki=Identity-based_encryption}
+
+= Implicit certificate
+{parent=Public-key cryptography}
+{wiki=Implicit_certificate}
+
+= Java KeyStore
+{parent=Public-key cryptography}
+{wiki=Java_KeyStore}
+
+= Jeevan Pramaan
+{parent=Public-key cryptography}
+{wiki=Jeevan_Pramaan}
+
+= Merkle signature scheme
+{parent=Public-key cryptography}
+{wiki=Merkle_signature_scheme}
+
+= Non-commutative cryptography
+{parent=Public-key cryptography}
+{wiki=Non-commutative_cryptography}
+
+= Non-repudiation
+{parent=Public-key cryptography}
+{wiki=Non-repudiation}
+
+= OneID
+{parent=Public-key cryptography}
+{wiki=OneID}
+
+= Open vote network
+{parent=Public-key cryptography}
+{wiki=Open_vote_network}
+
+= Proxy re-encryption
+{parent=Public-key cryptography}
+{wiki=Proxy_re-encryption}
+
+= RSA problem
+{parent=Public-key cryptography}
+{wiki=RSA_problem}
+
+= Resource Public Key Infrastructure
+{parent=Public-key cryptography}
+{wiki=Resource_Public_Key_Infrastructure}
+
+= Ring signature
+{parent=Public-key cryptography}
+{wiki=Ring_signature}
+
+= Signcryption
+{parent=Public-key cryptography}
+{wiki=Signcryption}
+
+= Smart card management system
+{parent=Public-key cryptography}
+{wiki=Smart_card_management_system}
+
+= Teleadministration
+{parent=Public-key cryptography}
+{wiki=Teleadministration}
+
+= Threshold cryptosystem
+{parent=Public-key cryptography}
+{wiki=Threshold_cryptosystem}
+
+= Transient-key cryptography
+{parent=Public-key cryptography}
+{wiki=Transient-key_cryptography}
+
+= Trusted third party
+{parent=Public-key cryptography}
+{wiki=Trusted_third_party}
+
+= XUDA
+{parent=Public-key cryptography}
+{wiki=XUDA}
+
+= Security engineering
+{parent=Cryptography}
+{wiki=Security_engineering}
+
+= Access control
+{parent=Security engineering}
+{wiki=Access_control}
+
+= Engineering failures
+{parent=Security engineering}
+{wiki=Category:Engineering_failures}
+
+= Locksmithing
+{parent=Security engineering}
+{wiki=Locksmithing}
+
+= Perimeter security
+{parent=Security engineering}
+{wiki=Perimeter_security}
+
+= Prisons
+{parent=Security engineering}
+{wiki=Prisons}
+
+= Secure communication
+{parent=Security engineering}
+{wiki=Secure_communication}
+
+= Security equipment manufacturers
+{parent=Security engineering}
+{wiki=Category:Security_equipment_manufacturers}
+
+= Security technology
+{parent=Security engineering}
+{wiki=Category:Security_technology}
+
+= 3D security
+{parent=Security engineering}
+{wiki=3D_security}
+
+= Bank vault
+{parent=Security engineering}
+{wiki=Bank_vault}
+
+= Closed-circuit television
+{parent=Security engineering}
+{wiki=Closed-circuit_television}
+
+= Crime-Free Multi-Housing
+{parent=Security engineering}
+{wiki=Crime-Free_Multi-Housing}
+
+= Crime prevention through environmental design
+{parent=Security engineering}
+{wiki=Crime_prevention_through_environmental_design}
+
+= Cyber spying
+{parent=Security engineering}
+{wiki=Cyber_spying}
+
+= Cyberwarfare
+{parent=Security engineering}
+{wiki=Cyberwarfare}
+
+= Dynamic Intelligent Currency Encryption
+{parent=Security engineering}
+{wiki=Dynamic_Intelligent_Currency_Encryption}
+
+= Emergency Data Request
+{parent=Security engineering}
+{wiki=Emergency_Data_Request}
+
+= European Programme for Critical Infrastructure Protection
+{parent=Security engineering}
+{wiki=European_Programme_for_Critical_Infrastructure_Protection}
+
+= Failing badly
+{parent=Security engineering}
+{wiki=Failing_badly}
+
+= Fortify Software
+{parent=Security engineering}
+{wiki=Fortify_Software}
+
+= Frederick S. Holmes
+{parent=Security engineering}
+{wiki=Frederick_S._Holmes}
+
+= Future Fibre Technologies
+{parent=Security engineering}
+{wiki=Future_Fibre_Technologies}
+
+= Gated community
+{parent=Security engineering}
+{wiki=Gated_community}
+
+= Guard tour patrol system
+{parent=Security engineering}
+{wiki=Guard_tour_patrol_system}
+
+= Hager Group
+{parent=Security engineering}
+{wiki=Hager_Group}
+
+= High-voltage transformer fire barriers
+{parent=Security engineering}
+{wiki=High-voltage_transformer_fire_barriers}
+
+= Identity document forgery
+{parent=Security engineering}
+{wiki=Identity_document_forgery}
+
+= Locked Shields
+{parent=Security engineering}
+{wiki=Locked_Shields}
+
+= National Infrastructure Protection Plan
+{parent=Security engineering}
+{wiki=National_Infrastructure_Protection_Plan}
+
+= Natural surveillance
+{parent=Security engineering}
+{wiki=Natural_surveillance}
+
+= Nightingale floor
+{parent=Security engineering}
+{wiki=Nightingale_floor}
+
+= Pan–tilt–zoom camera
+{parent=Security engineering}
+{wiki=Pan–tilt–zoom_camera}
+
+= Physical security
+{parent=Security engineering}
+{wiki=Physical_security}
+
+= Physical security information management
+{parent=Security engineering}
+{wiki=Physical_security_information_management}
+
+= Platform screen doors
+{parent=Security engineering}
+{wiki=Platform_screen_doors}
+
+= Presumed security
+{parent=Security engineering}
+{wiki=Presumed_security}
+
+= Privacy engineering
+{parent=Security engineering}
+{wiki=Privacy_engineering}
+
+= Proactive cyber defence
+{parent=Security engineering}
+{wiki=Proactive_cyber_defence}
+
+= Security operations center
+{parent=Security engineering}
+{wiki=Security_operations_center}
+
+= Security pattern
+{parent=Security engineering}
+{wiki=Security_pattern}
+
+= Security smoke
+{parent=Security engineering}
+{wiki=Security_smoke}
+
+= SmartWater
+{parent=Security engineering}
+{wiki=SmartWater}
+
+= Software security assurance
+{parent=Security engineering}
+{wiki=Software_security_assurance}
+
+= Stealth Key
+{parent=Security engineering}
+{wiki=Stealth_Key}
+
+= Technical failure
+{parent=Security engineering}
+{wiki=Technical_failure}
+
+= U.S. critical infrastructure protection
+{parent=Security engineering}
+{wiki=U.S._critical_infrastructure_protection}
+
+= Steganography
+{parent=Cryptography}
+{wiki=Steganography}
+
+= 40-track mode
+{parent=Steganography}
+{wiki=40-track_mode}
+
+= Aburidashi
+{parent=Steganography}
+{wiki=Aburidashi}
+
+= BPCS-steganography
+{parent=Steganography}
+{wiki=BPCS-steganography}
+
+= Bacon's cipher
+{parent=Steganography}
+{wiki=Bacon's_cipher}
+
+= Canary trap
+{parent=Steganography}
+{wiki=Canary_trap}
+
+= Covert channel
+{parent=Steganography}
+{wiki=Covert_channel}
+
+= Invisible ink
+{parent=Steganography}
+{wiki=Invisible_ink}
+
+= Johannes Trithemius
+{parent=Steganography}
+{wiki=Johannes_Trithemius}
+
+= Machine Identification Code
+{parent=Steganography}
+{wiki=Machine_Identification_Code}
+
+= Microdot
+{parent=Steganography}
+{wiki=Microdot}
+
+= Microprinting
+{parent=Steganography}
+{wiki=Microprinting}
+
+= Null cipher
+{parent=Steganography}
+{wiki=Null_cipher}
+
+= OutGuess
+{parent=Steganography}
+{wiki=OutGuess}
+
+= Peter Wayner
+{parent=Steganography}
+{wiki=Peter_Wayner}
+
+= Polybius square
+{parent=Steganography}
+{wiki=Polybius_square}
+
+= Polyglot (computing)
+{parent=Steganography}
+{wiki=Polyglot_(computing)}
+
+= Security printing
+{parent=Steganography}
+{wiki=Security_printing}
+
+= Steganographia
+{parent=Steganography}
+{wiki=Steganographia}
+
+= Steganographic file system
+{parent=Steganography}
+{wiki=Steganographic_file_system}
+
+= StegoShare
+{parent=Steganography}
+{wiki=StegoShare}
+
+= Symmetric-key cryptography
+{parent=Cryptography}
+{wiki=Symmetric-key_cryptography}
+
+= Authenticated encryption
+{parent=Symmetric-key cryptography}
+{wiki=Authenticated_encryption}
+
+= Avalanche effect
+{parent=Symmetric-key cryptography}
+{wiki=Avalanche_effect}
+
+= Bent function
+{parent=Symmetric-key cryptography}
+{wiki=Bent_function}
+
+= Block size (cryptography)
+{parent=Symmetric-key cryptography}
+{wiki=Block_size_(cryptography)}
+
+= Collision resistance
+{parent=Symmetric-key cryptography}
+{wiki=Collision_resistance}
+
+= Confusion and diffusion
+{parent=Symmetric-key cryptography}
+{wiki=Confusion_and_diffusion}
+
+= Needham–Schroeder protocol
+{parent=Symmetric-key cryptography}
+{wiki=Needham–Schroeder_protocol}
+
+= Otway–Rees protocol
+{parent=Symmetric-key cryptography}
+{wiki=Otway–Rees_protocol}
+
+= Theory of cryptography
+{parent=Cryptography}
+{wiki=Category:Theory_of_cryptography}
+
+= Advantage (cryptography)
+{parent=Theory of cryptography}
+{wiki=Advantage_(cryptography)}
+
+= Averaging argument
+{parent=Theory of cryptography}
+{wiki=Averaging_argument}
+
+= Burrows–Abadi–Needham logic
+{parent=Theory of cryptography}
+{wiki=Burrows–Abadi–Needham_logic}
+
+= Ciphertext indistinguishability
+{parent=Theory of cryptography}
+{wiki=Ciphertext_indistinguishability}
+
+= Claw-free permutation
+{parent=Theory of cryptography}
+{wiki=Claw-free_permutation}
+
+= Deterministic encryption
+{parent=Theory of cryptography}
+{wiki=Deterministic_encryption}
+
+= Differential privacy
+{parent=Theory of cryptography}
+{wiki=Differential_privacy}
+
+= Fiat–Shamir heuristic
+{parent=Theory of cryptography}
+{wiki=Fiat–Shamir_heuristic}
+
+= Information-theoretic security
+{parent=Theory of cryptography}
+{wiki=Information-theoretic_security}
+
+= Leftover hash lemma
+{parent=Theory of cryptography}
+{wiki=Leftover_hash_lemma}
+
+= Local differential privacy
+{parent=Theory of cryptography}
+{wiki=Local_differential_privacy}
+
+= Neural cryptography
+{parent=Theory of cryptography}
+{wiki=Neural_cryptography}
+
+= Non-interactive zero-knowledge proof
+{parent=Theory of cryptography}
+{wiki=Non-interactive_zero-knowledge_proof}
+
+= Plaintext-aware encryption
+{parent=Theory of cryptography}
+{wiki=Plaintext-aware_encryption}
+
+= Probabilistic encryption
+{parent=Theory of cryptography}
+{wiki=Probabilistic_encryption}
+
+= Provable security
+{parent=Theory of cryptography}
+{wiki=Provable_security}
+
+= Random oracle
+{parent=Theory of cryptography}
+{wiki=Random_oracle}
+
+= Reconstruction attack
+{parent=Theory of cryptography}
+{wiki=Reconstruction_attack}
+
+= Semantic security
+{parent=Theory of cryptography}
+{wiki=Semantic_security}
+
+= Semiprime
+{parent=Theory of cryptography}
+{wiki=Semiprime}
+
+= Socialist millionaire problem
+{parent=Theory of cryptography}
+{wiki=Socialist_millionaire_problem}
+
+= Sponge function
+{parent=Theory of cryptography}
+{wiki=Sponge_function}
+
+= Strong prime
+{parent=Theory of cryptography}
+{wiki=Strong_prime}
+
+= Universal composability
+{parent=Theory of cryptography}
+{wiki=Universal_composability}
+
+= Yao's Millionaires' problem
+{parent=Theory of cryptography}
+{wiki=Yao's_Millionaires'_problem}
+
+= Zero-knowledge proof
+{parent=Theory of cryptography}
+{wiki=Zero-knowledge_proof}
+
+= 123 Reg
+{parent=Cryptography}
+{wiki=123_Reg}
+
+= Accumulator (cryptography)
+{parent=Cryptography}
+{wiki=Accumulator_(cryptography)}
+
+= Adaptive Redaction
+{parent=Cryptography}
+{wiki=Adaptive_Redaction}
+
+= Advanced Encryption Standard
+{parent=Cryptography}
+{wiki=Advanced_Encryption_Standard}
+
+= AES implementations
+{parent=Advanced Encryption Standard}
+{wiki=AES_implementations}
+
+= AES instruction set
+{parent=Advanced Encryption Standard}
+{wiki=AES_instruction_set}
+
+= Crypto-PAn
+{parent=Advanced Encryption Standard}
+{wiki=Crypto-PAn}
+
+= Intel Cascade Cipher
+{parent=Advanced Encryption Standard}
+{wiki=Intel_Cascade_Cipher}
+
+= Poly1305
+{parent=Advanced Encryption Standard}
+{wiki=Poly1305}
+
+= Rijndael MixColumns
+{parent=Advanced Encryption Standard}
+{wiki=Rijndael_MixColumns}
+
+= Rijndael S-box
+{parent=Advanced Encryption Standard}
+{wiki=Rijndael_S-box}
+
+= Anonymous matching
+{parent=Cryptography}
+{wiki=Anonymous_matching}
+
+= Anonymous remailer
+{parent=Cryptography}
+{wiki=Anonymous_remailer}
+
+= Array controller based encryption
+{parent=Cryptography}
+{wiki=Array_controller_based_encryption}
+
+= Backdoor (computing)
+{parent=Cryptography}
+{wiki=Backdoor_(computing)}
+
+= Batch cryptography
+{parent=Cryptography}
+{wiki=Batch_cryptography}
+
+= Bitcoin Gold
+{parent=Cryptography}
+{wiki=Bitcoin_Gold}
+
+= Blacker (security)
+{parent=Cryptography}
+{wiki=Blacker_(security)}
+
+= Blinding (cryptography)
+{parent=Cryptography}
+{wiki=Blinding_(cryptography)}
+
+= Blocknots
+{parent=Cryptography}
+{wiki=Blocknots}
+
+= Branch number
+{parent=Cryptography}
+{wiki=Branch_number}
+
+= Bring your own encryption
+{parent=Cryptography}
+{wiki=Bring_your_own_encryption}
+
+= Bus encryption
+{parent=Cryptography}
+{wiki=Bus_encryption}
+
+= Chaffing and winnowing
+{parent=Cryptography}
+{wiki=Chaffing_and_winnowing}
+
+= Chaos Communication Congress
+{parent=Cryptography}
+{wiki=Chaos_Communication_Congress}
+
+= Chaotic cryptology
+{parent=Cryptography}
+{wiki=Chaotic_cryptology}
+
+= Cipher
+{parent=Cryptography}
+{wiki=Cipher}
+
+= Ciphertext
+{parent=Cryptography}
+{wiki=Ciphertext}
+
+= Ciphertext expansion
+{parent=Cryptography}
+{wiki=Ciphertext_expansion}
+
+= Client-side encryption
+{parent=Cryptography}
+{wiki=Client-side_encryption}
+
+= CloudMask
+{parent=Cryptography}
+{wiki=CloudMask}
+
+= Code (cryptography)
+{parent=Cryptography}
+{wiki=Code_(cryptography)}
+
+= Code word
+{parent=Cryptography}
+{wiki=Code_word}
+
+= Codebook
+{parent=Cryptography}
+{wiki=Codebook}
+
+= Codress message
+{parent=Cryptography}
+{wiki=Codress_message}
+
+= Colored Coins
+{parent=Cryptography}
+{wiki=Colored_Coins}
+
+= Communications security
+{parent=Cryptography}
+{wiki=Communications_security}
+
+= Completeness (cryptography)
+{parent=Cryptography}
+{wiki=Completeness_(cryptography)}
+
+= Computer security
+{parent=Cryptography}
+{wiki=Computer_security}
+
+= Cloud infrastructure attacks and failures
+{parent=Computer security}
+{wiki=Category:Cloud_infrastructure_attacks_and_failures}
+
+= Computer access control
+{parent=Computer security}
+{wiki=Computer_access_control}
+
+= Computer forensics
+{parent=Computer security}
+{wiki=Computer_forensics}
+
+= Computer network security
+{parent=Computer security}
+{wiki=Computer_network_security}
+
+= Computer security by country
+{parent=Computer security}
+{wiki=Category:Computer_security_by_country}
+
+= Computer security conferences
+{parent=Computer security}
+{wiki=Category:Computer_security_conferences}
+
+= Computer security exploits
+{parent=Computer security}
+{wiki=Category:Computer_security_exploits}
+
+= Computer security hardware
+{parent=Computer security}
+{wiki=Computer_security_hardware}
+
+= Computer security models
+{parent=Computer security}
+{wiki=Category:Computer_security_models}
+
+= Computer security organizations
+{parent=Computer security}
+{wiki=Category:Computer_security_organizations}
+
+= Computer security procedures
+{parent=Computer security}
+{wiki=Category:Computer_security_procedures}
+
+= Computer security qualifications
+{parent=Computer security}
+{wiki=Category:Computer_security_qualifications}
+
+= Computer security software
+{parent=Computer security}
+{wiki=Computer_security_software}
+
+= Computer security standards
+{parent=Computer security}
+{wiki=Category:Computer_security_standards}
+
+= Computer security stubs
+{parent=Computer security}
+{wiki=Category:Computer_security_stubs}
+
+= Computer surveillance
+{parent=Computer security}
+{wiki=Computer_surveillance}
+
+= Data security
+{parent=Computer security}
+{wiki=Data_security}
+
+= Electronic identification
+{parent=Computer security}
+{wiki=Electronic_identification}
+
+= IT risk management
+{parent=Computer security}
+{wiki=IT_risk_management}
+
+= InfoSec Twitter
+{parent=Computer security}
+{wiki=Category:InfoSec_Twitter}
+
+= Internet leaks
+{parent=Computer security}
+{wiki=Internet_leaks}
+
+= Mobile security
+{parent=Computer security}
+{wiki=Mobile_security}
+
+= People associated with computer security
+{parent=Computer security}
+{wiki=Category:People_associated_with_computer_security}
+
+= Security vulnerability databases
+{parent=Computer security}
+{wiki=Category:Security_vulnerability_databases}
+
+= Software obfuscation
+{parent=Computer security}
+{wiki=Software_obfuscation}
+
+= Works about computer security
+{parent=Computer security}
+{wiki=Category:Works_about_computer_security}
+
+= Access level
+{parent=Computer security}
+{wiki=Access_level}
+
+= Adrozek
+{parent=Computer security}
+{wiki=Adrozek}
+
+= Adversarial machine learning
+{parent=Computer security}
+{wiki=Adversarial_machine_learning}
+
+= Air India data breach
+{parent=Computer security}
+{wiki=Air_India_data_breach}
+
+= American Innovation and Competitiveness Act
+{parent=Computer security}
+{wiki=American_Innovation_and_Competitiveness_Act}
+
+= Anderson's rule (computer science)
+{parent=Computer security}
+{wiki=Anderson's_rule_(computer_science)}
+
+= Anomaly Detection at Multiple Scales
+{parent=Computer security}
+{wiki=Anomaly_Detection_at_Multiple_Scales}
+
+= Application portfolio attack surface
+{parent=Computer security}
+{wiki=Application_portfolio_attack_surface}
+
+= Aptum Technologies
+{parent=Computer security}
+{wiki=Aptum_Technologies}
+
+= Aurora Generator Test
+{parent=Computer security}
+{wiki=Aurora_Generator_Test}
+
+= Automotive security
+{parent=Computer security}
+{wiki=Automotive_security}
+
+= BeyondCorp
+{parent=Computer security}
+{wiki=BeyondCorp}
+
+= Biometric device
+{parent=Computer security}
+{wiki=Biometric_device}
+
+= BlueBorne (security vulnerability)
+{parent=Computer security}
+{wiki=BlueBorne_(security_vulnerability)}
+
+= BlueHat
+{parent=Computer security}
+{wiki=BlueHat}
+
+= Blue team (computer security)
+{parent=Computer security}
+{wiki=Blue_team_(computer_security)}
+
+= British Airways data breach
+{parent=Computer security}
+{wiki=British_Airways_data_breach}
+
+= CPU modes
+{parent=Computer security}
+{wiki=CPU_modes}
+
+= Camfecting
+{parent=Computer security}
+{wiki=Camfecting}
+
+= Capture the flag (cybersecurity)
+{parent=Computer security}
+{wiki=Capture_the_flag_(cybersecurity)}
+
+= Centurion guard
+{parent=Computer security}
+{wiki=Centurion_guard}
+
+= Ciscogate
+{parent=Computer security}
+{wiki=Ciscogate}
+
+= Client honeypot
+{parent=Computer security}
+{wiki=Client_honeypot}
+
+= CloudPassage
+{parent=Computer security}
+{wiki=CloudPassage}
+
+= Cloud computing security
+{parent=Computer security}
+{wiki=Cloud_computing_security}
+
+= Co-managed Security
+{parent=Computer security}
+{wiki=Co-managed_Security}
+
+= Collaboration-oriented architecture
+{parent=Computer security}
+{wiki=Collaboration-oriented_architecture}
+
+= Collateral freedom
+{parent=Computer security}
+{wiki=Collateral_freedom}
+
+= Commission on Enhancing National Cybersecurity
+{parent=Computer security}
+{wiki=Commission_on_Enhancing_National_Cybersecurity}
+
+= Computer Law & Security Review
+{parent=Computer security}
+{wiki=Computer_Law_&_Security_Review}
+
+= Computer security compromised by hardware failure
+{parent=Computer security}
+{wiki=Computer_security_compromised_by_hardware_failure}
+
+= Computer security incident management
+{parent=Computer security}
+{wiki=Computer_security_incident_management}
+
+= Confused deputy problem
+{parent=Computer security}
+{wiki=Confused_deputy_problem}
+
+= Content Disarm & Reconstruction
+{parent=Computer security}
+{wiki=Content_Disarm_&_Reconstruction}
+
+= Content Threat Removal
+{parent=Computer security}
+{wiki=Content_Threat_Removal}
+
+= Control-flow integrity
+{parent=Computer security}
+{wiki=Control-flow_integrity}
+
+= Cowrie (honeypot)
+{parent=Computer security}
+{wiki=Cowrie_(honeypot)}
+
+= Crackme
+{parent=Computer security}
+{wiki=Crackme}
+
+= Cure53
+{parent=Computer security}
+{wiki=Cure53}
+
+= CyberPatriot
+{parent=Computer security}
+{wiki=CyberPatriot}
+
+= Cyber Discovery
+{parent=Computer security}
+{wiki=Cyber_Discovery}
+
+= Cyber Intelligence Sharing and Protection Act
+{parent=Computer security}
+{wiki=Cyber_Intelligence_Sharing_and_Protection_Act}
+
+= Cyber Ireland
+{parent=Computer security}
+{wiki=Cyber_Ireland}
+
+= Cyber Resilience Act
+{parent=Computer security}
+{wiki=Cyber_Resilience_Act}
+
+= Cyber Storm Exercise
+{parent=Computer security}
+{wiki=Cyber_Storm_Exercise}
+
+= Cyber Threat Intelligence Integration Center
+{parent=Computer security}
+{wiki=Cyber_Threat_Intelligence_Integration_Center}
+
+= Cyber and Information Domain Service
+{parent=Computer security}
+{wiki=Cyber_and_Information_Domain_Service}
+
+= Cyber range
+{parent=Computer security}
+{wiki=Cyber_range}
+
+= Cyber self-defense
+{parent=Computer security}
+{wiki=Cyber_self-defense}
+
+= Cyberbiosecurity
+{parent=Computer security}
+{wiki=Cyberbiosecurity}
+
+= Cybercrime
+{parent=Computer security}
+{wiki=Cybercrime}
+
+= Cybersecurity Information Sharing Act
+{parent=Computer security}
+{wiki=Cybersecurity_Information_Sharing_Act}
+
+= Cybersex trafficking
+{parent=Computer security}
+{wiki=Cybersex_trafficking}
+
+= DREAD (risk assessment model)
+{parent=Computer security}
+{wiki=DREAD_(risk_assessment_model)}
+
+= Dancing pigs
+{parent=Computer security}
+{wiki=Dancing_pigs}
+
+= Data-centric security
+{parent=Computer security}
+{wiki=Data-centric_security}
+
+= Data commingling
+{parent=Computer security}
+{wiki=Data_commingling}
+
+= Data remanence
+{parent=Computer security}
+{wiki=Data_remanence}
+
+= Deception technology
+{parent=Computer security}
+{wiki=Deception_technology}
+
+= Defense strategy (computing)
+{parent=Computer security}
+{wiki=Defense_strategy_(computing)}
+
+= Defensive computing
+{parent=Computer security}
+{wiki=Defensive_computing}
+
+= Democratic Congressional Campaign Committee cyber attacks
+{parent=Computer security}
+{wiki=Democratic_Congressional_Campaign_Committee_cyber_attacks}
+
+= Democratic National Committee cyber attacks
+{parent=Computer security}
+{wiki=Democratic_National_Committee_cyber_attacks}
+
+= Digital self-defense
+{parent=Computer security}
+{wiki=Digital_self-defense}
+
+= Digital supply chain security
+{parent=Computer security}
+{wiki=Digital_supply_chain_security}
+
+= Dolev–Yao model
+{parent=Computer security}
+{wiki=Dolev–Yao_model}
+
+= Domain fronting
+{parent=Computer security}
+{wiki=Domain_fronting}
+
+= ERP security
+{parent=Computer security}
+{wiki=ERP_security}
+
+= EasyJet data breach
+{parent=Computer security}
+{wiki=EasyJet_data_breach}
+
+= Electric grid security in the United States
+{parent=Computer security}
+{wiki=Electric_grid_security_in_the_United_States}
+
+= Enterprise information security architecture
+{parent=Computer security}
+{wiki=Enterprise_information_security_architecture}
+
+= Fabric of Security
+{parent=Computer security}
+{wiki=Fabric_of_Security}
+
+= Fail-stop
+{parent=Computer security}
+{wiki=Fail-stop}
+
+= Federal Desktop Core Configuration
+{parent=Computer security}
+{wiki=Federal_Desktop_Core_Configuration}
+
+= Footprinting
+{parent=Computer security}
+{wiki=Footprinting}
+
+= Four Horsemen of the Infocalypse
+{parent=Computer security}
+{wiki=Four_Horsemen_of_the_Infocalypse}
+
+= Grayshift
+{parent=Computer security}
+{wiki=Grayshift}
+
+= HEAT LANrev
+{parent=Computer security}
+{wiki=HEAT_LANrev}
+
+= HTTP tunnel
+{parent=Computer security}
+{wiki=HTTP_tunnel}
+
+= Hacker Bible
+{parent=Computer security}
+{wiki=Hacker_Bible}
+
+= Hardware security
+{parent=Computer security}
+{wiki=Hardware_security}
+
+= High Assurance Guard
+{parent=Computer security}
+{wiki=High_Assurance_Guard}
+
+= Highly Evasive Adaptive Threat
+{parent=Computer security}
+{wiki=Highly_Evasive_Adaptive_Threat}
+
+= Homeland Open Security Technology
+{parent=Computer security}
+{wiki=Homeland_Open_Security_Technology}
+
+= Host Based Security System
+{parent=Computer security}
+{wiki=Host_Based_Security_System}
+
+= ITIL security management
+{parent=Computer security}
+{wiki=ITIL_security_management}
+
+= IT baseline protection
+{parent=Computer security}
+{wiki=IT_baseline_protection}
+
+= Indirect Branch Tracking
+{parent=Computer security}
+{wiki=Indirect_Branch_Tracking}
+
+= Information Exchange Gateway
+{parent=Computer security}
+{wiki=Information_Exchange_Gateway}
+
+= Information Security Automation Program
+{parent=Computer security}
+{wiki=Information_Security_Automation_Program}
+
+= Information security operations center
+{parent=Computer security}
+{wiki=Information_security_operations_center}
+
+= Insider threat
+{parent=Computer security}
+{wiki=Insider_threat}
+
+= Intel Management Engine
+{parent=Computer security}
+{wiki=Intel_Management_Engine}
+
+= Internet Security Awareness Training
+{parent=Computer security}
+{wiki=Internet_Security_Awareness_Training}
+
+= Intrusion tolerance
+{parent=Computer security}
+{wiki=Intrusion_tolerance}
+
+= Israeli cybersecurity industry
+{parent=Computer security}
+{wiki=Israeli_cybersecurity_industry}
+
+= Kill pill
+{parent=Computer security}
+{wiki=Kill_pill}
+
+= Language-based security
+{parent=Computer security}
+{wiki=Language-based_security}
+
+= Linked timestamping
+{parent=Computer security}
+{wiki=Linked_timestamping}
+
+= List of security assessment tools
+{parent=Computer security}
+{wiki=List_of_security_assessment_tools}
+
+= List of security hacking incidents
+{parent=Computer security}
+{wiki=List_of_security_hacking_incidents}
+
+= Macro and security
+{parent=Computer security}
+{wiki=Macro_and_security}
+
+= Microsoft Support Diagnostic Tool
+{parent=Computer security}
+{wiki=Microsoft_Support_Diagnostic_Tool}
+
+= MinID
+{parent=Computer security}
+{wiki=MinID}
+
+= Model-driven security
+{parent=Computer security}
+{wiki=Model-driven_security}
+
+= Multi-factor authentication fatigue attack
+{parent=Computer security}
+{wiki=Multi-factor_authentication_fatigue_attack}
+
+= National Collegiate Cyber Defense Competition
+{parent=Computer security}
+{wiki=National_Collegiate_Cyber_Defense_Competition}
+
+= National Cyber Security Awareness Month
+{parent=Computer security}
+{wiki=National_Cyber_Security_Awareness_Month}
+
+= National Cyber Security Policy 2013
+{parent=Computer security}
+{wiki=National_Cyber_Security_Policy_2013}
+
+= Network behavior anomaly detection
+{parent=Computer security}
+{wiki=Network_behavior_anomaly_detection}
+
+= Network eavesdropping
+{parent=Computer security}
+{wiki=Network_eavesdropping}
+
+= Nobody (username)
+{parent=Computer security}
+{wiki=Nobody_(username)}
+
+= Opal Storage Specification
+{parent=Computer security}
+{wiki=Opal_Storage_Specification}
+
+= Open-source software security
+{parent=Computer security}
+{wiki=Open-source_software_security}
+
+= Open Threat Exchange
+{parent=Computer security}
+{wiki=Open_Threat_Exchange}
+
+= Open security
+{parent=Computer security}
+{wiki=Open_security}
+
+= Operations security
+{parent=Computer security}
+{wiki=Operations_security}
+
+= Outline of computer security
+{parent=Computer security}
+{wiki=Outline_of_computer_security}
+
+= PRODIGAL
+{parent=Computer security}
+{wiki=PRODIGAL}
+
+= Parkerian Hexad
+{parent=Computer security}
+{wiki=Parkerian_Hexad}
+
+= Physical access
+{parent=Computer security}
+{wiki=Physical_access}
+
+= Physical information security
+{parent=Computer security}
+{wiki=Physical_information_security}
+
+= Principal (computer security)
+{parent=Computer security}
+{wiki=Principal_(computer_security)}
+
+= Public computer
+{parent=Computer security}
+{wiki=Public_computer}
+
+= Pwnie Awards
+{parent=Computer security}
+{wiki=Pwnie_Awards}
+
+= RFPolicy
+{parent=Computer security}
+{wiki=RFPolicy}
+
+= Refraction networking
+{parent=Computer security}
+{wiki=Refraction_networking}
+
+= Relying party
+{parent=Computer security}
+{wiki=Relying_party}
+
+= Risk factor (computing)
+{parent=Computer security}
+{wiki=Risk_factor_(computing)}
+
+= Runtime application self-protection
+{parent=Computer security}
+{wiki=Runtime_application_self-protection}
+
+= SCADA Strangelove
+{parent=Computer security}
+{wiki=SCADA_Strangelove}
+
+= SMBGhost
+{parent=Computer security}
+{wiki=SMBGhost}
+
+= STRIDE (security)
+{parent=Computer security}
+{wiki=STRIDE_(security)}
+
+= SafetyNet API
+{parent=Computer security}
+{wiki=SafetyNet_API}
+
+= Sahara Net
+{parent=Computer security}
+{wiki=Sahara_Net}
+
+= Seccomp
+{parent=Computer security}
+{wiki=Seccomp}
+
+= Secure coding
+{parent=Computer security}
+{wiki=Secure_coding}
+
+= Secure element
+{parent=Computer security}
+{wiki=Secure_element}
+
+= Secure environment
+{parent=Computer security}
+{wiki=Secure_environment}
+
+= Secure state
+{parent=Computer security}
+{wiki=Secure_state}
+
+= Secure transmission
+{parent=Computer security}
+{wiki=Secure_transmission}
+
+= Security.txt
+{parent=Computer security}
+{wiki=Security.txt}
+
+= Security Vision
+{parent=Computer security}
+{wiki=Security_Vision}
+
+= Security and Privacy in Computer Systems
+{parent=Computer security}
+{wiki=Security_and_Privacy_in_Computer_Systems}
+
+= Security awareness
+{parent=Computer security}
+{wiki=Security_awareness}
+
+= Security breach notification laws
+{parent=Computer security}
+{wiki=Security_breach_notification_laws}
+
+= Security bug
+{parent=Computer security}
+{wiki=Security_bug}
+
+= Security hacker
+{parent=Computer security}
+{wiki=Security_hacker}
+
+= Security information management
+{parent=Computer security}
+{wiki=Security_information_management}
+
+= Security log
+{parent=Computer security}
+{wiki=Security_log}
+
+= Security of the Java software platform
+{parent=Computer security}
+{wiki=Security_of_the_Java_software_platform}
+
+= Security switch
+{parent=Computer security}
+{wiki=Security_switch}
+
+= Security testing
+{parent=Computer security}
+{wiki=Security_testing}
+
+= Security type system
+{parent=Computer security}
+{wiki=Security_type_system}
+
+= Separation of protection and security
+{parent=Computer security}
+{wiki=Separation_of_protection_and_security}
+
+= Service account
+{parent=Computer security}
+{wiki=Service_account}
+
+= Shadow stack
+{parent=Computer security}
+{wiki=Shadow_stack}
+
+= Shell Control Box
+{parent=Computer security}
+{wiki=Shell_Control_Box}
+
+= Sherwood Applied Business Security Architecture
+{parent=Computer security}
+{wiki=Sherwood_Applied_Business_Security_Architecture}
+
+= Site Security Handbook
+{parent=Computer security}
+{wiki=Site_Security_Handbook}
+
+= Software-defined perimeter
+{parent=Computer security}
+{wiki=Software-defined_perimeter}
+
+= Software Guard Extensions
+{parent=Computer security}
+{wiki=Software_Guard_Extensions}
+
+= Spanish Cybersecurity Research Conference
+{parent=Computer security}
+{wiki=Spanish_Cybersecurity_Research_Conference}
+
+= Spanish Network of Excellence on Cybersecurity Research
+{parent=Computer security}
+{wiki=Spanish_Network_of_Excellence_on_Cybersecurity_Research}
+
+= Stegomalware
+{parent=Computer security}
+{wiki=Stegomalware}
+
+= Supervisor Mode Access Prevention
+{parent=Computer security}
+{wiki=Supervisor_Mode_Access_Prevention}
+
+= System Service Descriptor Table
+{parent=Computer security}
+{wiki=System_Service_Descriptor_Table}
+
+= System integrity
+{parent=Computer security}
+{wiki=System_integrity}
+
+= Thermal attack
+{parent=Computer security}
+{wiki=Thermal_attack}
+
+= Thunderspy
+{parent=Computer security}
+{wiki=Thunderspy}
+
+= Trademark (computer security)
+{parent=Computer security}
+{wiki=Trademark_(computer_security)}
+
+= Trust boundary
+{parent=Computer security}
+{wiki=Trust_boundary}
+
+= Trust on first use
+{parent=Computer security}
+{wiki=Trust_on_first_use}
+
+= Trusted client
+{parent=Computer security}
+{wiki=Trusted_client}
+
+= Trustworthy computing
+{parent=Computer security}
+{wiki=Trustworthy_computing}
+
+= Tunneling protocol
+{parent=Computer security}
+{wiki=Tunneling_protocol}
+
+= Typed assembly language
+{parent=Computer security}
+{wiki=Typed_assembly_language}
+
+= US Cyber Challenge
+{parent=Computer security}
+{wiki=US_Cyber_Challenge}
+
+= Unspent transaction output
+{parent=Computer security}
+{wiki=Unspent_transaction_output}
+
+= Vanish (computer science)
+{parent=Computer security}
+{wiki=Vanish_(computer_science)}
+
+= Vastaamo data breach
+{parent=Computer security}
+{wiki=Vastaamo_data_breach}
+
+= Vulnerabilities Equities Process
+{parent=Computer security}
+{wiki=Vulnerabilities_Equities_Process}
+
+= Vulnerability Discovery Model
+{parent=Computer security}
+{wiki=Vulnerability_Discovery_Model}
+
+= Vulnerability assessment (computing)
+{parent=Computer security}
+{wiki=Vulnerability_assessment_(computing)}
+
+= WS-SecurityPolicy
+{parent=Computer security}
+{wiki=WS-SecurityPolicy}
+
+= Ware report
+{parent=Computer security}
+{wiki=Ware_report}
+
+= Wargame (hacking)
+{parent=Computer security}
+{wiki=Wargame_(hacking)}
+
+= Zardoz (computer security)
+{parent=Computer security}
+{wiki=Zardoz_(computer_security)}
+
+= Zero-day (computing)
+{parent=Computer security}
+{wiki=Zero-day_(computing)}
+
+= Zero-knowledge service
+{parent=Computer security}
+{wiki=Zero-knowledge_service}
+
+= Conjugate coding
+{parent=Cryptography}
+{wiki=Conjugate_coding}
+
+= Convergent encryption
+{parent=Cryptography}
+{wiki=Convergent_encryption}
+
+= Correlation immunity
+{parent=Cryptography}
+{wiki=Correlation_immunity}
+
+= Cover-coding
+{parent=Cryptography}
+{wiki=Cover-coding}
+
+= Cover (telecommunications)
+{parent=Cryptography}
+{wiki=Cover_(telecommunications)}
+
+= Critical security parameter
+{parent=Cryptography}
+{wiki=Critical_security_parameter}
+
+= CrySyS Lab
+{parent=Cryptography}
+{wiki=CrySyS_Lab}
+
+= CryptoParty
+{parent=Cryptography}
+{wiki=CryptoParty}
+
+= Crypto naming controversy
+{parent=Cryptography}
+{wiki=Crypto_naming_controversy}
+
+= Cryptochannel
+{parent=Cryptography}
+{wiki=Cryptochannel}
+
+= Cryptographic High Value Product
+{parent=Cryptography}
+{wiki=Cryptographic_High_Value_Product}
+
+= Cryptographic Module Testing Laboratory
+{parent=Cryptography}
+{wiki=Cryptographic_Module_Testing_Laboratory}
+
+= Cryptographic Service Provider
+{parent=Cryptography}
+{wiki=Cryptographic_Service_Provider}
+
+= Cryptographic module
+{parent=Cryptography}
+{wiki=Cryptographic_module}
+
+= Cryptographic nonce
+{parent=Cryptography}
+{wiki=Cryptographic_nonce}
+
+= Cryptosystem
+{parent=Cryptography}
+{wiki=Cryptosystem}
+
+= Cryptovirology
+{parent=Cryptography}
+{wiki=Cryptovirology}
+
+= Cypherpunks (book)
+{parent=Cryptography}
+{wiki=Cypherpunks_(book)}
+
+= Data at rest
+{parent=Cryptography}
+{wiki=Data_at_rest}
+
+= Data in use
+{parent=Cryptography}
+{wiki=Data_in_use}
+
+= Database encryption
+{parent=Cryptography}
+{wiki=Database_encryption}
+
+= Decipherment
+{parent=Cryptography}
+{wiki=Decipherment}
+
+= Deniable encryption
+{parent=Cryptography}
+{wiki=Deniable_encryption}
+
+= Designated verifier signature
+{parent=Cryptography}
+{wiki=Designated_verifier_signature}
+
+= Dining cryptographers problem
+{parent=Cryptography}
+{wiki=Dining_cryptographers_problem}
+
+= Diplomatic bag
+{parent=Cryptography}
+{wiki=Diplomatic_bag}
+
+= Direct Anonymous Attestation
+{parent=Cryptography}
+{wiki=Direct_Anonymous_Attestation}
+
+= Discrete logarithm
+{parent=Cryptography}
+{wiki=Discrete_logarithm}
+
+= Discriminant Book
+{parent=Cryptography}
+{wiki=Discriminant_Book}
+
+= ESign (India)
+{parent=Cryptography}
+{wiki=ESign_(India)}
+
+= Election security
+{parent=Cryptography}
+{wiki=Election_security}
+
+= Electronic signature
+{parent=Cryptography}
+{wiki=Electronic_signature}
+
+= Encrypted function
+{parent=Cryptography}
+{wiki=Encrypted_function}
+
+= Encryption
+{parent=Cryptography}
+{wiki=Encryption}
+
+= End-to-end encryption
+{parent=Cryptography}
+{wiki=End-to-end_encryption}
+
+= Enhanced privacy ID
+{parent=Cryptography}
+{wiki=Enhanced_privacy_ID}
+
+= Entropic security
+{parent=Cryptography}
+{wiki=Entropic_security}
+
+= Feistel cipher
+{parent=Cryptography}
+{wiki=Feistel_cipher}
+
+= Floradora
+{parent=Cryptography}
+{wiki=Floradora}
+
+= Forking lemma
+{parent=Cryptography}
+{wiki=Forking_lemma}
+
+= Format-preserving encryption
+{parent=Cryptography}
+{wiki=Format-preserving_encryption}
+
+= Format-transforming encryption
+{parent=Cryptography}
+{wiki=Format-transforming_encryption}
+
+= Forward anonymity
+{parent=Cryptography}
+{wiki=Forward_anonymity}
+
+= Group key
+{parent=Cryptography}
+{wiki=Group_key}
+
+= HKDF
+{parent=Cryptography}
+{wiki=HKDF}
+
+= HTTP Strict Transport Security
+{parent=Cryptography}
+{wiki=HTTP_Strict_Transport_Security}
+
+= Hardware-based encryption
+{parent=Cryptography}
+{wiki=Hardware-based_encryption}
+
+= Harvest now, decrypt later
+{parent=Cryptography}
+{wiki=Harvest_now,_decrypt_later}
+
+= HashClash
+{parent=Cryptography}
+{wiki=HashClash}
+
+= Hashgraph
+{parent=Cryptography}
+{wiki=Hashgraph}
+
+= Honey encryption
+{parent=Cryptography}
+{wiki=Honey_encryption}
+
+= Human rights and encryption
+{parent=Cryptography}
+{wiki=Human_rights_and_encryption}
+
+= Hybrid argument (Cryptography)
+{parent=Cryptography}
+{wiki=Hybrid_argument_(Cryptography)}
+
+= Hybrid cryptosystem
+{parent=Cryptography}
+{wiki=Hybrid_cryptosystem}
+
+= ISO/IEC 19790
+{parent=Cryptography}
+{wiki=ISO/IEC_19790}
+
+= Information leakage
+{parent=Cryptography}
+{wiki=Information_leakage}
+
+= Information security
+{parent=Cryptography}
+{wiki=Information_security}
+
+= Initialization vector
+{parent=Cryptography}
+{wiki=Initialization_vector}
+
+= KLJN Secure Key Exchange
+{parent=Cryptography}
+{wiki=KLJN_Secure_Key_Exchange}
+
+= Kerckhoffs's principle
+{parent=Cryptography}
+{wiki=Kerckhoffs's_principle}
+
+= Key-agreement protocol
+{parent=Cryptography}
+{wiki=Key-agreement_protocol}
+
+= Keyring (cryptography)
+{parent=Cryptography}
+{wiki=Keyring_(cryptography)}
+
+= Knapsack cryptosystems
+{parent=Cryptography}
+{wiki=Knapsack_cryptosystems}
+
+= Kruskal count
+{parent=Cryptography}
+{wiki=Kruskal_count}
+
+= Kurzsignale
+{parent=Cryptography}
+{wiki=Kurzsignale}
+
+= Letter frequency
+{parent=Cryptography}
+{wiki=Letter_frequency}
+
+= Link encryption
+{parent=Cryptography}
+{wiki=Link_encryption}
+
+= MDS matrix
+{parent=Cryptography}
+{wiki=MDS_matrix}
+
+= MIME Object Security Services
+{parent=Cryptography}
+{wiki=MIME_Object_Security_Services}
+
+= Malleability (cryptography)
+{parent=Cryptography}
+{wiki=Malleability_(cryptography)}
+
+= Master/Session
+{parent=Cryptography}
+{wiki=Master/Session}
+
+= Memory-hard function
+{parent=Cryptography}
+{wiki=Memory-hard_function}
+
+= Messaging Layer Security
+{parent=Cryptography}
+{wiki=Messaging_Layer_Security}
+
+= Microsoft Security Development Lifecycle
+{parent=Cryptography}
+{wiki=Microsoft_Security_Development_Lifecycle}
+
+= Multiple encryption
+{parent=Cryptography}
+{wiki=Multiple_encryption}
+
+= Musical cryptogram
+{parent=Cryptography}
+{wiki=Musical_cryptogram}
+
+= NIPRNet
+{parent=Cryptography}
+{wiki=NIPRNet}
+
+= Offensive Security
+{parent=Cryptography}
+{wiki=Offensive_Security}
+
+= One-time pad
+{parent=Cryptography}
+{wiki=One-time_pad}
+
+= Online credentials for learning
+{parent=Cryptography}
+{wiki=Online_credentials_for_learning}
+
+= PGP word list
+{parent=Cryptography}
+{wiki=PGP_word_list}
+
+= PKIoverheid
+{parent=Cryptography}
+{wiki=PKIoverheid}
+
+= POODLE
+{parent=Cryptography}
+{wiki=POODLE}
+
+= PRESENT
+{parent=Cryptography}
+{wiki=PRESENT}
+
+= PURB (cryptography)
+{parent=Cryptography}
+{wiki=PURB_(cryptography)}
+
+= Padding (cryptography)
+{parent=Cryptography}
+{wiki=Padding_(cryptography)}
+
+= Passphrase
+{parent=Cryptography}
+{wiki=Passphrase}
+
+= Password-authenticated key agreement
+{parent=Cryptography}
+{wiki=Password-authenticated_key_agreement}
+
+= Password-based cryptography
+{parent=Cryptography}
+{wiki=Password-based_cryptography}
+
+= Password strength
+{parent=Cryptography}
+{wiki=Password_strength}
+
+= Pepper (cryptography)
+{parent=Cryptography}
+{wiki=Pepper_(cryptography)}
+
+= Philco computers
+{parent=Cryptography}
+{wiki=Philco_computers}
+
+= PhotoDNA
+{parent=Cryptography}
+{wiki=PhotoDNA}
+
+= Pizzino
+{parent=Cryptography}
+{wiki=Pizzino}
+
+= Plaintext
+{parent=Cryptography}
+{wiki=Plaintext}
+
+= Point-to-point encryption
+{parent=Cryptography}
+{wiki=Point-to-point_encryption}
+
+= Polygraphic substitution
+{parent=Cryptography}
+{wiki=Polygraphic_substitution}
+
+= Prince (cipher)
+{parent=Cryptography}
+{wiki=Prince_(cipher)}
+
+= PrivateCore
+{parent=Cryptography}
+{wiki=PrivateCore}
+
+= Private set intersection
+{parent=Cryptography}
+{wiki=Private_set_intersection}
+
+= Privilege Management Infrastructure
+{parent=Cryptography}
+{wiki=Privilege_Management_Infrastructure}
+
+= Probabilistic signature scheme
+{parent=Cryptography}
+{wiki=Probabilistic_signature_scheme}
+
+= Proof of identity (blockchain consensus)
+{parent=Cryptography}
+{wiki=Proof_of_identity_(blockchain_consensus)}
+
+= Proof of knowledge
+{parent=Cryptography}
+{wiki=Proof_of_knowledge}
+
+= Proof of personhood
+{parent=Cryptography}
+{wiki=Proof_of_personhood}
+
+= Proof of space
+{parent=Cryptography}
+{wiki=Proof_of_space}
+
+= Proof of stake
+{parent=Cryptography}
+{wiki=Proof_of_stake}
+
+= Proof of work
+{parent=Cryptography}
+{wiki=Proof_of_work}
+
+= Protocol composition logic
+{parent=Cryptography}
+{wiki=Protocol_composition_logic}
+
+= Quark (hash function)
+{parent=Cryptography}
+{wiki=Quark_(hash_function)}
+
+= RCCA security
+{parent=Cryptography}
+{wiki=RCCA_security}
+
+= RSA Award for Excellence in Mathematics
+{parent=Cryptography}
+{wiki=RSA_Award_for_Excellence_in_Mathematics}
+
+= Randomness
+{parent=Cryptography}
+{wiki=Randomness}
+
+= Coincidence
+{parent=Randomness}
+{wiki=Coincidence}
+
+= Luck
+{parent=Randomness}
+{wiki=Luck}
+
+= Statistical randomness
+{parent=Randomness}
+{wiki=Statistical_randomness}
+
+= Apophenia
+{parent=Randomness}
+{wiki=Apophenia}
+
+= Casualism (philosophy)
+{parent=Randomness}
+{wiki=Casualism_(philosophy)}
+
+= Complex random variable
+{parent=Randomness}
+{wiki=Complex_random_variable}
+
+= Complex random vector
+{parent=Randomness}
+{wiki=Complex_random_vector}
+
+= Deterministic noise
+{parent=Randomness}
+{wiki=Deterministic_noise}
+
+= Differential effects
+{parent=Randomness}
+{wiki=Differential_effects}
+
+= History of randomness
+{parent=Randomness}
+{wiki=History_of_randomness}
+
+= Incompatibilism
+{parent=Randomness}
+{wiki=Incompatibilism}
+
+= Indeterminacy (philosophy)
+{parent=Randomness}
+{wiki=Indeterminacy_(philosophy)}
+
+= Indeterminism
+{parent=Randomness}
+{wiki=Indeterminism}
+
+= International Random Film Festival
+{parent=Randomness}
+{wiki=International_Random_Film_Festival}
+
+= Odds
+{parent=Randomness}
+{wiki=Odds}
+
+= Philosophical interpretation of classical physics
+{parent=Randomness}
+{wiki=Philosophical_interpretation_of_classical_physics}
+
+= Random stimulus
+{parent=Randomness}
+{wiki=Random_stimulus}
+
+= Sunspots (economics)
+{parent=Randomness}
+{wiki=Sunspots_(economics)}
+
+= Willy-nilly (idiom)
+{parent=Randomness}
+{wiki=Willy-nilly_(idiom)}
+
+= Red/black concept
+{parent=Cryptography}
+{wiki=Red/black_concept}
+
+= S/MIME
+{parent=Cryptography}
+{wiki=S/MIME}
+
+= SFINKS
+{parent=Cryptography}
+{wiki=SFINKS}
+
+= SIGINT Activity Designator
+{parent=Cryptography}
+{wiki=SIGINT_Activity_Designator}
+
+= SIPRNet
+{parent=Cryptography}
+{wiki=SIPRNet}
+
+= SPKAC
+{parent=Cryptography}
+{wiki=SPKAC}
+
+= Salt (cryptography)
+{parent=Cryptography}
+{wiki=Salt_(cryptography)}
+
+= Secret sharing
+{parent=Cryptography}
+{wiki=Secret_sharing}
+
+= Proactive secret sharing
+{parent=Secret sharing}
+{wiki=Proactive_secret_sharing}
+
+= Shamir's secret sharing
+{parent=Secret sharing}
+{wiki=Shamir's_secret_sharing}
+
+= Secure Hash Algorithms
+{parent=Cryptography}
+{wiki=Secure_Hash_Algorithms}
+
+= Secure channel
+{parent=Cryptography}
+{wiki=Secure_channel}
+
+= Secure two-party computation
+{parent=Cryptography}
+{wiki=Secure_two-party_computation}
+
+= Secure voice
+{parent=Cryptography}
+{wiki=Secure_voice}
+
+= Security association
+{parent=Cryptography}
+{wiki=Security_association}
+
+= Security level
+{parent=Cryptography}
+{wiki=Security_level}
+
+= Security parameter
+{parent=Cryptography}
+{wiki=Security_parameter}
+
+= Security protocol notation
+{parent=Cryptography}
+{wiki=Security_protocol_notation}
+
+= Security through obscurity
+{parent=Cryptography}
+{wiki=Security_through_obscurity}
+
+= Server-Gated Cryptography
+{parent=Cryptography}
+{wiki=Server-Gated_Cryptography}
+
+= Server-based signatures
+{parent=Cryptography}
+{wiki=Server-based_signatures}
+
+= Short Weather Cipher
+{parent=Cryptography}
+{wiki=Short_Weather_Cipher}
+
+= Signals intelligence
+{parent=Cryptography}
+{wiki=Signals_intelligence}
+
+= Electronic intelligence ships
+{parent=Signals intelligence}
+{wiki=Category:Electronic_intelligence_ships}
+
+= Longview-class missile range instrumentation ships
+{parent=Signals intelligence}
+{wiki=Category:Longview-class_missile_range_instrumentation_ships}
+
+= Signals intelligence agencies
+{parent=Signals intelligence}
+{wiki=Category:Signals_intelligence_agencies}
+
+= Signals intelligence installations
+{parent=Signals intelligence}
+{wiki=Category:Signals_intelligence_installations}
+
+= Signals intelligence satellites
+{parent=Signals intelligence}
+{wiki=Category:Signals_intelligence_satellites}
+
+= Signals intelligence units and formations
+{parent=Signals intelligence}
+{wiki=Category:Signals_intelligence_units_and_formations}
+
+= Watertown-class missile range instrumentation ships
+{parent=Signals intelligence}
+{wiki=Category:Watertown-class_missile_range_instrumentation_ships}
+
+= 2011 Slovenian YouTube incident
+{parent=Signals intelligence}
+{wiki=2011_Slovenian_YouTube_incident}
+
+= ASTAC
+{parent=Signals intelligence}
+{wiki=ASTAC}
+
+= Balzam-class intelligence ship
+{parent=Signals intelligence}
+{wiki=Balzam-class_intelligence_ship}
+
+= Beechcraft C-12 Huron
+{parent=Signals intelligence}
+{wiki=Beechcraft_C-12_Huron}
+
+= Beechcraft RC-12 Guardrail
+{parent=Signals intelligence}
+{wiki=Beechcraft_RC-12_Guardrail}
+
+= Boeing RC-135
+{parent=Signals intelligence}
+{wiki=Boeing_RC-135}
+
+= CFS Alert
+{parent=Signals intelligence}
+{wiki=CFS_Alert}
+
+= CFS Frobisher Bay
+{parent=Signals intelligence}
+{wiki=CFS_Frobisher_Bay}
+
+= CFS Leitrim
+{parent=Signals intelligence}
+{wiki=CFS_Leitrim}
+
+= CFS Masset
+{parent=Signals intelligence}
+{wiki=CFS_Masset}
+
+= Canyon (satellite)
+{parent=Signals intelligence}
+{wiki=Canyon_(satellite)}
+
+= Center S
+{parent=Signals intelligence}
+{wiki=Center_S}
+
+= Chatter (signals intelligence)
+{parent=Signals intelligence}
+{wiki=Chatter_(signals_intelligence)}
+
+= Clémentine (satellite)
+{parent=Signals intelligence}
+{wiki=Clémentine_(satellite)}
+
+= Data Warehouse System Electronic Surveillance Data Management System
+{parent=Signals intelligence}
+{wiki=Data_Warehouse_System_Electronic_Surveillance_Data_Management_System}
+
+= Defense of Democracies
+{parent=Signals intelligence}
+{wiki=Defense_of_Democracies}
+
+= ECHELON
+{parent=Signals intelligence}
+{wiki=ECHELON}
+
+= English Electric Canberra
+{parent=Signals intelligence}
+{wiki=English_Electric_Canberra}
+
+= Foreign Intelligence Surveillance Act
+{parent=Signals intelligence}
+{wiki=Foreign_Intelligence_Surveillance_Act}
+
+= Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008
+{parent=Signals intelligence}
+{wiki=Foreign_Intelligence_Surveillance_Act_of_1978_Amendments_Act_of_2008}
+
+= Frenchelon
+{parent=Signals intelligence}
+{wiki=Frenchelon}
+
+= General Atomics MQ-1 Predator
+{parent=Signals intelligence}
+{wiki=General_Atomics_MQ-1_Predator}
+
+= General Atomics MQ-20 Avenger
+{parent=Signals intelligence}
+{wiki=General_Atomics_MQ-20_Avenger}
+
+= General Atomics MQ-9 Reaper
+{parent=Signals intelligence}
+{wiki=General_Atomics_MQ-9_Reaper}
+
+= Gottfried Schapper
+{parent=Signals intelligence}
+{wiki=Gottfried_Schapper}
+
+= Hainan Island incident
+{parent=Signals intelligence}
+{wiki=Hainan_Island_incident}
+
+= Hawker Siddeley Nimrod
+{parent=Signals intelligence}
+{wiki=Hawker_Siddeley_Nimrod}
+
+= Hawker Siddeley Nimrod R1
+{parent=Signals intelligence}
+{wiki=Hawker_Siddeley_Nimrod_R1}
+
+= Heer and Luftwaffe Signals School
+{parent=Signals intelligence}
+{wiki=Heer_and_Luftwaffe_Signals_School}
+
+= Hohenstadt Transmission Tower
+{parent=Signals intelligence}
+{wiki=Hohenstadt_Transmission_Tower}
+
+= INS Anvesh (A41)
+{parent=Signals intelligence}
+{wiki=INS_Anvesh_(A41)}
+
+= Khibiny (electronic countermeasures system)
+{parent=Signals intelligence}
+{wiki=Khibiny_(electronic_countermeasures_system)}
+
+= List of government mass surveillance projects
+{parent=Signals intelligence}
+{wiki=List_of_government_mass_surveillance_projects}
+
+= Listening station
+{parent=Signals intelligence}
+{wiki=Listening_station}
+
+= Lockheed A-12
+{parent=Signals intelligence}
+{wiki=Lockheed_A-12}
+
+= Lockheed CP-140 Aurora
+{parent=Signals intelligence}
+{wiki=Lockheed_CP-140_Aurora}
+
+= Lockheed EP-3
+{parent=Signals intelligence}
+{wiki=Lockheed_EP-3}
+
+= Lockheed P-3 Orion
+{parent=Signals intelligence}
+{wiki=Lockheed_P-3_Orion}
+
+= Lockheed SR-71 Blackbird
+{parent=Signals intelligence}
+{wiki=Lockheed_SR-71_Blackbird}
+
+= Lockheed U-2
+{parent=Signals intelligence}
+{wiki=Lockheed_U-2}
+
+= National Precursor Log Exchange
+{parent=Signals intelligence}
+{wiki=National_Precursor_Log_Exchange}
+
+= Non-communications signals
+{parent=Signals intelligence}
+{wiki=Non-communications_signals}
+
+= Northrop Grumman RQ-180
+{parent=Signals intelligence}
+{wiki=Northrop_Grumman_RQ-180}
+
+= Northrop Grumman RQ-4 Global Hawk
+{parent=Signals intelligence}
+{wiki=Northrop_Grumman_RQ-4_Global_Hawk}
+
+= Onyx (interception system)
+{parent=Signals intelligence}
+{wiki=Onyx_(interception_system)}
+
+= Operation Ivy Bells
+{parent=Signals intelligence}
+{wiki=Operation_Ivy_Bells}
+
+= Operation Jungle
+{parent=Signals intelligence}
+{wiki=Operation_Jungle}
+
+= Operation RAFTER
+{parent=Signals intelligence}
+{wiki=Operation_RAFTER}
+
+= Primor'ye-class surveillance ship
+{parent=Signals intelligence}
+{wiki=Primor'ye-class_surveillance_ship}
+
+= Project AQUILINE
+{parent=Signals intelligence}
+{wiki=Project_AQUILINE}
+
+= Project RAINBOW
+{parent=Signals intelligence}
+{wiki=Project_RAINBOW}
+
+= SEXINT
+{parent=Signals intelligence}
+{wiki=SEXINT}
+
+= SOSUS
+{parent=Signals intelligence}
+{wiki=SOSUS}
+
+= Shaanxi Y-9JZ
+{parent=Signals intelligence}
+{wiki=Shaanxi_Y-9JZ}
+
+= Short-range agent communications
+{parent=Signals intelligence}
+{wiki=Short-range_agent_communications}
+
+= Signals intelligence in modern history
+{parent=Signals intelligence}
+{wiki=Signals_intelligence_in_modern_history}
+
+= Special Collection Service
+{parent=Signals intelligence}
+{wiki=Special_Collection_Service}
+
+= Spy ship
+{parent=Signals intelligence}
+{wiki=Spy_ship}
+
+= Stateroom (surveillance program)
+{parent=Signals intelligence}
+{wiki=Stateroom_(surveillance_program)}
+
+= Surveillance aircraft
+{parent=Signals intelligence}
+{wiki=Surveillance_aircraft}
+
+= Technical research ship
+{parent=Signals intelligence}
+{wiki=Technical_research_ship}
+
+= Telemetry intelligence
+{parent=Signals intelligence}
+{wiki=Telemetry_intelligence}
+
+= Tethered Aerostat Radar System
+{parent=Signals intelligence}
+{wiki=Tethered_Aerostat_Radar_System}
+
+= Titan traffic database
+{parent=Signals intelligence}
+{wiki=Titan_traffic_database}
+
+= Tracking ship
+{parent=Signals intelligence}
+{wiki=Tracking_ship}
+
+= Triggerfish (surveillance)
+{parent=Signals intelligence}
+{wiki=Triggerfish_(surveillance)}
+
+= USNS Coastal Crusader
+{parent=Signals intelligence}
+{wiki=USNS_Coastal_Crusader}
+
+= USNS Coastal Sentry
+{parent=Signals intelligence}
+{wiki=USNS_Coastal_Sentry}
+
+= USNS Range Recoverer
+{parent=Signals intelligence}
+{wiki=USNS_Range_Recoverer}
+
+= USNS Sampan Hitch
+{parent=Signals intelligence}
+{wiki=USNS_Sampan_Hitch}
+
+= USNS Sgt. Joseph E. Muller
+{parent=Signals intelligence}
+{wiki=USNS_Sgt._Joseph_E._Muller}
+
+= USNS Sword Knot
+{parent=Signals intelligence}
+{wiki=USNS_Sword_Knot}
+
+= USNS Timber Hitch
+{parent=Signals intelligence}
+{wiki=USNS_Timber_Hitch}
+
+= USS Halibut (SSGN-587)
+{parent=Signals intelligence}
+{wiki=USS_Halibut_(SSGN-587)}
+
+= USS Liberty (AGTR-5)
+{parent=Signals intelligence}
+{wiki=USS_Liberty_(AGTR-5)}
+
+= USS Sherburne
+{parent=Signals intelligence}
+{wiki=USS_Sherburne}
+
+= USS Swordfish (SSN-579)
+{parent=Signals intelligence}
+{wiki=USS_Swordfish_(SSN-579)}
+
+= US signals intelligence in the Cold War
+{parent=Signals intelligence}
+{wiki=US_signals_intelligence_in_the_Cold_War}
+
+= United States Army Signal Corps
+{parent=Signals intelligence}
+{wiki=United_States_Army_Signal_Corps}
+
+= Vishnya-class intelligence ship
+{parent=Signals intelligence}
+{wiki=Vishnya-class_intelligence_ship}
+
+= Warrenton Training Center
+{parent=Signals intelligence}
+{wiki=Warrenton_Training_Center}
+
+= Yury Ivanov-class intelligence ship
+{parent=Signals intelligence}
+{wiki=Yury_Ivanov-class_intelligence_ship}
+
+= Signatures with efficient protocols
+{parent=Cryptography}
+{wiki=Signatures_with_efficient_protocols}
+
+= Smart-ID
+{parent=Cryptography}
+{wiki=Smart-ID}
+
+= Snake oil (cryptography)
+{parent=Cryptography}
+{wiki=Snake_oil_(cryptography)}
+
+= Software token
+{parent=Cryptography}
+{wiki=Software_token}
+
+= Strong cryptography
+{parent=Cryptography}
+{wiki=Strong_cryptography}
+
+= Strong secrecy
+{parent=Cryptography}
+{wiki=Strong_secrecy}
+
+= Subliminal channel
+{parent=Cryptography}
+{wiki=Subliminal_channel}
+
+= Superincreasing sequence
+{parent=Cryptography}
+{wiki=Superincreasing_sequence}
+
+= Symmetric Boolean function
+{parent=Cryptography}
+{wiki=Symmetric_Boolean_function}
+
+= Tableau de Concordance
+{parent=Cryptography}
+{wiki=Tableau_de_Concordance}
+
+= Tokenization (data security)
+{parent=Cryptography}
+{wiki=Tokenization_(data_security)}
+
+= Trace zero cryptography
+{parent=Cryptography}
+{wiki=Trace_zero_cryptography}
+
+= Transmission security
+{parent=Cryptography}
+{wiki=Transmission_security}
+
+= Tropical cryptography
+{parent=Cryptography}
+{wiki=Tropical_cryptography}
+
+= Trusted Computing
+{parent=Cryptography}
+{wiki=Trusted_Computing}
+
+= Undeniable signature
+{parent=Cryptography}
+{wiki=Undeniable_signature}
+
+= Unknown key-share attack
+{parent=Cryptography}
+{wiki=Unknown_key-share_attack}
+
+= Verifiable secret sharing
+{parent=Cryptography}
+{wiki=Verifiable_secret_sharing}
+
+= Visual cryptography
+{parent=Cryptography}
+{wiki=Visual_cryptography}
+
+= Voice inversion
+{parent=Cryptography}
+{wiki=Voice_inversion}
+
+= WYSIWYS
+{parent=Cryptography}
+{wiki=WYSIWYS}
+
+= Zcash
+{parent=Cryptography}
+{wiki=Zcash}

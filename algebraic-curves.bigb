@@ -1,0 +1,514 @@
+= Algebraic curves
+{wiki=Algebraic_curves}
+
+= Cubic curves
+{parent=Algebraic curves}
+{wiki=Category:Cubic_curves}
+
+= Cissoid of Diocles
+{parent=Cubic curves}
+{wiki=Cissoid_of_Diocles}
+
+= Conchoid of de Sluze
+{parent=Cubic curves}
+{wiki=Conchoid_of_de_Sluze}
+
+= Cubic plane curve
+{parent=Cubic curves}
+{wiki=Cubic_plane_curve}
+
+= Folium of Descartes
+{parent=Cubic curves}
+{wiki=Folium_of_Descartes}
+
+= Semicubical parabola
+{parent=Cubic curves}
+{wiki=Semicubical_parabola}
+
+= Trident curve
+{parent=Cubic curves}
+{wiki=Trident_curve}
+
+= Trisectrix of Maclaurin
+{parent=Cubic curves}
+{wiki=Trisectrix_of_Maclaurin}
+
+= Tschirnhausen cubic
+{parent=Cubic curves}
+{wiki=Tschirnhausen_cubic}
+
+= Witch of Agnesi
+{parent=Cubic curves}
+{wiki=Witch_of_Agnesi}
+
+= Riemann surfaces
+{parent=Algebraic curves}
+{wiki=Riemann_surfaces}
+
+= Kleinian groups
+{parent=Riemann surfaces}
+{wiki=Kleinian_groups}
+
+= Behnke–Stein theorem on Stein manifolds
+{parent=Riemann surfaces}
+{wiki=Behnke–Stein_theorem_on_Stein_manifolds}
+
+= Bolza surface
+{parent=Riemann surfaces}
+{wiki=Bolza_surface}
+
+= Cusp neighborhood
+{parent=Riemann surfaces}
+{wiki=Cusp_neighborhood}
+
+= Differential forms on a Riemann surface
+{parent=Riemann surfaces}
+{wiki=Differential_forms_on_a_Riemann_surface}
+
+= Fenchel–Nielsen coordinates
+{parent=Riemann surfaces}
+{wiki=Fenchel–Nielsen_coordinates}
+
+= First Hurwitz triplet
+{parent=Riemann surfaces}
+{wiki=First_Hurwitz_triplet}
+
+= Fuchsian group
+{parent=Riemann surfaces}
+{wiki=Fuchsian_group}
+
+= Fuchsian model
+{parent=Riemann surfaces}
+{wiki=Fuchsian_model}
+
+= Gauss–Bonnet theorem
+{parent=Riemann surfaces}
+{wiki=Gauss–Bonnet_theorem}
+
+= Hurwitz quaternion order
+{parent=Riemann surfaces}
+{wiki=Hurwitz_quaternion_order}
+
+= Hurwitz surface
+{parent=Riemann surfaces}
+{wiki=Hurwitz_surface}
+
+= Indigenous bundle
+{parent=Riemann surfaces}
+{wiki=Indigenous_bundle}
+
+= Macbeath surface
+{parent=Riemann surfaces}
+{wiki=Macbeath_surface}
+
+= Mumford's compactness theorem
+{parent=Riemann surfaces}
+{wiki=Mumford's_compactness_theorem}
+
+= Poincaré metric
+{parent=Riemann surfaces}
+{wiki=Poincaré_metric}
+
+= Prime form
+{parent=Riemann surfaces}
+{wiki=Prime_form}
+
+= Prym differential
+{parent=Riemann surfaces}
+{wiki=Prym_differential}
+
+= Quillen determinant line bundle
+{parent=Riemann surfaces}
+{wiki=Quillen_determinant_line_bundle}
+
+= Riemann surface
+{parent=Riemann surfaces}
+{wiki=Riemann_surface}
+
+= Schwarz–Ahlfors–Pick theorem
+{parent=Riemann surfaces}
+{wiki=Schwarz–Ahlfors–Pick_theorem}
+
+= Simultaneous uniformization theorem
+{parent=Riemann surfaces}
+{wiki=Simultaneous_uniformization_theorem}
+
+= Spectral network
+{parent=Riemann surfaces}
+{wiki=Spectral_network}
+
+= Uniformization theorem
+{parent=Riemann surfaces}
+{wiki=Uniformization_theorem}
+
+= Universal Teichmüller space
+{parent=Riemann surfaces}
+{wiki=Universal_Teichmüller_space}
+
+= Weil–Petersson metric
+{parent=Riemann surfaces}
+{wiki=Weil–Petersson_metric}
+
+= Sextic curves
+{parent=Algebraic curves}
+{wiki=Category:Sextic_curves}
+
+= Astroid
+{parent=Sextic curves}
+{wiki=Astroid}
+
+= Atriphtaloid
+{parent=Sextic curves}
+{wiki=Atriphtaloid}
+
+= Butterfly curve (algebraic)
+{parent=Sextic curves}
+{wiki=Butterfly_curve_(algebraic)}
+
+= Cayley's sextic
+{parent=Sextic curves}
+{wiki=Cayley's_sextic}
+
+= Coble curve
+{parent=Sextic curves}
+{wiki=Coble_curve}
+
+= Nephroid
+{parent=Sextic curves}
+{wiki=Nephroid}
+
+= Quadrifolium
+{parent=Sextic curves}
+{wiki=Quadrifolium}
+
+= Watt's curve
+{parent=Sextic curves}
+{wiki=Watt's_curve}
+
+= Wiman's sextic
+{parent=Sextic curves}
+{wiki=Wiman's_sextic}
+
+= Wirtinger sextic
+{parent=Sextic curves}
+{wiki=Wirtinger_sextic}
+
+= Toric sections
+{parent=Algebraic curves}
+{wiki=Category:Toric_sections}
+
+= Spiric sections
+{parent=Toric sections}
+{wiki=Spiric_sections}
+
+= Villarceau circles
+{parent=Toric sections}
+{wiki=Villarceau_circles}
+
+= Abelian integral
+{parent=Algebraic curves}
+{wiki=Abelian_integral}
+
+= Abelian variety
+{parent=Algebraic curves}
+{wiki=Abelian_variety}
+
+= Abel–Jacobi map
+{parent=Algebraic curves}
+{wiki=Abel–Jacobi_map}
+
+= Acnode
+{parent=Algebraic curves}
+{wiki=Acnode}
+
+= Algebraic curve
+{parent=Algebraic curves}
+{wiki=Algebraic_curve}
+
+= Algebraic geometry code
+{parent=Algebraic curves}
+{wiki=Algebraic_geometry_code}
+
+= Artin–Schreier curve
+{parent=Algebraic curves}
+{wiki=Artin–Schreier_curve}
+
+= Belyi's theorem
+{parent=Algebraic curves}
+{wiki=Belyi's_theorem}
+
+= Bicorn
+{parent=Algebraic curves}
+{wiki=Bicorn}
+
+= Bifolium
+{parent=Algebraic curves}
+{wiki=Bifolium}
+
+= Bitangents of a quartic
+{parent=Algebraic curves}
+{wiki=Bitangents_of_a_quartic}
+
+= Brill–Noether theory
+{parent=Algebraic curves}
+{wiki=Brill–Noether_theory}
+
+= Bring's curve
+{parent=Algebraic curves}
+{wiki=Bring's_curve}
+
+= Bullet-nose curve
+{parent=Algebraic curves}
+{wiki=Bullet-nose_curve}
+
+= Cartesian oval
+{parent=Algebraic curves}
+{wiki=Cartesian_oval}
+
+= Cassini oval
+{parent=Algebraic curves}
+{wiki=Cassini_oval}
+
+= Castelnuovo curve
+{parent=Algebraic curves}
+{wiki=Castelnuovo_curve}
+
+= Chasles–Cayley–Brill formula
+{parent=Algebraic curves}
+{wiki=Chasles–Cayley–Brill_formula}
+
+= Chiral Potts curve
+{parent=Algebraic curves}
+{wiki=Chiral_Potts_curve}
+
+= Cissoid
+{parent=Algebraic curves}
+{wiki=Cissoid}
+
+= Classical modular curve
+{parent=Algebraic curves}
+{wiki=Classical_modular_curve}
+
+= Conchoid of Dürer
+{parent=Algebraic curves}
+{wiki=Conchoid_of_Dürer}
+
+= Crunode
+{parent=Algebraic curves}
+{wiki=Crunode}
+
+= Cusp (singularity)
+{parent=Algebraic curves}
+{wiki=Cusp_(singularity)}
+
+= De Franchis theorem
+{parent=Algebraic curves}
+{wiki=De_Franchis_theorem}
+
+= Deltoid curve
+{parent=Algebraic curves}
+{wiki=Deltoid_curve}
+
+= Enriques–Babbage theorem
+{parent=Algebraic curves}
+{wiki=Enriques–Babbage_theorem}
+
+= Epicycloid
+{parent=Algebraic curves}
+{wiki=Epicycloid}
+
+= Fermat curve
+{parent=Algebraic curves}
+{wiki=Fermat_curve}
+
+= Generalized conic
+{parent=Algebraic curves}
+{wiki=Generalized_conic}
+
+= Genus–degree formula
+{parent=Algebraic curves}
+{wiki=Genus–degree_formula}
+
+= Hilbert's twenty-first problem
+{parent=Algebraic curves}
+{wiki=Hilbert's_twenty-first_problem}
+
+= Hippopede
+{parent=Algebraic curves}
+{wiki=Hippopede}
+
+= Hodge bundle
+{parent=Algebraic curves}
+{wiki=Hodge_bundle}
+
+= Hyperelliptic curve
+{parent=Algebraic curves}
+{wiki=Hyperelliptic_curve}
+
+= Imaginary hyperelliptic curve
+{parent=Algebraic curves}
+{wiki=Imaginary_hyperelliptic_curve}
+
+= Jacobian variety
+{parent=Algebraic curves}
+{wiki=Jacobian_variety}
+
+= Kappa curve
+{parent=Algebraic curves}
+{wiki=Kappa_curve}
+
+= Kempe's universality theorem
+{parent=Algebraic curves}
+{wiki=Kempe's_universality_theorem}
+
+= Klein quartic
+{parent=Algebraic curves}
+{wiki=Klein_quartic}
+
+= Lambda g conjecture
+{parent=Algebraic curves}
+{wiki=Lambda_g_conjecture}
+
+= Lange's conjecture
+{parent=Algebraic curves}
+{wiki=Lange's_conjecture}
+
+= Lemniscate of Bernoulli
+{parent=Algebraic curves}
+{wiki=Lemniscate_of_Bernoulli}
+
+= Limaçon
+{parent=Algebraic curves}
+{wiki=Limaçon}
+
+= Limaçon trisectrix
+{parent=Algebraic curves}
+{wiki=Limaçon_trisectrix}
+
+= List of curves
+{parent=Algebraic curves}
+{wiki=List_of_curves}
+
+= Lüroth quartic
+{parent=Algebraic curves}
+{wiki=Lüroth_quartic}
+
+= Modular curve
+{parent=Algebraic curves}
+{wiki=Modular_curve}
+
+= Moment curve
+{parent=Algebraic curves}
+{wiki=Moment_curve}
+
+= Mumford measure
+{parent=Algebraic curves}
+{wiki=Mumford_measure}
+
+= N-ellipse
+{parent=Algebraic curves}
+{wiki=N-ellipse}
+
+= Nagata's conjecture on curves
+{parent=Algebraic curves}
+{wiki=Nagata's_conjecture_on_curves}
+
+= Normal degree
+{parent=Algebraic curves}
+{wiki=Normal_degree}
+
+= Ordinary singularity
+{parent=Algebraic curves}
+{wiki=Ordinary_singularity}
+
+= Parabola
+{parent=Algebraic curves}
+{wiki=Parabola}
+
+= Plücker formula
+{parent=Algebraic curves}
+{wiki=Plücker_formula}
+
+= Polar curve
+{parent=Algebraic curves}
+{wiki=Polar_curve}
+
+= Polynomial lemniscate
+{parent=Algebraic curves}
+{wiki=Polynomial_lemniscate}
+
+= Prym variety
+{parent=Algebraic curves}
+{wiki=Prym_variety}
+
+= Quartic plane curve
+{parent=Algebraic curves}
+{wiki=Quartic_plane_curve}
+
+= Rational normal curve
+{parent=Algebraic curves}
+{wiki=Rational_normal_curve}
+
+= Real hyperelliptic curve
+{parent=Algebraic curves}
+{wiki=Real_hyperelliptic_curve}
+
+= Real plane curve
+{parent=Algebraic curves}
+{wiki=Real_plane_curve}
+
+= Reiss relation
+{parent=Algebraic curves}
+{wiki=Reiss_relation}
+
+= S-equivalence
+{parent=Algebraic curves}
+{wiki=S-equivalence}
+
+= Sectrix of Maclaurin
+{parent=Algebraic curves}
+{wiki=Sectrix_of_Maclaurin}
+
+= Singular point of a curve
+{parent=Algebraic curves}
+{wiki=Singular_point_of_a_curve}
+
+= Sinusoidal spiral
+{parent=Algebraic curves}
+{wiki=Sinusoidal_spiral}
+
+= Spiric section
+{parent=Algebraic curves}
+{wiki=Spiric_section}
+
+= Stable curve
+{parent=Algebraic curves}
+{wiki=Stable_curve}
+
+= Superelliptic curve
+{parent=Algebraic curves}
+{wiki=Superelliptic_curve}
+
+= Tacnode
+{parent=Algebraic curves}
+{wiki=Tacnode}
+
+= Twisted cubic
+{parent=Algebraic curves}
+{wiki=Twisted_cubic}
+
+= Vector bundles on algebraic curves
+{parent=Algebraic curves}
+{wiki=Vector_bundles_on_algebraic_curves}
+
+= Weber's theorem (Algebraic curves)
+{parent=Algebraic curves}
+{wiki=Weber's_theorem_(Algebraic_curves)}
+
+= Weierstrass point
+{parent=Algebraic curves}
+{wiki=Weierstrass_point}
+
+= Weil reciprocity law
+{parent=Algebraic curves}
+{wiki=Weil_reciprocity_law}

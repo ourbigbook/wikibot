@@ -1,0 +1,114 @@
+= Graph operations
+{wiki=Graph_operations}
+
+= Graph products
+{parent=Graph operations}
+{wiki=Graph_products}
+
+= Cartesian product of graphs
+{parent=Graph products}
+{wiki=Cartesian_product_of_graphs}
+
+= Graph product
+{parent=Graph products}
+{wiki=Graph_product}
+
+= Lexicographic product of graphs
+{parent=Graph products}
+{wiki=Lexicographic_product_of_graphs}
+
+= Min-plus matrix multiplication
+{parent=Graph products}
+{wiki=Min-plus_matrix_multiplication}
+
+= Modular product of graphs
+{parent=Graph products}
+{wiki=Modular_product_of_graphs}
+
+= Rooted product of graphs
+{parent=Graph products}
+{wiki=Rooted_product_of_graphs}
+
+= Strong product of graphs
+{parent=Graph products}
+{wiki=Strong_product_of_graphs}
+
+= Tensor product of graphs
+{parent=Graph products}
+{wiki=Tensor_product_of_graphs}
+
+= Zig-zag product
+{parent=Graph products}
+{wiki=Zig-zag_product}
+
+= Bipartite double cover
+{parent=Graph operations}
+{wiki=Bipartite_double_cover}
+
+= Bipartite half
+{parent=Graph operations}
+{wiki=Bipartite_half}
+
+= Clique graph
+{parent=Graph operations}
+{wiki=Clique_graph}
+
+= Cograph
+{parent=Graph operations}
+{wiki=Cograph}
+
+= Complement graph
+{parent=Graph operations}
+{wiki=Complement_graph}
+
+= Disjoint union of graphs
+{parent=Graph operations}
+{wiki=Disjoint_union_of_graphs}
+
+= Edge contraction
+{parent=Graph operations}
+{wiki=Edge_contraction}
+
+= Goldberg–Coxeter construction
+{parent=Graph operations}
+{wiki=Goldberg–Coxeter_construction}
+
+= Graph power
+{parent=Graph operations}
+{wiki=Graph_power}
+
+= Induced subgraph
+{parent=Graph operations}
+{wiki=Induced_subgraph}
+
+= Line graph
+{parent=Graph operations}
+{wiki=Line_graph}
+
+= Medial graph
+{parent=Graph operations}
+{wiki=Medial_graph}
+
+= Moral graph
+{parent=Graph operations}
+{wiki=Moral_graph}
+
+= Mycielskian
+{parent=Graph operations}
+{wiki=Mycielskian}
+
+= Quotient graph
+{parent=Graph operations}
+{wiki=Quotient_graph}
+
+= Series–parallel graph
+{parent=Graph operations}
+{wiki=Series–parallel_graph}
+
+= Simplex graph
+{parent=Graph operations}
+{wiki=Simplex_graph}
+
+= Y-Δ transform
+{parent=Graph operations}
+{wiki=Y-Δ_transform}

@@ -1,0 +1,714 @@
+= Discrete geometry
+{wiki=Discrete_geometry}
+
+= Digital geometry
+{parent=Discrete geometry}
+{wiki=Digital_geometry}
+
+= Azriel Rosenfeld
+{parent=Digital geometry}
+{wiki=Azriel_Rosenfeld}
+
+= Binary image
+{parent=Digital geometry}
+{wiki=Binary_image}
+
+= Bresenham's line algorithm
+{parent=Digital geometry}
+{wiki=Bresenham's_line_algorithm}
+
+= Canberra distance
+{parent=Digital geometry}
+{wiki=Canberra_distance}
+
+= Closing (morphology)
+{parent=Digital geometry}
+{wiki=Closing_(morphology)}
+
+= Controlled image base
+{parent=Digital geometry}
+{wiki=Controlled_image_base}
+
+= Digital differential analyzer (graphics algorithm)
+{parent=Digital geometry}
+{wiki=Digital_differential_analyzer_(graphics_algorithm)}
+
+= Digital image
+{parent=Digital geometry}
+{wiki=Digital_image}
+
+= Dilation (morphology)
+{parent=Digital geometry}
+{wiki=Dilation_(morphology)}
+
+= Distance transform
+{parent=Digital geometry}
+{wiki=Distance_transform}
+
+= Erosion (morphology)
+{parent=Digital geometry}
+{wiki=Erosion_(morphology)}
+
+= Euler operator (digital geometry)
+{parent=Digital geometry}
+{wiki=Euler_operator_(digital_geometry)}
+
+= Gradually varied surface
+{parent=Digital geometry}
+{wiki=Gradually_varied_surface}
+
+= Hit-or-miss transform
+{parent=Digital geometry}
+{wiki=Hit-or-miss_transform}
+
+= LCD crosstalk
+{parent=Digital geometry}
+{wiki=LCD_crosstalk}
+
+= Mathematical morphology
+{parent=Digital geometry}
+{wiki=Mathematical_morphology}
+
+= Midpoint circle algorithm
+{parent=Digital geometry}
+{wiki=Midpoint_circle_algorithm}
+
+= Morphological gradient
+{parent=Digital geometry}
+{wiki=Morphological_gradient}
+
+= Morphological skeleton
+{parent=Digital geometry}
+{wiki=Morphological_skeleton}
+
+= Nonogram
+{parent=Digital geometry}
+{wiki=Nonogram}
+
+= Pick's theorem
+{parent=Digital geometry}
+{wiki=Pick's_theorem}
+
+= Pixel
+{parent=Digital geometry}
+{wiki=Pixel}
+
+= Pixel aspect ratio
+{parent=Digital geometry}
+{wiki=Pixel_aspect_ratio}
+
+= Pruning (morphology)
+{parent=Digital geometry}
+{wiki=Pruning_(morphology)}
+
+= Raster graphics
+{parent=Digital geometry}
+{wiki=Raster_graphics}
+
+= Reeve tetrahedra
+{parent=Digital geometry}
+{wiki=Reeve_tetrahedra}
+
+= SPHARM-PDM
+{parent=Digital geometry}
+{wiki=SPHARM-PDM}
+
+= Summed-area table
+{parent=Digital geometry}
+{wiki=Summed-area_table}
+
+= Taxicab geometry
+{parent=Digital geometry}
+{wiki=Taxicab_geometry}
+
+= Thinning (morphology)
+{parent=Digital geometry}
+{wiki=Thinning_(morphology)}
+
+= Top-hat transform
+{parent=Digital geometry}
+{wiki=Top-hat_transform}
+
+= Topological skeleton
+{parent=Digital geometry}
+{wiki=Topological_skeleton}
+
+= Lattice points
+{parent=Discrete geometry}
+{wiki=Lattice_points}
+
+= Geometry of numbers
+{parent=Lattice points}
+{wiki=Geometry_of_numbers}
+
+= Bragg plane
+{parent=Lattice points}
+{wiki=Bragg_plane}
+
+= Bravais lattice
+{parent=Lattice points}
+{wiki=Bravais_lattice}
+
+= Computing the Continuous Discretely
+{parent=Lattice points}
+{wiki=Computing_the_Continuous_Discretely}
+
+= Divisor summatory function
+{parent=Lattice points}
+{wiki=Divisor_summatory_function}
+
+= Doignon's theorem
+{parent=Lattice points}
+{wiki=Doignon's_theorem}
+
+= Dot planimeter
+{parent=Lattice points}
+{wiki=Dot_planimeter}
+
+= Double lattice
+{parent=Lattice points}
+{wiki=Double_lattice}
+
+= E8 lattice
+{parent=Lattice points}
+{wiki=E8_lattice}
+
+= Euclid's orchard
+{parent=Lattice points}
+{wiki=Euclid's_orchard}
+
+= Fokker periodicity block
+{parent=Lattice points}
+{wiki=Fokker_periodicity_block}
+
+= Gauss circle problem
+{parent=Lattice points}
+{wiki=Gauss_circle_problem}
+
+= Hexagonal lattice
+{parent=Lattice points}
+{wiki=Hexagonal_lattice}
+
+= Integer lattice
+{parent=Lattice points}
+{wiki=Integer_lattice}
+
+= Lattice (group)
+{parent=Lattice points}
+{wiki=Lattice_(group)}
+
+= Leech lattice
+{parent=Lattice points}
+{wiki=Leech_lattice}
+
+= Meyer set
+{parent=Lattice points}
+{wiki=Meyer_set}
+
+= Niemeier lattice
+{parent=Lattice points}
+{wiki=Niemeier_lattice}
+
+= Oblique lattice
+{parent=Lattice points}
+{wiki=Oblique_lattice}
+
+= Poisson summation formula
+{parent=Lattice points}
+{wiki=Poisson_summation_formula}
+
+= Reciprocal lattice
+{parent=Lattice points}
+{wiki=Reciprocal_lattice}
+
+= Rectangular lattice
+{parent=Lattice points}
+{wiki=Rectangular_lattice}
+
+= Regular grid
+{parent=Lattice points}
+{wiki=Regular_grid}
+
+= Schinzel's theorem
+{parent=Lattice points}
+{wiki=Schinzel's_theorem}
+
+= Square lattice
+{parent=Lattice points}
+{wiki=Square_lattice}
+
+= Unimodular lattice
+{parent=Lattice points}
+{wiki=Unimodular_lattice}
+
+= Mathematics of rigidity
+{parent=Discrete geometry}
+{wiki=Category:Mathematics_of_rigidity}
+
+= Beckman–Quarles theorem
+{parent=Mathematics of rigidity}
+{wiki=Beckman–Quarles_theorem}
+
+= Bricard octahedron
+{parent=Mathematics of rigidity}
+{wiki=Bricard_octahedron}
+
+= Cauchy's theorem (geometry)
+{parent=Mathematics of rigidity}
+{wiki=Cauchy's_theorem_(geometry)}
+
+= Cayley configuration space
+{parent=Mathematics of rigidity}
+{wiki=Cayley_configuration_space}
+
+= Counting on Frameworks
+{parent=Mathematics of rigidity}
+{wiki=Counting_on_Frameworks}
+
+= Flexible polyhedron
+{parent=Mathematics of rigidity}
+{wiki=Flexible_polyhedron}
+
+= Laman graph
+{parent=Mathematics of rigidity}
+{wiki=Laman_graph}
+
+= Parallel redrawing
+{parent=Mathematics of rigidity}
+{wiki=Parallel_redrawing}
+
+= Pseudotriangle
+{parent=Mathematics of rigidity}
+{wiki=Pseudotriangle}
+
+= Steffen's polyhedron
+{parent=Mathematics of rigidity}
+{wiki=Steffen's_polyhedron}
+
+= Structural rigidity
+{parent=Mathematics of rigidity}
+{wiki=Structural_rigidity}
+
+= Packing problems
+{parent=Discrete geometry}
+{wiki=Packing_problems}
+
+= Bin packing
+{parent=Packing problems}
+{wiki=Bin_packing}
+
+= Circle packing
+{parent=Packing problems}
+{wiki=Circle_packing}
+
+= Apollonian sphere packing
+{parent=Packing problems}
+{wiki=Apollonian_sphere_packing}
+
+= Cutting stock problem
+{parent=Packing problems}
+{wiki=Cutting_stock_problem}
+
+= Ellipsoid packing
+{parent=Packing problems}
+{wiki=Ellipsoid_packing}
+
+= Hoffman's packing puzzle
+{parent=Packing problems}
+{wiki=Hoffman's_packing_puzzle}
+
+= Parallel task scheduling
+{parent=Packing problems}
+{wiki=Parallel_task_scheduling}
+
+= Polygon partition
+{parent=Packing problems}
+{wiki=Polygon_partition}
+
+= Rectangle packing
+{parent=Packing problems}
+{wiki=Rectangle_packing}
+
+= Slothouber–Graatsma puzzle
+{parent=Packing problems}
+{wiki=Slothouber–Graatsma_puzzle}
+
+= Smoothed octagon
+{parent=Packing problems}
+{wiki=Smoothed_octagon}
+
+= Sphere packing in a cube
+{parent=Packing problems}
+{wiki=Sphere_packing_in_a_cube}
+
+= Sphere packing in a sphere
+{parent=Packing problems}
+{wiki=Sphere_packing_in_a_sphere}
+
+= Square packing
+{parent=Packing problems}
+{wiki=Square_packing}
+
+= Strip packing problem
+{parent=Packing problems}
+{wiki=Strip_packing_problem}
+
+= Tetrahedron packing
+{parent=Packing problems}
+{wiki=Tetrahedron_packing}
+
+= The Pursuit of Perfect Packing
+{parent=Packing problems}
+{wiki=The_Pursuit_of_Perfect_Packing}
+
+= Tripod packing
+{parent=Packing problems}
+{wiki=Tripod_packing}
+
+= Ulam's packing conjecture
+{parent=Packing problems}
+{wiki=Ulam's_packing_conjecture}
+
+= Theorems in discrete geometry
+{parent=Discrete geometry}
+{wiki=Category:Theorems_in_discrete_geometry}
+
+= Beck's theorem (geometry)
+{parent=Theorems in discrete geometry}
+{wiki=Beck's_theorem_(geometry)}
+
+= Carathéodory's theorem (convex hull)
+{parent=Theorems in discrete geometry}
+{wiki=Carathéodory's_theorem_(convex_hull)}
+
+= De Bruijn's theorem
+{parent=Theorems in discrete geometry}
+{wiki=De_Bruijn's_theorem}
+
+= Erdős–Anning theorem
+{parent=Theorems in discrete geometry}
+{wiki=Erdős–Anning_theorem}
+
+= Erdős–Nagy theorem
+{parent=Theorems in discrete geometry}
+{wiki=Erdős–Nagy_theorem}
+
+= Four-vertex theorem
+{parent=Theorems in discrete geometry}
+{wiki=Four-vertex_theorem}
+
+= Helly's theorem
+{parent=Theorems in discrete geometry}
+{wiki=Helly's_theorem}
+
+= Kirchberger's theorem
+{parent=Theorems in discrete geometry}
+{wiki=Kirchberger's_theorem}
+
+= Krein–Milman theorem
+{parent=Theorems in discrete geometry}
+{wiki=Krein–Milman_theorem}
+
+= Monsky's theorem
+{parent=Theorems in discrete geometry}
+{wiki=Monsky's_theorem}
+
+= Radon's theorem
+{parent=Theorems in discrete geometry}
+{wiki=Radon's_theorem}
+
+= Tverberg's theorem
+{parent=Theorems in discrete geometry}
+{wiki=Tverberg's_theorem}
+
+= Wallace–Bolyai–Gerwien theorem
+{parent=Theorems in discrete geometry}
+{wiki=Wallace–Bolyai–Gerwien_theorem}
+
+= Triangulation (geometry)
+{parent=Discrete geometry}
+{wiki=Triangulation_(geometry)}
+
+= Antiprism
+{parent=Triangulation (geometry)}
+{wiki=Antiprism}
+
+= Apollonian network
+{parent=Triangulation (geometry)}
+{wiki=Apollonian_network}
+
+= Bowyer–Watson algorithm
+{parent=Triangulation (geometry)}
+{wiki=Bowyer–Watson_algorithm}
+
+= Constrained Delaunay triangulation
+{parent=Triangulation (geometry)}
+{wiki=Constrained_Delaunay_triangulation}
+
+= Delaunay refinement
+{parent=Triangulation (geometry)}
+{wiki=Delaunay_refinement}
+
+= Delaunay triangulation
+{parent=Triangulation (geometry)}
+{wiki=Delaunay_triangulation}
+
+= Fan triangulation
+{parent=Triangulation (geometry)}
+{wiki=Fan_triangulation}
+
+= Kinetic triangulation
+{parent=Triangulation (geometry)}
+{wiki=Kinetic_triangulation}
+
+= Minimum-weight triangulation
+{parent=Triangulation (geometry)}
+{wiki=Minimum-weight_triangulation}
+
+= Nonobtuse mesh
+{parent=Triangulation (geometry)}
+{wiki=Nonobtuse_mesh}
+
+= Pitteway triangulation
+{parent=Triangulation (geometry)}
+{wiki=Pitteway_triangulation}
+
+= Point-set triangulation
+{parent=Triangulation (geometry)}
+{wiki=Point-set_triangulation}
+
+= Polygon triangulation
+{parent=Triangulation (geometry)}
+{wiki=Polygon_triangulation}
+
+= Quasi-triangulation
+{parent=Triangulation (geometry)}
+{wiki=Quasi-triangulation}
+
+= Rotation distance
+{parent=Triangulation (geometry)}
+{wiki=Rotation_distance}
+
+= Simplicial complex
+{parent=Triangulation (geometry)}
+{wiki=Simplicial_complex}
+
+= Triangle mesh
+{parent=Triangulation (geometry)}
+{wiki=Triangle_mesh}
+
+= Triangulated irregular network
+{parent=Triangulation (geometry)}
+{wiki=Triangulated_irregular_network}
+
+= Triangulation (topology)
+{parent=Triangulation (geometry)}
+{wiki=Triangulation_(topology)}
+
+= Arrangement (space partition)
+{parent=Discrete geometry}
+{wiki=Arrangement_(space_partition)}
+
+= Arrangement of lines
+{parent=Discrete geometry}
+{wiki=Arrangement_of_lines}
+
+= Bellman's lost in a forest problem
+{parent=Discrete geometry}
+{wiki=Bellman's_lost_in_a_forest_problem}
+
+= Big-line-big-clique conjecture
+{parent=Discrete geometry}
+{wiki=Big-line-big-clique_conjecture}
+
+= Borsuk's conjecture
+{parent=Discrete geometry}
+{wiki=Borsuk's_conjecture}
+
+= Carpenter's rule problem
+{parent=Discrete geometry}
+{wiki=Carpenter's_rule_problem}
+
+= Centroidal Voronoi tessellation
+{parent=Discrete geometry}
+{wiki=Centroidal_Voronoi_tessellation}
+
+= Close-packing of equal spheres
+{parent=Discrete geometry}
+{wiki=Close-packing_of_equal_spheres}
+
+= Combinatorial Geometry in the Plane
+{parent=Discrete geometry}
+{wiki=Combinatorial_Geometry_in_the_Plane}
+
+= Connective constant
+{parent=Discrete geometry}
+{wiki=Connective_constant}
+
+= Covering problem of Rado
+{parent=Discrete geometry}
+{wiki=Covering_problem_of_Rado}
+
+= Discrete & Computational Geometry
+{parent=Discrete geometry}
+{wiki=Discrete_&_Computational_Geometry}
+
+= Disk covering problem
+{parent=Discrete geometry}
+{wiki=Disk_covering_problem}
+
+= Dissection problem
+{parent=Discrete geometry}
+{wiki=Dissection_problem}
+
+= Equidissection
+{parent=Discrete geometry}
+{wiki=Equidissection}
+
+= Erdős distinct distances problem
+{parent=Discrete geometry}
+{wiki=Erdős_distinct_distances_problem}
+
+= Erdős–Diophantine graph
+{parent=Discrete geometry}
+{wiki=Erdős–Diophantine_graph}
+
+= Hadwiger conjecture (combinatorial geometry)
+{parent=Discrete geometry}
+{wiki=Hadwiger_conjecture_(combinatorial_geometry)}
+
+= Hinged dissection
+{parent=Discrete geometry}
+{wiki=Hinged_dissection}
+
+= Honeycomb conjecture
+{parent=Discrete geometry}
+{wiki=Honeycomb_conjecture}
+
+= Integer triangle
+{parent=Discrete geometry}
+{wiki=Integer_triangle}
+
+= Integrally convex set
+{parent=Discrete geometry}
+{wiki=Integrally_convex_set}
+
+= Isosceles set
+{parent=Discrete geometry}
+{wiki=Isosceles_set}
+
+= Kakeya set
+{parent=Discrete geometry}
+{wiki=Kakeya_set}
+
+= Kepler conjecture
+{parent=Discrete geometry}
+{wiki=Kepler_conjecture}
+
+= Kissing number
+{parent=Discrete geometry}
+{wiki=Kissing_number}
+
+= Kobon triangle problem
+{parent=Discrete geometry}
+{wiki=Kobon_triangle_problem}
+
+= Lebesgue's universal covering problem
+{parent=Discrete geometry}
+{wiki=Lebesgue's_universal_covering_problem}
+
+= List of shapes with known packing constant
+{parent=Discrete geometry}
+{wiki=List_of_shapes_with_known_packing_constant}
+
+= McMullen problem
+{parent=Discrete geometry}
+{wiki=McMullen_problem}
+
+= Moser's worm problem
+{parent=Discrete geometry}
+{wiki=Moser's_worm_problem}
+
+= Mountain climbing problem
+{parent=Discrete geometry}
+{wiki=Mountain_climbing_problem}
+
+= Moving sofa problem
+{parent=Discrete geometry}
+{wiki=Moving_sofa_problem}
+
+= Napkin folding problem
+{parent=Discrete geometry}
+{wiki=Napkin_folding_problem}
+
+= Opaque set
+{parent=Discrete geometry}
+{wiki=Opaque_set}
+
+= Orchard-planting problem
+{parent=Discrete geometry}
+{wiki=Orchard-planting_problem}
+
+= Packing density
+{parent=Discrete geometry}
+{wiki=Packing_density}
+
+= Penrose tiling
+{parent=Discrete geometry}
+{wiki=Penrose_tiling}
+
+= Pinwheel tiling
+{parent=Discrete geometry}
+{wiki=Pinwheel_tiling}
+
+= Polycube
+{parent=Discrete geometry}
+{wiki=Polycube}
+
+= Quaquaversal tiling
+{parent=Discrete geometry}
+{wiki=Quaquaversal_tiling}
+
+= Regular map (graph theory)
+{parent=Discrete geometry}
+{wiki=Regular_map_(graph_theory)}
+
+= Roberts's triangle theorem
+{parent=Discrete geometry}
+{wiki=Roberts's_triangle_theorem}
+
+= Sphere packing
+{parent=Discrete geometry}
+{wiki=Sphere_packing}
+
+= Sphere packing in a cylinder
+{parent=Discrete geometry}
+{wiki=Sphere_packing_in_a_cylinder}
+
+= Squaring the square
+{parent=Discrete geometry}
+{wiki=Squaring_the_square}
+
+= Straight skeleton
+{parent=Discrete geometry}
+{wiki=Straight_skeleton}
+
+= Tarski's circle-squaring problem
+{parent=Discrete geometry}
+{wiki=Tarski's_circle-squaring_problem}
+
+= The Erdős Distance Problem
+{parent=Discrete geometry}
+{wiki=The_Erdős_Distance_Problem}
+
+= Voronoi diagram
+{parent=Discrete geometry}
+{wiki=Voronoi_diagram}
+
+= Weighted Voronoi diagram
+{parent=Discrete geometry}
+{wiki=Weighted_Voronoi_diagram}
+
+= Weyl's tile argument
+{parent=Discrete geometry}
+{wiki=Weyl's_tile_argument}

@@ -1,0 +1,3406 @@
+= Linear algebra
+{wiki=Linear_algebra}
+
+= Convex geometry
+{parent=Linear algebra}
+{wiki=Convex_geometry}
+
+= Asymptotic geometric analysis
+{parent=Convex geometry}
+{wiki=Category:Asymptotic_geometric_analysis}
+
+= Convex hulls
+{parent=Convex geometry}
+{wiki=Category:Convex_hulls}
+
+= Geometric transversal theory
+{parent=Convex geometry}
+{wiki=Category:Geometric_transversal_theory}
+
+= Oriented matroids
+{parent=Convex geometry}
+{wiki=Category:Oriented_matroids}
+
+= Polyhedra
+{parent=Convex geometry}
+{wiki=Polyhedra}
+
+= Polytopes
+{parent=Convex geometry}
+{wiki=Polytopes}
+
+= Theorems in convex geometry
+{parent=Convex geometry}
+{wiki=Category:Theorems_in_convex_geometry}
+
+= Antimatroid
+{parent=Convex geometry}
+{wiki=Antimatroid}
+
+= B-convex space
+{parent=Convex geometry}
+{wiki=B-convex_space}
+
+= Betavexity
+{parent=Convex geometry}
+{wiki=Betavexity}
+
+= Bond convexity
+{parent=Convex geometry}
+{wiki=Bond_convexity}
+
+= Busemann–Petty problem
+{parent=Convex geometry}
+{wiki=Busemann–Petty_problem}
+
+= Conical combination
+{parent=Convex geometry}
+{wiki=Conical_combination}
+
+= Convex Polytopes
+{parent=Convex geometry}
+{wiki=Convex_Polytopes}
+
+= Convex analysis
+{parent=Convex geometry}
+{wiki=Convex_analysis}
+
+= Convex body
+{parent=Convex geometry}
+{wiki=Convex_body}
+
+= Convex combination
+{parent=Convex geometry}
+{wiki=Convex_combination}
+
+= Convex curve
+{parent=Convex geometry}
+{wiki=Convex_curve}
+
+= Convex metric space
+{parent=Convex geometry}
+{wiki=Convex_metric_space}
+
+= Convex polygon
+{parent=Convex geometry}
+{wiki=Convex_polygon}
+
+= Convex polytope
+{parent=Convex geometry}
+{wiki=Convex_polytope}
+
+= Convex set
+{parent=Convex geometry}
+{wiki=Convex_set}
+
+= Convexity (finance)
+{parent=Convex geometry}
+{wiki=Convexity_(finance)}
+
+= Convexity in economics
+{parent=Convex geometry}
+{wiki=Convexity_in_economics}
+
+= Difference bound matrix
+{parent=Convex geometry}
+{wiki=Difference_bound_matrix}
+
+= Dual cone and polar cone
+{parent=Convex geometry}
+{wiki=Dual_cone_and_polar_cone}
+
+= Dykstra's projection algorithm
+{parent=Convex geometry}
+{wiki=Dykstra's_projection_algorithm}
+
+= Equichordal point problem
+{parent=Convex geometry}
+{wiki=Equichordal_point_problem}
+
+= Exposed point
+{parent=Convex geometry}
+{wiki=Exposed_point}
+
+= Extreme point
+{parent=Convex geometry}
+{wiki=Extreme_point}
+
+= Face (geometry)
+{parent=Convex geometry}
+{wiki=Face_(geometry)}
+
+= Gilbert–Johnson–Keerthi distance algorithm
+{parent=Convex geometry}
+{wiki=Gilbert–Johnson–Keerthi_distance_algorithm}
+
+= John ellipsoid
+{parent=Convex geometry}
+{wiki=John_ellipsoid}
+
+= Klee–Minty cube
+{parent=Convex geometry}
+{wiki=Klee–Minty_cube}
+
+= Lens (geometry)
+{parent=Convex geometry}
+{wiki=Lens_(geometry)}
+
+= List of convexity topics
+{parent=Convex geometry}
+{wiki=List_of_convexity_topics}
+
+= Mahler volume
+{parent=Convex geometry}
+{wiki=Mahler_volume}
+
+= Minkowski Portal Refinement
+{parent=Convex geometry}
+{wiki=Minkowski_Portal_Refinement}
+
+= Mixed volume
+{parent=Convex geometry}
+{wiki=Mixed_volume}
+
+= Non-convexity (economics)
+{parent=Convex geometry}
+{wiki=Non-convexity_(economics)}
+
+= Projection body
+{parent=Convex geometry}
+{wiki=Projection_body}
+
+= Projections onto convex sets
+{parent=Convex geometry}
+{wiki=Projections_onto_convex_sets}
+
+= Region (model checking)
+{parent=Convex geometry}
+{wiki=Region_(model_checking)}
+
+= Rotating calipers
+{parent=Convex geometry}
+{wiki=Rotating_calipers}
+
+= Shapley–Folkman lemma
+{parent=Convex geometry}
+{wiki=Shapley–Folkman_lemma}
+
+= Shephard's problem
+{parent=Convex geometry}
+{wiki=Shephard's_problem}
+
+= Support function
+{parent=Convex geometry}
+{wiki=Support_function}
+
+= Supporting hyperplane
+{parent=Convex geometry}
+{wiki=Supporting_hyperplane}
+
+= Symmetric cone
+{parent=Convex geometry}
+{wiki=Symmetric_cone}
+
+= Tangent cone
+{parent=Convex geometry}
+{wiki=Tangent_cone}
+
+= Geometric intersection
+{parent=Linear algebra}
+{wiki=Category:Geometric_intersection}
+
+= Intersection theory
+{parent=Geometric intersection}
+{wiki=Intersection_theory}
+
+= Crossing number (graph theory)
+{parent=Geometric intersection}
+{wiki=Crossing_number_(graph_theory)}
+
+= Intersection (geometry)
+{parent=Geometric intersection}
+{wiki=Intersection_(geometry)}
+
+= Intersection curve
+{parent=Geometric intersection}
+{wiki=Intersection_curve}
+
+= Line–plane intersection
+{parent=Geometric intersection}
+{wiki=Line–plane_intersection}
+
+= Line–sphere intersection
+{parent=Geometric intersection}
+{wiki=Line–sphere_intersection}
+
+= Multiple line segment intersection
+{parent=Geometric intersection}
+{wiki=Multiple_line_segment_intersection}
+
+= Möller–Trumbore intersection algorithm
+{parent=Geometric intersection}
+{wiki=Möller–Trumbore_intersection_algorithm}
+
+= Plane–plane intersection
+{parent=Geometric intersection}
+{wiki=Plane–plane_intersection}
+
+= Sliver polygon
+{parent=Geometric intersection}
+{wiki=Sliver_polygon}
+
+= Sphere–cylinder intersection
+{parent=Geometric intersection}
+{wiki=Sphere–cylinder_intersection}
+
+= Surface-to-surface intersection problem
+{parent=Geometric intersection}
+{wiki=Surface-to-surface_intersection_problem}
+
+= Thrackle
+{parent=Geometric intersection}
+{wiki=Thrackle}
+
+= Invariant subspaces
+{parent=Linear algebra}
+{wiki=Category:Invariant_subspaces}
+
+= Beurling–Lax theorem
+{parent=Invariant subspaces}
+{wiki=Beurling–Lax_theorem}
+
+= Hypercyclic operator
+{parent=Invariant subspaces}
+{wiki=Hypercyclic_operator}
+
+= Invariant subspace problem
+{parent=Invariant subspaces}
+{wiki=Invariant_subspace_problem}
+
+= Krylov subspace
+{parent=Invariant subspaces}
+{wiki=Krylov_subspace}
+
+= Quasinormal operator
+{parent=Invariant subspaces}
+{wiki=Quasinormal_operator}
+
+= Reflexive operator algebra
+{parent=Invariant subspaces}
+{wiki=Reflexive_operator_algebra}
+
+= Wold's decomposition
+{parent=Invariant subspaces}
+{wiki=Wold's_decomposition}
+
+= Linear operators
+{parent=Linear algebra}
+{wiki=Linear_operators}
+
+= Generalizations of the derivative
+{parent=Linear operators}
+{wiki=Generalizations_of_the_derivative}
+
+= Integral transforms
+{parent=Linear operators}
+{wiki=Integral_transforms}
+
+= Linear functionals
+{parent=Linear operators}
+{wiki=Linear_functionals}
+
+= Linear operators in calculus
+{parent=Linear operators}
+{wiki=Category:Linear_operators_in_calculus}
+
+= Transforms
+{parent=Linear operators}
+{wiki=Transforms}
+
+= Unitary operators
+{parent=Linear operators}
+{wiki=Unitary_operators}
+
+= Bounded operator
+{parent=Linear operators}
+{wiki=Bounded_operator}
+
+= Compact operator
+{parent=Linear operators}
+{wiki=Compact_operator}
+
+= Compact operator on Hilbert space
+{parent=Linear operators}
+{wiki=Compact_operator_on_Hilbert_space}
+
+= Continuous linear extension
+{parent=Linear operators}
+{wiki=Continuous_linear_extension}
+
+= Continuous linear operator
+{parent=Linear operators}
+{wiki=Continuous_linear_operator}
+
+= Cyclic and separating vector
+{parent=Linear operators}
+{wiki=Cyclic_and_separating_vector}
+
+= Densely defined operator
+{parent=Linear operators}
+{wiki=Densely_defined_operator}
+
+= Dissipative operator
+{parent=Linear operators}
+{wiki=Dissipative_operator}
+
+= Extensions of symmetric operators
+{parent=Linear operators}
+{wiki=Extensions_of_symmetric_operators}
+
+= Fredholm kernel
+{parent=Linear operators}
+{wiki=Fredholm_kernel}
+
+= Fredholm operator
+{parent=Linear operators}
+{wiki=Fredholm_operator}
+
+= Friedrichs extension
+{parent=Linear operators}
+{wiki=Friedrichs_extension}
+
+= Hilbert–Schmidt integral operator
+{parent=Linear operators}
+{wiki=Hilbert–Schmidt_integral_operator}
+
+= Hilbert–Schmidt operator
+{parent=Linear operators}
+{wiki=Hilbert–Schmidt_operator}
+
+= Hyponormal operator
+{parent=Linear operators}
+{wiki=Hyponormal_operator}
+
+= Integral linear operator
+{parent=Linear operators}
+{wiki=Integral_linear_operator}
+
+= Limiting absorption principle
+{parent=Linear operators}
+{wiki=Limiting_absorption_principle}
+
+= Limiting amplitude principle
+{parent=Linear operators}
+{wiki=Limiting_amplitude_principle}
+
+= Normal operator
+{parent=Linear operators}
+{wiki=Normal_operator}
+
+= Nuclear operator
+{parent=Linear operators}
+{wiki=Nuclear_operator}
+
+= Nuclear operators between Banach spaces
+{parent=Linear operators}
+{wiki=Nuclear_operators_between_Banach_spaces}
+
+= Operational calculus
+{parent=Linear operators}
+{wiki=Operational_calculus}
+
+= Paranormal operator
+{parent=Linear operators}
+{wiki=Paranormal_operator}
+
+= Reflection (mathematics)
+{parent=Linear operators}
+{wiki=Reflection_(mathematics)}
+
+= Rotation (mathematics)
+{parent=Linear operators}
+{wiki=Rotation_(mathematics)}
+
+= Self-adjoint operator
+{parent=Linear operators}
+{wiki=Self-adjoint_operator}
+
+= Spectral theory of compact operators
+{parent=Linear operators}
+{wiki=Spectral_theory_of_compact_operators}
+
+= Strictly singular operator
+{parent=Linear operators}
+{wiki=Strictly_singular_operator}
+
+= Subnormal operator
+{parent=Linear operators}
+{wiki=Subnormal_operator}
+
+= Toeplitz operator
+{parent=Linear operators}
+{wiki=Toeplitz_operator}
+
+= Trace class
+{parent=Linear operators}
+{wiki=Trace_class}
+
+= Unbounded operator
+{parent=Linear operators}
+{wiki=Unbounded_operator}
+
+= Unitary operator
+{parent=Linear operators}
+{wiki=Unitary_operator}
+
+= Matrices
+{parent=Linear algebra}
+{wiki=Matrices}
+
+= Random matrices
+{parent=Matrices}
+{wiki=Random_matrices}
+
+= Sparse matrices
+{parent=Matrices}
+{wiki=Sparse_matrices}
+
+= Algebraic Riccati equation
+{parent=Matrices}
+{wiki=Algebraic_Riccati_equation}
+
+= Alternant matrix
+{parent=Matrices}
+{wiki=Alternant_matrix}
+
+= Alternating sign matrix
+{parent=Matrices}
+{wiki=Alternating_sign_matrix}
+
+= Aluthge transform
+{parent=Matrices}
+{wiki=Aluthge_transform}
+
+= Anti-diagonal matrix
+{parent=Matrices}
+{wiki=Anti-diagonal_matrix}
+
+= Arrowhead matrix
+{parent=Matrices}
+{wiki=Arrowhead_matrix}
+
+= Augmented matrix
+{parent=Matrices}
+{wiki=Augmented_matrix}
+
+= BLOSUM
+{parent=Matrices}
+{wiki=BLOSUM}
+
+= Balanced matrix
+{parent=Matrices}
+{wiki=Balanced_matrix}
+
+= Bartels–Stewart algorithm
+{parent=Matrices}
+{wiki=Bartels–Stewart_algorithm}
+
+= Bicomplex number
+{parent=Matrices}
+{wiki=Bicomplex_number}
+
+= Birkhoff algorithm
+{parent=Matrices}
+{wiki=Birkhoff_algorithm}
+
+= Birkhoff factorization
+{parent=Matrices}
+{wiki=Birkhoff_factorization}
+
+= Birkhoff polytope
+{parent=Matrices}
+{wiki=Birkhoff_polytope}
+
+= Bisymmetric matrix
+{parent=Matrices}
+{wiki=Bisymmetric_matrix}
+
+= Block matrix
+{parent=Matrices}
+{wiki=Block_matrix}
+
+= Block reflector
+{parent=Matrices}
+{wiki=Block_reflector}
+
+= Bohemian matrices
+{parent=Matrices}
+{wiki=Bohemian_matrices}
+
+= Boolean matrix
+{parent=Matrices}
+{wiki=Boolean_matrix}
+
+= Brahmagupta matrix
+{parent=Matrices}
+{wiki=Brahmagupta_matrix}
+
+= Brandt matrix
+{parent=Matrices}
+{wiki=Brandt_matrix}
+
+= Butson-type Hadamard matrix
+{parent=Matrices}
+{wiki=Butson-type_Hadamard_matrix}
+
+= Bézout matrix
+{parent=Matrices}
+{wiki=Bézout_matrix}
+
+= CUR matrix approximation
+{parent=Matrices}
+{wiki=CUR_matrix_approximation}
+
+= Cabibbo–Kobayashi–Maskawa matrix
+{parent=Matrices}
+{wiki=Cabibbo–Kobayashi–Maskawa_matrix}
+
+= Cartan matrix
+{parent=Matrices}
+{wiki=Cartan_matrix}
+
+= Cauchy matrix
+{parent=Matrices}
+{wiki=Cauchy_matrix}
+
+= Centering matrix
+{parent=Matrices}
+{wiki=Centering_matrix}
+
+= Circulant matrix
+{parent=Matrices}
+{wiki=Circulant_matrix}
+
+= Column groups and row groups
+{parent=Matrices}
+{wiki=Column_groups_and_row_groups}
+
+= Companion matrix
+{parent=Matrices}
+{wiki=Companion_matrix}
+
+= Comparison matrix
+{parent=Matrices}
+{wiki=Comparison_matrix}
+
+= Completely-S matrix
+{parent=Matrices}
+{wiki=Completely-S_matrix}
+
+= Complex Hadamard matrix
+{parent=Matrices}
+{wiki=Complex_Hadamard_matrix}
+
+= Compound matrix
+{parent=Matrices}
+{wiki=Compound_matrix}
+
+= Condition number
+{parent=Matrices}
+{wiki=Condition_number}
+
+= Constrained generalized inverse
+{parent=Matrices}
+{wiki=Constrained_generalized_inverse}
+
+= Continuant (mathematics)
+{parent=Matrices}
+{wiki=Continuant_(mathematics)}
+
+= Convergent matrix
+{parent=Matrices}
+{wiki=Convergent_matrix}
+
+= Copositive matrix
+{parent=Matrices}
+{wiki=Copositive_matrix}
+
+= Corner transfer matrix
+{parent=Matrices}
+{wiki=Corner_transfer_matrix}
+
+= Covariance matrix
+{parent=Matrices}
+{wiki=Covariance_matrix}
+
+= Cross-correlation matrix
+{parent=Matrices}
+{wiki=Cross-correlation_matrix}
+
+= Cross-covariance matrix
+{parent=Matrices}
+{wiki=Cross-covariance_matrix}
+
+= Cross Gramian
+{parent=Matrices}
+{wiki=Cross_Gramian}
+
+= DFT matrix
+{parent=Matrices}
+{wiki=DFT_matrix}
+
+= Decomposition matrix
+{parent=Matrices}
+{wiki=Decomposition_matrix}
+
+= Definite matrix
+{parent=Matrices}
+{wiki=Definite_matrix}
+
+= Density matrix embedding theory
+{parent=Matrices}
+{wiki=Density_matrix_embedding_theory}
+
+= Design matrix
+{parent=Matrices}
+{wiki=Design_matrix}
+
+= Diagonalizable matrix
+{parent=Matrices}
+{wiki=Diagonalizable_matrix}
+
+= Diagonally dominant matrix
+{parent=Matrices}
+{wiki=Diagonally_dominant_matrix}
+
+= Distance matrix
+{parent=Matrices}
+{wiki=Distance_matrix}
+
+= Doubly stochastic matrix
+{parent=Matrices}
+{wiki=Doubly_stochastic_matrix}
+
+= Duplication and elimination matrices
+{parent=Matrices}
+{wiki=Duplication_and_elimination_matrices}
+
+= EP matrix
+{parent=Matrices}
+{wiki=EP_matrix}
+
+= Euclidean distance matrix
+{parent=Matrices}
+{wiki=Euclidean_distance_matrix}
+
+= Fock matrix
+{parent=Matrices}
+{wiki=Fock_matrix}
+
+= Fundamental matrix (linear differential equation)
+{parent=Matrices}
+{wiki=Fundamental_matrix_(linear_differential_equation)}
+
+= Fuzzy associative matrix
+{parent=Matrices}
+{wiki=Fuzzy_associative_matrix}
+
+= Gamma matrices
+{parent=Matrices}
+{wiki=Gamma_matrices}
+
+= Gell-Mann matrices
+{parent=Matrices}
+{wiki=Gell-Mann_matrices}
+
+= Generalized inverse
+{parent=Matrices}
+{wiki=Generalized_inverse}
+
+= Generalized permutation matrix
+{parent=Matrices}
+{wiki=Generalized_permutation_matrix}
+
+= Givens rotation
+{parent=Matrices}
+{wiki=Givens_rotation}
+
+= Gram matrix
+{parent=Matrices}
+{wiki=Gram_matrix}
+
+= Green's matrix
+{parent=Matrices}
+{wiki=Green's_matrix}
+
+= H-matrix (iterative method)
+{parent=Matrices}
+{wiki=H-matrix_(iterative_method)}
+
+= Hadamard's maximal determinant problem
+{parent=Matrices}
+{wiki=Hadamard's_maximal_determinant_problem}
+
+= Hadamard matrix
+{parent=Matrices}
+{wiki=Hadamard_matrix}
+
+= Hamiltonian matrix
+{parent=Matrices}
+{wiki=Hamiltonian_matrix}
+
+= Hankel matrix
+{parent=Matrices}
+{wiki=Hankel_matrix}
+
+= Hasse–Witt matrix
+{parent=Matrices}
+{wiki=Hasse–Witt_matrix}
+
+= Hermitian matrix
+{parent=Matrices}
+{wiki=Hermitian_matrix}
+
+= Hessenberg matrix
+{parent=Matrices}
+{wiki=Hessenberg_matrix}
+
+= Hessian automatic differentiation
+{parent=Matrices}
+{wiki=Hessian_automatic_differentiation}
+
+= Hessian matrix
+{parent=Matrices}
+{wiki=Hessian_matrix}
+
+= Hierarchical matrix
+{parent=Matrices}
+{wiki=Hierarchical_matrix}
+
+= Higher-dimensional gamma matrices
+{parent=Matrices}
+{wiki=Higher-dimensional_gamma_matrices}
+
+= Higher spin alternating sign matrix
+{parent=Matrices}
+{wiki=Higher_spin_alternating_sign_matrix}
+
+= Hilbert matrix
+{parent=Matrices}
+{wiki=Hilbert_matrix}
+
+= Hollow matrix
+{parent=Matrices}
+{wiki=Hollow_matrix}
+
+= Householder transformation
+{parent=Matrices}
+{wiki=Householder_transformation}
+
+= Hurwitz matrix
+{parent=Matrices}
+{wiki=Hurwitz_matrix}
+
+= Identity matrix
+{parent=Matrices}
+{wiki=Identity_matrix}
+
+= Integer matrix
+{parent=Matrices}
+{wiki=Integer_matrix}
+
+= Involutory matrix
+{parent=Matrices}
+{wiki=Involutory_matrix}
+
+= Irregular matrix
+{parent=Matrices}
+{wiki=Irregular_matrix}
+
+= Jacket matrix
+{parent=Matrices}
+{wiki=Jacket_matrix}
+
+= Jacobian matrix and determinant
+{parent=Matrices}
+{wiki=Jacobian_matrix_and_determinant}
+
+= John Williamson (mathematician)
+{parent=Matrices}
+{wiki=John_Williamson_(mathematician)}
+
+= Jones calculus
+{parent=Matrices}
+{wiki=Jones_calculus}
+
+= Krawtchouk matrices
+{parent=Matrices}
+{wiki=Krawtchouk_matrices}
+
+= L-matrix
+{parent=Matrices}
+{wiki=L-matrix}
+
+= Lehmer matrix
+{parent=Matrices}
+{wiki=Lehmer_matrix}
+
+= Leslie matrix
+{parent=Matrices}
+{wiki=Leslie_matrix}
+
+= Levinson recursion
+{parent=Matrices}
+{wiki=Levinson_recursion}
+
+= Linear group
+{parent=Matrices}
+{wiki=Linear_group}
+
+= List of named matrices
+{parent=Matrices}
+{wiki=List_of_named_matrices}
+
+= Logical matrix
+{parent=Matrices}
+{wiki=Logical_matrix}
+
+= M-matrix
+{parent=Matrices}
+{wiki=M-matrix}
+
+= Magic square
+{parent=Matrices}
+{wiki=Magic_square}
+
+= Main diagonal
+{parent=Matrices}
+{wiki=Main_diagonal}
+
+= Manin matrix
+{parent=Matrices}
+{wiki=Manin_matrix}
+
+= Matrix (mathematics)
+{parent=Matrices}
+{wiki=Matrix_(mathematics)}
+
+= Matrix chain multiplication
+{parent=Matrices}
+{wiki=Matrix_chain_multiplication}
+
+= Matrix consimilarity
+{parent=Matrices}
+{wiki=Matrix_consimilarity}
+
+= Matrix equivalence
+{parent=Matrices}
+{wiki=Matrix_equivalence}
+
+= Matrix regularization
+{parent=Matrices}
+{wiki=Matrix_regularization}
+
+= Matrix representation
+{parent=Matrices}
+{wiki=Matrix_representation}
+
+= Matrix similarity
+{parent=Matrices}
+{wiki=Matrix_similarity}
+
+= Matrix splitting
+{parent=Matrices}
+{wiki=Matrix_splitting}
+
+= Metzler matrix
+{parent=Matrices}
+{wiki=Metzler_matrix}
+
+= Modal matrix
+{parent=Matrices}
+{wiki=Modal_matrix}
+
+= Monotone matrix
+{parent=Matrices}
+{wiki=Monotone_matrix}
+
+= Moore determinant of a Hermitian matrix
+{parent=Matrices}
+{wiki=Moore_determinant_of_a_Hermitian_matrix}
+
+= Moore matrix
+{parent=Matrices}
+{wiki=Moore_matrix}
+
+= Mueller calculus
+{parent=Matrices}
+{wiki=Mueller_calculus}
+
+= Nekrasov matrix
+{parent=Matrices}
+{wiki=Nekrasov_matrix}
+
+= Next-generation matrix
+{parent=Matrices}
+{wiki=Next-generation_matrix}
+
+= Nilpotent matrix
+{parent=Matrices}
+{wiki=Nilpotent_matrix}
+
+= Nonnegative matrix
+{parent=Matrices}
+{wiki=Nonnegative_matrix}
+
+= Normal matrix
+{parent=Matrices}
+{wiki=Normal_matrix}
+
+= Orbital overlap
+{parent=Matrices}
+{wiki=Orbital_overlap}
+
+= Orthogonal matrix
+{parent=Matrices}
+{wiki=Orthogonal_matrix}
+
+= Orthostochastic matrix
+{parent=Matrices}
+{wiki=Orthostochastic_matrix}
+
+= P-matrix
+{parent=Matrices}
+{wiki=P-matrix}
+
+= Packed storage matrix
+{parent=Matrices}
+{wiki=Packed_storage_matrix}
+
+= Paley construction
+{parent=Matrices}
+{wiki=Paley_construction}
+
+= Pascal matrix
+{parent=Matrices}
+{wiki=Pascal_matrix}
+
+= Pauli matrices
+{parent=Matrices}
+{wiki=Pauli_matrices}
+
+= Perfect matrix
+{parent=Matrices}
+{wiki=Perfect_matrix}
+
+= Permutation matrix
+{parent=Matrices}
+{wiki=Permutation_matrix}
+
+= Persymmetric matrix
+{parent=Matrices}
+{wiki=Persymmetric_matrix}
+
+= Plücker matrix
+{parent=Matrices}
+{wiki=Plücker_matrix}
+
+= Polyconvex function
+{parent=Matrices}
+{wiki=Polyconvex_function}
+
+= Polynomial matrix
+{parent=Matrices}
+{wiki=Polynomial_matrix}
+
+= Projection matrix
+{parent=Matrices}
+{wiki=Projection_matrix}
+
+= Pseudo-determinant
+{parent=Matrices}
+{wiki=Pseudo-determinant}
+
+= Q-matrix
+{parent=Matrices}
+{wiki=Q-matrix}
+
+= Quincunx matrix
+{parent=Matrices}
+{wiki=Quincunx_matrix}
+
+= R-matrix
+{parent=Matrices}
+{wiki=R-matrix}
+
+= Redheffer matrix
+{parent=Matrices}
+{wiki=Redheffer_matrix}
+
+= Redheffer star product
+{parent=Matrices}
+{wiki=Redheffer_star_product}
+
+= Regular Hadamard matrix
+{parent=Matrices}
+{wiki=Regular_Hadamard_matrix}
+
+= Rosenbrock system matrix
+{parent=Matrices}
+{wiki=Rosenbrock_system_matrix}
+
+= Rotation matrix
+{parent=Matrices}
+{wiki=Rotation_matrix}
+
+= S-matrix
+{parent=Matrices}
+{wiki=S-matrix}
+
+= Sample mean and covariance
+{parent=Matrices}
+{wiki=Sample_mean_and_covariance}
+
+= Scatter matrix
+{parent=Matrices}
+{wiki=Scatter_matrix}
+
+= Semi-orthogonal matrix
+{parent=Matrices}
+{wiki=Semi-orthogonal_matrix}
+
+= Shift matrix
+{parent=Matrices}
+{wiki=Shift_matrix}
+
+= Signature matrix
+{parent=Matrices}
+{wiki=Signature_matrix}
+
+= Skew-symmetric matrix
+{parent=Matrices}
+{wiki=Skew-symmetric_matrix}
+
+= Square matrix
+{parent=Matrices}
+{wiki=Square_matrix}
+
+= Square root of a 2 by 2 matrix
+{parent=Matrices}
+{wiki=Square_root_of_a_2_by_2_matrix}
+
+= Stieltjes matrix
+{parent=Matrices}
+{wiki=Stieltjes_matrix}
+
+= Stochastic matrix
+{parent=Matrices}
+{wiki=Stochastic_matrix}
+
+= Substitution matrix
+{parent=Matrices}
+{wiki=Substitution_matrix}
+
+= Supermatrix
+{parent=Matrices}
+{wiki=Supermatrix}
+
+= Supnick matrix
+{parent=Matrices}
+{wiki=Supnick_matrix}
+
+= Sylvester equation
+{parent=Matrices}
+{wiki=Sylvester_equation}
+
+= Sylvester matrix
+{parent=Matrices}
+{wiki=Sylvester_matrix}
+
+= Symmetric matrix
+{parent=Matrices}
+{wiki=Symmetric_matrix}
+
+= Symplectic matrix
+{parent=Matrices}
+{wiki=Symplectic_matrix}
+
+= Toeplitz matrix
+{parent=Matrices}
+{wiki=Toeplitz_matrix}
+
+= Total active reflection coefficient
+{parent=Matrices}
+{wiki=Total_active_reflection_coefficient}
+
+= Transfer function matrix
+{parent=Matrices}
+{wiki=Transfer_function_matrix}
+
+= Transformation matrix
+{parent=Matrices}
+{wiki=Transformation_matrix}
+
+= Transition-rate matrix
+{parent=Matrices}
+{wiki=Transition-rate_matrix}
+
+= Transpositions matrix
+{parent=Matrices}
+{wiki=Transpositions_matrix}
+
+= Triangular matrix
+{parent=Matrices}
+{wiki=Triangular_matrix}
+
+= Trifocal tensor
+{parent=Matrices}
+{wiki=Trifocal_tensor}
+
+= UK Molecular R-matrix Codes
+{parent=Matrices}
+{wiki=UK_Molecular_R-matrix_Codes}
+
+= Unimodular matrix
+{parent=Matrices}
+{wiki=Unimodular_matrix}
+
+= Unistochastic matrix
+{parent=Matrices}
+{wiki=Unistochastic_matrix}
+
+= Unitary matrix
+{parent=Matrices}
+{wiki=Unitary_matrix}
+
+= Vandermonde matrix
+{parent=Matrices}
+{wiki=Vandermonde_matrix}
+
+= Variation diminishing property
+{parent=Matrices}
+{wiki=Variation_diminishing_property}
+
+= WAIFW matrix
+{parent=Matrices}
+{wiki=WAIFW_matrix}
+
+= Walsh matrix
+{parent=Matrices}
+{wiki=Walsh_matrix}
+
+= Weakly chained diagonally dominant matrix
+{parent=Matrices}
+{wiki=Weakly_chained_diagonally_dominant_matrix}
+
+= Weyl–Brauer matrices
+{parent=Matrices}
+{wiki=Weyl–Brauer_matrices}
+
+= Wigner D-matrix
+{parent=Matrices}
+{wiki=Wigner_D-matrix}
+
+= Wilkinson matrix
+{parent=Matrices}
+{wiki=Wilkinson_matrix}
+
+= Wilson matrix
+{parent=Matrices}
+{wiki=Wilson_matrix}
+
+= Woodbury matrix identity
+{parent=Matrices}
+{wiki=Woodbury_matrix_identity}
+
+= Z-matrix (mathematics)
+{parent=Matrices}
+{wiki=Z-matrix_(mathematics)}
+
+= Zero matrix
+{parent=Matrices}
+{wiki=Zero_matrix}
+
+= Matrix theory
+{parent=Linear algebra}
+{wiki=Matrix_theory}
+
+= Matrix decompositions
+{parent=Matrix theory}
+{wiki=Category:Matrix_decompositions}
+
+= Matrix normal forms
+{parent=Matrix theory}
+{wiki=Category:Matrix_normal_forms}
+
+= Triangles of numbers
+{parent=Matrix theory}
+{wiki=Category:Triangles_of_numbers}
+
+= Analytic function of a matrix
+{parent=Matrix theory}
+{wiki=Analytic_function_of_a_matrix}
+
+= Antieigenvalue theory
+{parent=Matrix theory}
+{wiki=Antieigenvalue_theory}
+
+= Bidiagonalization
+{parent=Matrix theory}
+{wiki=Bidiagonalization}
+
+= Block matrix pseudoinverse
+{parent=Matrix theory}
+{wiki=Block_matrix_pseudoinverse}
+
+= Carleman matrix
+{parent=Matrix theory}
+{wiki=Carleman_matrix}
+
+= Cayley–Hamilton theorem
+{parent=Matrix theory}
+{wiki=Cayley–Hamilton_theorem}
+
+= Commuting matrices
+{parent=Matrix theory}
+{wiki=Commuting_matrices}
+
+= Computational complexity of matrix multiplication
+{parent=Matrix theory}
+{wiki=Computational_complexity_of_matrix_multiplication}
+
+= Cracovian
+{parent=Matrix theory}
+{wiki=Cracovian}
+
+= Crouzeix's conjecture
+{parent=Matrix theory}
+{wiki=Crouzeix's_conjecture}
+
+= Cuthill–McKee algorithm
+{parent=Matrix theory}
+{wiki=Cuthill–McKee_algorithm}
+
+= Derivative of the exponential map
+{parent=Matrix theory}
+{wiki=Derivative_of_the_exponential_map}
+
+= Eigendecomposition of a matrix
+{parent=Matrix theory}
+{wiki=Eigendecomposition_of_a_matrix}
+
+= Eigenvalues and eigenvectors of the second derivative
+{parent=Matrix theory}
+{wiki=Eigenvalues_and_eigenvectors_of_the_second_derivative}
+
+= Freivalds' algorithm
+{parent=Matrix theory}
+{wiki=Freivalds'_algorithm}
+
+= Frobenius covariant
+{parent=Matrix theory}
+{wiki=Frobenius_covariant}
+
+= Frobenius determinant theorem
+{parent=Matrix theory}
+{wiki=Frobenius_determinant_theorem}
+
+= Frobenius inner product
+{parent=Matrix theory}
+{wiki=Frobenius_inner_product}
+
+= GCD matrix
+{parent=Matrix theory}
+{wiki=GCD_matrix}
+
+= Hadamard product (matrices)
+{parent=Matrix theory}
+{wiki=Hadamard_product_(matrices)}
+
+= Jacobi's formula
+{parent=Matrix theory}
+{wiki=Jacobi's_formula}
+
+= Jordan matrix
+{parent=Matrix theory}
+{wiki=Jordan_matrix}
+
+= Khatri–Rao product
+{parent=Matrix theory}
+{wiki=Khatri–Rao_product}
+
+= Kronecker product
+{parent=Matrix theory}
+{wiki=Kronecker_product}
+
+= Kronecker sum of discrete Laplacians
+{parent=Matrix theory}
+{wiki=Kronecker_sum_of_discrete_Laplacians}
+
+= Laplace expansion
+{parent=Matrix theory}
+{wiki=Laplace_expansion}
+
+= Lie product formula
+{parent=Matrix theory}
+{wiki=Lie_product_formula}
+
+= Logarithm of a matrix
+{parent=Matrix theory}
+{wiki=Logarithm_of_a_matrix}
+
+= Logarithmic norm
+{parent=Matrix theory}
+{wiki=Logarithmic_norm}
+
+= Matrix completion
+{parent=Matrix theory}
+{wiki=Matrix_completion}
+
+= Matrix decomposition
+{parent=Matrix theory}
+{wiki=Matrix_decomposition}
+
+= Matrix determinant lemma
+{parent=Matrix theory}
+{wiki=Matrix_determinant_lemma}
+
+= Matrix exponential
+{parent=Matrix theory}
+{wiki=Matrix_exponential}
+
+= Matrix multiplication
+{parent=Matrix theory}
+{wiki=Matrix_multiplication}
+
+= Matrix multiplication algorithm
+{parent=Matrix theory}
+{wiki=Matrix_multiplication_algorithm}
+
+= Matrix polynomial
+{parent=Matrix theory}
+{wiki=Matrix_polynomial}
+
+= Minimal polynomial (linear algebra)
+{parent=Matrix theory}
+{wiki=Minimal_polynomial_(linear_algebra)}
+
+= Minimum degree algorithm
+{parent=Matrix theory}
+{wiki=Minimum_degree_algorithm}
+
+= Minor (linear algebra)
+{parent=Matrix theory}
+{wiki=Minor_(linear_algebra)}
+
+= Moore–Penrose inverse
+{parent=Matrix theory}
+{wiki=Moore–Penrose_inverse}
+
+= Nullity theorem
+{parent=Matrix theory}
+{wiki=Nullity_theorem}
+
+= Partial inverse of a matrix
+{parent=Matrix theory}
+{wiki=Partial_inverse_of_a_matrix}
+
+= Perron–Frobenius theorem
+{parent=Matrix theory}
+{wiki=Perron–Frobenius_theorem}
+
+= Poincaré separation theorem
+{parent=Matrix theory}
+{wiki=Poincaré_separation_theorem}
+
+= Polar decomposition
+{parent=Matrix theory}
+{wiki=Polar_decomposition}
+
+= Quasideterminant
+{parent=Matrix theory}
+{wiki=Quasideterminant}
+
+= Rouché–Capelli theorem
+{parent=Matrix theory}
+{wiki=Rouché–Capelli_theorem}
+
+= SMAWK algorithm
+{parent=Matrix theory}
+{wiki=SMAWK_algorithm}
+
+= Schur decomposition
+{parent=Matrix theory}
+{wiki=Schur_decomposition}
+
+= Schur–Horn theorem
+{parent=Matrix theory}
+{wiki=Schur–Horn_theorem}
+
+= Sinkhorn's theorem
+{parent=Matrix theory}
+{wiki=Sinkhorn's_theorem}
+
+= Smith normal form
+{parent=Matrix theory}
+{wiki=Smith_normal_form}
+
+= Spark (mathematics)
+{parent=Matrix theory}
+{wiki=Spark_(mathematics)}
+
+= Sparse graph code
+{parent=Matrix theory}
+{wiki=Sparse_graph_code}
+
+= Specht's theorem
+{parent=Matrix theory}
+{wiki=Specht's_theorem}
+
+= Square root of a matrix
+{parent=Matrix theory}
+{wiki=Square_root_of_a_matrix}
+
+= Sylvester's criterion
+{parent=Matrix theory}
+{wiki=Sylvester's_criterion}
+
+= Sylvester's formula
+{parent=Matrix theory}
+{wiki=Sylvester's_formula}
+
+= Sylvester's law of inertia
+{parent=Matrix theory}
+{wiki=Sylvester's_law_of_inertia}
+
+= Trace inequality
+{parent=Matrix theory}
+{wiki=Trace_inequality}
+
+= Trigonometric functions of matrices
+{parent=Matrix theory}
+{wiki=Trigonometric_functions_of_matrices}
+
+= Unipotent
+{parent=Matrix theory}
+{wiki=Unipotent}
+
+= Weighing matrix
+{parent=Matrix theory}
+{wiki=Weighing_matrix}
+
+= Workshop on Numerical Ranges and Numerical Radii
+{parent=Matrix theory}
+{wiki=Workshop_on_Numerical_Ranges_and_Numerical_Radii}
+
+= Module theory
+{parent=Linear algebra}
+{wiki=Module_theory}
+
+= Algebra representation
+{parent=Module theory}
+{wiki=Algebra_representation}
+
+= Algebraically compact module
+{parent=Module theory}
+{wiki=Algebraically_compact_module}
+
+= Annihilator (ring theory)
+{parent=Module theory}
+{wiki=Annihilator_(ring_theory)}
+
+= Artinian module
+{parent=Module theory}
+{wiki=Artinian_module}
+
+= Artin–Rees lemma
+{parent=Module theory}
+{wiki=Artin–Rees_lemma}
+
+= Associated prime
+{parent=Module theory}
+{wiki=Associated_prime}
+
+= Balanced module
+{parent=Module theory}
+{wiki=Balanced_module}
+
+= Beauville–Laszlo theorem
+{parent=Module theory}
+{wiki=Beauville–Laszlo_theorem}
+
+= Bimodule
+{parent=Module theory}
+{wiki=Bimodule}
+
+= Character module
+{parent=Module theory}
+{wiki=Character_module}
+
+= Comodule
+{parent=Module theory}
+{wiki=Comodule}
+
+= Composition series
+{parent=Module theory}
+{wiki=Composition_series}
+
+= Cyclic module
+{parent=Module theory}
+{wiki=Cyclic_module}
+
+= Decomposition of a module
+{parent=Module theory}
+{wiki=Decomposition_of_a_module}
+
+= Dense submodule
+{parent=Module theory}
+{wiki=Dense_submodule}
+
+= Depth (ring theory)
+{parent=Module theory}
+{wiki=Depth_(ring_theory)}
+
+= Eilenberg–Mazur swindle
+{parent=Module theory}
+{wiki=Eilenberg–Mazur_swindle}
+
+= Endomorphism ring
+{parent=Module theory}
+{wiki=Endomorphism_ring}
+
+= Essential extension
+{parent=Module theory}
+{wiki=Essential_extension}
+
+= Finitely generated module
+{parent=Module theory}
+{wiki=Finitely_generated_module}
+
+= Fitting lemma
+{parent=Module theory}
+{wiki=Fitting_lemma}
+
+= Flat cover
+{parent=Module theory}
+{wiki=Flat_cover}
+
+= Flat module
+{parent=Module theory}
+{wiki=Flat_module}
+
+= Free module
+{parent=Module theory}
+{wiki=Free_module}
+
+= Frobenius algebra
+{parent=Module theory}
+{wiki=Frobenius_algebra}
+
+= Glossary of module theory
+{parent=Module theory}
+{wiki=Glossary_of_module_theory}
+
+= Hopfian object
+{parent=Module theory}
+{wiki=Hopfian_object}
+
+= Indecomposable module
+{parent=Module theory}
+{wiki=Indecomposable_module}
+
+= Injective hull
+{parent=Module theory}
+{wiki=Injective_hull}
+
+= Injective module
+{parent=Module theory}
+{wiki=Injective_module}
+
+= Invariant basis number
+{parent=Module theory}
+{wiki=Invariant_basis_number}
+
+= Jacobson density theorem
+{parent=Module theory}
+{wiki=Jacobson_density_theorem}
+
+= Kaplansky's theorem on projective modules
+{parent=Module theory}
+{wiki=Kaplansky's_theorem_on_projective_modules}
+
+= Krull–Schmidt theorem
+{parent=Module theory}
+{wiki=Krull–Schmidt_theorem}
+
+= Lattice (module)
+{parent=Module theory}
+{wiki=Lattice_(module)}
+
+= Length of a module
+{parent=Module theory}
+{wiki=Length_of_a_module}
+
+= Localization (commutative algebra)
+{parent=Module theory}
+{wiki=Localization_(commutative_algebra)}
+
+= Mitchell's embedding theorem
+{parent=Module theory}
+{wiki=Mitchell's_embedding_theorem}
+
+= Modular representation theory
+{parent=Module theory}
+{wiki=Modular_representation_theory}
+
+= Morita equivalence
+{parent=Module theory}
+{wiki=Morita_equivalence}
+
+= N! conjecture
+{parent=Module theory}
+{wiki=N!_conjecture}
+
+= Noetherian module
+{parent=Module theory}
+{wiki=Noetherian_module}
+
+= Principal indecomposable module
+{parent=Module theory}
+{wiki=Principal_indecomposable_module}
+
+= Projective cover
+{parent=Module theory}
+{wiki=Projective_cover}
+
+= Projective module
+{parent=Module theory}
+{wiki=Projective_module}
+
+= Pure submodule
+{parent=Module theory}
+{wiki=Pure_submodule}
+
+= Quasi-Frobenius ring
+{parent=Module theory}
+{wiki=Quasi-Frobenius_ring}
+
+= Quotient module
+{parent=Module theory}
+{wiki=Quotient_module}
+
+= Resolution (algebra)
+{parent=Module theory}
+{wiki=Resolution_(algebra)}
+
+= Schanuel's lemma
+{parent=Module theory}
+{wiki=Schanuel's_lemma}
+
+= Semisimple module
+{parent=Module theory}
+{wiki=Semisimple_module}
+
+= Serial module
+{parent=Module theory}
+{wiki=Serial_module}
+
+= Simple module
+{parent=Module theory}
+{wiki=Simple_module}
+
+= Singular submodule
+{parent=Module theory}
+{wiki=Singular_submodule}
+
+= Socle (mathematics)
+{parent=Module theory}
+{wiki=Socle_(mathematics)}
+
+= Supermodule
+{parent=Module theory}
+{wiki=Supermodule}
+
+= Support of a module
+{parent=Module theory}
+{wiki=Support_of_a_module}
+
+= Tensor product of modules
+{parent=Module theory}
+{wiki=Tensor_product_of_modules}
+
+= Torsion (algebra)
+{parent=Module theory}
+{wiki=Torsion_(algebra)}
+
+= Torsionless module
+{parent=Module theory}
+{wiki=Torsionless_module}
+
+= Uniform module
+{parent=Module theory}
+{wiki=Uniform_module}
+
+= Multilinear algebra
+{parent=Linear algebra}
+{wiki=Multilinear_algebra}
+
+= Clifford algebras
+{parent=Multilinear algebra}
+{wiki=Clifford_algebras}
+
+= Invariant theory
+{parent=Multilinear algebra}
+{wiki=Invariant_theory}
+
+= Monoidal categories
+{parent=Multilinear algebra}
+{wiki=Monoidal_categories}
+
+= Tensors
+{parent=Multilinear algebra}
+{wiki=Tensors}
+
+= Alternating multilinear map
+{parent=Multilinear algebra}
+{wiki=Alternating_multilinear_map}
+
+= Berezin integral
+{parent=Multilinear algebra}
+{wiki=Berezin_integral}
+
+= Bilinear map
+{parent=Multilinear algebra}
+{wiki=Bilinear_map}
+
+= Binet–Cauchy identity
+{parent=Multilinear algebra}
+{wiki=Binet–Cauchy_identity}
+
+= Bivector
+{parent=Multilinear algebra}
+{wiki=Bivector}
+
+= Cryptographic multilinear map
+{parent=Multilinear algebra}
+{wiki=Cryptographic_multilinear_map}
+
+= Cubic form
+{parent=Multilinear algebra}
+{wiki=Cubic_form}
+
+= Discrete exterior calculus
+{parent=Multilinear algebra}
+{wiki=Discrete_exterior_calculus}
+
+= Einstein notation
+{parent=Multilinear algebra}
+{wiki=Einstein_notation}
+
+= Exterior algebra
+{parent=Multilinear algebra}
+{wiki=Exterior_algebra}
+
+= Gamas's Theorem
+{parent=Multilinear algebra}
+{wiki=Gamas's_Theorem}
+
+= Glossary of tensor theory
+{parent=Multilinear algebra}
+{wiki=Glossary_of_tensor_theory}
+
+= HOSVD-based canonical form of TP functions and qLPV models
+{parent=Multilinear algebra}
+{wiki=HOSVD-based_canonical_form_of_TP_functions_and_qLPV_models}
+
+= Higher-order singular value decomposition
+{parent=Multilinear algebra}
+{wiki=Higher-order_singular_value_decomposition}
+
+= Homogeneous polynomial
+{parent=Multilinear algebra}
+{wiki=Homogeneous_polynomial}
+
+= Hyperdeterminant
+{parent=Multilinear algebra}
+{wiki=Hyperdeterminant}
+
+= Interior product
+{parent=Multilinear algebra}
+{wiki=Interior_product}
+
+= Lagrange's identity
+{parent=Multilinear algebra}
+{wiki=Lagrange's_identity}
+
+= Multilinear map
+{parent=Multilinear algebra}
+{wiki=Multilinear_map}
+
+= Multilinear multiplication
+{parent=Multilinear algebra}
+{wiki=Multilinear_multiplication}
+
+= Multilinear subspace learning
+{parent=Multilinear algebra}
+{wiki=Multilinear_subspace_learning}
+
+= Multivector
+{parent=Multilinear algebra}
+{wiki=Multivector}
+
+= Paravector
+{parent=Multilinear algebra}
+{wiki=Paravector}
+
+= Pfaffian
+{parent=Multilinear algebra}
+{wiki=Pfaffian}
+
+= Plücker coordinates
+{parent=Multilinear algebra}
+{wiki=Plücker_coordinates}
+
+= Skew lines
+{parent=Multilinear algebra}
+{wiki=Skew_lines}
+
+= Symmetric algebra
+{parent=Multilinear algebra}
+{wiki=Symmetric_algebra}
+
+= Tensor algebra
+{parent=Multilinear algebra}
+{wiki=Tensor_algebra}
+
+= Tensor field
+{parent=Multilinear algebra}
+{wiki=Tensor_field}
+
+= Tensor product of algebras
+{parent=Multilinear algebra}
+{wiki=Tensor_product_of_algebras}
+
+= Tensor rank decomposition
+{parent=Multilinear algebra}
+{wiki=Tensor_rank_decomposition}
+
+= Tensor reshaping
+{parent=Multilinear algebra}
+{wiki=Tensor_reshaping}
+
+= Numerical linear algebra
+{parent=Linear algebra}
+{wiki=Numerical_linear_algebra}
+
+= Domain decomposition methods
+{parent=Numerical linear algebra}
+{wiki=Domain_decomposition_methods}
+
+= Exchange algorithms
+{parent=Numerical linear algebra}
+{wiki=Category:Exchange_algorithms}
+
+= Least squares
+{parent=Numerical linear algebra}
+{wiki=Least_squares}
+
+= Matrix multiplication algorithms
+{parent=Numerical linear algebra}
+{wiki=Category:Matrix_multiplication_algorithms}
+
+= Relaxation (iterative methods)
+{parent=Numerical linear algebra}
+{wiki=Category:Relaxation_(iterative_methods)}
+
+= ABS methods
+{parent=Numerical linear algebra}
+{wiki=ABS_methods}
+
+= Armadillo (C++ library)
+{parent=Numerical linear algebra}
+{wiki=Armadillo_(C++_library)}
+
+= Arnoldi iteration
+{parent=Numerical linear algebra}
+{wiki=Arnoldi_iteration}
+
+= Automatically Tuned Linear Algebra Software
+{parent=Numerical linear algebra}
+{wiki=Automatically_Tuned_Linear_Algebra_Software}
+
+= BLIS (software)
+{parent=Numerical linear algebra}
+{wiki=BLIS_(software)}
+
+= Backfitting algorithm
+{parent=Numerical linear algebra}
+{wiki=Backfitting_algorithm}
+
+= Basic Linear Algebra Subprograms
+{parent=Numerical linear algebra}
+{wiki=Basic_Linear_Algebra_Subprograms}
+
+= Biconjugate gradient method
+{parent=Numerical linear algebra}
+{wiki=Biconjugate_gradient_method}
+
+= Biconjugate gradient stabilized method
+{parent=Numerical linear algebra}
+{wiki=Biconjugate_gradient_stabilized_method}
+
+= Block Wiedemann algorithm
+{parent=Numerical linear algebra}
+{wiki=Block_Wiedemann_algorithm}
+
+= Chebyshev iteration
+{parent=Numerical linear algebra}
+{wiki=Chebyshev_iteration}
+
+= Cholesky decomposition
+{parent=Numerical linear algebra}
+{wiki=Cholesky_decomposition}
+
+= Comparison of linear algebra libraries
+{parent=Numerical linear algebra}
+{wiki=Comparison_of_linear_algebra_libraries}
+
+= Complete orthogonal decomposition
+{parent=Numerical linear algebra}
+{wiki=Complete_orthogonal_decomposition}
+
+= Conjugate gradient method
+{parent=Numerical linear algebra}
+{wiki=Conjugate_gradient_method}
+
+= Conjugate residual method
+{parent=Numerical linear algebra}
+{wiki=Conjugate_residual_method}
+
+= DADiSP
+{parent=Numerical linear algebra}
+{wiki=DADiSP}
+
+= DIIS
+{parent=Numerical linear algebra}
+{wiki=DIIS}
+
+= Data Analytics Library
+{parent=Numerical linear algebra}
+{wiki=Data_Analytics_Library}
+
+= Derivation of the conjugate gradient method
+{parent=Numerical linear algebra}
+{wiki=Derivation_of_the_conjugate_gradient_method}
+
+= Divide-and-conquer eigenvalue algorithm
+{parent=Numerical linear algebra}
+{wiki=Divide-and-conquer_eigenvalue_algorithm}
+
+= Dune (software)
+{parent=Numerical linear algebra}
+{wiki=Dune_(software)}
+
+= EISPACK
+{parent=Numerical linear algebra}
+{wiki=EISPACK}
+
+= Eigenmode expansion
+{parent=Numerical linear algebra}
+{wiki=Eigenmode_expansion}
+
+= Eigenvalue algorithm
+{parent=Numerical linear algebra}
+{wiki=Eigenvalue_algorithm}
+
+= Frontal solver
+{parent=Numerical linear algebra}
+{wiki=Frontal_solver}
+
+= Gaussian elimination
+{parent=Numerical linear algebra}
+{wiki=Gaussian_elimination}
+
+= Gauss–Seidel method
+{parent=Numerical linear algebra}
+{wiki=Gauss–Seidel_method}
+
+= Generalized minimal residual method
+{parent=Numerical linear algebra}
+{wiki=Generalized_minimal_residual_method}
+
+= GotoBLAS
+{parent=Numerical linear algebra}
+{wiki=GotoBLAS}
+
+= GraphBLAS
+{parent=Numerical linear algebra}
+{wiki=GraphBLAS}
+
+= Hypre
+{parent=Numerical linear algebra}
+{wiki=Hypre}
+
+= ILNumerics
+{parent=Numerical linear algebra}
+{wiki=ILNumerics}
+
+= In-place matrix transposition
+{parent=Numerical linear algebra}
+{wiki=In-place_matrix_transposition}
+
+= Incomplete Cholesky factorization
+{parent=Numerical linear algebra}
+{wiki=Incomplete_Cholesky_factorization}
+
+= Incomplete LU factorization
+{parent=Numerical linear algebra}
+{wiki=Incomplete_LU_factorization}
+
+= Interpolative decomposition
+{parent=Numerical linear algebra}
+{wiki=Interpolative_decomposition}
+
+= Inverse iteration
+{parent=Numerical linear algebra}
+{wiki=Inverse_iteration}
+
+= Iterative refinement
+{parent=Numerical linear algebra}
+{wiki=Iterative_refinement}
+
+= Jacobi eigenvalue algorithm
+{parent=Numerical linear algebra}
+{wiki=Jacobi_eigenvalue_algorithm}
+
+= Jacobi method
+{parent=Numerical linear algebra}
+{wiki=Jacobi_method}
+
+= Jacobi method for complex Hermitian matrices
+{parent=Numerical linear algebra}
+{wiki=Jacobi_method_for_complex_Hermitian_matrices}
+
+= Jacobi rotation
+{parent=Numerical linear algebra}
+{wiki=Jacobi_rotation}
+
+= Julia (programming language)
+{parent=Numerical linear algebra}
+{wiki=Julia_(programming_language)}
+
+= Kaczmarz method
+{parent=Numerical linear algebra}
+{wiki=Kaczmarz_method}
+
+= Kreiss matrix theorem
+{parent=Numerical linear algebra}
+{wiki=Kreiss_matrix_theorem}
+
+= LAPACK
+{parent=Numerical linear algebra}
+{wiki=LAPACK}
+
+= LINPACK
+{parent=Numerical linear algebra}
+{wiki=LINPACK}
+
+= LOBPCG
+{parent=Numerical linear algebra}
+{wiki=LOBPCG}
+
+= LU decomposition
+{parent=Numerical linear algebra}
+{wiki=LU_decomposition}
+
+= LU reduction
+{parent=Numerical linear algebra}
+{wiki=LU_reduction}
+
+= Lanczos algorithm
+{parent=Numerical linear algebra}
+{wiki=Lanczos_algorithm}
+
+= Librsb
+{parent=Numerical linear algebra}
+{wiki=Librsb}
+
+= Lis (linear algebra library)
+{parent=Numerical linear algebra}
+{wiki=Lis_(linear_algebra_library)}
+
+= Low-rank approximation
+{parent=Numerical linear algebra}
+{wiki=Low-rank_approximation}
+
+= Matrix-free methods
+{parent=Numerical linear algebra}
+{wiki=Matrix-free_methods}
+
+= Method of Four Russians
+{parent=Numerical linear algebra}
+{wiki=Method_of_Four_Russians}
+
+= Minimal residual method
+{parent=Numerical linear algebra}
+{wiki=Minimal_residual_method}
+
+= Modal analysis using FEM
+{parent=Numerical linear algebra}
+{wiki=Modal_analysis_using_FEM}
+
+= Modified Richardson iteration
+{parent=Numerical linear algebra}
+{wiki=Modified_Richardson_iteration}
+
+= Nested dissection
+{parent=Numerical linear algebra}
+{wiki=Nested_dissection}
+
+= Numerical methods for linear least squares
+{parent=Numerical linear algebra}
+{wiki=Numerical_methods_for_linear_least_squares}
+
+= OpenBLAS
+{parent=Numerical linear algebra}
+{wiki=OpenBLAS}
+
+= Pivot element
+{parent=Numerical linear algebra}
+{wiki=Pivot_element}
+
+= Portable, Extensible Toolkit for Scientific Computation
+{parent=Numerical linear algebra}
+{wiki=Portable,_Extensible_Toolkit_for_Scientific_Computation}
+
+= Power iteration
+{parent=Numerical linear algebra}
+{wiki=Power_iteration}
+
+= Preconditioner
+{parent=Numerical linear algebra}
+{wiki=Preconditioner}
+
+= Pseudospectrum
+{parent=Numerical linear algebra}
+{wiki=Pseudospectrum}
+
+= QR algorithm
+{parent=Numerical linear algebra}
+{wiki=QR_algorithm}
+
+= QR decomposition
+{parent=Numerical linear algebra}
+{wiki=QR_decomposition}
+
+= Rayleigh quotient iteration
+{parent=Numerical linear algebra}
+{wiki=Rayleigh_quotient_iteration}
+
+= Relaxation (iterative method)
+{parent=Numerical linear algebra}
+{wiki=Relaxation_(iterative_method)}
+
+= Row echelon form
+{parent=Numerical linear algebra}
+{wiki=Row_echelon_form}
+
+= Rybicki Press algorithm
+{parent=Numerical linear algebra}
+{wiki=Rybicki_Press_algorithm}
+
+= SLEPc
+{parent=Numerical linear algebra}
+{wiki=SLEPc}
+
+= SPIKE algorithm
+{parent=Numerical linear algebra}
+{wiki=SPIKE_algorithm}
+
+= SequenceL
+{parent=Numerical linear algebra}
+{wiki=SequenceL}
+
+= Sparse approximation
+{parent=Numerical linear algebra}
+{wiki=Sparse_approximation}
+
+= Speakeasy (computational environment)
+{parent=Numerical linear algebra}
+{wiki=Speakeasy_(computational_environment)}
+
+= Stein-Rosenberg theorem
+{parent=Numerical linear algebra}
+{wiki=Stein-Rosenberg_theorem}
+
+= Stone's method
+{parent=Numerical linear algebra}
+{wiki=Stone's_method}
+
+= Successive over-relaxation
+{parent=Numerical linear algebra}
+{wiki=Successive_over-relaxation}
+
+= Tridiagonal matrix algorithm
+{parent=Numerical linear algebra}
+{wiki=Tridiagonal_matrix_algorithm}
+
+= Walter Edwin Arnoldi
+{parent=Numerical linear algebra}
+{wiki=Walter_Edwin_Arnoldi}
+
+= Super linear algebra
+{parent=Linear algebra}
+{wiki=Super_linear_algebra}
+
+= Berezinian
+{parent=Super linear algebra}
+{wiki=Berezinian}
+
+= Poisson superalgebra
+{parent=Super linear algebra}
+{wiki=Poisson_superalgebra}
+
+= Super vector space
+{parent=Super linear algebra}
+{wiki=Super_vector_space}
+
+= Superalgebra
+{parent=Super linear algebra}
+{wiki=Superalgebra}
+
+= Supercommutative algebra
+{parent=Super linear algebra}
+{wiki=Supercommutative_algebra}
+
+= Supergroup (physics)
+{parent=Super linear algebra}
+{wiki=Supergroup_(physics)}
+
+= Supertrace
+{parent=Super linear algebra}
+{wiki=Supertrace}
+
+= Theorems in linear algebra
+{parent=Linear algebra}
+{wiki=Category:Theorems_in_linear_algebra}
+
+= Lemmas in linear algebra
+{parent=Theorems in linear algebra}
+{wiki=Category:Lemmas_in_linear_algebra}
+
+= Chebotarev theorem on roots of unity
+{parent=Theorems in linear algebra}
+{wiki=Chebotarev_theorem_on_roots_of_unity}
+
+= Cramer's rule
+{parent=Theorems in linear algebra}
+{wiki=Cramer's_rule}
+
+= Goddard–Thorn theorem
+{parent=Theorems in linear algebra}
+{wiki=Goddard–Thorn_theorem}
+
+= Hawkins–Simon condition
+{parent=Theorems in linear algebra}
+{wiki=Hawkins–Simon_condition}
+
+= MacMahon's master theorem
+{parent=Theorems in linear algebra}
+{wiki=MacMahon's_master_theorem}
+
+= Principal axis theorem
+{parent=Theorems in linear algebra}
+{wiki=Principal_axis_theorem}
+
+= Rank–nullity theorem
+{parent=Theorems in linear algebra}
+{wiki=Rank–nullity_theorem}
+
+= Schur's theorem
+{parent=Theorems in linear algebra}
+{wiki=Schur's_theorem}
+
+= Witt's theorem
+{parent=Theorems in linear algebra}
+{wiki=Witt's_theorem}
+
+= Vector spaces
+{parent=Linear algebra}
+{wiki=Vector_spaces}
+
+= Function spaces
+{parent=Vector spaces}
+{wiki=Function_spaces}
+
+= Metric linear spaces
+{parent=Vector spaces}
+{wiki=Category:Metric_linear_spaces}
+
+= Complexification
+{parent=Vector spaces}
+{wiki=Complexification}
+
+= Examples of vector spaces
+{parent=Vector spaces}
+{wiki=Examples_of_vector_spaces}
+
+= Graded vector space
+{parent=Vector spaces}
+{wiki=Graded_vector_space}
+
+= Ordered vector space
+{parent=Vector spaces}
+{wiki=Ordered_vector_space}
+
+= Real-valued function
+{parent=Vector spaces}
+{wiki=Real-valued_function}
+
+= Topological vector space
+{parent=Vector spaces}
+{wiki=Topological_vector_space}
+
+= 3D projection
+{parent=Linear algebra}
+{wiki=3D_projection}
+
+= Adjugate matrix
+{parent=Linear algebra}
+{wiki=Adjugate_matrix}
+
+= Affine space
+{parent=Linear algebra}
+{wiki=Affine_space}
+
+= Amitsur–Levitzki theorem
+{parent=Linear algebra}
+{wiki=Amitsur–Levitzki_theorem}
+
+= Angles between flats
+{parent=Linear algebra}
+{wiki=Angles_between_flats}
+
+= Antiunitary operator
+{parent=Linear algebra}
+{wiki=Antiunitary_operator}
+
+= Backus–Gilbert method
+{parent=Linear algebra}
+{wiki=Backus–Gilbert_method}
+
+= Balanced set
+{parent=Linear algebra}
+{wiki=Balanced_set}
+
+= Barycentric coordinate system
+{parent=Linear algebra}
+{wiki=Barycentric_coordinate_system}
+
+= Basis (linear algebra)
+{parent=Linear algebra}
+{wiki=Basis_(linear_algebra)}
+
+= Basis function
+{parent=Linear algebra}
+{wiki=Basis_function}
+
+= Bidiagonal matrix
+{parent=Linear algebra}
+{wiki=Bidiagonal_matrix}
+
+= Big M method
+{parent=Linear algebra}
+{wiki=Big_M_method}
+
+= Bra–ket notation
+{parent=Linear algebra}
+{wiki=Bra–ket_notation}
+
+= Bunch–Nielsen–Sorensen formula
+{parent=Linear algebra}
+{wiki=Bunch–Nielsen–Sorensen_formula}
+
+= CSS code
+{parent=Linear algebra}
+{wiki=CSS_code}
+
+= Cartesian tensor
+{parent=Linear algebra}
+{wiki=Cartesian_tensor}
+
+= Cauchy–Schwarz inequality
+{parent=Linear algebra}
+{wiki=Cauchy–Schwarz_inequality}
+
+= Centrosymmetric matrix
+{parent=Linear algebra}
+{wiki=Centrosymmetric_matrix}
+
+= Change of basis
+{parent=Linear algebra}
+{wiki=Change_of_basis}
+
+= Characteristic polynomial
+{parent=Linear algebra}
+{wiki=Characteristic_polynomial}
+
+= Choi's theorem on completely positive maps
+{parent=Linear algebra}
+{wiki=Choi's_theorem_on_completely_positive_maps}
+
+= Coates graph
+{parent=Linear algebra}
+{wiki=Coates_graph}
+
+= Coefficient matrix
+{parent=Linear algebra}
+{wiki=Coefficient_matrix}
+
+= Combinatorial matrix theory
+{parent=Linear algebra}
+{wiki=Combinatorial_matrix_theory}
+
+= Commutation matrix
+{parent=Linear algebra}
+{wiki=Commutation_matrix}
+
+= Compressed sensing
+{parent=Linear algebra}
+{wiki=Compressed_sensing}
+
+= Computing the permanent
+{parent=Linear algebra}
+{wiki=Computing_the_permanent}
+
+= Conformable matrix
+{parent=Linear algebra}
+{wiki=Conformable_matrix}
+
+= Conjugate transpose
+{parent=Linear algebra}
+{wiki=Conjugate_transpose}
+
+= Constant-recursive sequence
+{parent=Linear algebra}
+{wiki=Constant-recursive_sequence}
+
+= Controlled invariant subspace
+{parent=Linear algebra}
+{wiki=Controlled_invariant_subspace}
+
+= Convex cone
+{parent=Linear algebra}
+{wiki=Convex_cone}
+
+= Corank
+{parent=Linear algebra}
+{wiki=Corank}
+
+= Cyclic subspace
+{parent=Linear algebra}
+{wiki=Cyclic_subspace}
+
+= Defective matrix
+{parent=Linear algebra}
+{wiki=Defective_matrix}
+
+= Definite quadratic form
+{parent=Linear algebra}
+{wiki=Definite_quadratic_form}
+
+= Delta operator
+{parent=Linear algebra}
+{wiki=Delta_operator}
+
+= Dependence relation
+{parent=Linear algebra}
+{wiki=Dependence_relation}
+
+= Dieudonné determinant
+{parent=Linear algebra}
+{wiki=Dieudonné_determinant}
+
+= Direct sum of modules
+{parent=Linear algebra}
+{wiki=Direct_sum_of_modules}
+
+= Dual basis
+{parent=Linear algebra}
+{wiki=Dual_basis}
+
+= Dual basis in a field extension
+{parent=Linear algebra}
+{wiki=Dual_basis_in_a_field_extension}
+
+= Dual norm
+{parent=Linear algebra}
+{wiki=Dual_norm}
+
+= Dual number
+{parent=Linear algebra}
+{wiki=Dual_number}
+
+= Dual space
+{parent=Linear algebra}
+{wiki=Dual_space}
+
+= Eigenoperator
+{parent=Linear algebra}
+{wiki=Eigenoperator}
+
+= Eigenplane
+{parent=Linear algebra}
+{wiki=Eigenplane}
+
+= Eigenvalue perturbation
+{parent=Linear algebra}
+{wiki=Eigenvalue_perturbation}
+
+= Elementary matrix
+{parent=Linear algebra}
+{wiki=Elementary_matrix}
+
+= Entanglement-assisted stabilizer formalism
+{parent=Linear algebra}
+{wiki=Entanglement-assisted_stabilizer_formalism}
+
+= Euclidean space
+{parent=Linear algebra}
+{wiki=Euclidean_space}
+
+= Faddeev–LeVerrier algorithm
+{parent=Linear algebra}
+{wiki=Faddeev–LeVerrier_algorithm}
+
+= Fangcheng (mathematics)
+{parent=Linear algebra}
+{wiki=Fangcheng_(mathematics)}
+
+= Finite von Neumann algebra
+{parent=Linear algebra}
+{wiki=Finite_von_Neumann_algebra}
+
+= Flag (linear algebra)
+{parent=Linear algebra}
+{wiki=Flag_(linear_algebra)}
+
+= Flat (geometry)
+{parent=Linear algebra}
+{wiki=Flat_(geometry)}
+
+= Frame (linear algebra)
+{parent=Linear algebra}
+{wiki=Frame_(linear_algebra)}
+
+= Fredholm's theorem
+{parent=Linear algebra}
+{wiki=Fredholm's_theorem}
+
+= Fredholm alternative
+{parent=Linear algebra}
+{wiki=Fredholm_alternative}
+
+= Frobenius normal form
+{parent=Linear algebra}
+{wiki=Frobenius_normal_form}
+
+= Function space
+{parent=Linear algebra}
+{wiki=Function_space}
+
+= Fusion frame
+{parent=Linear algebra}
+{wiki=Fusion_frame}
+
+= Generalizations of Pauli matrices
+{parent=Linear algebra}
+{wiki=Generalizations_of_Pauli_matrices}
+
+= Generalized eigenvector
+{parent=Linear algebra}
+{wiki=Generalized_eigenvector}
+
+= Generalized singular value decomposition
+{parent=Linear algebra}
+{wiki=Generalized_singular_value_decomposition}
+
+= Gershgorin circle theorem
+{parent=Linear algebra}
+{wiki=Gershgorin_circle_theorem}
+
+= Glossary of linear algebra
+{parent=Linear algebra}
+{wiki=Glossary_of_linear_algebra}
+
+= Golden–Thompson inequality
+{parent=Linear algebra}
+{wiki=Golden–Thompson_inequality}
+
+= Graded (mathematics)
+{parent=Linear algebra}
+{wiki=Graded_(mathematics)}
+
+= Gram–Schmidt process
+{parent=Linear algebra}
+{wiki=Gram–Schmidt_process}
+
+= Hahn–Banach theorem
+{parent=Linear algebra}
+{wiki=Hahn–Banach_theorem}
+
+= Haynsworth inertia additivity formula
+{parent=Linear algebra}
+{wiki=Haynsworth_inertia_additivity_formula}
+
+= Hermite normal form
+{parent=Linear algebra}
+{wiki=Hermite_normal_form}
+
+= Hilbert space
+{parent=Linear algebra}
+{wiki=Hilbert_space}
+
+= Hilbert–Poincaré series
+{parent=Linear algebra}
+{wiki=Hilbert–Poincaré_series}
+
+= Homogeneous coordinates
+{parent=Linear algebra}
+{wiki=Homogeneous_coordinates}
+
+= Homogeneous function
+{parent=Linear algebra}
+{wiki=Homogeneous_function}
+
+= Hurwitz determinant
+{parent=Linear algebra}
+{wiki=Hurwitz_determinant}
+
+= Hyperplane
+{parent=Linear algebra}
+{wiki=Hyperplane}
+
+= Indeterminate system
+{parent=Linear algebra}
+{wiki=Indeterminate_system}
+
+= Integer points in convex polyhedra
+{parent=Linear algebra}
+{wiki=Integer_points_in_convex_polyhedra}
+
+= International Linear Algebra Society
+{parent=Linear algebra}
+{wiki=International_Linear_Algebra_Society}
+
+= Invariant subspace
+{parent=Linear algebra}
+{wiki=Invariant_subspace}
+
+= Invariants of tensors
+{parent=Linear algebra}
+{wiki=Invariants_of_tensors}
+
+= Invertible matrix
+{parent=Linear algebra}
+{wiki=Invertible_matrix}
+
+= Joint spectral radius
+{parent=Linear algebra}
+{wiki=Joint_spectral_radius}
+
+= Jordan normal form
+{parent=Linear algebra}
+{wiki=Jordan_normal_form}
+
+= Jordan–Chevalley decomposition
+{parent=Linear algebra}
+{wiki=Jordan–Chevalley_decomposition}
+
+= K-SVD
+{parent=Linear algebra}
+{wiki=K-SVD}
+
+= K-frame
+{parent=Linear algebra}
+{wiki=K-frame}
+
+= Kernel (linear algebra)
+{parent=Linear algebra}
+{wiki=Kernel_(linear_algebra)}
+
+= Lattice reduction
+{parent=Linear algebra}
+{wiki=Lattice_reduction}
+
+= Least-squares spectral analysis
+{parent=Linear algebra}
+{wiki=Least-squares_spectral_analysis}
+
+= Leibniz formula for determinants
+{parent=Linear algebra}
+{wiki=Leibniz_formula_for_determinants}
+
+= Levi-Civita symbol
+{parent=Linear algebra}
+{wiki=Levi-Civita_symbol}
+
+= Line segment
+{parent=Linear algebra}
+{wiki=Line_segment}
+
+= Linear combination
+{parent=Linear algebra}
+{wiki=Linear_combination}
+
+= Linear complementarity problem
+{parent=Linear algebra}
+{wiki=Linear_complementarity_problem}
+
+= Linear equation over a ring
+{parent=Linear algebra}
+{wiki=Linear_equation_over_a_ring}
+
+= Linear form
+{parent=Linear algebra}
+{wiki=Linear_form}
+
+= Linear inequality
+{parent=Linear algebra}
+{wiki=Linear_inequality}
+
+= Linear recurrence with constant coefficients
+{parent=Linear algebra}
+{wiki=Linear_recurrence_with_constant_coefficients}
+
+= Linear relation
+{parent=Linear algebra}
+{wiki=Linear_relation}
+
+= Linear subspace
+{parent=Linear algebra}
+{wiki=Linear_subspace}
+
+= Line–line intersection
+{parent=Linear algebra}
+{wiki=Line–line_intersection}
+
+= List of vector spaces in mathematics
+{parent=Linear algebra}
+{wiki=List_of_vector_spaces_in_mathematics}
+
+= Loewner order
+{parent=Linear algebra}
+{wiki=Loewner_order}
+
+= Majorization
+{parent=Linear algebra}
+{wiki=Majorization}
+
+= Matrix Chernoff bound
+{parent=Linear algebra}
+{wiki=Matrix_Chernoff_bound}
+
+= Matrix addition
+{parent=Linear algebra}
+{wiki=Matrix_addition}
+
+= Matrix analysis
+{parent=Linear algebra}
+{wiki=Matrix_analysis}
+
+= Matrix calculus
+{parent=Linear algebra}
+{wiki=Matrix_calculus}
+
+= Matrix congruence
+{parent=Linear algebra}
+{wiki=Matrix_congruence}
+
+= Matrix difference equation
+{parent=Linear algebra}
+{wiki=Matrix_difference_equation}
+
+= Matrix norm
+{parent=Linear algebra}
+{wiki=Matrix_norm}
+
+= Matrix sign function
+{parent=Linear algebra}
+{wiki=Matrix_sign_function}
+
+= Motzkin-Taussky theorem
+{parent=Linear algebra}
+{wiki=Motzkin-Taussky_theorem}
+
+= Newton's identities
+{parent=Linear algebra}
+{wiki=Newton's_identities}
+
+= Non-negative matrix factorization
+{parent=Linear algebra}
+{wiki=Non-negative_matrix_factorization}
+
+= Nonlinear eigenproblem
+{parent=Linear algebra}
+{wiki=Nonlinear_eigenproblem}
+
+= Nonnegative rank (linear algebra)
+{parent=Linear algebra}
+{wiki=Nonnegative_rank_(linear_algebra)}
+
+= Norm (mathematics)
+{parent=Linear algebra}
+{wiki=Norm_(mathematics)}
+
+= Null vector
+{parent=Linear algebra}
+{wiki=Null_vector}
+
+= Nullspace property
+{parent=Linear algebra}
+{wiki=Nullspace_property}
+
+= Numerical range
+{parent=Linear algebra}
+{wiki=Numerical_range}
+
+= Orientation (vector space)
+{parent=Linear algebra}
+{wiki=Orientation_(vector_space)}
+
+= Orientation of a vector bundle
+{parent=Linear algebra}
+{wiki=Orientation_of_a_vector_bundle}
+
+= Orthant
+{parent=Linear algebra}
+{wiki=Orthant}
+
+= Orthogonal Procrustes problem
+{parent=Linear algebra}
+{wiki=Orthogonal_Procrustes_problem}
+
+= Orthogonal basis
+{parent=Linear algebra}
+{wiki=Orthogonal_basis}
+
+= Orthogonal complement
+{parent=Linear algebra}
+{wiki=Orthogonal_complement}
+
+= Orthogonal transformation
+{parent=Linear algebra}
+{wiki=Orthogonal_transformation}
+
+= Orthogonalization
+{parent=Linear algebra}
+{wiki=Orthogonalization}
+
+= Orthographic projection
+{parent=Linear algebra}
+{wiki=Orthographic_projection}
+
+= Orthonormal basis
+{parent=Linear algebra}
+{wiki=Orthonormal_basis}
+
+= Orthonormality
+{parent=Linear algebra}
+{wiki=Orthonormality}
+
+= Outline of linear algebra
+{parent=Linear algebra}
+{wiki=Outline_of_linear_algebra}
+
+= Overcompleteness
+{parent=Linear algebra}
+{wiki=Overcompleteness}
+
+= Overdetermined system
+{parent=Linear algebra}
+{wiki=Overdetermined_system}
+
+= Pairing
+{parent=Linear algebra}
+{wiki=Pairing}
+
+= Partial trace
+{parent=Linear algebra}
+{wiki=Partial_trace}
+
+= Peetre's inequality
+{parent=Linear algebra}
+{wiki=Peetre's_inequality}
+
+= Pohlke's theorem
+{parent=Linear algebra}
+{wiki=Pohlke's_theorem}
+
+= Productive matrix
+{parent=Linear algebra}
+{wiki=Productive_matrix}
+
+= Projection-valued measure
+{parent=Linear algebra}
+{wiki=Projection-valued_measure}
+
+= Projection (linear algebra)
+{parent=Linear algebra}
+{wiki=Projection_(linear_algebra)}
+
+= Projectivization
+{parent=Linear algebra}
+{wiki=Projectivization}
+
+= Quadratic eigenvalue problem
+{parent=Linear algebra}
+{wiki=Quadratic_eigenvalue_problem}
+
+= Quadratic form
+{parent=Linear algebra}
+{wiki=Quadratic_form}
+
+= Quasinorm
+{parent=Linear algebra}
+{wiki=Quasinorm}
+
+= Quaternionic matrix
+{parent=Linear algebra}
+{wiki=Quaternionic_matrix}
+
+= Quotient space (linear algebra)
+{parent=Linear algebra}
+{wiki=Quotient_space_(linear_algebra)}
+
+= Radial set
+{parent=Linear algebra}
+{wiki=Radial_set}
+
+= Rank-width
+{parent=Linear algebra}
+{wiki=Rank-width}
+
+= Rank (linear algebra)
+{parent=Linear algebra}
+{wiki=Rank_(linear_algebra)}
+
+= Rank factorization
+{parent=Linear algebra}
+{wiki=Rank_factorization}
+
+= Rayleigh quotient
+{parent=Linear algebra}
+{wiki=Rayleigh_quotient}
+
+= Rayleigh theorem for eigenvalues
+{parent=Linear algebra}
+{wiki=Rayleigh_theorem_for_eigenvalues}
+
+= Reducing subspace
+{parent=Linear algebra}
+{wiki=Reducing_subspace}
+
+= Reduction (mathematics)
+{parent=Linear algebra}
+{wiki=Reduction_(mathematics)}
+
+= Regularized least squares
+{parent=Linear algebra}
+{wiki=Regularized_least_squares}
+
+= Resolvent set
+{parent=Linear algebra}
+{wiki=Resolvent_set}
+
+= Restricted isometry property
+{parent=Linear algebra}
+{wiki=Restricted_isometry_property}
+
+= Ridge regression
+{parent=Linear algebra}
+{wiki=Ridge_regression}
+
+= Rota's basis conjecture
+{parent=Linear algebra}
+{wiki=Rota's_basis_conjecture}
+
+= Rotation of axes in two dimensions
+{parent=Linear algebra}
+{wiki=Rotation_of_axes_in_two_dimensions}
+
+= Row equivalence
+{parent=Linear algebra}
+{wiki=Row_equivalence}
+
+= Rule of Sarrus
+{parent=Linear algebra}
+{wiki=Rule_of_Sarrus}
+
+= S-procedure
+{parent=Linear algebra}
+{wiki=S-procedure}
+
+= Samuelson–Berkowitz algorithm
+{parent=Linear algebra}
+{wiki=Samuelson–Berkowitz_algorithm}
+
+= Schmidt decomposition
+{parent=Linear algebra}
+{wiki=Schmidt_decomposition}
+
+= Schur complement
+{parent=Linear algebra}
+{wiki=Schur_complement}
+
+= Schur product theorem
+{parent=Linear algebra}
+{wiki=Schur_product_theorem}
+
+= Sedrakyan's inequality
+{parent=Linear algebra}
+{wiki=Sedrakyan's_inequality}
+
+= Semi-simplicity
+{parent=Linear algebra}
+{wiki=Semi-simplicity}
+
+= Semilinear map
+{parent=Linear algebra}
+{wiki=Semilinear_map}
+
+= Seminorm
+{parent=Linear algebra}
+{wiki=Seminorm}
+
+= Sesquilinear form
+{parent=Linear algebra}
+{wiki=Sesquilinear_form}
+
+= Shear mapping
+{parent=Linear algebra}
+{wiki=Shear_mapping}
+
+= Shear matrix
+{parent=Linear algebra}
+{wiki=Shear_matrix}
+
+= Sherman–Morrison formula
+{parent=Linear algebra}
+{wiki=Sherman–Morrison_formula}
+
+= Signal-flow graph
+{parent=Linear algebra}
+{wiki=Signal-flow_graph}
+
+= Singular value decomposition
+{parent=Linear algebra}
+{wiki=Singular_value_decomposition}
+
+= Ervand Kogbetliantz
+{parent=Singular value decomposition}
+{wiki=Ervand_Kogbetliantz}
+
+= Gene H. Golub
+{parent=Singular value decomposition}
+{wiki=Gene_H._Golub}
+
+= Normal mode
+{parent=Singular value decomposition}
+{wiki=Normal_mode}
+
+= Singular value
+{parent=Singular value decomposition}
+{wiki=Singular_value}
+
+= Two-dimensional singular-value decomposition
+{parent=Singular value decomposition}
+{wiki=Two-dimensional_singular-value_decomposition}
+
+= Skew-Hamiltonian matrix
+{parent=Linear algebra}
+{wiki=Skew-Hamiltonian_matrix}
+
+= Special linear group
+{parent=Linear algebra}
+{wiki=Special_linear_group}
+
+= Spectral theorem
+{parent=Linear algebra}
+{wiki=Spectral_theorem}
+
+= Spectral theory
+{parent=Linear algebra}
+{wiki=Spectral_theory}
+
+= Almost Mathieu operator
+{parent=Spectral theory}
+{wiki=Almost_Mathieu_operator}
+
+= Bauer–Fike theorem
+{parent=Spectral theory}
+{wiki=Bauer–Fike_theorem}
+
+= Decomposition of spectrum (functional analysis)
+{parent=Spectral theory}
+{wiki=Decomposition_of_spectrum_(functional_analysis)}
+
+= Dirichlet eigenvalue
+{parent=Spectral theory}
+{wiki=Dirichlet_eigenvalue}
+
+= Discrete spectrum (mathematics)
+{parent=Spectral theory}
+{wiki=Discrete_spectrum_(mathematics)}
+
+= Essential spectrum
+{parent=Spectral theory}
+{wiki=Essential_spectrum}
+
+= Fractional Chebyshev collocation method
+{parent=Spectral theory}
+{wiki=Fractional_Chebyshev_collocation_method}
+
+= Fredholm theory
+{parent=Spectral theory}
+{wiki=Fredholm_theory}
+
+= Hearing the shape of a drum
+{parent=Spectral theory}
+{wiki=Hearing_the_shape_of_a_drum}
+
+= Heat kernel
+{parent=Spectral theory}
+{wiki=Heat_kernel}
+
+= Isospectral
+{parent=Spectral theory}
+{wiki=Isospectral}
+
+= Krein–Rutman theorem
+{parent=Spectral theory}
+{wiki=Krein–Rutman_theorem}
+
+= Kuznetsov trace formula
+{parent=Spectral theory}
+{wiki=Kuznetsov_trace_formula}
+
+= Lax pair
+{parent=Spectral theory}
+{wiki=Lax_pair}
+
+= Min-max theorem
+{parent=Spectral theory}
+{wiki=Min-max_theorem}
+
+= Multi-spectral phase coherence
+{parent=Spectral theory}
+{wiki=Multi-spectral_phase_coherence}
+
+= Normal eigenvalue
+{parent=Spectral theory}
+{wiki=Normal_eigenvalue}
+
+= Paul Gauduchon
+{parent=Spectral theory}
+{wiki=Paul_Gauduchon}
+
+= Polyakov formula
+{parent=Spectral theory}
+{wiki=Polyakov_formula}
+
+= Proto-value function
+{parent=Spectral theory}
+{wiki=Proto-value_function}
+
+= Rayleigh–Faber–Krahn inequality
+{parent=Spectral theory}
+{wiki=Rayleigh–Faber–Krahn_inequality}
+
+= Riesz projector
+{parent=Spectral theory}
+{wiki=Riesz_projector}
+
+= Rigged Hilbert space
+{parent=Spectral theory}
+{wiki=Rigged_Hilbert_space}
+
+= Selberg zeta function
+{parent=Spectral theory}
+{wiki=Selberg_zeta_function}
+
+= Spectral asymmetry
+{parent=Spectral theory}
+{wiki=Spectral_asymmetry}
+
+= Spectral geometry
+{parent=Spectral theory}
+{wiki=Spectral_geometry}
+
+= Spectral radius
+{parent=Spectral theory}
+{wiki=Spectral_radius}
+
+= Spectral theory of normal C*-algebras
+{parent=Spectral theory}
+{wiki=Spectral_theory_of_normal_C*-algebras}
+
+= Spectral theory of ordinary differential equations
+{parent=Spectral theory}
+{wiki=Spectral_theory_of_ordinary_differential_equations}
+
+= Spectrum (functional analysis)
+{parent=Spectral theory}
+{wiki=Spectrum_(functional_analysis)}
+
+= Spectrum of a C*-algebra
+{parent=Spectral theory}
+{wiki=Spectrum_of_a_C*-algebra}
+
+= Starlike tree
+{parent=Spectral theory}
+{wiki=Starlike_tree}
+
+= Sturm–Liouville theory
+{parent=Spectral theory}
+{wiki=Sturm–Liouville_theory}
+
+= Transfer operator
+{parent=Spectral theory}
+{wiki=Transfer_operator}
+
+= Weyl law
+{parent=Spectral theory}
+{wiki=Weyl_law}
+
+= Spherical basis
+{parent=Linear algebra}
+{wiki=Spherical_basis}
+
+= Spinors in three dimensions
+{parent=Linear algebra}
+{wiki=Spinors_in_three_dimensions}
+
+= Split-complex number
+{parent=Linear algebra}
+{wiki=Split-complex_number}
+
+= Spread of a matrix
+{parent=Linear algebra}
+{wiki=Spread_of_a_matrix}
+
+= Squeeze mapping
+{parent=Linear algebra}
+{wiki=Squeeze_mapping}
+
+= Stabilizer code
+{parent=Linear algebra}
+{wiki=Stabilizer_code}
+
+= Standard basis
+{parent=Linear algebra}
+{wiki=Standard_basis}
+
+= Star domain
+{parent=Linear algebra}
+{wiki=Star_domain}
+
+= Stokes operator
+{parent=Linear algebra}
+{wiki=Stokes_operator}
+
+= Sublinear function
+{parent=Linear algebra}
+{wiki=Sublinear_function}
+
+= Symplectic vector space
+{parent=Linear algebra}
+{wiki=Symplectic_vector_space}
+
+= System of linear equations
+{parent=Linear algebra}
+{wiki=System_of_linear_equations}
+
+= Szegő limit theorems
+{parent=Linear algebra}
+{wiki=Szegő_limit_theorems}
+
+= Tapering (mathematics)
+{parent=Linear algebra}
+{wiki=Tapering_(mathematics)}
+
+= Tensor operator
+{parent=Linear algebra}
+{wiki=Tensor_operator}
+
+= Tensor product of Hilbert spaces
+{parent=Linear algebra}
+{wiki=Tensor_product_of_Hilbert_spaces}
+
+= Three-dimensional rotation operator
+{parent=Linear algebra}
+{wiki=Three-dimensional_rotation_operator}
+
+= Trace (linear algebra)
+{parent=Linear algebra}
+{wiki=Trace_(linear_algebra)}
+
+= Trace diagram
+{parent=Linear algebra}
+{wiki=Trace_diagram}
+
+= Trace identity
+{parent=Linear algebra}
+{wiki=Trace_identity}
+
+= Translation of axes
+{parent=Linear algebra}
+{wiki=Translation_of_axes}
+
+= Transpose of a linear map
+{parent=Linear algebra}
+{wiki=Transpose_of_a_linear_map}
+
+= Triangle inequality
+{parent=Linear algebra}
+{wiki=Triangle_inequality}
+
+= Trilinear coordinates
+{parent=Linear algebra}
+{wiki=Trilinear_coordinates}
+
+= Underdetermined system
+{parent=Linear algebra}
+{wiki=Underdetermined_system}
+
+= Unitary transformation
+{parent=Linear algebra}
+{wiki=Unitary_transformation}
+
+= Vectorization (mathematics)
+{parent=Linear algebra}
+{wiki=Vectorization_(mathematics)}
+
+= Weyl's inequality
+{parent=Linear algebra}
+{wiki=Weyl's_inequality}
+
+= Weyr canonical form
+{parent=Linear algebra}
+{wiki=Weyr_canonical_form}
+
+= Z-order curve
+{parent=Linear algebra}
+{wiki=Z-order_curve}
+
+= Zassenhaus algorithm
+{parent=Linear algebra}
+{wiki=Zassenhaus_algorithm}
+
+= Zech's logarithm
+{parent=Linear algebra}
+{wiki=Zech's_logarithm}
+
+= Zero object (algebra)
+{parent=Linear algebra}
+{wiki=Zero_object_(algebra)}

@@ -1,0 +1,2898 @@
+= Information theory
+{wiki=Information_theory}
+
+= Data compression
+{parent=Information theory}
+{wiki=Data_compression}
+
+= Archive formats
+{parent=Data compression}
+{wiki=Archive_formats}
+
+= Audio compression
+{parent=Data compression}
+{wiki=Audio_compression}
+
+= Codecs
+{parent=Data compression}
+{wiki=Codecs}
+
+= Compression file systems
+{parent=Data compression}
+{wiki=Category:Compression_file_systems}
+
+= Data compression researchers
+{parent=Data compression}
+{wiki=Category:Data_compression_researchers}
+
+= Data compression software
+{parent=Data compression}
+{wiki=Category:Data_compression_software}
+
+= Video compression
+{parent=Data compression}
+{wiki=Video_compression}
+
+= 842 (compression algorithm)
+{parent=Data compression}
+{wiki=842_(compression_algorithm)}
+
+= A-law algorithm
+{parent=Data compression}
+{wiki=A-law_algorithm}
+
+= ARJ
+{parent=Data compression}
+{wiki=ARJ}
+
+= AZ64
+{parent=Data compression}
+{wiki=AZ64}
+
+= Adaptive Huffman coding
+{parent=Data compression}
+{wiki=Adaptive_Huffman_coding}
+
+= Adaptive compression
+{parent=Data compression}
+{wiki=Adaptive_compression}
+
+= Adaptive differential pulse-code modulation
+{parent=Data compression}
+{wiki=Adaptive_differential_pulse-code_modulation}
+
+= Adaptive scalable texture compression
+{parent=Data compression}
+{wiki=Adaptive_scalable_texture_compression}
+
+= Algebraic code-excited linear prediction
+{parent=Data compression}
+{wiki=Algebraic_code-excited_linear_prediction}
+
+= Algorithm BSTW
+{parent=Data compression}
+{wiki=Algorithm_BSTW}
+
+= Anamorphic stretch transform
+{parent=Data compression}
+{wiki=Anamorphic_stretch_transform}
+
+= Arithmetic coding
+{parent=Data compression}
+{wiki=Arithmetic_coding}
+
+= Artifact (error)
+{parent=Data compression}
+{wiki=Artifact_(error)}
+
+= Asymmetric numeral systems
+{parent=Data compression}
+{wiki=Asymmetric_numeral_systems}
+
+= Audio codec
+{parent=Data compression}
+{wiki=Audio_codec}
+
+= Average bitrate
+{parent=Data compression}
+{wiki=Average_bitrate}
+
+= BREACH
+{parent=Data compression}
+{wiki=BREACH}
+
+= Binary Ordered Compression for Unicode
+{parent=Data compression}
+{wiki=Binary_Ordered_Compression_for_Unicode}
+
+= Bit rate
+{parent=Data compression}
+{wiki=Bit_rate}
+
+= Bitrate peeling
+{parent=Data compression}
+{wiki=Bitrate_peeling}
+
+= Bitstream format
+{parent=Data compression}
+{wiki=Bitstream_format}
+
+= Brotli
+{parent=Data compression}
+{wiki=Brotli}
+
+= Burrows–Wheeler transform
+{parent=Data compression}
+{wiki=Burrows–Wheeler_transform}
+
+= Byte pair encoding
+{parent=Data compression}
+{wiki=Byte_pair_encoding}
+
+= CDR coding
+{parent=Data compression}
+{wiki=CDR_coding}
+
+= CRIME
+{parent=Data compression}
+{wiki=CRIME}
+
+= Calgary corpus
+{parent=Data compression}
+{wiki=Calgary_corpus}
+
+= Canonical Huffman code
+{parent=Data compression}
+{wiki=Canonical_Huffman_code}
+
+= Canterbury corpus
+{parent=Data compression}
+{wiki=Canterbury_corpus}
+
+= Chain code
+{parent=Data compression}
+{wiki=Chain_code}
+
+= Chroma subsampling
+{parent=Data compression}
+{wiki=Chroma_subsampling}
+
+= Code-excited linear prediction
+{parent=Data compression}
+{wiki=Code-excited_linear_prediction}
+
+= Coding tree unit
+{parent=Data compression}
+{wiki=Coding_tree_unit}
+
+= Color space
+{parent=Data compression}
+{wiki=Color_space}
+
+= Companding
+{parent=Data compression}
+{wiki=Companding}
+
+= Comparison of file archivers
+{parent=Data compression}
+{wiki=Comparison_of_file_archivers}
+
+= Comparison of video codecs
+{parent=Data compression}
+{wiki=Comparison_of_video_codecs}
+
+= Compressed data structure
+{parent=Data compression}
+{wiki=Compressed_data_structure}
+
+= Compression artifact
+{parent=Data compression}
+{wiki=Compression_artifact}
+
+= Constant bitrate
+{parent=Data compression}
+{wiki=Constant_bitrate}
+
+= Context-adaptive binary arithmetic coding
+{parent=Data compression}
+{wiki=Context-adaptive_binary_arithmetic_coding}
+
+= Context mixing
+{parent=Data compression}
+{wiki=Context_mixing}
+
+= Context tree weighting
+{parent=Data compression}
+{wiki=Context_tree_weighting}
+
+= Curve-fitting compaction
+{parent=Data compression}
+{wiki=Curve-fitting_compaction}
+
+= Data compaction
+{parent=Data compression}
+{wiki=Data_compaction}
+
+= Data compression ratio
+{parent=Data compression}
+{wiki=Data_compression_ratio}
+
+= Data compression symmetry
+{parent=Data compression}
+{wiki=Data_compression_symmetry}
+
+= Data deduplication
+{parent=Data compression}
+{wiki=Data_deduplication}
+
+= Deblocking filter
+{parent=Data compression}
+{wiki=Deblocking_filter}
+
+= Deflate
+{parent=Data compression}
+{wiki=Deflate}
+
+= Delta encoding
+{parent=Data compression}
+{wiki=Delta_encoding}
+
+= Dictionary coder
+{parent=Data compression}
+{wiki=Dictionary_coder}
+
+= Differential pulse-code modulation
+{parent=Data compression}
+{wiki=Differential_pulse-code_modulation}
+
+= Display resolution
+{parent=Data compression}
+{wiki=Display_resolution}
+
+= DriveSpace
+{parent=Data compression}
+{wiki=DriveSpace}
+
+= Dyadic distribution
+{parent=Data compression}
+{wiki=Dyadic_distribution}
+
+= Dynamic Markov compression
+{parent=Data compression}
+{wiki=Dynamic_Markov_compression}
+
+= Elias delta coding
+{parent=Data compression}
+{wiki=Elias_delta_coding}
+
+= Elias gamma coding
+{parent=Data compression}
+{wiki=Elias_gamma_coding}
+
+= Elias omega coding
+{parent=Data compression}
+{wiki=Elias_omega_coding}
+
+= Embedded Zerotrees of Wavelet transforms
+{parent=Data compression}
+{wiki=Embedded_Zerotrees_of_Wavelet_transforms}
+
+= Entropy coding
+{parent=Data compression}
+{wiki=Entropy_coding}
+
+= Error level analysis
+{parent=Data compression}
+{wiki=Error_level_analysis}
+
+= Even–Rodeh coding
+{parent=Data compression}
+{wiki=Even–Rodeh_coding}
+
+= Exponential-Golomb coding
+{parent=Data compression}
+{wiki=Exponential-Golomb_coding}
+
+= FELICS
+{parent=Data compression}
+{wiki=FELICS}
+
+= Fibonacci coding
+{parent=Data compression}
+{wiki=Fibonacci_coding}
+
+= Fractal compression
+{parent=Data compression}
+{wiki=Fractal_compression}
+
+= Frame rate
+{parent=Data compression}
+{wiki=Frame_rate}
+
+= Generation loss
+{parent=Data compression}
+{wiki=Generation_loss}
+
+= Golomb coding
+{parent=Data compression}
+{wiki=Golomb_coding}
+
+= Huffman coding
+{parent=Data compression}
+{wiki=Huffman_coding}
+
+= Hutter Prize
+{parent=Data compression}
+{wiki=Hutter_Prize}
+
+= Image compression
+{parent=Data compression}
+{wiki=Image_compression}
+
+= Incremental encoding
+{parent=Data compression}
+{wiki=Incremental_encoding}
+
+= LZ4 (compression algorithm)
+{parent=Data compression}
+{wiki=LZ4_(compression_algorithm)}
+
+= LZ77 and LZ78
+{parent=Data compression}
+{wiki=LZ77_and_LZ78}
+
+= LZFSE
+{parent=Data compression}
+{wiki=LZFSE}
+
+= LZJB
+{parent=Data compression}
+{wiki=LZJB}
+
+= LZRW
+{parent=Data compression}
+{wiki=LZRW}
+
+= LZWL
+{parent=Data compression}
+{wiki=LZWL}
+
+= LZX
+{parent=Data compression}
+{wiki=LZX}
+
+= Layered coding
+{parent=Data compression}
+{wiki=Layered_coding}
+
+= Lempel–Ziv–Markov chain algorithm
+{parent=Data compression}
+{wiki=Lempel–Ziv–Markov_chain_algorithm}
+
+= Lempel–Ziv–Oberhumer
+{parent=Data compression}
+{wiki=Lempel–Ziv–Oberhumer}
+
+= Lempel–Ziv–Stac
+{parent=Data compression}
+{wiki=Lempel–Ziv–Stac}
+
+= Lempel–Ziv–Storer–Szymanski
+{parent=Data compression}
+{wiki=Lempel–Ziv–Storer–Szymanski}
+
+= Lempel–Ziv–Welch
+{parent=Data compression}
+{wiki=Lempel–Ziv–Welch}
+
+= Levenshtein coding
+{parent=Data compression}
+{wiki=Levenshtein_coding}
+
+= Liblzg
+{parent=Data compression}
+{wiki=Liblzg}
+
+= List of codecs
+{parent=Data compression}
+{wiki=List_of_codecs}
+
+= Log area ratio
+{parent=Data compression}
+{wiki=Log_area_ratio}
+
+= Lossless compression
+{parent=Data compression}
+{wiki=Lossless_compression}
+
+= Lossless predictive audio compression
+{parent=Data compression}
+{wiki=Lossless_predictive_audio_compression}
+
+= Lossy compression
+{parent=Data compression}
+{wiki=Lossy_compression}
+
+= Lossy data conversion
+{parent=Data compression}
+{wiki=Lossy_data_conversion}
+
+= MP3
+{parent=Data compression}
+{wiki=MP3}
+
+= MPEG-1
+{parent=Data compression}
+{wiki=MPEG-1}
+
+= Macroblock
+{parent=Data compression}
+{wiki=Macroblock}
+
+= Microsoft Point-to-Point Compression
+{parent=Data compression}
+{wiki=Microsoft_Point-to-Point_Compression}
+
+= Modified Huffman coding
+{parent=Data compression}
+{wiki=Modified_Huffman_coding}
+
+= Modified discrete cosine transform
+{parent=Data compression}
+{wiki=Modified_discrete_cosine_transform}
+
+= Motion compensation
+{parent=Data compression}
+{wiki=Motion_compensation}
+
+= Move-to-front transform
+{parent=Data compression}
+{wiki=Move-to-front_transform}
+
+= Negafibonacci coding
+{parent=Data compression}
+{wiki=Negafibonacci_coding}
+
+= Ocarina Networks
+{parent=Data compression}
+{wiki=Ocarina_Networks}
+
+= Prediction by partial matching
+{parent=Data compression}
+{wiki=Prediction_by_partial_matching}
+
+= Prefix code
+{parent=Data compression}
+{wiki=Prefix_code}
+
+= Quantization (image processing)
+{parent=Data compression}
+{wiki=Quantization_(image_processing)}
+
+= Range coding
+{parent=Data compression}
+{wiki=Range_coding}
+
+= Reassignment method
+{parent=Data compression}
+{wiki=Reassignment_method}
+
+= Recursive indexing
+{parent=Data compression}
+{wiki=Recursive_indexing}
+
+= Robust Header Compression
+{parent=Data compression}
+{wiki=Robust_Header_Compression}
+
+= Run-length encoding
+{parent=Data compression}
+{wiki=Run-length_encoding}
+
+= SDCH
+{parent=Data compression}
+{wiki=SDCH}
+
+= Scribal abbreviation
+{parent=Data compression}
+{wiki=Scribal_abbreviation}
+
+= Self-extracting archive
+{parent=Data compression}
+{wiki=Self-extracting_archive}
+
+= Sequitur algorithm
+{parent=Data compression}
+{wiki=Sequitur_algorithm}
+
+= Set partitioning in hierarchical trees
+{parent=Data compression}
+{wiki=Set_partitioning_in_hierarchical_trees}
+
+= Set redundancy compression
+{parent=Data compression}
+{wiki=Set_redundancy_compression}
+
+= Shannon coding
+{parent=Data compression}
+{wiki=Shannon_coding}
+
+= Shannon–Fano coding
+{parent=Data compression}
+{wiki=Shannon–Fano_coding}
+
+= Shannon–Fano–Elias coding
+{parent=Data compression}
+{wiki=Shannon–Fano–Elias_coding}
+
+= Silence compression
+{parent=Data compression}
+{wiki=Silence_compression}
+
+= Smallest grammar problem
+{parent=Data compression}
+{wiki=Smallest_grammar_problem}
+
+= Smart Bitrate Control
+{parent=Data compression}
+{wiki=Smart_Bitrate_Control}
+
+= Smart Data Compression
+{parent=Data compression}
+{wiki=Smart_Data_Compression}
+
+= Snappy (compression)
+{parent=Data compression}
+{wiki=Snappy_(compression)}
+
+= Solid compression
+{parent=Data compression}
+{wiki=Solid_compression}
+
+= Speech coding
+{parent=Data compression}
+{wiki=Speech_coding}
+
+= Standard test image
+{parent=Data compression}
+{wiki=Standard_test_image}
+
+= Stanford Compression Forum
+{parent=Data compression}
+{wiki=Stanford_Compression_Forum}
+
+= Static Context Header Compression
+{parent=Data compression}
+{wiki=Static_Context_Header_Compression}
+
+= Terse (file format)
+{parent=Data compression}
+{wiki=Terse_(file_format)}
+
+= Transform coding
+{parent=Data compression}
+{wiki=Transform_coding}
+
+= Transparency (data compression)
+{parent=Data compression}
+{wiki=Transparency_(data_compression)}
+
+= Trellis quantization
+{parent=Data compression}
+{wiki=Trellis_quantization}
+
+= Tunstall coding
+{parent=Data compression}
+{wiki=Tunstall_coding}
+
+= Twin vector quantization
+{parent=Data compression}
+{wiki=Twin_vector_quantization}
+
+= Unary coding
+{parent=Data compression}
+{wiki=Unary_coding}
+
+= Uncompressed video
+{parent=Data compression}
+{wiki=Uncompressed_video}
+
+= Universal code (data compression)
+{parent=Data compression}
+{wiki=Universal_code_(data_compression)}
+
+= Van Jacobson TCP/IP Header Compression
+{parent=Data compression}
+{wiki=Van_Jacobson_TCP/IP_Header_Compression}
+
+= Variable-length code
+{parent=Data compression}
+{wiki=Variable-length_code}
+
+= Variable bitrate
+{parent=Data compression}
+{wiki=Variable_bitrate}
+
+= Varicode
+{parent=Data compression}
+{wiki=Varicode}
+
+= Video
+{parent=Data compression}
+{wiki=Video}
+
+= Video codec
+{parent=Data compression}
+{wiki=Video_codec}
+
+= Video compression picture types
+{parent=Data compression}
+{wiki=Video_compression_picture_types}
+
+= Weissman score
+{parent=Data compression}
+{wiki=Weissman_score}
+
+= White noise
+{parent=Data compression}
+{wiki=White_noise}
+
+= ZPEG
+{parent=Data compression}
+{wiki=ZPEG}
+
+= Zoo (file format)
+{parent=Data compression}
+{wiki=Zoo_(file_format)}
+
+= Zstd
+{parent=Data compression}
+{wiki=Zstd}
+
+= Μ-law algorithm
+{parent=Data compression}
+{wiki=Μ-law_algorithm}
+
+= Data differencing
+{parent=Information theory}
+{wiki=Data_differencing}
+
+= File comparison tools
+{parent=Data differencing}
+{wiki=Category:File_comparison_tools}
+
+= Diff-Text
+{parent=Data differencing}
+{wiki=Diff-Text}
+
+= File comparison
+{parent=Data differencing}
+{wiki=File_comparison}
+
+= VCDIFF
+{parent=Data differencing}
+{wiki=VCDIFF}
+
+= Xdelta
+{parent=Data differencing}
+{wiki=Xdelta}
+
+= Entropy and information
+{parent=Information theory}
+{wiki=Category:Entropy_and_information}
+
+= Quantum mechanical entropy
+{parent=Entropy and information}
+{wiki=Category:Quantum_mechanical_entropy}
+
+= Akaike information criterion
+{parent=Entropy and information}
+{wiki=Akaike_information_criterion}
+
+= Approximate entropy
+{parent=Entropy and information}
+{wiki=Approximate_entropy}
+
+= Binary entropy function
+{parent=Entropy and information}
+{wiki=Binary_entropy_function}
+
+= Cross-entropy
+{parent=Entropy and information}
+{wiki=Cross-entropy}
+
+= Entropy in thermodynamics and information theory
+{parent=Entropy and information}
+{wiki=Entropy_in_thermodynamics_and_information_theory}
+
+= Information gain ratio
+{parent=Entropy and information}
+{wiki=Information_gain_ratio}
+
+= Joint entropy
+{parent=Entropy and information}
+{wiki=Joint_entropy}
+
+= Kullback–Leibler divergence
+{parent=Entropy and information}
+{wiki=Kullback–Leibler_divergence}
+
+= Landauer's principle
+{parent=Entropy and information}
+{wiki=Landauer's_principle}
+
+= Maximum entropy probability distribution
+{parent=Entropy and information}
+{wiki=Maximum_entropy_probability_distribution}
+
+= Mean dimension
+{parent=Entropy and information}
+{wiki=Mean_dimension}
+
+= Molecular demon
+{parent=Entropy and information}
+{wiki=Molecular_demon}
+
+= Negentropy
+{parent=Entropy and information}
+{wiki=Negentropy}
+
+= Partition function (mathematics)
+{parent=Entropy and information}
+{wiki=Partition_function_(mathematics)}
+
+= Perplexity
+{parent=Entropy and information}
+{wiki=Perplexity}
+
+= Principle of maximum caliber
+{parent=Entropy and information}
+{wiki=Principle_of_maximum_caliber}
+
+= Principle of maximum entropy
+{parent=Entropy and information}
+{wiki=Principle_of_maximum_entropy}
+
+= Topological entropy
+{parent=Entropy and information}
+{wiki=Topological_entropy}
+
+= Transfer entropy
+{parent=Entropy and information}
+{wiki=Transfer_entropy}
+
+= Variation of information
+{parent=Entropy and information}
+{wiki=Variation_of_information}
+
+= Information geometry
+{parent=Information theory}
+{wiki=Information_geometry}
+
+= Statistical distance
+{parent=Information geometry}
+{wiki=Statistical_distance}
+
+= Chentsov's theorem
+{parent=Information geometry}
+{wiki=Chentsov's_theorem}
+
+= Fisher information metric
+{parent=Information geometry}
+{wiki=Fisher_information_metric}
+
+= Information theorists
+{parent=Information theory}
+{wiki=Category:Information_theorists}
+
+= Information theorists by nationality
+{parent=Information theorists}
+{wiki=Category:Information_theorists_by_nationality}
+
+= A.J. Han Vinck
+{parent=Information theorists}
+{wiki=A.J._Han_Vinck}
+
+= Abbas El Gamal
+{parent=Information theorists}
+{wiki=Abbas_El_Gamal}
+
+= Alexander Holevo
+{parent=Information theorists}
+{wiki=Alexander_Holevo}
+
+= Amin Shokrollahi
+{parent=Information theorists}
+{wiki=Amin_Shokrollahi}
+
+= Chris Wallace (computer scientist)
+{parent=Information theorists}
+{wiki=Chris_Wallace_(computer_scientist)}
+
+= Daniela Tuninetti
+{parent=Information theorists}
+{wiki=Daniela_Tuninetti}
+
+= Edward Kofler
+{parent=Information theorists}
+{wiki=Edward_Kofler}
+
+= Edwin Thompson Jaynes
+{parent=Information theorists}
+{wiki=Edwin_Thompson_Jaynes}
+
+= Etienne Vermeersch
+{parent=Information theorists}
+{wiki=Etienne_Vermeersch}
+
+= Hendrik C. Ferreira
+{parent=Information theorists}
+{wiki=Hendrik_C._Ferreira}
+
+= Imre Csiszár
+{parent=Information theorists}
+{wiki=Imre_Csiszár}
+
+= Ingar Roggen
+{parent=Information theorists}
+{wiki=Ingar_Roggen}
+
+= Ioannis Kontoyiannis
+{parent=Information theorists}
+{wiki=Ioannis_Kontoyiannis}
+
+= Jorma Rissanen
+{parent=Information theorists}
+{wiki=Jorma_Rissanen}
+
+= János Körner
+{parent=Information theorists}
+{wiki=János_Körner}
+
+= Library and information scientist
+{parent=Information theorists}
+{wiki=Library_and_information_scientist}
+
+= Linnar Viik
+{parent=Information theorists}
+{wiki=Linnar_Viik}
+
+= Marcel-Paul Schützenberger
+{parent=Information theorists}
+{wiki=Marcel-Paul_Schützenberger}
+
+= Michele Mosca
+{parent=Information theorists}
+{wiki=Michele_Mosca}
+
+= Natasha Devroye
+{parent=Information theorists}
+{wiki=Natasha_Devroye}
+
+= Ozgur B. Akan
+{parent=Information theorists}
+{wiki=Ozgur_B._Akan}
+
+= Peter Gacs
+{parent=Information theorists}
+{wiki=Peter_Gacs}
+
+= Punya Thitimajshima
+{parent=Information theorists}
+{wiki=Punya_Thitimajshima}
+
+= Raj Chandra Bose
+{parent=Information theorists}
+{wiki=Raj_Chandra_Bose}
+
+= Sergio Verdú
+{parent=Information theorists}
+{wiki=Sergio_Verdú}
+
+= Solomon Kullback
+{parent=Information theorists}
+{wiki=Solomon_Kullback}
+
+= Vladimir Levenshtein
+{parent=Information theorists}
+{wiki=Vladimir_Levenshtein}
+
+= Wojciech Szpankowski
+{parent=Information theorists}
+{wiki=Wojciech_Szpankowski}
+
+= Measures of complexity
+{parent=Information theory}
+{wiki=Category:Measures_of_complexity}
+
+= Complexity class
+{parent=Measures of complexity}
+{wiki=Complexity_class}
+
+= Complexity measure
+{parent=Measures of complexity}
+{wiki=Complexity_measure}
+
+= Diameter (group theory)
+{parent=Measures of complexity}
+{wiki=Diameter_(group_theory)}
+
+= Growth function
+{parent=Measures of complexity}
+{wiki=Growth_function}
+
+= Natarajan dimension
+{parent=Measures of complexity}
+{wiki=Natarajan_dimension}
+
+= Rademacher complexity
+{parent=Measures of complexity}
+{wiki=Rademacher_complexity}
+
+= Quantum information theory
+{parent=Information theory}
+{wiki=Quantum_information_theory}
+
+= Quantum information scientists
+{parent=Quantum information theory}
+{wiki=Category:Quantum_information_scientists}
+
+= Acín decomposition
+{parent=Quantum information theory}
+{wiki=Acín_decomposition}
+
+= Bennett's laws
+{parent=Quantum information theory}
+{wiki=Bennett's_laws}
+
+= Channel-state duality
+{parent=Quantum information theory}
+{wiki=Channel-state_duality}
+
+= Choi–Jamiołkowski isomorphism
+{parent=Quantum information theory}
+{wiki=Choi–Jamiołkowski_isomorphism}
+
+= Classical capacity
+{parent=Quantum information theory}
+{wiki=Classical_capacity}
+
+= Classical shadow
+{parent=Quantum information theory}
+{wiki=Classical_shadow}
+
+= Coherent information
+{parent=Quantum information theory}
+{wiki=Coherent_information}
+
+= Diamond norm
+{parent=Quantum information theory}
+{wiki=Diamond_norm}
+
+= Entanglement monotone
+{parent=Quantum information theory}
+{wiki=Entanglement_monotone}
+
+= Entanglement of formation
+{parent=Quantum information theory}
+{wiki=Entanglement_of_formation}
+
+= Entanglement witness
+{parent=Quantum information theory}
+{wiki=Entanglement_witness}
+
+= Greenberger–Horne–Zeilinger state
+{parent=Quantum information theory}
+{wiki=Greenberger–Horne–Zeilinger_state}
+
+= Hayden–Preskill thought experiment
+{parent=Quantum information theory}
+{wiki=Hayden–Preskill_thought_experiment}
+
+= Holevo's theorem
+{parent=Quantum information theory}
+{wiki=Holevo's_theorem}
+
+= Joint quantum entropy
+{parent=Quantum information theory}
+{wiki=Joint_quantum_entropy}
+
+= Lieb–Robinson bounds
+{parent=Quantum information theory}
+{wiki=Lieb–Robinson_bounds}
+
+= NLTS conjecture
+{parent=Quantum information theory}
+{wiki=NLTS_conjecture}
+
+= Nielsen's theorem
+{parent=Quantum information theory}
+{wiki=Nielsen's_theorem}
+
+= No-hiding theorem
+{parent=Quantum information theory}
+{wiki=No-hiding_theorem}
+
+= No-teleportation theorem
+{parent=Quantum information theory}
+{wiki=No-teleportation_theorem}
+
+= POVM
+{parent=Quantum information theory}
+{wiki=POVM}
+
+= Parity measurement
+{parent=Quantum information theory}
+{wiki=Parity_measurement}
+
+= Peres–Horodecki criterion
+{parent=Quantum information theory}
+{wiki=Peres–Horodecki_criterion}
+
+= Quantum Computing Since Democritus
+{parent=Quantum information theory}
+{wiki=Quantum_Computing_Since_Democritus}
+
+= Quantum channel
+{parent=Quantum information theory}
+{wiki=Quantum_channel}
+
+= Quantum cognition
+{parent=Quantum information theory}
+{wiki=Quantum_cognition}
+
+= Quantum complex network
+{parent=Quantum information theory}
+{wiki=Quantum_complex_network}
+
+= Quantum depolarizing channel
+{parent=Quantum information theory}
+{wiki=Quantum_depolarizing_channel}
+
+= Quantum finite automaton
+{parent=Quantum information theory}
+{wiki=Quantum_finite_automaton}
+
+= Quantum information
+{parent=Quantum information theory}
+{wiki=Quantum_information}
+
+= Quantum mutual information
+{parent=Quantum information theory}
+{wiki=Quantum_mutual_information}
+
+= Quantum relative entropy
+{parent=Quantum information theory}
+{wiki=Quantum_relative_entropy}
+
+= Quantum state discrimination
+{parent=Quantum information theory}
+{wiki=Quantum_state_discrimination}
+
+= Quantum steering
+{parent=Quantum information theory}
+{wiki=Quantum_steering}
+
+= Schrödinger–HJW theorem
+{parent=Quantum information theory}
+{wiki=Schrödinger–HJW_theorem}
+
+= Solovay–Kitaev theorem
+{parent=Quantum information theory}
+{wiki=Solovay–Kitaev_theorem}
+
+= Superoperator
+{parent=Quantum information theory}
+{wiki=Superoperator}
+
+= Typical subspace
+{parent=Quantum information theory}
+{wiki=Typical_subspace}
+
+= W state
+{parent=Quantum information theory}
+{wiki=W_state}
+
+= Similarity measures
+{parent=Information theory}
+{wiki=Category:Similarity_measures}
+
+= Distance
+{parent=Similarity measures}
+{wiki=Distance}
+
+= Adamic–Adar index
+{parent=Similarity measures}
+{wiki=Adamic–Adar_index}
+
+= Cosine similarity
+{parent=Similarity measures}
+{wiki=Cosine_similarity}
+
+= Jaccard index
+{parent=Similarity measures}
+{wiki=Jaccard_index}
+
+= Overlap coefficient
+{parent=Similarity measures}
+{wiki=Overlap_coefficient}
+
+= SimRank
+{parent=Similarity measures}
+{wiki=SimRank}
+
+= Similarity measure
+{parent=Similarity measures}
+{wiki=Similarity_measure}
+
+= Simple matching coefficient
+{parent=Similarity measures}
+{wiki=Simple_matching_coefficient}
+
+= Sørensen–Dice coefficient
+{parent=Similarity measures}
+{wiki=Sørensen–Dice_coefficient}
+
+= Tversky index
+{parent=Similarity measures}
+{wiki=Tversky_index}
+
+= Units of information
+{parent=Information theory}
+{wiki=Units_of_information}
+
+= Binary prefixes
+{parent=Units of information}
+{wiki=Binary_prefixes}
+
+= Data unit
+{parent=Units of information}
+{wiki=Category:Data_unit}
+
+= Binary prefix
+{parent=Units of information}
+{wiki=Binary_prefix}
+
+= Bit
+{parent=Units of information}
+{wiki=Bit}
+
+= Byte
+{parent=Units of information}
+{wiki=Byte}
+
+= Data-rate units
+{parent=Units of information}
+{wiki=Data-rate_units}
+
+= Datagram
+{parent=Units of information}
+{wiki=Datagram}
+
+= Disk sector
+{parent=Units of information}
+{wiki=Disk_sector}
+
+= Effective data transfer rate
+{parent=Units of information}
+{wiki=Effective_data_transfer_rate}
+
+= Effective transmission rate
+{parent=Units of information}
+{wiki=Effective_transmission_rate}
+
+= Field specification
+{parent=Units of information}
+{wiki=Field_specification}
+
+= Frame (networking)
+{parent=Units of information}
+{wiki=Frame_(networking)}
+
+= Gigabyte
+{parent=Units of information}
+{wiki=Gigabyte}
+
+= Gigapackets
+{parent=Units of information}
+{wiki=Gigapackets}
+
+= Hartley (unit)
+{parent=Units of information}
+{wiki=Hartley_(unit)}
+
+= Hextet
+{parent=Units of information}
+{wiki=Hextet}
+
+= IEEE 1541-2002
+{parent=Units of information}
+{wiki=IEEE_1541-2002}
+
+= JEDEC memory standards
+{parent=Units of information}
+{wiki=JEDEC_memory_standards}
+
+= Kilobit
+{parent=Units of information}
+{wiki=Kilobit}
+
+= Kilobyte
+{parent=Units of information}
+{wiki=Kilobyte}
+
+= List of binary codes
+{parent=Units of information}
+{wiki=List_of_binary_codes}
+
+= Megabit
+{parent=Units of information}
+{wiki=Megabit}
+
+= Megabyte
+{parent=Units of information}
+{wiki=Megabyte}
+
+= Nat (unit)
+{parent=Units of information}
+{wiki=Nat_(unit)}
+
+= Network packet
+{parent=Units of information}
+{wiki=Network_packet}
+
+= Nibble
+{parent=Units of information}
+{wiki=Nibble}
+
+= Octet (computing)
+{parent=Units of information}
+{wiki=Octet_(computing)}
+
+= One-bit message
+{parent=Units of information}
+{wiki=One-bit_message}
+
+= Qubit
+{parent=Units of information}
+{wiki=Qubit}
+
+= Qutrit
+{parent=Units of information}
+{wiki=Qutrit}
+
+= Shannon (unit)
+{parent=Units of information}
+{wiki=Shannon_(unit)}
+
+= Syllable (computing)
+{parent=Units of information}
+{wiki=Syllable_(computing)}
+
+= Timeline of binary prefixes
+{parent=Units of information}
+{wiki=Timeline_of_binary_prefixes}
+
+= Word (computer architecture)
+{parent=Units of information}
+{wiki=Word_(computer_architecture)}
+
+= 3G MIMO
+{parent=Information theory}
+{wiki=3G_MIMO}
+
+= A Mathematical Theory of Communication
+{parent=Information theory}
+{wiki=A_Mathematical_Theory_of_Communication}
+
+= Adjusted mutual information
+{parent=Information theory}
+{wiki=Adjusted_mutual_information}
+
+= Ascendency
+{parent=Information theory}
+{wiki=Ascendency}
+
+= Asymptotic equipartition property
+{parent=Information theory}
+{wiki=Asymptotic_equipartition_property}
+
+= Bandwidth (computing)
+{parent=Information theory}
+{wiki=Bandwidth_(computing)}
+
+= Bandwidth extension
+{parent=Information theory}
+{wiki=Bandwidth_extension}
+
+= Bar product
+{parent=Information theory}
+{wiki=Bar_product}
+
+= Bisection bandwidth
+{parent=Information theory}
+{wiki=Bisection_bandwidth}
+
+= Bretagnolle–Huber inequality
+{parent=Information theory}
+{wiki=Bretagnolle–Huber_inequality}
+
+= Channel capacity
+{parent=Information theory}
+{wiki=Channel_capacity}
+
+= Channel state information
+{parent=Information theory}
+{wiki=Channel_state_information}
+
+= Channel use
+{parent=Information theory}
+{wiki=Channel_use}
+
+= Cobham's theorem
+{parent=Information theory}
+{wiki=Cobham's_theorem}
+
+= Code rate
+{parent=Information theory}
+{wiki=Code_rate}
+
+= Common data model
+{parent=Information theory}
+{wiki=Common_data_model}
+
+= Communication channel
+{parent=Information theory}
+{wiki=Communication_channel}
+
+= Communication complexity
+{parent=Information theory}
+{wiki=Communication_complexity}
+
+= Communication source
+{parent=Information theory}
+{wiki=Communication_source}
+
+= Computational irreducibility
+{parent=Information theory}
+{wiki=Computational_irreducibility}
+
+= Conditional entropy
+{parent=Information theory}
+{wiki=Conditional_entropy}
+
+= Conditional mutual information
+{parent=Information theory}
+{wiki=Conditional_mutual_information}
+
+= Constraint (information theory)
+{parent=Information theory}
+{wiki=Constraint_(information_theory)}
+
+= Cooperative MIMO
+{parent=Information theory}
+{wiki=Cooperative_MIMO}
+
+= Cycles of Time
+{parent=Information theory}
+{wiki=Cycles_of_Time}
+
+= DISCUS
+{parent=Information theory}
+{wiki=DISCUS}
+
+= Damerau–Levenshtein distance
+{parent=Information theory}
+{wiki=Damerau–Levenshtein_distance}
+
+= Differential entropy
+{parent=Information theory}
+{wiki=Differential_entropy}
+
+= Directed information
+{parent=Information theory}
+{wiki=Directed_information}
+
+= Distributed source coding
+{parent=Information theory}
+{wiki=Distributed_source_coding}
+
+= Dual total correlation
+{parent=Information theory}
+{wiki=Dual_total_correlation}
+
+= Entropic gravity
+{parent=Information theory}
+{wiki=Entropic_gravity}
+
+= Entropic uncertainty
+{parent=Information theory}
+{wiki=Entropic_uncertainty}
+
+= Entropic vector
+{parent=Information theory}
+{wiki=Entropic_vector}
+
+= Entropy (information theory)
+{parent=Information theory}
+{wiki=Entropy_(information_theory)}
+
+= Entropy estimation
+{parent=Information theory}
+{wiki=Entropy_estimation}
+
+= Entropy power inequality
+{parent=Information theory}
+{wiki=Entropy_power_inequality}
+
+= Entropy rate
+{parent=Information theory}
+{wiki=Entropy_rate}
+
+= Error exponent
+{parent=Information theory}
+{wiki=Error_exponent}
+
+= Error exponents in hypothesis testing
+{parent=Information theory}
+{wiki=Error_exponents_in_hypothesis_testing}
+
+= Everything is a file
+{parent=Information theory}
+{wiki=Everything_is_a_file}
+
+= Exformation
+{parent=Information theory}
+{wiki=Exformation}
+
+= Fano's inequality
+{parent=Information theory}
+{wiki=Fano's_inequality}
+
+= Fisher information
+{parent=Information theory}
+{wiki=Fisher_information}
+
+= Formation matrix
+{parent=Information theory}
+{wiki=Formation_matrix}
+
+= Frank Benford
+{parent=Information theory}
+{wiki=Frank_Benford}
+
+= Fungible information
+{parent=Information theory}
+{wiki=Fungible_information}
+
+= Generalized entropy index
+{parent=Information theory}
+{wiki=Generalized_entropy_index}
+
+= Gibbs' inequality
+{parent=Information theory}
+{wiki=Gibbs'_inequality}
+
+= Glossary of quantum computing
+{parent=Information theory}
+{wiki=Glossary_of_quantum_computing}
+
+= Grammar-based code
+{parent=Information theory}
+{wiki=Grammar-based_code}
+
+= Grammatical Man
+{parent=Information theory}
+{wiki=Grammatical_Man}
+
+= Graph entropy
+{parent=Information theory}
+{wiki=Graph_entropy}
+
+= Grey relational analysis
+{parent=Information theory}
+{wiki=Grey_relational_analysis}
+
+= Hartley function
+{parent=Information theory}
+{wiki=Hartley_function}
+
+= Health information-seeking behaviour
+{parent=Information theory}
+{wiki=Health_information-seeking_behaviour}
+
+= History of information theory
+{parent=Information theory}
+{wiki=History_of_information_theory}
+
+= Human information interaction
+{parent=Information theory}
+{wiki=Human_information_interaction}
+
+= Hyper-encryption
+{parent=Information theory}
+{wiki=Hyper-encryption}
+
+= IEEE Transactions on Information Theory
+{parent=Information theory}
+{wiki=IEEE_Transactions_on_Information_Theory}
+
+= IMU Abacus Medal
+{parent=Information theory}
+{wiki=IMU_Abacus_Medal}
+
+= Ideal tasks
+{parent=Information theory}
+{wiki=Ideal_tasks}
+
+= Identity channel
+{parent=Information theory}
+{wiki=Identity_channel}
+
+= Incompressibility method
+{parent=Information theory}
+{wiki=Incompressibility_method}
+
+= Index of information theory articles
+{parent=Information theory}
+{wiki=Index_of_information_theory_articles}
+
+= Inequalities in information theory
+{parent=Information theory}
+{wiki=Inequalities_in_information_theory}
+
+= Informating
+{parent=Information theory}
+{wiki=Informating}
+
+= Information
+{parent=Information theory}
+{wiki=Information}
+
+= Asymmetric information
+{parent=Information}
+{wiki=Asymmetric_information}
+
+= Awareness activism
+{parent=Information}
+{wiki=Category:Awareness_activism}
+
+= Comparisons
+{parent=Information}
+{wiki=Comparisons}
+
+= Data
+{parent=Information}
+{wiki=Data}
+
+= Data and information organizations
+{parent=Information}
+{wiki=Category:Data_and_information_organizations}
+
+= Disclosure
+{parent=Information}
+{wiki=Disclosure}
+
+= Geographic data and information
+{parent=Information}
+{wiki=Geographic_data_and_information}
+
+= Government information
+{parent=Information}
+{wiki=Government_information}
+
+= Information Age
+{parent=Information}
+{wiki=Information_Age}
+
+= Information by telephone
+{parent=Information}
+{wiki=Category:Information_by_telephone}
+
+= Information centres
+{parent=Information}
+{wiki=Category:Information_centres}
+
+= Information economics
+{parent=Information}
+{wiki=Information_economics}
+
+= Information privacy
+{parent=Information}
+{wiki=Information_privacy}
+
+= Information systems
+{parent=Information}
+{wiki=Information_systems}
+
+= Information technology
+{parent=Information}
+{wiki=Information_technology}
+
+= Information visualization
+{parent=Information}
+{wiki=Information_visualization}
+
+= Journalism
+{parent=Information}
+{wiki=Journalism}
+
+= News
+{parent=Information}
+{wiki=News}
+
+= Reference
+{parent=Information}
+{wiki=Reference}
+
+= Statements
+{parent=Information}
+{wiki=Statements}
+
+= Texts
+{parent=Information}
+{wiki=Texts}
+
+= Works about information
+{parent=Information}
+{wiki=Category:Works_about_information}
+
+= Authority control
+{parent=Information}
+{wiki=Authority_control}
+
+= Bum steer
+{parent=Information}
+{wiki=Bum_steer}
+
+= Calculation
+{parent=Information}
+{wiki=Calculation}
+
+= Children's use of information
+{parent=Information}
+{wiki=Children's_use_of_information}
+
+= Cognitive miser
+{parent=Information}
+{wiki=Cognitive_miser}
+
+= Community indicators
+{parent=Information}
+{wiki=Community_indicators}
+
+= Computational theory of mind
+{parent=Information}
+{wiki=Computational_theory_of_mind}
+
+= Coverage (information systems)
+{parent=Information}
+{wiki=Coverage_(information_systems)}
+
+= Data ecosystem
+{parent=Information}
+{wiki=Data_ecosystem}
+
+= Digital firm
+{parent=Information}
+{wiki=Digital_firm}
+
+= Fact sheet
+{parent=Information}
+{wiki=Fact_sheet}
+
+= Fallacy
+{parent=Information}
+{wiki=Fallacy}
+
+= Global information system
+{parent=Information}
+{wiki=Global_information_system}
+
+= InfoQ
+{parent=Information}
+{wiki=InfoQ}
+
+= Infodemic
+{parent=Information}
+{wiki=Infodemic}
+
+= Informal fallacy
+{parent=Information}
+{wiki=Informal_fallacy}
+
+= Information cascade
+{parent=Information}
+{wiki=Information_cascade}
+
+= Information ecology
+{parent=Information}
+{wiki=Information_ecology}
+
+= Information engineering
+{parent=Information}
+{wiki=Information_engineering}
+
+= Information hazard
+{parent=Information}
+{wiki=Information_hazard}
+
+= Information management
+{parent=Information}
+{wiki=Information_management}
+
+= Information oriented software development
+{parent=Information}
+{wiki=Information_oriented_software_development}
+
+= Information policy
+{parent=Information}
+{wiki=Information_policy}
+
+= Information processing (psychology)
+{parent=Information}
+{wiki=Information_processing_(psychology)}
+
+= Information science
+{parent=Information}
+{wiki=Information_science}
+
+= Information sensitivity
+{parent=Information}
+{wiki=Information_sensitivity}
+
+= Information society
+{parent=Information}
+{wiki=Information_society}
+
+= Information space
+{parent=Information}
+{wiki=Information_space}
+
+= Information system
+{parent=Information}
+{wiki=Information_system}
+
+= Informatization
+{parent=Information}
+{wiki=Informatization}
+
+= Insider trading
+{parent=Information}
+{wiki=Insider_trading}
+
+= Knowledge society
+{parent=Information}
+{wiki=Knowledge_society}
+
+= Low information voter
+{parent=Information}
+{wiki=Low_information_voter}
+
+= Market moving information
+{parent=Information}
+{wiki=Market_moving_information}
+
+= Mental model
+{parent=Information}
+{wiki=Mental_model}
+
+= Pattern-of-life analysis
+{parent=Information}
+{wiki=Pattern-of-life_analysis}
+
+= Price signal
+{parent=Information}
+{wiki=Price_signal}
+
+= Raw data
+{parent=Information}
+{wiki=Raw_data}
+
+= Statistics
+{parent=Information}
+{wiki=Statistics}
+
+= Tele-information services
+{parent=Information}
+{wiki=Tele-information_services}
+
+= Information behavior
+{parent=Information theory}
+{wiki=Information_behavior}
+
+= Information content
+{parent=Information theory}
+{wiki=Information_content}
+
+= Information continuum
+{parent=Information theory}
+{wiki=Information_continuum}
+
+= Information diagram
+{parent=Information theory}
+{wiki=Information_diagram}
+
+= Information dimension
+{parent=Information theory}
+{wiki=Information_dimension}
+
+= Information exchange
+{parent=Information theory}
+{wiki=Information_exchange}
+
+= Information flow (information theory)
+{parent=Information theory}
+{wiki=Information_flow_(information_theory)}
+
+= Information fluctuation complexity
+{parent=Information theory}
+{wiki=Information_fluctuation_complexity}
+
+= Information projection
+{parent=Information theory}
+{wiki=Information_projection}
+
+= Information source (mathematics)
+{parent=Information theory}
+{wiki=Information_source_(mathematics)}
+
+= Information theory and measure theory
+{parent=Information theory}
+{wiki=Information_theory_and_measure_theory}
+
+= Information–action ratio
+{parent=Information theory}
+{wiki=Information–action_ratio}
+
+= Integrated information theory
+{parent=Information theory}
+{wiki=Integrated_information_theory}
+
+= Interaction information
+{parent=Information theory}
+{wiki=Interaction_information}
+
+= Interactions of actors theory
+{parent=Information theory}
+{wiki=Interactions_of_actors_theory}
+
+= Interference channel
+{parent=Information theory}
+{wiki=Interference_channel}
+
+= Jakobson's functions of language
+{parent=Information theory}
+{wiki=Jakobson's_functions_of_language}
+
+= Joint source and channel coding
+{parent=Information theory}
+{wiki=Joint_source_and_channel_coding}
+
+= Karl Küpfmüller
+{parent=Information theory}
+{wiki=Karl_Küpfmüller}
+
+= Krichevsky–Trofimov estimator
+{parent=Information theory}
+{wiki=Krichevsky–Trofimov_estimator}
+
+= Kullback's inequality
+{parent=Information theory}
+{wiki=Kullback's_inequality}
+
+= Lempel–Ziv complexity
+{parent=Information theory}
+{wiki=Lempel–Ziv_complexity}
+
+= Limiting density of discrete points
+{parent=Information theory}
+{wiki=Limiting_density_of_discrete_points}
+
+= Linear network coding
+{parent=Information theory}
+{wiki=Linear_network_coding}
+
+= Log-rank conjecture
+{parent=Information theory}
+{wiki=Log-rank_conjecture}
+
+= Log sum inequality
+{parent=Information theory}
+{wiki=Log_sum_inequality}
+
+= Logic of information
+{parent=Information theory}
+{wiki=Logic_of_information}
+
+= Lovász number
+{parent=Information theory}
+{wiki=Lovász_number}
+
+= MIMO-OFDM
+{parent=Information theory}
+{wiki=MIMO-OFDM}
+
+= Many antennas
+{parent=Information theory}
+{wiki=Many_antennas}
+
+= Map communication model
+{parent=Information theory}
+{wiki=Map_communication_model}
+
+= Maximal entropy random walk
+{parent=Information theory}
+{wiki=Maximal_entropy_random_walk}
+
+= Maximal information coefficient
+{parent=Information theory}
+{wiki=Maximal_information_coefficient}
+
+= Maximum entropy spectral estimation
+{parent=Information theory}
+{wiki=Maximum_entropy_spectral_estimation}
+
+= Measure-preserving dynamical system
+{parent=Information theory}
+{wiki=Measure-preserving_dynamical_system}
+
+= Metcalfe's law
+{parent=Information theory}
+{wiki=Metcalfe's_law}
+
+= Minimum Fisher information
+{parent=Information theory}
+{wiki=Minimum_Fisher_information}
+
+= Modulo-N code
+{parent=Information theory}
+{wiki=Modulo-N_code}
+
+= Multi-user MIMO
+{parent=Information theory}
+{wiki=Multi-user_MIMO}
+
+= Multicast-broadcast single-frequency network
+{parent=Information theory}
+{wiki=Multicast-broadcast_single-frequency_network}
+
+= Mutual information
+{parent=Information theory}
+{wiki=Mutual_information}
+
+= Name collision
+{parent=Information theory}
+{wiki=Name_collision}
+
+= Network performance
+{parent=Information theory}
+{wiki=Network_performance}
+
+= Forward proxy
+{parent=Network performance}
+{wiki=Forward_proxy}
+
+= Reverse proxy
+{parent=Network performance}
+{wiki=Reverse_proxy}
+
+= Teletraffic
+{parent=Network performance}
+{wiki=Teletraffic}
+
+= ALTQ
+{parent=Network performance}
+{wiki=ALTQ}
+
+= Active queue management
+{parent=Network performance}
+{wiki=Active_queue_management}
+
+= Adaptive quality of service multi-hop routing
+{parent=Network performance}
+{wiki=Adaptive_quality_of_service_multi-hop_routing}
+
+= AiScaler
+{parent=Network performance}
+{wiki=AiScaler}
+
+= Application-Layer Protocol Negotiation
+{parent=Network performance}
+{wiki=Application-Layer_Protocol_Negotiation}
+
+= Application-layer framing
+{parent=Network performance}
+{wiki=Application-layer_framing}
+
+= Argus – Audit Record Generation and Utilization System
+{parent=Network performance}
+{wiki=Argus_–_Audit_Record_Generation_and_Utilization_System}
+
+= Autonomic networking
+{parent=Network performance}
+{wiki=Autonomic_networking}
+
+= BWPing
+{parent=Network performance}
+{wiki=BWPing}
+
+= Bandwidth-delay product
+{parent=Network performance}
+{wiki=Bandwidth-delay_product}
+
+= Bandwidth guaranteed polling
+{parent=Network performance}
+{wiki=Bandwidth_guaranteed_polling}
+
+= Bandwidth management
+{parent=Network performance}
+{wiki=Bandwidth_management}
+
+= Best-effort delivery
+{parent=Network performance}
+{wiki=Best-effort_delivery}
+
+= Bit error rate
+{parent=Network performance}
+{wiki=Bit_error_rate}
+
+= Blue (queue management algorithm)
+{parent=Network performance}
+{wiki=Blue_(queue_management_algorithm)}
+
+= Bottleneck (engineering)
+{parent=Network performance}
+{wiki=Bottleneck_(engineering)}
+
+= Bottleneck (network)
+{parent=Network performance}
+{wiki=Bottleneck_(network)}
+
+= Broadcast storm
+{parent=Network performance}
+{wiki=Broadcast_storm}
+
+= Bufferbloat
+{parent=Network performance}
+{wiki=Bufferbloat}
+
+= Burstable billing
+{parent=Network performance}
+{wiki=Burstable_billing}
+
+= CFosSpeed
+{parent=Network performance}
+{wiki=CFosSpeed}
+
+= Cloud-native processor
+{parent=Network performance}
+{wiki=Cloud-native_processor}
+
+= CoDel
+{parent=Network performance}
+{wiki=CoDel}
+
+= Committed information rate
+{parent=Network performance}
+{wiki=Committed_information_rate}
+
+= Cross-layer interaction and service mapping
+{parent=Network performance}
+{wiki=Cross-layer_interaction_and_service_mapping}
+
+= Customer Service Assurance
+{parent=Network performance}
+{wiki=Customer_Service_Assurance}
+
+= Delay-gradient congestion control
+{parent=Network performance}
+{wiki=Delay-gradient_congestion_control}
+
+= Edge computing
+{parent=Network performance}
+{wiki=Edge_computing}
+
+= Elephant flow
+{parent=Network performance}
+{wiki=Elephant_flow}
+
+= Erlang (unit)
+{parent=Network performance}
+{wiki=Erlang_(unit)}
+
+= Errored second
+{parent=Network performance}
+{wiki=Errored_second}
+
+= Explicit Congestion Notification
+{parent=Network performance}
+{wiki=Explicit_Congestion_Notification}
+
+= Flow control (data)
+{parent=Network performance}
+{wiki=Flow_control_(data)}
+
+= Flowgrind
+{parent=Network performance}
+{wiki=Flowgrind}
+
+= Fully switched network
+{parent=Network performance}
+{wiki=Fully_switched_network}
+
+= Game theory in communication networks
+{parent=Network performance}
+{wiki=Game_theory_in_communication_networks}
+
+= Goodput
+{parent=Network performance}
+{wiki=Goodput}
+
+= Hierarchical fair-service curve
+{parent=Network performance}
+{wiki=Hierarchical_fair-service_curve}
+
+= Intorel
+{parent=Network performance}
+{wiki=Intorel}
+
+= Iperf
+{parent=Network performance}
+{wiki=Iperf}
+
+= Iproute2
+{parent=Network performance}
+{wiki=Iproute2}
+
+= Layered queueing network
+{parent=Network performance}
+{wiki=Layered_queueing_network}
+
+= Link aggregation
+{parent=Network performance}
+{wiki=Link_aggregation}
+
+= List of performance analysis tools
+{parent=Network performance}
+{wiki=List_of_performance_analysis_tools}
+
+= Low-latency queuing
+{parent=Network performance}
+{wiki=Low-latency_queuing}
+
+= Measuring network throughput
+{parent=Network performance}
+{wiki=Measuring_network_throughput}
+
+= Mod qos
+{parent=Network performance}
+{wiki=Mod_qos}
+
+= Mouse flow
+{parent=Network performance}
+{wiki=Mouse_flow}
+
+= NetEqualizer
+{parent=Network performance}
+{wiki=NetEqualizer}
+
+= NetPIPE
+{parent=Network performance}
+{wiki=NetPIPE}
+
+= Netperf
+{parent=Network performance}
+{wiki=Netperf}
+
+= Network Performance Monitoring Solution
+{parent=Network performance}
+{wiki=Network_Performance_Monitoring_Solution}
+
+= Network calculus
+{parent=Network performance}
+{wiki=Network_calculus}
+
+= Network congestion
+{parent=Network performance}
+{wiki=Network_congestion}
+
+= Network scheduler
+{parent=Network performance}
+{wiki=Network_scheduler}
+
+= Network traffic control
+{parent=Network performance}
+{wiki=Network_traffic_control}
+
+= Network utility
+{parent=Network performance}
+{wiki=Network_utility}
+
+= OpenNMS
+{parent=Network performance}
+{wiki=OpenNMS}
+
+= Packeteer
+{parent=Network performance}
+{wiki=Packeteer}
+
+= Palm–Khintchine theorem
+{parent=Network performance}
+{wiki=Palm–Khintchine_theorem}
+
+= Peak information rate
+{parent=Network performance}
+{wiki=Peak_information_rate}
+
+= Performance-enhancing proxy
+{parent=Network performance}
+{wiki=Performance-enhancing_proxy}
+
+= Performance tuning
+{parent=Network performance}
+{wiki=Performance_tuning}
+
+= PingER Project
+{parent=Network performance}
+{wiki=PingER_Project}
+
+= Proxy server
+{parent=Network performance}
+{wiki=Proxy_server}
+
+= Quality of service
+{parent=Network performance}
+{wiki=Quality_of_service}
+
+= Queueing theory
+{parent=Network performance}
+{wiki=Queueing_theory}
+
+= Random early detection
+{parent=Network performance}
+{wiki=Random_early_detection}
+
+= Rate limiting
+{parent=Network performance}
+{wiki=Rate_limiting}
+
+= Rendezvous delay
+{parent=Network performance}
+{wiki=Rendezvous_delay}
+
+= Robust random early detection
+{parent=Network performance}
+{wiki=Robust_random_early_detection}
+
+= Science DMZ Network Architecture
+{parent=Network performance}
+{wiki=Science_DMZ_Network_Architecture}
+
+= Service assurance
+{parent=Network performance}
+{wiki=Service_assurance}
+
+= Sparrowiq
+{parent=Network performance}
+{wiki=Sparrowiq}
+
+= Spatial capacity
+{parent=Network performance}
+{wiki=Spatial_capacity}
+
+= Speedof.me
+{parent=Network performance}
+{wiki=Speedof.me}
+
+= Speedtest.net
+{parent=Network performance}
+{wiki=Speedtest.net}
+
+= Supernetwork
+{parent=Network performance}
+{wiki=Supernetwork}
+
+= Switching loop
+{parent=Network performance}
+{wiki=Switching_loop}
+
+= TCP congestion control
+{parent=Network performance}
+{wiki=TCP_congestion_control}
+
+= TCP pacing
+{parent=Network performance}
+{wiki=TCP_pacing}
+
+= TCP tuning
+{parent=Network performance}
+{wiki=TCP_tuning}
+
+= Tacit Networks
+{parent=Network performance}
+{wiki=Tacit_Networks}
+
+= Telecom network protocol analyzer
+{parent=Network performance}
+{wiki=Telecom_network_protocol_analyzer}
+
+= Time to first byte
+{parent=Network performance}
+{wiki=Time_to_first_byte}
+
+= Token bucket
+{parent=Network performance}
+{wiki=Token_bucket}
+
+= Traffic classification
+{parent=Network performance}
+{wiki=Traffic_classification}
+
+= Traffic policing (communications)
+{parent=Network performance}
+{wiki=Traffic_policing_(communications)}
+
+= Traffic shaping
+{parent=Network performance}
+{wiki=Traffic_shaping}
+
+= Ttcp
+{parent=Network performance}
+{wiki=Ttcp}
+
+= WAN optimization
+{parent=Network performance}
+{wiki=WAN_optimization}
+
+= Weighted random early detection
+{parent=Network performance}
+{wiki=Weighted_random_early_detection}
+
+= Wide area application services
+{parent=Network performance}
+{wiki=Wide_area_application_services}
+
+= Wire data
+{parent=Network performance}
+{wiki=Wire_data}
+
+= Wireless intelligent stream handling
+{parent=Network performance}
+{wiki=Wireless_intelligent_stream_handling}
+
+= Network throughput
+{parent=Information theory}
+{wiki=Network_throughput}
+
+= Noisy-channel coding theorem
+{parent=Information theory}
+{wiki=Noisy-channel_coding_theorem}
+
+= Observed information
+{parent=Information theory}
+{wiki=Observed_information}
+
+= One-way quantum computer
+{parent=Information theory}
+{wiki=One-way_quantum_computer}
+
+= Operator grammar
+{parent=Information theory}
+{wiki=Operator_grammar}
+
+= Outage probability
+{parent=Information theory}
+{wiki=Outage_probability}
+
+= Per-user unitary rate control
+{parent=Information theory}
+{wiki=Per-user_unitary_rate_control}
+
+= Phase factor
+{parent=Information theory}
+{wiki=Phase_factor}
+
+= Pinsker's inequality
+{parent=Information theory}
+{wiki=Pinsker's_inequality}
+
+= Pointwise mutual information
+{parent=Information theory}
+{wiki=Pointwise_mutual_information}
+
+= Pragmatic theory of information
+{parent=Information theory}
+{wiki=Pragmatic_theory_of_information}
+
+= Principle of least privilege
+{parent=Information theory}
+{wiki=Principle_of_least_privilege}
+
+= Privilege revocation (computing)
+{parent=Information theory}
+{wiki=Privilege_revocation_(computing)}
+
+= Quantities of information
+{parent=Information theory}
+{wiki=Quantities_of_information}
+
+= Quantum capacity
+{parent=Information theory}
+{wiki=Quantum_capacity}
+
+= Quantum coin flipping
+{parent=Information theory}
+{wiki=Quantum_coin_flipping}
+
+= Quantum computing
+{parent=Information theory}
+{wiki=Quantum_computing}
+
+= Companies involved in quantum computing
+{parent=Quantum computing}
+{wiki=Category:Companies_involved_in_quantum_computing}
+
+= Quantum cryptography
+{parent=Quantum computing}
+{wiki=Quantum_cryptography}
+
+= Andrea Morello
+{parent=Quantum computing}
+{wiki=Andrea_Morello}
+
+= BQP
+{parent=Quantum computing}
+{wiki=BQP}
+
+= Bacon–Shor code
+{parent=Quantum computing}
+{wiki=Bacon–Shor_code}
+
+= Chemical computer
+{parent=Quantum computing}
+{wiki=Chemical_computer}
+
+= Cirac–Zoller controlled-NOT gate
+{parent=Quantum computing}
+{wiki=Cirac–Zoller_controlled-NOT_gate}
+
+= Cloud-based quantum computing
+{parent=Quantum computing}
+{wiki=Cloud-based_quantum_computing}
+
+= Cross-entropy benchmarking
+{parent=Quantum computing}
+{wiki=Cross-entropy_benchmarking}
+
+= D-Wave Systems
+{parent=Quantum computing}
+{wiki=D-Wave_Systems}
+
+= David Deutsch
+{parent=Quantum computing}
+{wiki=David_Deutsch}
+
+= Eastin–Knill theorem
+{parent=Quantum computing}
+{wiki=Eastin–Knill_theorem}
+
+= Elanor Huntington
+{parent=Quantum computing}
+{wiki=Elanor_Huntington}
+
+= Electron-on-helium qubit
+{parent=Quantum computing}
+{wiki=Electron-on-helium_qubit}
+
+= Five-qubit error correcting code
+{parent=Quantum computing}
+{wiki=Five-qubit_error_correcting_code}
+
+= G. Peter Lepage
+{parent=Quantum computing}
+{wiki=G._Peter_Lepage}
+
+= Horse Ridge (chip)
+{parent=Quantum computing}
+{wiki=Horse_Ridge_(chip)}
+
+= IBM Eagle
+{parent=Quantum computing}
+{wiki=IBM_Eagle}
+
+= IBM Q System One
+{parent=Quantum computing}
+{wiki=IBM_Q_System_One}
+
+= IBM Quantum Platform
+{parent=Quantum computing}
+{wiki=IBM_Quantum_Platform}
+
+= Intelligence Advanced Research Projects Activity
+{parent=Quantum computing}
+{wiki=Intelligence_Advanced_Research_Projects_Activity}
+
+= IonQ
+{parent=Quantum computing}
+{wiki=IonQ}
+
+= Jiuzhang (quantum computer)
+{parent=Quantum computing}
+{wiki=Jiuzhang_(quantum_computer)}
+
+= Kane quantum computer
+{parent=Quantum computing}
+{wiki=Kane_quantum_computer}
+
+= List of companies involved in quantum computing or communication
+{parent=Quantum computing}
+{wiki=List_of_companies_involved_in_quantum_computing_or_communication}
+
+= List of proposed quantum registers
+{parent=Quantum computing}
+{wiki=List_of_proposed_quantum_registers}
+
+= List of quantum logic gates
+{parent=Quantum computing}
+{wiki=List_of_quantum_logic_gates}
+
+= List of quantum processors
+{parent=Quantum computing}
+{wiki=List_of_quantum_processors}
+
+= Multiverse Computing
+{parent=Quantum computing}
+{wiki=Multiverse_Computing}
+
+= Mølmer–Sørensen gate
+{parent=Quantum computing}
+{wiki=Mølmer–Sørensen_gate}
+
+= NQIT
+{parent=Quantum computing}
+{wiki=NQIT}
+
+= National Quantum Initiative Act
+{parent=Quantum computing}
+{wiki=National_Quantum_Initiative_Act}
+
+= National Quantum Mission India
+{parent=Quantum computing}
+{wiki=National_Quantum_Mission_India}
+
+= Nitrogen-vacancy center
+{parent=Quantum computing}
+{wiki=Nitrogen-vacancy_center}
+
+= Noisy intermediate-scale quantum era
+{parent=Quantum computing}
+{wiki=Noisy_intermediate-scale_quantum_era}
+
+= One Clean Qubit
+{parent=Quantum computing}
+{wiki=One_Clean_Qubit}
+
+= OpenQASM
+{parent=Quantum computing}
+{wiki=OpenQASM}
+
+= Paul Benioff
+{parent=Quantum computing}
+{wiki=Paul_Benioff}
+
+= Physical and logical qubits
+{parent=Quantum computing}
+{wiki=Physical_and_logical_qubits}
+
+= Quantum Computation and Quantum Information
+{parent=Quantum computing}
+{wiki=Quantum_Computation_and_Quantum_Information}
+
+= Quantum Computing: A Gentle Introduction
+{parent=Quantum computing}
+{wiki=Quantum_Computing:_A_Gentle_Introduction}
+
+= Quantum Experiments using Satellite Technology
+{parent=Quantum computing}
+{wiki=Quantum_Experiments_using_Satellite_Technology}
+
+= Quantum error correction
+{parent=Quantum computing}
+{wiki=Quantum_error_correction}
+
+= Quantum image
+{parent=Quantum computing}
+{wiki=Quantum_image}
+
+= Quantum image processing
+{parent=Quantum computing}
+{wiki=Quantum_image_processing}
+
+= Quantum natural language processing
+{parent=Quantum computing}
+{wiki=Quantum_natural_language_processing}
+
+= Quantum programming
+{parent=Quantum computing}
+{wiki=Quantum_programming}
+
+= Quantum simulator
+{parent=Quantum computing}
+{wiki=Quantum_simulator}
+
+= Quantum supremacy
+{parent=Quantum computing}
+{wiki=Quantum_supremacy}
+
+= Quantum teleportation
+{parent=Quantum computing}
+{wiki=Quantum_teleportation}
+
+= Quantum volume
+{parent=Quantum computing}
+{wiki=Quantum_volume}
+
+= Quil (instruction set architecture)
+{parent=Quantum computing}
+{wiki=Quil_(instruction_set_architecture)}
+
+= Randomized benchmarking
+{parent=Quantum computing}
+{wiki=Randomized_benchmarking}
+
+= Richard Feynman
+{parent=Quantum computing}
+{wiki=Richard_Feynman}
+
+= Rose's Law
+{parent=Quantum computing}
+{wiki=Rose's_Law}
+
+= Stefanie Barz
+{parent=Quantum computing}
+{wiki=Stefanie_Barz}
+
+= Sycamore processor
+{parent=Quantum computing}
+{wiki=Sycamore_processor}
+
+= Timeline of quantum computing and communication
+{parent=Quantum computing}
+{wiki=Timeline_of_quantum_computing_and_communication}
+
+= Topological quantum computer
+{parent=Quantum computing}
+{wiki=Topological_quantum_computer}
+
+= UK National Quantum Technologies Programme
+{parent=Quantum computing}
+{wiki=UK_National_Quantum_Technologies_Programme}
+
+= Xanadu Quantum Technologies
+{parent=Quantum computing}
+{wiki=Xanadu_Quantum_Technologies}
+
+= ZX-calculus
+{parent=Quantum computing}
+{wiki=ZX-calculus}
+
+= Quantum t-design
+{parent=Information theory}
+{wiki=Quantum_t-design}
+
+= Random number generation
+{parent=Information theory}
+{wiki=Random_number_generation}
+
+= /dev/random
+{parent=Random number generation}
+{wiki=/dev/random}
+
+= A Million Random Digits with 100,000 Normal Deviates
+{parent=Random number generation}
+{wiki=A_Million_Random_Digits_with_100,000_Normal_Deviates}
+
+= Clock drift
+{parent=Random number generation}
+{wiki=Clock_drift}
+
+= Diceware
+{parent=Random number generation}
+{wiki=Diceware}
+
+= Diehard tests
+{parent=Random number generation}
+{wiki=Diehard_tests}
+
+= Ghost Leg
+{parent=Random number generation}
+{wiki=Ghost_Leg}
+
+= Hardware random number generator
+{parent=Random number generation}
+{wiki=Hardware_random_number_generator}
+
+= Lavarand
+{parent=Random number generation}
+{wiki=Lavarand}
+
+= Marsaglia's theorem
+{parent=Random number generation}
+{wiki=Marsaglia's_theorem}
+
+= Noise generator
+{parent=Random number generation}
+{wiki=Noise_generator}
+
+= Nothing-up-my-sleeve number
+{parent=Random number generation}
+{wiki=Nothing-up-my-sleeve_number}
+
+= QuintessenceLabs
+{parent=Random number generation}
+{wiki=QuintessenceLabs}
+
+= RDRAND
+{parent=Random number generation}
+{wiki=RDRAND}
+
+= Random.org
+{parent=Random number generation}
+{wiki=Random.org}
+
+= Random number book
+{parent=Random number generation}
+{wiki=Random_number_book}
+
+= Random number table
+{parent=Random number generation}
+{wiki=Random_number_table}
+
+= Randomization
+{parent=Random number generation}
+{wiki=Randomization}
+
+= TestU01
+{parent=Random number generation}
+{wiki=TestU01}
+
+= Trusted Platform Module
+{parent=Random number generation}
+{wiki=Trusted_Platform_Module}
+
+= Rate–distortion theory
+{parent=Information theory}
+{wiki=Rate–distortion_theory}
+
+= Receiver (information theory)
+{parent=Information theory}
+{wiki=Receiver_(information_theory)}
+
+= Redundancy (information theory)
+{parent=Information theory}
+{wiki=Redundancy_(information_theory)}
+
+= Relay channel
+{parent=Information theory}
+{wiki=Relay_channel}
+
+= Rényi entropy
+{parent=Information theory}
+{wiki=Rényi_entropy}
+
+= Sanov's theorem
+{parent=Information theory}
+{wiki=Sanov's_theorem}
+
+= Scale-free ideal gas
+{parent=Information theory}
+{wiki=Scale-free_ideal_gas}
+
+= Self-dissimilarity
+{parent=Information theory}
+{wiki=Self-dissimilarity}
+
+= Shannon's source coding theorem
+{parent=Information theory}
+{wiki=Shannon's_source_coding_theorem}
+
+= Shannon capacity of a graph
+{parent=Information theory}
+{wiki=Shannon_capacity_of_a_graph}
+
+= Shannon–Hartley theorem
+{parent=Information theory}
+{wiki=Shannon–Hartley_theorem}
+
+= Shannon–Weaver model
+{parent=Information theory}
+{wiki=Shannon–Weaver_model}
+
+= Shearer's inequality
+{parent=Information theory}
+{wiki=Shearer's_inequality}
+
+= Spatial multiplexing
+{parent=Information theory}
+{wiki=Spatial_multiplexing}
+
+= Spatiotemporal pattern
+{parent=Information theory}
+{wiki=Spatiotemporal_pattern}
+
+= Specific-information
+{parent=Information theory}
+{wiki=Specific-information}
+
+= Spectral efficiency
+{parent=Information theory}
+{wiki=Spectral_efficiency}
+
+= Statistical manifold
+{parent=Information theory}
+{wiki=Statistical_manifold}
+
+= Structural information theory
+{parent=Information theory}
+{wiki=Structural_information_theory}
+
+= Surprisal analysis
+{parent=Information theory}
+{wiki=Surprisal_analysis}
+
+= Szemerédi regularity lemma
+{parent=Information theory}
+{wiki=Szemerédi_regularity_lemma}
+
+= Theil index
+{parent=Information theory}
+{wiki=Theil_index}
+
+= Three-process view
+{parent=Information theory}
+{wiki=Three-process_view}
+
+= Timeline of information theory
+{parent=Information theory}
+{wiki=Timeline_of_information_theory}
+
+= Total correlation
+{parent=Information theory}
+{wiki=Total_correlation}
+
+= Triangular network coding
+{parent=Information theory}
+{wiki=Triangular_network_coding}
+
+= Typical set
+{parent=Information theory}
+{wiki=Typical_set}
+
+= Ulam's game
+{parent=Information theory}
+{wiki=Ulam's_game}
+
+= Uncertainty coefficient
+{parent=Information theory}
+{wiki=Uncertainty_coefficient}
+
+= Unicity distance
+{parent=Information theory}
+{wiki=Unicity_distance}
+
+= Water-pouring algorithm
+{parent=Information theory}
+{wiki=Water-pouring_algorithm}
+
+= Wilson's model of information behavior
+{parent=Information theory}
+{wiki=Wilson's_model_of_information_behavior}
+
+= Z-channel (information theory)
+{parent=Information theory}
+{wiki=Z-channel_(information_theory)}
+
+= Zero suppression
+{parent=Information theory}
+{wiki=Zero_suppression}
