@@ -1,0 +1,102 @@
+= Relational algebra
+{wiki=Relational_algebra}
+
+= Database normalization
+{parent=Relational algebra}
+{wiki=Database_normalization}
+
+= Anchor modeling
+{parent=Database normalization}
+{wiki=Anchor_modeling}
+
+= Armstrong's axioms
+{parent=Database normalization}
+{wiki=Armstrong's_axioms}
+
+= Bitemporal modeling
+{parent=Database normalization}
+{wiki=Bitemporal_modeling}
+
+= Boyce–Codd normal form
+{parent=Database normalization}
+{wiki=Boyce–Codd_normal_form}
+
+= Database testing
+{parent=Database normalization}
+{wiki=Database_testing}
+
+= Denormalization
+{parent=Database normalization}
+{wiki=Denormalization}
+
+= Domain-key normal form
+{parent=Database normalization}
+{wiki=Domain-key_normal_form}
+
+= Elementary key normal form
+{parent=Database normalization}
+{wiki=Elementary_key_normal_form}
+
+= Fifth normal form
+{parent=Database normalization}
+{wiki=Fifth_normal_form}
+
+= First normal form
+{parent=Database normalization}
+{wiki=First_normal_form}
+
+= Fourth normal form
+{parent=Database normalization}
+{wiki=Fourth_normal_form}
+
+= Join dependency
+{parent=Database normalization}
+{wiki=Join_dependency}
+
+= Second normal form
+{parent=Database normalization}
+{wiki=Second_normal_form}
+
+= Single source of truth
+{parent=Database normalization}
+{wiki=Single_source_of_truth}
+
+= Single version of the truth
+{parent=Database normalization}
+{wiki=Single_version_of_the_truth}
+
+= Sixth normal form
+{parent=Database normalization}
+{wiki=Sixth_normal_form}
+
+= Third normal form
+{parent=Database normalization}
+{wiki=Third_normal_form}
+
+= Unnormalized form
+{parent=Database normalization}
+{wiki=Unnormalized_form}
+
+= Has-a
+{parent=Relational algebra}
+{wiki=Has-a}
+
+= Lossless join decomposition
+{parent=Relational algebra}
+{wiki=Lossless_join_decomposition}
+
+= Projection (relational algebra)
+{parent=Relational algebra}
+{wiki=Projection_(relational_algebra)}
+
+= Relation of degree zero
+{parent=Relational algebra}
+{wiki=Relation_of_degree_zero}
+
+= Rename (relational algebra)
+{parent=Relational algebra}
+{wiki=Rename_(relational_algebra)}
+
+= Selection (relational algebra)
+{parent=Relational algebra}
+{wiki=Selection_(relational_algebra)}

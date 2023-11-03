@@ -1,0 +1,74 @@
+= Statics
+{wiki=Statics}
+
+= Rigid bodies
+{parent=Statics}
+{wiki=Rigid_bodies}
+
+= AGX Multiphysics
+{parent=Rigid bodies}
+{wiki=AGX_Multiphysics}
+
+= Euler's equations (rigid body dynamics)
+{parent=Rigid bodies}
+{wiki=Euler's_equations_(rigid_body_dynamics)}
+
+= Kinematic pair
+{parent=Rigid bodies}
+{wiki=Kinematic_pair}
+
+= MacCullagh ellipsoid
+{parent=Rigid bodies}
+{wiki=MacCullagh_ellipsoid}
+
+= Newton–Euler equations
+{parent=Rigid bodies}
+{wiki=Newton–Euler_equations}
+
+= Poinsot's ellipsoid
+{parent=Rigid bodies}
+{wiki=Poinsot's_ellipsoid}
+
+= Rigid body
+{parent=Rigid bodies}
+{wiki=Rigid_body}
+
+= Vortex (software)
+{parent=Rigid bodies}
+{wiki=Vortex_(software)}
+
+= Airy points
+{parent=Statics}
+{wiki=Airy_points}
+
+= Beam (structure)
+{parent=Statics}
+{wiki=Beam_(structure)}
+
+= Gömböc
+{parent=Statics}
+{wiki=Gömböc}
+
+= Mechanical equilibrium
+{parent=Statics}
+{wiki=Mechanical_equilibrium}
+
+= Neutral plane
+{parent=Statics}
+{wiki=Neutral_plane}
+
+= P-delta effect
+{parent=Statics}
+{wiki=P-delta_effect}
+
+= Statically indeterminate
+{parent=Statics}
+{wiki=Statically_indeterminate}
+
+= Thin walled beams
+{parent=Statics}
+{wiki=Thin_walled_beams}
+
+= Zero force member
+{parent=Statics}
+{wiki=Zero_force_member}

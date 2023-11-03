@@ -1,0 +1,4728 @@
+= Physics
+{wiki=Physics}
+
+= Concepts in physics
+{parent=Physics}
+{wiki=Category:Concepts_in_physics}
+
+= Concepts in astronomy
+{parent=Concepts in physics}
+{wiki=Category:Concepts_in_astronomy}
+
+\Include[equations-of-astronomy]
+\Include[unsolved-problems-in-astronomy]
+\Include[big-bang]
+\Include[cosmogony]
+\Include[dark-matter]
+\Include[inflation-cosmology]
+\Include[spectroscopy]
+\Include[star-formation]
+\Include[stellar-evolution]
+\Include[supernova]
+\Include[active-galactic-nucleus]
+\Include[age-of-the-universe]
+\Include[astrophysical-jet]
+\Include[baryogenesis]
+\Include[bow-shock]
+\Include[comet]
+\Include[compact-star]
+\Include[constellation]
+\Include[copernican-principle]
+\Include[cosmic-distance-ladder]
+\Include[cosmic-ray]
+\Include[cosmological-phase-transition]
+\Include[cosmological-principle]
+\Include[cosmos]
+\Include[dwarf-planet]
+\Include[eclipse]
+\Include[exoplanet]
+\Include[expansion-of-the-universe]
+\Include[extinction-astronomy]
+\Include[gravitational-lens]
+\Include[gravitational-wave]
+\Include[hertzsprung-russell-diagram]
+\Include[hydrostatic-equilibrium]
+\Include[interstellar-medium]
+\Include[lambda-cdm-model]
+\Include[magnetosphere]
+\Include[main-sequence]
+\Include[metallicity]
+\Include[molecular-cloud]
+\Include[nebula]
+\Include[newton-s-law-of-universal-gravitation]
+\Include[observable-universe]
+\Include[orbit]
+\Include[parallax-in-astronomy]
+\Include[planet]
+\Include[quasar]
+\Include[radial-velocity]
+\Include[star]
+\Include[stellar-classification]
+\Include[stellar-nucleosynthesis]
+\Include[stellar-parallax]
+\Include[variable-star]
+\Include[white-hole]
+
+= Equations of physics
+{parent=Concepts in physics}
+{wiki=Category:Equations_of_physics}
+
+\Include[acoustic-equations]
+\Include[equations-of-fluid-dynamics]
+\Include[plasma-physics-equations]
+\Include[maxwell-s-equations]
+\Include[ads-black-brane]
+\Include[araki-sucher-correction]
+\Include[balance-of-angular-momentum]
+\Include[breit-equation]
+\Include[capstan-equation]
+\Include[cauchy-momentum-equation]
+\Include[chrystal-s-equation]
+\Include[constitutive-equation]
+\Include[darwin-lagrangian]
+\Include[dispersion-relation]
+\Include[elliott-formula]
+\Include[emden-chandrasekhar-equation]
+\Include[ensemble-mathematical-physics]
+\Include[equations-of-motion]
+\Include[euler-s-laws-of-motion]
+\Include[euler-equations-fluid-dynamics]
+\Include[frank-tamm-formula]
+\Include[froissart-stora-equation]
+\Include[gordon-decomposition]
+\Include[kohn-sham-equations]
+\Include[komar-superpotential]
+\Include[landau-kinetic-equation]
+\Include[landau-lifshitz-gilbert-equation]
+\Include[linear-response-function]
+\Include[liouville-bratu-gelfand-equation]
+\Include[list-of-optics-equations]
+\Include[list-of-relativistic-equations]
+\Include[lists-of-physics-equations]
+\Include[microplane-model-for-constitutive-laws-of-materials]
+\Include[newton-s-laws-of-motion]
+\Include[palatini-identity]
+\Include[partition-function-statistical-mechanics]
+\Include[probability-density-function]
+\Include[regge-wheeler-zerilli-equations]
+\Include[rotational-partition-function]
+\Include[semiconductor-bloch-equations]
+\Include[strange-rahman-smith-equation]
+\Include[thomas-fermi-equation]
+\Include[vogel-fulcher-tammann-equation]
+\Include[wave-equation]
+\Include[williams-spray-equation]
+
+= Physical phenomena
+{parent=Concepts in physics}
+{wiki=Physical_phenomena}
+
+\Include[doppler-effects]
+\Include[earth-phenomena]
+\Include[electrical-phenomena]
+\Include[ionization]
+\Include[optical-phenomena]
+\Include[physical-properties]
+\Include[stellar-phenomena]
+\Include[weather]
+\Include[ferromagnetism]
+\Include[heat-treating]
+\Include[scattering]
+\Include[superfluidity]
+\Include[vacuum]
+\Include[aharonov-bohm-effect]
+\Include[aharonov-casher-effect]
+\Include[andreev-reflection]
+\Include[antiferromagnetism]
+\Include[arago-s-rotations]
+\Include[askaryan-radiation]
+\Include[biefeld-brown-effect]
+\Include[buttered-toast-phenomenon]
+\Include[cavitation]
+\Include[cherenkov-radiation]
+\Include[coanda-effect]
+\Include[coffee-ring-effect]
+\Include[condensation-cloud]
+\Include[cross-ventilation]
+\Include[dislon]
+\Include[doppler-broadening]
+\Include[droplet-cluster]
+\Include[dynamic-scaling]
+\Include[electron-emission]
+\Include[event-horizon]
+\Include[field-effect-semiconductor]
+\Include[flowability]
+\Include[free-neutron-decay]
+\Include[group-velocity-dispersion]
+\Include[hanle-effect]
+\Include[leidenfrost-effect]
+\Include[liquid-slugging]
+\Include[magnetic-braking-astronomy]
+\Include[magnetic-resonance]
+\Include[magnus-effect]
+\Include[marangoni-effect]
+\Include[mossbauer-effect]
+\Include[negative-refraction]
+\Include[nuclear-reaction]
+\Include[observer-effect-physics]
+\Include[optogalvanic-effect]
+\Include[paramagnetism]
+\Include[phase-transition]
+\Include[photon-polarization]
+\Include[photophoresis]
+\Include[physical-change]
+\Include[physical-property]
+\Include[piston-effect]
+\Include[pouillet-effect]
+\Include[prandtl-glauert-singularity]
+\Include[pulse-physics]
+\Include[quasiparticle]
+\Include[ramsauer-townsend-effect]
+\Include[recovery-effect]
+\Include[shower-curtain-effect]
+\Include[singing-sand-dunes-dunhuang]
+\Include[singing-sand]
+\Include[sonochemical-synthesis]
+\Include[sonochemistry]
+\Include[sonoluminescence]
+\Include[spatial-dispersion]
+\Include[thermoelectric-effect]
+\Include[time-dilation]
+\Include[trilobal]
+\Include[ultraviolet-catastrophe]
+\Include[upstream-contamination]
+\Include[water-hammer]
+\Include[wigner-effect]
+\Include[wrinklon]
+\Include[zeeman-energy]
+
+= Physical systems
+{parent=Concepts in physics}
+{wiki=Physical_systems}
+
+\Include[electrical-systems]
+\Include[hydraulics]
+\Include[machines]
+\Include[transport]
+\Include[open-quantum-system]
+
+= Physics theorems
+{parent=Concepts in physics}
+{wiki=Category:Physics_theorems}
+
+\Include[circuit-theorems]
+\Include[no-go-theorems]
+\Include[antidynamo-theorem]
+\Include[bertrand-s-theorem]
+\Include[betti-s-theorem]
+\Include[blondel-s-theorem]
+\Include[borde-guth-vilenkin-theorem]
+\Include[bragg-gray-cavity-theory]
+\Include[chung-fuchs-theorem]
+\Include[clapeyron-s-theorem-elasticity]
+\Include[earnshaw-s-theorem]
+\Include[kutta-joukowski-theorem]
+\Include[konig-s-theorem-kinetics]
+\Include[lami-s-theorem]
+\Include[lawson-woodward-theorem]
+\Include[pandya-theorem]
+\Include[pauthenier-equation]
+\Include[plastic-limit-theorems]
+\Include[pomeranchuk-s-theorem]
+\Include[shockley-ramo-theorem]
+\Include[siacci-s-theorem]
+\Include[taylor-proudman-theorem]
+\Include[tennis-racket-theorem]
+\Include[theorem-of-three-moments]
+
+= Unsolved problems in physics
+{parent=Concepts in physics}
+{wiki=Unsolved_problems_in_physics}
+
+\Include[amorphous-solids]
+\Include[magnetic-monopoles]
+\Include[dark-energy-spectroscopic-instrument]
+\Include[physics-beyond-the-standard-model]
+\Include[amorphous-solid]
+\Include[baryon-asymmetry]
+\Include[color-confinement]
+\Include[emc-effect]
+\Include[flyby-anomaly]
+\Include[generalized-uncertainty-principle]
+\Include[glueball]
+\Include[hierarchy-problem]
+\Include[high-temperature-superconductivity]
+\Include[hilbert-s-sixth-problem]
+\Include[koide-formula]
+\Include[list-of-particles]
+\Include[list-of-unsolved-problems-in-physics]
+\Include[long-delayed-echo]
+\Include[m82-x-2]
+\Include[magnetic-monopole]
+\Include[michigan-spin-physics-center]
+\Include[naga-fireball]
+\Include[proton-spin-crisis]
+\Include[qcd-matter]
+\Include[quark-star]
+\Include[strange-matter]
+\Include[strong-cp-problem]
+\Include[tunguska-event]
+\Include[unified-field-theory]
+
+= Atmospheric pressure photoionization
+{parent=Concepts in physics}
+{wiki=Atmospheric_pressure_photoionization}
+
+= Classical fluid
+{parent=Concepts in physics}
+{wiki=Classical_fluid}
+
+= Classical probability density
+{parent=Concepts in physics}
+{wiki=Classical_probability_density}
+
+= Clockwise
+{parent=Concepts in physics}
+{wiki=Clockwise}
+
+= Coherence (physics)
+{parent=Concepts in physics}
+{wiki=Coherence_(physics)}
+
+= Covariance group
+{parent=Concepts in physics}
+{wiki=Covariance_group}
+
+= Covariant formulation of classical electromagnetism
+{parent=Concepts in physics}
+{wiki=Covariant_formulation_of_classical_electromagnetism}
+
+= Flotation of flexible objects
+{parent=Concepts in physics}
+{wiki=Flotation_of_flexible_objects}
+
+= Free particle
+{parent=Concepts in physics}
+{wiki=Free_particle}
+
+= Front (physics)
+{parent=Concepts in physics}
+{wiki=Front_(physics)}
+
+= Generalized Lagrangian mean
+{parent=Concepts in physics}
+{wiki=Generalized_Lagrangian_mean}
+
+= Gravitational contact terms
+{parent=Concepts in physics}
+{wiki=Gravitational_contact_terms}
+
+= Homogeneity (physics)
+{parent=Concepts in physics}
+{wiki=Homogeneity_(physics)}
+
+= Long-slit spectroscopy
+{parent=Concepts in physics}
+{wiki=Long-slit_spectroscopy}
+
+= Lorenz gauge condition
+{parent=Concepts in physics}
+{wiki=Lorenz_gauge_condition}
+
+= Maxwell–Boltzmann statistics
+{parent=Concepts in physics}
+{wiki=Maxwell–Boltzmann_statistics}
+
+= Mean inter-particle distance
+{parent=Concepts in physics}
+{wiki=Mean_inter-particle_distance}
+
+= Negative frequency
+{parent=Concepts in physics}
+{wiki=Negative_frequency}
+
+= Newton's theorem of revolving orbits
+{parent=Concepts in physics}
+{wiki=Newton's_theorem_of_revolving_orbits}
+
+= Observer (quantum physics)
+{parent=Concepts in physics}
+{wiki=Observer_(quantum_physics)}
+
+= Physical object
+{parent=Concepts in physics}
+{wiki=Physical_object}
+
+= Physical system
+{parent=Concepts in physics}
+{wiki=Physical_system}
+
+= Point particle
+{parent=Concepts in physics}
+{wiki=Point_particle}
+
+= Potential gradient
+{parent=Concepts in physics}
+{wiki=Potential_gradient}
+
+= Potentiometric surface
+{parent=Concepts in physics}
+{wiki=Potentiometric_surface}
+
+= Quantum non-equilibrium
+{parent=Concepts in physics}
+{wiki=Quantum_non-equilibrium}
+
+= Quantum state space
+{parent=Concepts in physics}
+{wiki=Quantum_state_space}
+
+= Quasistatic approximation
+{parent=Concepts in physics}
+{wiki=Quasistatic_approximation}
+
+= Relative locality
+{parent=Concepts in physics}
+{wiki=Relative_locality}
+
+= Standard Model
+{parent=Concepts in physics}
+{wiki=Standard_Model}
+
+\Include[b-physics]
+\Include[electroweak-theory]
+\Include[1964-prl-symmetry-breaking-papers]
+\Include[bimaximal-mixing]
+\Include[chiral-anomaly]
+\Include[g-parity]
+\Include[gim-mechanism]
+\Include[gell-mann-nishijima-formula]
+\Include[helicity-basis]
+\Include[hypercharge]
+\Include[mathematical-formulation-of-the-standard-model]
+\Include[meitner-hupfeld-effect]
+\Include[neutral-particle-oscillation]
+\Include[nucleon-spin-structure]
+\Include[pontecorvo-maki-nakagawa-sakata-matrix]
+\Include[quark-lepton-complementarity]
+\Include[search-for-the-higgs-boson]
+\Include[top-quark]
+\Include[tribimaximal-mixing]
+\Include[trimaximal-mixing]
+\Include[w-and-z-bosons]
+\Include[weak-hypercharge]
+\Include[x-charge]
+
+= Stationary-action principle
+{parent=Concepts in physics}
+{wiki=Stationary-action_principle}
+
+= Super Bloch oscillations
+{parent=Concepts in physics}
+{wiki=Super_Bloch_oscillations}
+
+= Temporal resolution
+{parent=Concepts in physics}
+{wiki=Temporal_resolution}
+
+= Tensor
+{parent=Concepts in physics}
+{wiki=Tensor}
+
+= Ternary fission
+{parent=Concepts in physics}
+{wiki=Ternary_fission}
+
+= Unification of theories in physics
+{parent=Concepts in physics}
+{wiki=Unification_of_theories_in_physics}
+
+= Vector potential
+{parent=Concepts in physics}
+{wiki=Vector_potential}
+
+= Virial theorem
+{parent=Concepts in physics}
+{wiki=Virial_theorem}
+
+= Wave function collapse
+{parent=Concepts in physics}
+{wiki=Wave_function_collapse}
+
+= Physical modeling
+{parent=Physics}
+{wiki=Physical_modeling}
+
+= Electronic device modeling
+{parent=Physical modeling}
+{wiki=Category:Electronic_device_modeling}
+
+\Include[transistor-modeling]
+\Include[diode-modelling]
+\Include[large-signal-model]
+\Include[semiconductor-device-modeling]
+\Include[small-signal-model]
+
+= Model makers
+{parent=Physical modeling}
+{wiki=Category:Model_makers}
+
+\Include[miniature-model-makers]
+\Include[model-engineers]
+\Include[rail-transport-modellers]
+\Include[cherry-hill-model-engineer]
+\Include[frances-glessner-lee]
+\Include[frank-roberts-model-maker]
+\Include[gerald-wingrove]
+\Include[john-whitby-allen]
+\Include[josef-benedikt-kuriger]
+\Include[louis-thomas-jerome-auzoux]
+\Include[model-maker]
+\Include[norman-a-ough]
+\Include[pierre-scerri]
+\Include[richard-tenguerian]
+\Include[valerie-charlton]
+\Include[wayne-wesolowski]
+
+= Physical models
+{parent=Physical modeling}
+{wiki=Physical_models}
+
+\Include[agard-b-wind-tunnel-model]
+\Include[anatomical-model]
+\Include[model]
+\Include[size-effect-on-structural-strength]
+\Include[sputnik-1-emc-emi-lab-model]
+\Include[standard-wind-tunnel-models]
+\Include[water-tunnel-hydrodynamic]
+\Include[wave-tank]
+
+= Scale modeling
+{parent=Physical modeling}
+{wiki=Scale_modeling}
+
+\Include[australia-s-big-things]
+\Include[construction-toys]
+\Include[dioramas]
+\Include[dolls]
+\Include[dummies-and-mannequins]
+\Include[miniature-figures]
+\Include[miniature-parks]
+\Include[model-aircraft]
+\Include[model-boats]
+\Include[model-cars]
+\Include[model-horses]
+\Include[model-manufacturers]
+\Include[model-rocketry]
+\Include[radio-control]
+\Include[rail-transport-modelling]
+\Include[replica-constructions-in-china]
+\Include[scale-model-collections]
+\Include[scale-model-scales]
+\Include[solar-system-models]
+\Include[strengthen-the-arm-of-liberty-monuments]
+\Include[toy-cars-and-trucks]
+\Include[replicas-of-the-statue-of-liberty]
+\Include[architectural-model]
+\Include[autofest-city]
+\Include[brass-model]
+\Include[brickplayer]
+\Include[britains-deetail]
+\Include[cardboard-modeling]
+\Include[carnegie-collection]
+\Include[corps-commander]
+\Include[cox-model-engine]
+\Include[decal]
+\Include[die-cast-toy]
+\Include[diorama]
+\Include[diorama-efteling]
+\Include[dollhouse]
+\Include[eloise-kruger]
+\Include[frame-arms-girl]
+\Include[freelance-model]
+\Include[garage-kit]
+\Include[geotechnical-centrifuge-modeling]
+\Include[glass-sea-creatures]
+\Include[grand-maket-rossiya]
+\Include[greeble]
+\Include[gunpla]
+\Include[international-plastic-modellers-society]
+\Include[kihachiro-ueda]
+\Include[kitbashing]
+\Include[korps-commander]
+\Include[langweil-s-model-of-prague]
+\Include[leopold-and-rudolf-blaschka]
+\Include[list-of-scale-model-industry-people]
+\Include[marwencol-art-installation]
+\Include[matchstick-model]
+\Include[maurice-newman-artist]
+\Include[micro-armour]
+\Include[micromodel]
+\Include[military-miniaturism]
+\Include[mini-europe]
+\Include[miniature-effect]
+\Include[miniature-food]
+\Include[miniature-model-gaming]
+\Include[miniature-pioneering]
+\Include[miniature-wargaming]
+\Include[mississippi-river-basin-model]
+\Include[model-airport]
+\Include[model-building]
+\Include[model-commercial-vehicle]
+\Include[model-engine]
+\Include[model-engineering]
+\Include[model-figure]
+\Include[model-military-vehicle]
+\Include[model-steam-engine]
+\Include[narcissa-niblack-thorne]
+\Include[nuremberg-kitchen]
+\Include[orrery]
+\Include[panorama-of-the-city-of-new-york]
+\Include[paper-model]
+\Include[pendon-museum]
+\Include[pinning-modelling]
+\Include[plan-relief]
+\Include[plastic-model-kit]
+\Include[port-revel]
+\Include[rafm-company]
+\Include[radio-controlled-model]
+\Include[richard-vyskovsky]
+\Include[robotech-defenders]
+\Include[room-box]
+\Include[rosalind-hudson]
+\Include[sagan-planet-walk]
+\Include[scale-model]
+\Include[scale-models-of-the-bastille]
+\Include[scratch-building]
+\Include[solar-system-model]
+\Include[somerset-space-walk]
+\Include[spaghetti-bridge]
+\Include[static-grass]
+\Include[sweden-solar-system]
+\Include[the-howard-bros-circus]
+\Include[thorne-miniature-rooms]
+\Include[tin-soldier]
+\Include[tom-meier]
+\Include[toy-forts-and-castles]
+\Include[toy-soldier]
+\Include[u-s-army-corps-of-engineers-bay-model]
+\Include[water-slide-decal]
+\Include[world-map-at-lake-klejtrup]
+
+= Ship model basin
+{parent=Physical modeling}
+{wiki=Ship_model_basin}
+
+= Physicists
+{parent=Physics}
+{wiki=Physicists}
+
+= Ancient physicists
+{parent=Physicists}
+{wiki=Category:Ancient_physicists}
+
+\Include[ancient-greek-physicists]
+\Include[persian-physicists]
+\Include[kaṇada-philosopher]
+
+= Arab physicists
+{parent=Physicists}
+{wiki=Category:Arab_physicists}
+
+\Include[algerian-physicists]
+\Include[arab-astronomers]
+\Include[egyptian-physicists]
+\Include[iraqi-physicists]
+\Include[lebanese-physicists]
+\Include[moroccan-physicists]
+\Include[palestinian-physicists]
+\Include[sudanese-physicists]
+\Include[syrian-physicists]
+\Include[ilham-al-qaradawi]
+
+= Cultural depictions of physicists
+{parent=Physicists}
+{wiki=Category:Cultural_depictions_of_physicists}
+
+\Include[cultural-depictions-of-j-robert-oppenheimer]
+\Include[cultural-depictions-of-marie-curie]
+\Include[cultural-depictions-of-mileva-maric]
+\Include[cultural-depictions-of-pierre-curie]
+\Include[cultural-depictions-of-wernher-von-braun]
+\Include[the-big-bang-theory]
+\Include[copenhagen-play]
+\Include[the-platonic-permutation]
+\Include[young-sheldon]
+
+= Fictional physicists
+{parent=Physicists}
+{wiki=Category:Fictional_physicists}
+
+\Include[fictional-astrophysicists]
+\Include[fictional-nuclear-physicists]
+\Include[fictional-theoretical-physicists]
+\Include[doctor-doom]
+\Include[macgyver]
+\Include[atom-al-pratt]
+\Include[atom-ryan-choi]
+\Include[black-knight-dane-whitman]
+\Include[brian-braddock]
+\Include[calculated-risk-novel]
+\Include[calleigh-duquesne]
+\Include[captain-britain]
+\Include[centurius]
+\Include[count-nefaria]
+\Include[crimson-dynamo]
+\Include[de-selby]
+\Include[doctor-bong]
+\Include[doctor-light-arthur-light]
+\Include[doctor-manhattan]
+\Include[doctor-octopus]
+\Include[doctor-polaris]
+\Include[doom-2099]
+\Include[emmett-brown]
+\Include[eobard-thawne]
+\Include[eobard-thawne-arrowverse]
+\Include[graviton-comics]
+\Include[helena-g-wells]
+\Include[icicle-comics]
+\Include[jack-o-lantern-marvel-comics]
+\Include[klaw-character]
+\Include[lady-octopus]
+\Include[lex-luthor]
+\Include[liz-shaw]
+\Include[lutece-twins]
+\Include[martinex]
+\Include[mirage-marvel-comics]
+\Include[pariah-character]
+\Include[professor-calculus]
+\Include[professor-weston]
+\Include[ravage-marvel-comics]
+\Include[samantha-carter]
+\Include[sasquatch-comics]
+\Include[sebastian-shaw-character]
+\Include[seth-brundle]
+\Include[shion-uzuki]
+\Include[spot-comics]
+\Include[stilt-man]
+\Include[tali-zorah]
+\Include[the-gate-of-angels]
+\Include[thunderball-character]
+\Include[victoria-october]
+\Include[will-o-the-wisp-comics]
+
+= Films about physicists
+{parent=Physicists}
+{wiki=Category:Films_about_physicists}
+
+\Include[day-one-1989-film]
+\Include[haunted-mansion-2023-film]
+\Include[kate-and-leopold]
+\Include[mindwalk]
+\Include[nine-days-in-one-year]
+\Include[the-adventures-of-buckaroo-banzai-across-the-8th-dimension]
+\Include[the-atomic-city]
+\Include[the-day-after-trinity]
+\Include[the-theory-of-everything-2023-film]
+\Include[three-plus-two]
+
+= Jewish physicists
+{parent=Physicists}
+{wiki=Category:Jewish_physicists}
+
+\Include[jewish-american-physicists]
+\Include[jewish-russian-physicists]
+\Include[jewish-biophysicists]
+\Include[edward-teller]
+\Include[j-robert-oppenheimer]
+\Include[max-born]
+\Include[abraham-katzir]
+\Include[abram-a-slutskin]
+\Include[adam-riess]
+\Include[ady-stern]
+\Include[alan-j-heeger]
+\Include[albert-a-michelson]
+\Include[aleksandr-akhiezer]
+\Include[alexander-arkadyevich-migdal]
+\Include[alexander-weissberg-cybulski]
+\Include[alexei-fridman]
+\Include[alfred-lande]
+\Include[alvin-radkowsky]
+\Include[amikam-aharoni]
+\Include[amnon-marinov]
+\Include[amos-ori]
+\Include[amos-de-shalit]
+\Include[anatole-abragam]
+\Include[anders-barany]
+\Include[ari-ben-menahem]
+\Include[arieh-warshel]
+\Include[arno-allan-penzias]
+\Include[arnold-berliner]
+\Include[arthur-ashkin]
+\Include[arthur-berson]
+\Include[arthur-korn]
+\Include[aryeh-kaplan]
+\Include[asher-peres]
+\Include[avi-loeb]
+\Include[avishai-dekel]
+\Include[avshalom-elitzur]
+\Include[barak-kol-physicist]
+\Include[ben-roy-mottelson]
+\Include[benedict-friedlaender]
+\Include[benjamin-fain]
+\Include[benjamin-m-bloch]
+\Include[bertrand-halperin]
+\Include[brian-josephson]
+\Include[bruno-rossi]
+\Include[bryce-dewitt]
+\Include[burton-richter]
+\Include[carlos-varsavsky]
+\Include[cinna-lomnitz]
+\Include[claude-cohen-tannoudji]
+\Include[cyril-domb]
+\Include[dan-jacobo-beninson]
+\Include[dan-shechtman]
+\Include[daniel-amit]
+\Include[daniel-zajfman]
+\Include[david-d-friedman]
+\Include[david-faiman]
+\Include[david-finkelstein]
+\Include[david-gross]
+\Include[david-lee-physicist]
+\Include[dennis-gabor]
+\Include[diego-krapf]
+\Include[dov-levine]
+\Include[dror-fixler]
+\Include[edward-andrade]
+\Include[edward-bormashenko]
+\Include[egon-orowan]
+\Include[eli-barkai]
+\Include[elsa-neumann]
+\Include[emanuel-goldberg]
+\Include[emil-cohn]
+\Include[emil-warburg]
+\Include[emilio-segre]
+\Include[erich-peter-wohlfarth]
+\Include[ernst-ising]
+\Include[eshel-ben-jacob]
+\Include[esther-salaman]
+\Include[eugen-goldstein]
+\Include[eugene-levich]
+\Include[felix-auerbach]
+\Include[felix-bloch]
+\Include[felix-ehrenhaft]
+\Include[francis-simon]
+\Include[frank-oppenheimer]
+\Include[franz-ollendorff]
+\Include[franz-wittmann-physicist]
+\Include[francois-englert]
+\Include[fred-alan-wolf]
+\Include[frederick-reines]
+\Include[fritz-london]
+\Include[gabriel-lippmann]
+\Include[george-placzek]
+\Include[george-zweig]
+\Include[georges-charpak]
+\Include[gerald-schroeder]
+\Include[giulio-racah]
+\Include[grigory-landsberg]
+\Include[guido-beck]
+\Include[guy-deutscher-physicist]
+\Include[haim-harari]
+\Include[hans-bethe]
+\Include[harry-j-lipkin]
+\Include[harry-zvi-tabor]
+\Include[harvey-s-leff]
+\Include[hedwig-kohn]
+\Include[heinrich-gustav-magnus]
+\Include[helen-freedhoff]
+\Include[henry-primakoff]
+\Include[herbert-frohlich]
+\Include[herbert-goldstein]
+\Include[herbert-l-anderson]
+\Include[herman-branover]
+\Include[hilde-levi]
+\Include[hugh-david-politzer]
+\Include[igal-talmi]
+\Include[igor-dzyaloshinskii]
+\Include[ilya-frank]
+\Include[ilya-lifshitz]
+\Include[immanuel-estermann]
+\Include[isaac-abella]
+\Include[isaac-beilin]
+\Include[israel-dostrovsky]
+\Include[j-michael-kosterlitz]
+\Include[jack-steinberger]
+\Include[jan-rzewuski]
+\Include[jeremy-bernstein]
+\Include[jeremy-england]
+\Include[jerome-isaac-friedman]
+\Include[jerrold-r-zacharias]
+\Include[john-m-grunsfeld]
+\Include[john-vig]
+\Include[john-ziman]
+\Include[joseph-kaplan]
+\Include[joseph-o-hirschfelder]
+\Include[joseph-rotblat]
+\Include[joseph-weber]
+\Include[joshua-zak]
+\Include[jose-goldemberg]
+\Include[julian-schwinger]
+\Include[julius-ashkin]
+\Include[karl-schwarzschild]
+\Include[kazimierz-fajans]
+\Include[ladislas-goldstein]
+\Include[leo-arons]
+\Include[leo-kadanoff]
+\Include[leo-szilard]
+\Include[leon-m-lederman]
+\Include[leonard-susskind]
+\Include[leonid-mandelstam]
+\Include[leopold-infeld]
+\Include[lesley-cohen-physicist]
+\Include[lev-vaidman]
+\Include[lew-kowarski]
+\Include[lise-meitner]
+\Include[lothar-wolfgang-nordheim]
+\Include[louis-slotin]
+\Include[louis-witten]
+\Include[ludwig-hopf]
+\Include[ludwik-kowalski]
+\Include[leon-rosenfeld]
+\Include[marcel-schein]
+\Include[maria-pogonowska]
+\Include[martin-lewis-perl]
+\Include[martin-schwarzschild]
+\Include[maurice-goldhaber]
+\Include[max-abraham]
+\Include[max-jammer]
+\Include[melvin-schwartz]
+\Include[mendel-sachs]
+\Include[michael-berry-physicist]
+\Include[michael-h-hart]
+\Include[mordehai-milgrom]
+\Include[moshe-carmeli]
+\Include[moshe-shapiro]
+\Include[moty-heiblum]
+\Include[myron-mathisson]
+\Include[nahum-shahaf]
+\Include[nathalie-q-balaban]
+\Include[nathan-aviezer]
+\Include[nathan-rosen]
+\Include[ned-goldwasser]
+\Include[nicholas-kurti]
+\Include[nir-shaviv]
+\Include[nissan-slomiansky]
+\Include[noah-brosch]
+\Include[noam-soker]
+\Include[oded-regev-physicist]
+\Include[ofer-biham]
+\Include[oleg-reidman]
+\Include[oskar-klein]
+\Include[otto-ernst-heinrich-klemperer]
+\Include[otto-robert-frisch]
+\Include[otto-stern]
+\Include[pief-panofsky]
+\Include[richard-bornstein]
+\Include[richard-gans]
+\Include[robert-emden]
+\Include[robert-herman]
+\Include[robert-hofstadter]
+\Include[robert-karplus]
+\Include[robert-wald]
+\Include[rolf-landauer]
+\Include[rudolf-ladenburg]
+\Include[rudolf-peierls]
+\Include[salomon-kalischer]
+\Include[samuel-goudsmit]
+\Include[saul-perlmutter]
+\Include[serge-haroche]
+\Include[sergio-fubini]
+\Include[seymour-benzer]
+\Include[shlomo-havlin]
+\Include[siegfried-czapski]
+\Include[stefan-rozental]
+\Include[stephen-e-nagler]
+\Include[stephen-wiesner]
+\Include[steven-weinberg]
+\Include[sulamith-goldhaber]
+\Include[theodore-maiman]
+\Include[tsvi-piran]
+\Include[ugo-fano]
+\Include[uri-sivan]
+\Include[vadim-knizhnik]
+\Include[valentine-telegdi]
+\Include[valerii-vinokour]
+\Include[vladimir-broude]
+\Include[vsevolod-gantmakher]
+\Include[walter-gordon-physicist]
+\Include[walter-heitler]
+\Include[walter-kohn]
+\Include[wilhelm-westphal]
+\Include[william-a-edelstein]
+\Include[william-z-hassid]
+\Include[wolfgang-rindler]
+\Include[yakir-aharonov]
+\Include[yasha-rosenfeld]
+\Include[yehuda-leo-levi]
+\Include[yigal-meir]
+\Include[yoav-shechtman]
+\Include[yoseph-imry]
+\Include[yuri-golfand]
+\Include[yuri-rumer]
+\Include[yuval-ne-eman]
+\Include[zeev-zalevsky]
+\Include[zeʼev-lev]
+
+= Lists of things named after physicists
+{parent=Physicists}
+{wiki=Category:Lists_of_things_named_after_physicists}
+
+\Include[list-of-scientists-whose-names-are-used-in-physical-constants]
+\Include[list-of-things-named-after-arnold-sommerfeld]
+\Include[list-of-things-named-after-charles-augustin-de-coulomb]
+\Include[list-of-things-named-after-edward-teller]
+\Include[list-of-things-named-after-enrico-fermi]
+\Include[list-of-things-named-after-erwin-schrodinger]
+\Include[list-of-things-named-after-eugene-wigner]
+\Include[list-of-things-named-after-felix-bloch]
+\Include[list-of-things-named-after-hendrik-antoon-lorentz]
+\Include[list-of-things-named-after-hermann-von-helmholtz]
+\Include[list-of-things-named-after-isaac-newton]
+\Include[list-of-things-named-after-james-clerk-maxwell]
+\Include[list-of-things-named-after-johannes-rydberg]
+\Include[list-of-things-named-after-josiah-w-gibbs]
+\Include[list-of-things-named-after-julian-schwinger]
+\Include[list-of-things-named-after-karl-schwarzschild]
+\Include[list-of-things-named-after-lev-landau]
+\Include[list-of-things-named-after-lord-kelvin]
+\Include[list-of-things-named-after-lord-rayleigh]
+\Include[list-of-things-named-after-ludwig-boltzmann]
+\Include[list-of-things-named-after-max-planck]
+\Include[list-of-things-named-after-niels-bohr]
+\Include[list-of-things-named-after-nikola-tesla]
+\Include[list-of-things-named-after-paul-dirac]
+\Include[list-of-things-named-after-richard-feynman]
+\Include[list-of-things-named-after-vladimir-fock]
+\Include[list-of-things-named-after-werner-heisenberg]
+
+= Medical physicists
+{parent=Physicists}
+{wiki=Category:Medical_physicists}
+
+\Include[azerbaijani-medical-physicists]
+\Include[health-physicists]
+\Include[arlene-halko]
+\Include[arlene-lennox]
+\Include[brian-h-brown]
+\Include[brian-wowk]
+\Include[christian-langton]
+\Include[christy-holland]
+\Include[david-jaffray]
+\Include[diana-adliene]
+\Include[e-theo-agard]
+\Include[edith-anne-stoney]
+\Include[edith-quimby]
+\Include[elda-emma-anderson]
+\Include[frank-farmer-physicist]
+\Include[gioacchino-failla]
+\Include[hadiyah-nicole-green]
+\Include[haldan-keffer-hartline]
+\Include[harold-e-johns]
+\Include[henry-harrington-janeway]
+\Include[herbert-mermagen]
+\Include[herbert-parker-health-physicist]
+\Include[huda-al-naimi]
+\Include[janwillem-van-den-berg]
+\Include[john-clifton-medical-physicist]
+\Include[john-haybittle]
+\Include[john-howard-northrop]
+\Include[john-r-cunningham]
+\Include[john-shepherd-physicist]
+\Include[joseph-gilbert-hamilton]
+\Include[kurt-mendelssohn]
+\Include[leonidas-d-marinelli]
+\Include[madan-m-rehani]
+\Include[martina-callaghan]
+\Include[maurice-tweedie]
+\Include[medical-physicist]
+\Include[norman-kember]
+\Include[peter-wells-medical-physicist]
+\Include[radhe-mohan]
+\Include[robert-roland-hughes]
+\Include[robley-d-evans-physicist]
+\Include[samantha-holdsworth]
+\Include[shakardokht-jafari]
+\Include[slavik-tabakov]
+\Include[steve-webb-medical-physicist]
+\Include[susannah-lazar]
+\Include[sylvia-fedoruk]
+\Include[thomas-rockwell-mackie]
+\Include[walter-dunham-claus]
+\Include[walter-mauderli]
+\Include[willi-a-kalender]
+\Include[william-valentine-mayneord]
+\Include[wolfgang-a-tome]
+\Include[alvaro-alvim]
+\Include[ake-oberg]
+
+= Medieval physicists
+{parent=Physicists}
+{wiki=Category:Medieval_physicists}
+
+\Include[albert-of-saxony-philosopher]
+\Include[avempace]
+\Include[fakhr-al-din-al-razi]
+\Include[giovanni-di-casali]
+\Include[ibn-sahl-mathematician]
+\Include[jean-buridan]
+\Include[john-dumbleton]
+\Include[marsilius-of-inghen]
+\Include[nicole-oresme]
+\Include[petrus-peregrinus-de-maricourt]
+\Include[qutb-al-din-al-shirazi]
+\Include[richard-swineshead]
+\Include[thomas-bradwardine]
+
+= Members of the National Society of Black Physicists
+{parent=Physicists}
+{wiki=Category:Members_of_the_National_Society_of_Black_Physicists}
+
+\Include[neil-degrasse-tyson]
+\Include[adrienne-stiff-roberts]
+\Include[ashanti-johnson]
+\Include[chanda-prescod-weinstein]
+\Include[elizabeth-wayne]
+\Include[elmer-imes]
+\Include[george-robert-carruthers]
+\Include[harry-lee-morrison]
+\Include[james-edward-young]
+\Include[jami-valentine]
+\Include[joseph-johnson-iii]
+\Include[ronald-e-mickens]
+\Include[ronald-mallett]
+\Include[sekazi-mtingwa]
+\Include[shirley-ann-jackson]
+\Include[tabbetha-dobbins]
+\Include[willie-rockward]
+
+= Physicist stubs
+{parent=Physicists}
+{wiki=Category:Physicist_stubs}
+
+\Include[american-physicist-stubs]
+\Include[british-physicist-stubs]
+\Include[french-physicist-stubs]
+\Include[german-physicist-stubs]
+\Include[italian-physicist-stubs]
+\Include[russian-physicist-stubs]
+\Include[adriano-de-paiva]
+\Include[agustin-fernandez-mallo]
+\Include[aharon-kapitulnik]
+\Include[aiichiro-nakano]
+\Include[alain-hache]
+\Include[alamgir-karim]
+\Include[albert-lloyd-george-rees]
+\Include[albert-sauveur]
+\Include[alejandro-corichi]
+\Include[aleksandra-walczak]
+\Include[alex-grossmann]
+\Include[alex-ignatiev]
+\Include[alexander-kusenko]
+\Include[alexander-meissner]
+\Include[allan-rosencwaig]
+\Include[alv-egeland]
+\Include[amitava-bhattacharjee-physicist]
+\Include[anatoliy-koroteyev]
+\Include[anatoly-kuzovnikov]
+\Include[anders-flodstrom]
+\Include[anders-knutsson-angstrom]
+\Include[andrej-cadez]
+\Include[andrew-keith-jack]
+\Include[andrius-baltuska]
+\Include[andrzej-kajetan-wroblewski]
+\Include[andrzej-soltan]
+\Include[andre-mauricio-conceicao-de-souza]
+\Include[aneta-stodolna]
+\Include[angelika-kalt]
+\Include[annabella-selloni]
+\Include[anton-brugmans]
+\Include[anupam-garg]
+\Include[arindam-ghosh-physicist]
+\Include[arthur-eugene-livingston]
+\Include[arthur-hafford-cooke]
+\Include[arunava-gupta]
+\Include[asimina-arvanitaki]
+\Include[atul-gurtu]
+\Include[august-musger]
+\Include[august-seydler]
+\Include[aycan-yurtsever]
+\Include[bahram-mashhoon]
+\Include[bamin-khomami]
+\Include[barry-ninham]
+\Include[bart-de-pontieu]
+\Include[barton-zwiebach]
+\Include[benjamin-markarian]
+\Include[benny-lautrup]
+\Include[bernard-de-wit]
+\Include[bhalchandra-udgaonkar]
+\Include[bill-blevin]
+\Include[bo-lawergren]
+\Include[bob-bilger]
+\Include[bohumil-kucera]
+\Include[brenton-raymond-lewis]
+\Include[bretislav-victor-heinrich]
+\Include[carl-barus]
+\Include[carl-r-sovinec]
+\Include[carlos-e-m-wagner]
+\Include[charles-lambert-manneback]
+\Include[chen-yu-liu]
+\Include[chen-yung-jui]
+\Include[cheuk-yin-wong]
+\Include[chia-hsiung-tze]
+\Include[chia-seng-chang]
+\Include[ching-liang-lin]
+\Include[ching-yao-fong]
+\Include[chong-long-fu]
+\Include[choong-seock-chang]
+\Include[chris-adami]
+\Include[chris-i-westbrook]
+\Include[christian-christiansen-physicist]
+\Include[christian-mailhiot]
+\Include[ci-ling-pan]
+\Include[conrado-varotto]
+\Include[csaba-csaki]
+\Include[cynthia-roberta-mcintyre]
+\Include[dan-lubin]
+\Include[dan-shapira]
+\Include[daniel-isaachsen-physicist]
+\Include[daniel-loss]
+\Include[daniel-phillips-physicist]
+\Include[david-blair-physicist]
+\Include[david-e-weston]
+\Include[david-george-hitlin]
+\Include[david-kelly-campbell]
+\Include[david-parry-biophysicist]
+\Include[david-pegg-physicist]
+\Include[david-wixon-pratt]
+\Include[demetrius-hondros]
+\Include[dennis-g-kovar]
+\Include[dhiraj-bora]
+\Include[dieter-zeppenfeld]
+\Include[dilip-kondepudi]
+\Include[don-page-physicist]
+\Include[donald-g-crabb]
+\Include[donald-ray-wiff]
+\Include[dora-altbir]
+\Include[edgar-d-zanotto]
+\Include[edgar-lipworth]
+\Include[edwin-lorimer-thomas]
+\Include[edwin-ross-williams]
+\Include[eleftherios-goulielmakis]
+\Include[elliott-r-brown]
+\Include[emmanuel-stratakis]
+\Include[enrico-clementi]
+\Include[eric-borguet]
+\Include[eric-hessels]
+\Include[eric-poisson]
+\Include[eugene-terentjev]
+\Include[falk-herwig]
+\Include[faqir-chand-khanna]
+\Include[farhat-n-beg]
+\Include[fiodar-fiodarau]
+\Include[floris-nollet]
+\Include[fred-white-physicist]
+\Include[gabor-forgacs]
+\Include[gary-s-grest]
+\Include[gaston-r-gutierrez]
+\Include[genda-gu]
+\Include[geoff-wilson-professor]
+\Include[georg-wulff]
+\Include[george-csanak]
+\Include[george-isaak]
+\Include[george-kenneth-green]
+\Include[george-laurence]
+\Include[george-v-eleftheriades]
+\Include[georges-zissis]
+\Include[georgi-manev]
+\Include[georgi-nadjakov]
+\Include[gerald-e-marsh]
+\Include[geraldine-a-kenney-wallace]
+\Include[gerasimos-danilatos]
+\Include[gerda-laski]
+\Include[gerhard-materlik]
+\Include[gerrit-jan-van-ingen-schenau]
+\Include[gianluca-gregori]
+\Include[giorgio-fiocco]
+\Include[gleb-wataghin]
+\Include[gopinath-kartha]
+\Include[gotfred-kvifte]
+\Include[graciela-gelmini]
+\Include[gregory-lawrence-eyink]
+\Include[gu-binglin]
+\Include[guang-yu-guo]
+\Include[h-r-krishnamurthy]
+\Include[handong-sun]
+\Include[hans-arwed-weidenmuller]
+\Include[hans-benndorf]
+\Include[hans-capel]
+\Include[hans-pfeiffer]
+\Include[hans-ryde]
+\Include[harish-chandra]
+\Include[harold-george-jerrard]
+\Include[heike-riel]
+\Include[henry-brose]
+\Include[henry-philip-freund]
+\Include[henry-s-valk]
+\Include[herbert-gleiter]
+\Include[herbert-jehle]
+\Include[herch-moyses-nussenzveig]
+\Include[heremba-bailung]
+\Include[herman-march]
+\Include[herman-verlinde]
+\Include[hermann-a-grunder]
+\Include[hermann-grimmeiss]
+\Include[hermanus-haga]
+\Include[hidetsugu-ikegami]
+\Include[horațiu-nastase]
+\Include[howard-burton]
+\Include[howard-turner-barnes]
+\Include[huang-kun]
+\Include[ian-affleck]
+\Include[ignacij-klemencic]
+\Include[imre-fenyes]
+\Include[indrani-bose]
+\Include[ingo-sick]
+\Include[ingolf-lindau]
+\Include[iraj-malekpour]
+\Include[irina-veretennicoff]
+\Include[ivan-wilhelm]
+\Include[izuo-hayashi]
+\Include[j-ritchie-patterson]
+\Include[jack-piddington]
+\Include[jacques-beaulieu]
+\Include[james-g-alessi]
+\Include[james-g-brasseur]
+\Include[james-gordon-macgregor]
+\Include[james-loudon]
+\Include[james-michael-lisy]
+\Include[james-paul-miller]
+\Include[james-v-porto]
+\Include[jan-kazimierz-danysz]
+\Include[jan-rost]
+\Include[jan-smit-physicist]
+\Include[jan-lopuszanski-physicist]
+\Include[janusz-andrzej-zakrzewski]
+\Include[jayme-tiomno]
+\Include[jean-pierre-wolf]
+\Include[jennifer-coopersmith]
+\Include[jenny-greene]
+\Include[jens-g-eggers]
+\Include[jeremy-hutson]
+\Include[jerome-lewis-duggan]
+\Include[jerry-paul-draayer]
+\Include[jerzy-pniewski]
+\Include[jianming-qian]
+\Include[jianpeng-ma]
+\Include[jiri-bicak]
+\Include[johan-peter-holtsmark]
+\Include[john-a-mcclelland]
+\Include[john-cunningham-mclennan]
+\Include[john-dowell]
+\Include[john-gordon-rushbrooke]
+\Include[john-hegarty-academic]
+\Include[john-jacob-domingo]
+\Include[john-loveday-physicist]
+\Include[john-r-klauder]
+\Include[john-w-farley]
+\Include[john-w-staples]
+\Include[jonathan-bagger]
+\Include[jonathan-oppenheim]
+\Include[jorge-crispim-romao]
+\Include[jorge-sabato]
+\Include[josef-kozeny]
+\Include[joseph-a-zasadzinski]
+\Include[joao-penedones]
+\Include[juan-jose-giambiagi]
+\Include[juan-manuel-lozano-mejia]
+\Include[jules-emile-verschaffelt]
+\Include[julia-a-thompson]
+\Include[julie-mcenery]
+\Include[julius-wess]
+\Include[julius-wilhelm-gintl]
+\Include[junhan-cho]
+\Include[janos-bergou]
+\Include[jozef-lubanski]
+\Include[jurgen-troe]
+\Include[kai-ming-ho]
+\Include[kalaya-sophonpanich]
+\Include[kalle-antti-suominen]
+\Include[kamaloddin-jenab]
+\Include[kari-enqvist]
+\Include[karl-d-swartzel-jr]
+\Include[karl-krushelnick]
+\Include[katharine-michie]
+\Include[kay-kinoshita]
+\Include[keiichi-aichi]
+\Include[kenneth-h-hunt]
+\Include[kenneth-ivan-golden]
+\Include[kenneth-meade-lakin]
+\Include[kenneth-w-gentle]
+\Include[khamidbi-beshtoev]
+\Include[klaus-molmer]
+\Include[konstantin-vodopyanov]
+\Include[konstanty-zakrzewski]
+\Include[kui-juan-jin]
+\Include[kun-yang]
+\Include[kyriakos-tamvakis]
+\Include[larry-a-nagahara]
+\Include[lars-bergstrom-physicist]
+\Include[laurie-winkless]
+\Include[leander-ditscheiner]
+\Include[lee-g-sobotka]
+\Include[leo-palatnik]
+\Include[leo-stodolsky]
+\Include[leonard-huxley-physicist]
+\Include[leonid-frankfurt]
+\Include[leonid-zakharov]
+\Include[leonidas-resvanis]
+\Include[leopoldo-garcia-colin]
+\Include[lev-fink]
+\Include[li-chyong-chen]
+\Include[li-jiachun]
+\Include[lilabati-bhattacharjee]
+\Include[luc-de-schepper]
+\Include[lucien-hardy]
+\Include[ludvig-lorenz]
+\Include[luis-de-la-pena]
+\Include[luz-martinez-miranda]
+\Include[laszlo-baksay]
+\Include[m-b-ramachandra-rao]
+\Include[m-s-ramakumar]
+\Include[mahendra-verma]
+\Include[malvin-ruderman]
+\Include[mandar-madhukar-deshmukh]
+\Include[marcelle-soares-santos]
+\Include[marek-huberath]
+\Include[marian-danysz]
+\Include[mario-garavaglia]
+\Include[mario-reis-physicist]
+\Include[mark-douglas-havey]
+\Include[martin-greven]
+\Include[martin-rocek]
+\Include[maury-c-goodman]
+\Include[melville-s-green]
+\Include[michael-dennis-feit]
+\Include[michael-hass]
+\Include[michael-l-w-thewalt]
+\Include[michael-steinitz]
+\Include[michal-horodecki]
+\Include[michele-vallisneri]
+\Include[mikhail-dyakonov]
+\Include[mikhail-feigelman]
+\Include[mikkel-borlaug-johnson]
+\Include[milan-m-cirkovic]
+\Include[minh-quang-tran]
+\Include[mohammad-khorrami-physicist]
+\Include[mu-guoguang]
+\Include[mudundi-ramakrishna-raju]
+\Include[mukunda-prasad-das]
+\Include[naresh-dadhich]
+\Include[neelima-gupte]
+\Include[neepa-maitra]
+\Include[ni-wei-tou]
+\Include[nicolaas-marinus-hugenholtz]
+\Include[nikolay-pilchikov]
+\Include[noemi-mirkin]
+\Include[ola-hunderi]
+\Include[olav-holt]
+\Include[oleg-sushkov]
+\Include[olivier-dore]
+\Include[orfeu-bertolami]
+\Include[oscar-buneman]
+\Include[oskar-painter]
+\Include[panayiotis-varotsos]
+\Include[patrick-a-lee]
+\Include[patrick-l-mcgaughey]
+\Include[paul-kunz]
+\Include[paul-mackenzie]
+\Include[pavel-kaskarov]
+\Include[pawel-horodecki]
+\Include[peder-oluf-pedersen]
+\Include[peter-c-aichelburg]
+\Include[peter-demos]
+\Include[peter-dornan]
+\Include[peter-drummond-physicist]
+\Include[peter-grassberger]
+\Include[peter-reynolds-physicist]
+\Include[petros-serghiou-florides]
+\Include[philip-schuster-physicist]
+\Include[pieter-hendrik-van-cittert]
+\Include[pieter-kok]
+\Include[pol-duwez]
+\Include[pranab-r-dastidar]
+\Include[pratap-raychaudhuri]
+\Include[predhiman-krishan-kaw]
+\Include[qiwam-al-din-muhammad-al-hasani]
+\Include[r-a-mcconnell]
+\Include[r-keith-ellis]
+\Include[rado-von-kovesligethy]
+\Include[rafael-ghazaryan]
+\Include[ragnar-holm]
+\Include[randall-m-feenstra]
+\Include[raoul-pictet]
+\Include[rashmi-c-desai]
+\Include[ravinder-k-jain]
+\Include[raymond-volkas]
+\Include[renate-loll]
+\Include[richard-d-james-scientist]
+\Include[richard-e-cutkosky]
+\Include[richard-majeski]
+\Include[richard-p-a-c-newman]
+\Include[rob-duncan-coalson]
+\Include[robert-clark-physicist]
+\Include[robert-hengehold]
+\Include[robert-leigh]
+\Include[robert-rosner]
+\Include[robert-smolanczuk]
+\Include[roberto-merlin]
+\Include[roberto-zenit]
+\Include[rod-cross]
+\Include[roderick-v-jensen]
+\Include[rodolfo-gambini]
+\Include[rodolfo-miranda]
+\Include[roger-j-thomas]
+\Include[roman-smoluchowski]
+\Include[roman-ulrich-sexl]
+\Include[ruben-gerardo-barrera]
+\Include[rudolf-schulten]
+\Include[ruqian-wu]
+\Include[sadamichi-maekawa]
+\Include[sadiqali-abbas-rangwala]
+\Include[samuel-walter-johnson-smith]
+\Include[sandip-trivedi]
+\Include[santosh-kumar-srivastava]
+\Include[sarbeswar-bujarbarua]
+\Include[sean-dougherty]
+\Include[seifallah-randjbar-daemi]
+\Include[seishi-kikuchi]
+\Include[serdar-kuyucak]
+\Include[sergio-ulloa]
+\Include[sergiu-radauțanu]
+\Include[shang-fen-ren]
+\Include[shengwang-du]
+\Include[shin-ichi-nojiri]
+\Include[shuichi-nose]
+\Include[siegfried-adolf-wouthuysen]
+\Include[snegulka-detoni]
+\Include[so-young-pi]
+\Include[sofia-quaglioni]
+\Include[somnath-bharadwaj]
+\Include[sonja-ashauer]
+\Include[srubabati-goswami]
+\Include[stan-bentvelsen]
+\Include[stanislaw-mrozowski]
+\Include[stavros-tavoularis]
+\Include[stephen-p-reynolds]
+\Include[stephen-streiffer]
+\Include[steven-gwon-sheng-louie]
+\Include[steven-m-george]
+\Include[sven-kullander-physicist]
+\Include[szczepan-szczeniowski]
+\Include[sandor-gaal]
+\Include[sandor-szalay-physicist]
+\Include[t-v-ramakrishnan]
+\Include[tamara-davis]
+\Include[tamiaki-yoneya]
+\Include[tekin-dereli]
+\Include[thomas-hertog]
+\Include[tiago-p-peixoto]
+\Include[tony-scott-physicist]
+\Include[udo-pernisz]
+\Include[ulrik-lund-andersen]
+\Include[uri-feldman]
+\Include[v-parmeswaran-nair]
+\Include[vassilis-papazachos]
+\Include[victor-manuel-velasco-herrera]
+\Include[victor-valentine-eremenko]
+\Include[vijay-raghunath-pandharipande]
+\Include[viking-olver-eriksen]
+\Include[vincent-mcbrierty]
+\Include[vladimir-jurko-glaser]
+\Include[vladimir-prigodin]
+\Include[w-john-mcdonald]
+\Include[wang-dingsheng]
+\Include[warren-bruce-jackson]
+\Include[wen-li-space-physicist]
+\Include[werner-sandhas]
+\Include[wilhelm-altar]
+\Include[willem-hendrik-keesom]
+\Include[willem-vos]
+\Include[william-arthur-coles]
+\Include[william-f-hoffmann]
+\Include[william-george-harter]
+\Include[william-hayes-academic]
+\Include[william-rarita]
+\Include[william-ritchie-physicist]
+\Include[wim-ubachs]
+\Include[witold-milewski]
+\Include[witold-rybczynski]
+\Include[wojciech-krolikowski]
+\Include[wu-youxun]
+\Include[wladyslaw-natanson]
+\Include[xiaochun-he]
+\Include[xie-shengwu]
+\Include[xincheng-xie]
+\Include[yasunori-nomura]
+\Include[yasushi-takahashi]
+\Include[yoel-rephaeli]
+\Include[yoshiaki-arata]
+\Include[yoshiki-kuramoto]
+\Include[yuan-cao]
+\Include[zhang-yuheng]
+\Include[zhou-peiyuan]
+\Include[zsolt-bor]
+\Include[oscar-saavedra-san-martin]
+
+= Physicists by century
+{parent=Physicists}
+{wiki=Category:Physicists_by_century}
+
+\Include[17th-century-physicists]
+\Include[18th-century-physicists]
+\Include[19th-century-physicists]
+\Include[20th-century-physicists]
+\Include[21st-century-physicists]
+\Include[physicists-by-nationality-and-century]
+\Include[women-physicists-by-century]
+
+= Physicists by continent
+{parent=Physicists}
+{wiki=Category:Physicists_by_continent}
+
+\Include[african-physicists]
+\Include[asian-physicists]
+\Include[european-physicists]
+\Include[north-american-physicists]
+\Include[south-american-physicists]
+
+= Physicists by field of research
+{parent=Physicists}
+{wiki=Category:Physicists_by_field_of_research}
+
+\Include[accelerator-physicists]
+\Include[acousticians]
+\Include[astronomers]
+\Include[astrophysicists]
+\Include[atmospheric-physicists]
+\Include[biophysicists]
+\Include[chemical-physicists]
+\Include[condensed-matter-physicists]
+\Include[cosmic-ray-physicists]
+\Include[cosmologists]
+\Include[crystallographers]
+\Include[experimental-physicists]
+\Include[geophysicists]
+\Include[lists-of-physicists-by-field]
+\Include[magneticians]
+\Include[materials-scientists-and-engineers]
+\Include[nanophysicists]
+\Include[nuclear-physicists]
+\Include[optical-physicists]
+\Include[opticians]
+\Include[particle-physicists]
+\Include[physical-chemists]
+\Include[plasma-physicists]
+\Include[pseudoscientific-physicists]
+\Include[quantum-physicists]
+\Include[semiconductor-physicists]
+\Include[theoretical-physicists]
+\Include[weak-interaction-physicists]
+\Include[women-physicists-by-field]
+
+= Physicists by nationality
+{parent=Physicists}
+{wiki=Category:Physicists_by_nationality}
+
+\Include[australian-physicists]
+\Include[bulgarian-physicists]
+\Include[dutch-physicists]
+\Include[luxembourgian-physicists]
+\Include[malaysian-physicists]
+\Include[new-zealand-physicists]
+\Include[physicists-from-georgia-country]
+\Include[portuguese-physicists]
+\Include[spanish-physicists]
+\Include[thai-physicists]
+\Include[women-physicists-by-nationality]
+
+= Physics award winners
+{parent=Physicists}
+{wiki=Category:Physics_award_winners}
+
+\Include[enrico-fermi-award-recipients]
+\Include[fellows-of-the-american-physical-society]
+\Include[j-j-sakurai-prize-for-theoretical-particle-physics-recipients]
+\Include[lorentz-medal-winners]
+\Include[maxwell-medal-and-prize-recipients]
+\Include[new-horizons-in-physics-prize-laureates]
+\Include[niels-bohr-international-gold-medal-recipients]
+\Include[nobel-laureates-in-physics]
+\Include[oliver-e-buckley-condensed-matter-prize-winners]
+\Include[recipients-of-the-matteucci-medal]
+\Include[unesco-niels-bohr-medal-recipients]
+\Include[winners-of-the-max-planck-medal]
+\Include[winners-of-the-panofsky-prize]
+\Include[wolf-prize-in-physics-laureates]
+
+= Physics educators
+{parent=Physicists}
+{wiki=Category:Physics_educators}
+
+\Include[physicists-at-the-university-of-cambridge]
+\Include[presidents-of-the-american-association-of-physics-teachers]
+\Include[stanford-university-department-of-physics-faculty]
+\Include[amitabh-singh]
+\Include[cgp-grey]
+\Include[carol-lynn-alpert]
+\Include[charles-s-richardson]
+\Include[h-c-verma]
+\Include[ian-terry]
+\Include[kevin-courtney]
+\Include[klaus-iohannis]
+\Include[lloyd-loar]
+\Include[louis-george-carpenter]
+\Include[ourida-chouaki]
+\Include[scott-boman]
+
+= Presidents of the European Physical Society
+{parent=Physicists}
+{wiki=Category:Presidents_of_the_European_Physical_Society}
+
+\Include[arnold-wolfendale]
+
+= Presidents of the International Union of Pure and Applied Physics
+{parent=Physicists}
+{wiki=Category:Presidents_of_the_International_Union_of_Pure_and_Applied_Physics}
+
+\Include[edoardo-amaldi]
+\Include[yves-petroff]
+
+= Wikipedia categories named after physicists
+{parent=Physicists}
+{wiki=Category:Wikipedia_categories_named_after_physicists}
+
+= Women physicists
+{parent=Physicists}
+{wiki=Category:Women_physicists}
+
+\Include[abigail-vieregg]
+\Include[alison-walker-scientist]
+\Include[anna-barnacka]
+\Include[anne-tropper]
+\Include[antonina-roll-mecak]
+\Include[hope-ishii]
+\Include[maiken-mikkelsen]
+\Include[sasa-bajt]
+\Include[ursel-bangert]
+\Include[women-in-physics]
+
+= List of physicists
+{parent=Physicists}
+{wiki=List_of_physicists}
+
+= Philip Stehle
+{parent=Physicists}
+{wiki=Philip_Stehle}
+
+= Physicist
+{parent=Physicists}
+{wiki=Physicist}
+
+= Physics-related lists
+{parent=Physics}
+{wiki=Category:Physics-related_lists}
+
+= Indexes of physics articles
+{parent=Physics-related lists}
+{wiki=Category:Indexes_of_physics_articles}
+
+\Include[index-of-physics-articles-at]
+\Include[index-of-physics-articles-0-9]
+\Include[index-of-physics-articles-a]
+\Include[index-of-physics-articles-b]
+\Include[index-of-physics-articles-c]
+\Include[index-of-physics-articles-d]
+\Include[index-of-physics-articles-e]
+\Include[index-of-physics-articles-f]
+\Include[index-of-physics-articles-g]
+\Include[index-of-physics-articles-h]
+\Include[index-of-physics-articles-i]
+\Include[index-of-physics-articles-j]
+\Include[index-of-physics-articles-k]
+\Include[index-of-physics-articles-l]
+\Include[index-of-physics-articles-m]
+\Include[index-of-physics-articles-n]
+\Include[index-of-physics-articles-o]
+\Include[index-of-physics-articles-p]
+\Include[index-of-physics-articles-q]
+\Include[index-of-physics-articles-r]
+\Include[index-of-physics-articles-s]
+\Include[index-of-physics-articles-t]
+\Include[index-of-physics-articles-u]
+\Include[index-of-physics-articles-v]
+\Include[index-of-physics-articles-w]
+\Include[index-of-physics-articles-x]
+\Include[index-of-physics-articles-y]
+\Include[index-of-physics-articles-z]
+\Include[index-of-radiation-articles]
+
+= Lists of Solar System objects
+{parent=Physics-related lists}
+{wiki=Category:Lists_of_Solar_System_objects}
+
+\Include[lists-of-comets]
+\Include[lists-of-minor-planets]
+\Include[lists-of-moons]
+\Include[mercury-planet-related-lists]
+\Include[venus-related-lists]
+\Include[list-of-labes-on-mars]
+\Include[list-of-solar-system-objects]
+\Include[list-of-solar-system-objects-by-greatest-aphelion]
+\Include[list-of-solar-system-objects-by-size]
+\Include[list-of-solar-system-objects-most-distant-from-the-sun]
+\Include[list-of-solar-system-probes]
+\Include[list-of-artificial-objects-leaving-the-solar-system]
+\Include[list-of-gravitationally-rounded-objects-of-the-solar-system]
+\Include[list-of-meteor-showers]
+\Include[list-of-minor-planet-groups]
+\Include[list-of-minor-planets-named-after-people]
+\Include[list-of-planetary-features-with-maori-names]
+
+= Physics timelines
+{parent=Physics-related lists}
+{wiki=Category:Physics_timelines}
+
+\Include[energy-timelines]
+\Include[timeline-of-atomic-and-subatomic-physics]
+\Include[timeline-of-carbon-nanotubes]
+\Include[timeline-of-condensed-matter-physics]
+\Include[timeline-of-cosmological-theories]
+\Include[timeline-of-crystallography]
+\Include[timeline-of-electromagnetism-and-classical-optics]
+\Include[timeline-of-fluid-and-continuum-mechanics]
+\Include[timeline-of-fundamental-physics-discoveries]
+\Include[timeline-of-gravitational-physics-and-relativity]
+\Include[timeline-of-nuclear-fusion]
+\Include[timeline-of-particle-discoveries]
+\Include[timeline-of-particle-physics]
+\Include[timeline-of-particle-physics-technology]
+\Include[timeline-of-physical-chemistry]
+\Include[timeline-of-quantum-mechanics]
+\Include[timeline-of-special-relativity-and-the-speed-of-light]
+\Include[timeline-of-states-of-matter-and-phase-transitions]
+\Include[timeline-of-the-manhattan-project]
+
+= Constant-resistance network
+{parent=Physics-related lists}
+{wiki=Constant-resistance_network}
+
+= Contributors to the mathematical background for general relativity
+{parent=Physics-related lists}
+{wiki=Contributors_to_the_mathematical_background_for_general_relativity}
+
+= Index of optics articles
+{parent=Physics-related lists}
+{wiki=Index_of_optics_articles}
+
+= Index of physics articles
+{parent=Physics-related lists}
+{wiki=Index_of_physics_articles}
+
+= List of CERN Scientific Committees
+{parent=Physics-related lists}
+{wiki=List_of_CERN_Scientific_Committees}
+
+= List of Feynman diagrams
+{parent=Physics-related lists}
+{wiki=List_of_Feynman_diagrams}
+
+= List of Foucault pendulums
+{parent=Physics-related lists}
+{wiki=List_of_Foucault_pendulums}
+
+= List of Proton Synchrotron experiments
+{parent=Physics-related lists}
+{wiki=List_of_Proton_Synchrotron_experiments}
+
+= List of accelerators in particle physics
+{parent=Physics-related lists}
+{wiki=List_of_accelerators_in_particle_physics}
+
+= List of baryons
+{parent=Physics-related lists}
+{wiki=List_of_baryons}
+
+= List of books on popular physics concepts
+{parent=Physics-related lists}
+{wiki=List_of_books_on_popular_physics_concepts}
+
+= List of centroids
+{parent=Physics-related lists}
+{wiki=List_of_centroids}
+
+= List of common physics notations
+{parent=Physics-related lists}
+{wiki=List_of_common_physics_notations}
+
+= List of gravitational wave observations
+{parent=Physics-related lists}
+{wiki=List_of_gravitational_wave_observations}
+
+= List of heliophysics missions
+{parent=Physics-related lists}
+{wiki=List_of_heliophysics_missions}
+
+= List of laser articles
+{parent=Physics-related lists}
+{wiki=List_of_laser_articles}
+
+= List of mathematical physics journals
+{parent=Physics-related lists}
+{wiki=List_of_mathematical_physics_journals}
+
+= List of mesons
+{parent=Physics-related lists}
+{wiki=List_of_mesons}
+
+= List of minerals by optical properties
+{parent=Physics-related lists}
+{wiki=List_of_minerals_by_optical_properties}
+
+= List of physics concepts in primary and secondary education curricula
+{parent=Physics-related lists}
+{wiki=List_of_physics_concepts_in_primary_and_secondary_education_curricula}
+
+= List of physics journals
+{parent=Physics-related lists}
+{wiki=List_of_physics_journals}
+
+= List of physics mnemonics
+{parent=Physics-related lists}
+{wiki=List_of_physics_mnemonics}
+
+= List of plasma physics articles
+{parent=Physics-related lists}
+{wiki=List_of_plasma_physics_articles}
+
+= List of quantum-mechanical systems with analytical solutions
+{parent=Physics-related lists}
+{wiki=List_of_quantum-mechanical_systems_with_analytical_solutions}
+
+= List of quasiparticles
+{parent=Physics-related lists}
+{wiki=List_of_quasiparticles}
+
+= List of refractive indices
+{parent=Physics-related lists}
+{wiki=List_of_refractive_indices}
+
+= List of scientific publications by Albert Einstein
+{parent=Physics-related lists}
+{wiki=List_of_scientific_publications_by_Albert_Einstein}
+
+= List of states of matter
+{parent=Physics-related lists}
+{wiki=List_of_states_of_matter}
+
+= List of synchrotron radiation facilities
+{parent=Physics-related lists}
+{wiki=List_of_synchrotron_radiation_facilities}
+
+= List of textbooks in Physics
+{parent=Physics-related lists}
+{wiki=List_of_textbooks_in_Physics}
+
+= List of thermodynamic properties
+{parent=Physics-related lists}
+{wiki=List_of_thermodynamic_properties}
+
+= List of types of interferometers
+{parent=Physics-related lists}
+{wiki=List_of_types_of_interferometers}
+
+= Outline of physics
+{parent=Physics-related lists}
+{wiki=Outline_of_physics}
+
+= Physical theories modified by general relativity
+{parent=Physics-related lists}
+{wiki=Physical_theories_modified_by_general_relativity}
+
+= Timeline of discovery of Solar System planets and their moons
+{parent=Physics-related lists}
+{wiki=Timeline_of_discovery_of_Solar_System_planets_and_their_moons}
+
+= Physics by country
+{parent=Physics}
+{wiki=Category:Physics_by_country}
+
+= Nuclear technology by country
+{parent=Physics by country}
+{wiki=Category:Nuclear_technology_by_country}
+
+\Include[anti-nuclear-movement-by-country]
+\Include[nuclear-history-by-country]
+\Include[nuclear-power-by-country]
+\Include[nuclear-technology-by-former-country]
+\Include[nuclear-technology-in-argentina]
+\Include[nuclear-technology-in-australia]
+\Include[nuclear-technology-in-austria]
+\Include[nuclear-technology-in-bangladesh]
+\Include[nuclear-technology-in-belgium]
+\Include[nuclear-technology-in-brazil]
+\Include[nuclear-technology-in-canada]
+\Include[nuclear-technology-in-china]
+\Include[nuclear-technology-in-denmark]
+\Include[nuclear-technology-in-egypt]
+\Include[nuclear-technology-in-finland]
+\Include[nuclear-technology-in-france]
+\Include[nuclear-technology-in-germany]
+\Include[nuclear-technology-in-greece]
+\Include[nuclear-technology-in-india]
+\Include[nuclear-technology-in-iran]
+\Include[nuclear-technology-in-iraq]
+\Include[nuclear-technology-in-israel]
+\Include[nuclear-technology-in-italy]
+\Include[nuclear-technology-in-japan]
+\Include[nuclear-technology-in-jordan]
+\Include[nuclear-technology-in-kazakhstan]
+\Include[nuclear-technology-in-kenya]
+\Include[nuclear-technology-in-libya]
+\Include[nuclear-technology-in-new-zealand]
+\Include[nuclear-technology-in-nigeria]
+\Include[nuclear-technology-in-north-korea]
+\Include[nuclear-technology-in-norway]
+\Include[nuclear-technology-in-pakistan]
+\Include[nuclear-technology-in-portugal]
+\Include[nuclear-technology-in-romania]
+\Include[nuclear-technology-in-russia]
+\Include[nuclear-technology-in-saudi-arabia]
+\Include[nuclear-technology-in-south-africa]
+\Include[nuclear-technology-in-south-korea]
+\Include[nuclear-technology-in-sweden]
+\Include[nuclear-technology-in-switzerland]
+\Include[nuclear-technology-in-taiwan]
+\Include[nuclear-technology-in-thailand]
+\Include[nuclear-technology-in-turkey]
+\Include[nuclear-technology-in-ukraine]
+\Include[nuclear-technology-in-vanuatu]
+\Include[nuclear-technology-in-vietnam]
+\Include[nuclear-technology-in-the-czech-republic]
+\Include[nuclear-technology-in-the-netherlands]
+\Include[nuclear-technology-in-the-philippines]
+\Include[nuclear-technology-in-the-united-kingdom]
+\Include[nuclear-technology-in-the-united-states]
+\Include[nuclear-technology-organizations-by-country]
+\Include[nuclear-weapons-by-country]
+
+= Physics in Canada
+{parent=Physics by country}
+{wiki=Physics_in_Canada}
+
+\Include[physics-departments-in-canada]
+
+= Physics in Germany
+{parent=Physics by country}
+{wiki=Category:Physics_in_Germany}
+
+\Include[german-physical-society]
+\Include[desy]
+\Include[eurofusion]
+\Include[european-xfel]
+
+= Physics in Russia
+{parent=Physics by country}
+{wiki=Physics_in_Russia}
+
+\Include[moscow-institute-of-physics-and-technology]
+\Include[nanotechnology-in-russia]
+\Include[physics-education-in-russia]
+\Include[physics-institutes-in-russia]
+\Include[physics-societies-in-russia]
+
+= Physics in Ukraine
+{parent=Physics by country}
+{wiki=Category:Physics_in_Ukraine}
+
+\Include[physics-education-in-ukraine]
+
+= Physics in the United Kingdom
+{parent=Physics by country}
+{wiki=Category:Physics_in_the_United_Kingdom}
+
+\Include[physics-education-in-the-united-kingdom]
+
+= Physics in the United States
+{parent=Physics by country}
+{wiki=Category:Physics_in_the_United_States}
+
+\Include[american-association-of-physics-teachers]
+\Include[american-institute-of-physics]
+\Include[brookhaven-national-laboratory]
+\Include[fermilab]
+\Include[lawrence-livermore-national-laboratory]
+\Include[physics-departments-in-the-united-states]
+\Include[sandia-national-laboratories]
+
+= Physics institutes in Italy
+{parent=Physics by country}
+{wiki=Category:Physics_institutes_in_Italy}
+
+\Include[istituto-nazionale-di-fisica-nucleare]
+
+= Physics institutes in the Netherlands
+{parent=Physics by country}
+{wiki=Category:Physics_institutes_in_the_Netherlands}
+
+= Physics in society
+{parent=Physics}
+{wiki=Category:Physics_in_society}
+
+= History of physics
+{parent=Physics in society}
+{wiki=History_of_physics}
+
+\Include[books-about-the-history-of-physics]
+\Include[foundational-quantum-physics]
+\Include[historical-physics-publications]
+\Include[history-of-electrical-engineering]
+\Include[history-of-physics-journals]
+\Include[obsolete-theories-in-physics]
+\Include[physics-experiments]
+\Include[history-of-optics]
+\Include[modern-physics]
+\Include[old-quantum-theory]
+\Include[bks-theory]
+\Include[beverly-clock]
+\Include[bohr-sommerfeld-model]
+\Include[classical-unified-field-theories]
+\Include[clockwork-universe]
+\Include[codex-on-the-flight-of-birds]
+\Include[deutsche-physik]
+\Include[fresnel-rhomb]
+\Include[golden-age-of-cosmology]
+\Include[golden-age-of-physics]
+\Include[history-of-solar-system-formation-and-evolution-hypotheses]
+\Include[history-of-classical-mechanics]
+\Include[history-of-electromagnetic-theory]
+\Include[history-of-fluid-mechanics]
+\Include[history-of-gravitational-theory]
+\Include[history-of-materials-science]
+\Include[history-of-nuclear-fusion]
+\Include[history-of-quantum-mechanics]
+\Include[history-of-string-theory]
+\Include[history-of-subatomic-physics]
+\Include[history-of-superconductivity]
+\Include[history-of-the-battery]
+\Include[history-of-the-periodic-table]
+\Include[hyperradiant-fresnel-lens]
+\Include[j-psi-meson]
+\Include[koenig-s-manometric-flame-apparatus]
+\Include[los-alamos-primer]
+\Include[matthias-rules]
+\Include[milan-school-of-physics]
+\Include[moseley-s-law]
+\Include[oxford-calculators]
+\Include[oxford-electric-bell]
+\Include[physics-in-the-medieval-islamic-world]
+\Include[physics-outreach]
+\Include[quaestiones-quaedam-philosophicae]
+\Include[relativity-of-simultaneity]
+\Include[ritz-ballistic-theory]
+\Include[rydberg-formula]
+\Include[speed-of-gravity]
+\Include[spherical-wave-transformation]
+\Include[sticky-bead-argument]
+\Include[teleparallelism]
+\Include[teylers-instrument-room]
+\Include[the-internet-pilot-to-physics]
+\Include[timeline-of-chemical-element-discoveries]
+\Include[tonograph]
+\Include[transfermium-wars]
+\Include[united-states-gravity-control-propulsion-research]
+\Include[woodstock-of-physics]
+
+= Physics awards
+{parent=Physics in society}
+{wiki=Category:Physics_awards}
+
+\Include[awards-of-optica-society]
+\Include[awards-of-the-acoustical-society-of-america]
+\Include[awards-of-the-european-physical-society]
+\Include[condensed-matter-physics-awards]
+\Include[crystallography-awards]
+\Include[laser-awards-and-associations]
+\Include[copley-medal]
+\Include[matteucci-medal]
+\Include[nobel-prize-in-physics]
+\Include[a-b-wood-medal]
+\Include[alfredo-di-braccio-award]
+\Include[arctowski-medal]
+\Include[aryabhata-award]
+\Include[batchelor-prize]
+\Include[bogolyubov-prize-for-young-scientists]
+\Include[breakthrough-prize-in-fundamental-physics]
+\Include[bruno-pontecorvo-prize]
+\Include[buchalter-cosmology-prize]
+\Include[cap-crm-prize-in-theoretical-and-mathematical-physics]
+\Include[clifford-paterson-medal-and-prize]
+\Include[comstock-prize-in-physics]
+\Include[dirac-medal]
+\Include[eddington-medal]
+\Include[edison-volta-prize]
+\Include[edward-teller-award]
+\Include[enrico-fermi-prize]
+\Include[eugene-feenberg-memorial-medal]
+\Include[first-step-to-nobel-prize-in-physics]
+\Include[fred-hoyle-medal-and-prize]
+\Include[friedmann-prize]
+\Include[gregori-aminoff-prize]
+\Include[gribov-medal]
+\Include[gunther-laukien-prize]
+\Include[h-c-orsted-medal]
+\Include[haitinger-prize]
+\Include[harold-brown-award]
+\Include[heinz-maier-leibnitz-preis]
+\Include[high-energy-and-particle-physics-prize]
+\Include[hughes-medal]
+\Include[i-i-rabi-award]
+\Include[ieee-heinrich-hertz-medal]
+\Include[institute-of-physics-isaac-newton-medal]
+\Include[international-dennis-gabor-award]
+\Include[j-robert-oppenheimer-memorial-prize]
+\Include[james-joule-medal-and-prize]
+\Include[john-price-wetherill-medal]
+\Include[john-stewart-bell-prize]
+\Include[kamerlingh-onnes-prize]
+\Include[karl-scheel-prize]
+\Include[klopsteg-memorial-award]
+\Include[klung-wilhelmy-science-award]
+\Include[landau-gold-medal]
+\Include[lieben-prize]
+\Include[list-of-fritz-london-memorial-prizes]
+\Include[list-of-physics-awards]
+\Include[louis-neel-medal]
+\Include[ludwig-boltzmann-prize]
+\Include[luigi-g-napolitano-award]
+\Include[marian-smoluchowski-medal]
+\Include[medard-w-welch-award]
+\Include[micius-quantum-prize]
+\Include[niels-bohr-institute]
+\Include[niels-bohr-international-gold-medal]
+\Include[nishina-memorial-prize]
+\Include[om-prakash-bhasin-award]
+\Include[pawsey-medal]
+\Include[peter-mark-memorial-award]
+\Include[pomeranchuk-prize]
+\Include[premio-presidente-della-repubblica-prize]
+\Include[president-s-medal-of-the-iop]
+\Include[prix-felix-robin]
+\Include[prix-jean-ricard]
+\Include[prix-paul-langevin]
+\Include[r-w-b-stephens-medal]
+\Include[rayleigh-medal]
+\Include[richtmyer-memorial-award]
+\Include[rolf-wideroe-prize]
+\Include[rumford-prize]
+\Include[russell-varian-prize]
+\Include[rutherford-memorial-medal]
+\Include[sackler-prize]
+\Include[stern-gerlach-medal]
+\Include[three-physicists-prize]
+\Include[tomassoni-awards]
+\Include[tyndall-medal]
+\Include[unesco-niels-bohr-medal]
+\Include[vasvik-industrial-research-award]
+\Include[volta-prize]
+\Include[walter-boas-medal]
+\Include[wolf-prize-in-physics]
+
+= Physics events
+{parent=Physics in society}
+{wiki=Category:Physics_events}
+
+\Include[physics-competitions]
+\Include[physics-conferences]
+\Include[david-adler-lectureship-award-in-the-field-of-materials-physics]
+\Include[ernest-kempton-adams-lectures]
+\Include[leo-szilard-lectureship-award]
+\Include[lise-meitner-distinguished-lecture]
+\Include[oskar-klein-memorial-lecture]
+
+= Physics organizations
+{parent=Physics in society}
+{wiki=Category:Physics_organizations}
+
+\Include[crystallography-organizations]
+\Include[geophysics-organizations]
+\Include[medical-physics-organizations]
+\Include[physics-departments]
+\Include[physics-laboratories]
+\Include[physics-organization-stubs]
+\Include[physics-research-institutes]
+\Include[physics-societies]
+\Include[health-physics-society]
+\Include[arc-centre-of-excellence-in-future-low-energy-electronics-technologies]
+\Include[american-vacuum-society]
+\Include[aspera-european-astroparticle-network]
+\Include[cesra]
+\Include[centre-for-materials-elaboration-and-structural-studies]
+\Include[european-solar-physics-division]
+\Include[fazia]
+\Include[foundational-questions-institute]
+\Include[gravitational-wave-international-committee]
+\Include[high-energy-physics-advisory-panel]
+\Include[iupac-iupap-joint-working-party]
+\Include[indian-physical-society]
+\Include[institute-of-nuclear-physics-of-the-polish-academy-of-sciences]
+\Include[institute-of-optics-and-electronics]
+\Include[international-association-of-physics-students]
+\Include[international-union-of-pure-and-applied-physics]
+\Include[italian-physical-society]
+\Include[japan-society-of-applied-physics]
+\Include[malaysian-physics-institute]
+\Include[mediterranean-institute-of-fundamental-physics]
+\Include[midwestern-universities-research-association]
+\Include[moore-center-for-theoretical-cosmology-and-physics]
+\Include[national-society-of-black-physicists]
+\Include[national-society-of-hispanic-physicists]
+\Include[northwest-nuclear-consortium]
+\Include[particle-physics-project-prioritization-panel]
+\Include[physical-society-of-japan]
+\Include[physics-galaxy]
+\Include[physics-instructional-resource-association]
+\Include[potsdam-denkschrift]
+\Include[solar-physics-division]
+\Include[spanish-royal-physics-society]
+\Include[sponsoring-consortium-for-open-access-publishing-in-particle-physics]
+\Include[swiss-physical-society]
+\Include[zhejiang-institute-of-modern-physics]
+
+= Physics stubs
+{parent=Physics}
+{wiki=Category:Physics_stubs}
+
+= Astrophysics stubs
+{parent=Physics stubs}
+{wiki=Category:Astrophysics_stubs}
+
+\Include[physical-cosmology-stubs]
+\Include[g-cloud]
+\Include[n-p-reaction]
+\Include[auriga]
+\Include[alfven-resonator]
+\Include[angular-momentum-problem]
+\Include[anomalous-oxygen]
+\Include[astrobiophysics]
+\Include[atmospheric-dynamo]
+\Include[bi-scalar-tensor-vector-gravity]
+\Include[biermann-battery]
+\Include[ceers-1019-black-hole]
+\Include[class-b1359-plus-154]
+\Include[champagne-flow-model]
+\Include[chang-refsdal-lens]
+\Include[chondritic-uniform-reservoir]
+\Include[clumping-factor]
+\Include[coherent-electromagnetic-radio-tomography]
+\Include[commensurability-astronomy]
+\Include[compton-telescope]
+\Include[dissociative-recombination]
+\Include[dynamic-ionosphere-cubesat-experiment]
+\Include[dynamical-lifetime]
+\Include[electrojet]
+\Include[equatorial-plasma-bubble]
+\Include[field-aligned-irregularity]
+\Include[frequency-separation]
+\Include[gaisser-hillas-function]
+\Include[gluon-condensate]
+\Include[grupo-de-astronomia-y-ciencias-del-espacio]
+\Include[infrared-cirrus]
+\Include[ionospheric-occultation-experiment]
+\Include[ionospheric-absorption]
+\Include[jaffe-profile]
+\Include[jodrell-bank-centre-for-astrophysics]
+\Include[leon-b-lucy]
+\Include[libration-point-orbit]
+\Include[local-leo-cold-cloud]
+\Include[lyman-werner-photons]
+\Include[m82-x-1]
+\Include[magnetic-mirror-point]
+\Include[magnetogravity-wave]
+\Include[magnetosheath]
+\Include[munin-satellite]
+\Include[nonmetal-astrophysics]
+\Include[nucleocosmochronology]
+\Include[orbiting-body]
+\Include[perpendicular-paramagnetic-bond]
+\Include[photo-meson]
+\Include[photodissociation-region]
+\Include[plasma-sheet]
+\Include[polarization-scrambling]
+\Include[pre-stellar-core]
+\Include[protonosphere]
+\Include[qso-b0839-plus-187]
+\Include[s4-index]
+\Include[schwarzschild-criterion]
+\Include[shock-waves-in-astrophysics]
+\Include[spacequake]
+\Include[standards-of-fundamental-astronomy]
+\Include[stumpff-function]
+\Include[swift-j1745-26]
+\Include[trace-computer-program]
+\Include[thermal-time-scale]
+\Include[tiny-ionospheric-photometer]
+\Include[transfer-orbit]
+\Include[true-longitude]
+\Include[virgocentric-flow]
+\Include[water-hole-radio]
+\Include[x-factor-astrophysics]
+
+= Atomic, molecular, and optical physics stubs
+{parent=Physics stubs}
+{wiki=Category:Atomic,_molecular,_and_optical_physics_stubs}
+
+\Include[molecular-physics-stubs]
+\Include[optics-stubs]
+\Include[quantum-chemistry-stubs]
+\Include[andersen-thermostat]
+\Include[appearance-energy]
+\Include[atom-optics]
+\Include[atomic-coherence]
+\Include[atomic-fountain]
+\Include[autoionization]
+\Include[berendsen-thermostat]
+\Include[coster-kronig-transition]
+\Include[cotton-effect]
+\Include[directional-freezing]
+\Include[even-even-nucleus]
+\Include[fixed-orbit]
+\Include[galvanoluminescence]
+\Include[hollow-cathode-effect]
+\Include[independent-electron-approximation]
+\Include[laser-snow]
+\Include[lyman-limit]
+\Include[manipulation-of-atoms-by-optical-field]
+\Include[microscopic-theory]
+\Include[phosphoroscope]
+\Include[prompt-gamma-neutron-activation-analysis]
+\Include[radiative-auger-effect]
+\Include[recoil-temperature]
+\Include[rydberg-klein-rees-method]
+\Include[wet-electrons]
+\Include[wigner-seitz-radius]
+
+= Biophysics stubs
+{parent=Physics stubs}
+{wiki=Category:Biophysics_stubs}
+
+\Include[nuclear-magnetic-resonance-stubs]
+\Include[bioelectrochemistry]
+\Include[alexander-hollaender-award-in-biophysics]
+\Include[basics-of-white-flower-colouration]
+\Include[biochemical-and-biophysical-research-communications]
+\Include[bioelectrochemistry-journal]
+\Include[bioelectromagnetics-journal]
+\Include[biophysical-journal]
+\Include[biophysical-reviews-and-letters]
+\Include[biopolymers-journal]
+\Include[cell-biophysics]
+\Include[clinical-biophysics]
+\Include[comparator-system]
+\Include[conformon]
+\Include[electrorotation]
+\Include[emily-m-gray-award]
+\Include[european-biophysics-journal]
+\Include[european-physical-journal-e]
+\Include[fiber-network-mechanics]
+\Include[flory-convention]
+\Include[frascati-tokamak-upgrade]
+\Include[grand-prix-charles-leopold-mayer]
+\Include[hnca-experiment]
+\Include[hncoca-experiment]
+\Include[hexagonal-phase]
+\Include[hitpredict]
+\Include[hosaka-cohen-transformation]
+\Include[immunocomputing]
+\Include[journal-of-electrical-bioimpedance]
+\Include[lamellar-phase]
+\Include[mrc-file-format]
+\Include[margaret-oakley-dayhoff-award]
+\Include[mccutcheon-index]
+\Include[micro-incineration]
+\Include[physical-biology]
+\Include[physics-of-life-reviews]
+\Include[physiome]
+\Include[protomer]
+\Include[quarterly-reviews-of-biophysics]
+\Include[radiation-and-environmental-biophysics]
+\Include[regtransbase]
+\Include[shiftcor]
+\Include[slow-afterhyperpolarization]
+\Include[tcof-db]
+\Include[transduction-biophysics]
+\Include[virophysics]
+
+= Classical mechanics stubs
+{parent=Physics stubs}
+{wiki=Category:Classical_mechanics_stubs}
+
+\Include[acoustics-stubs]
+\Include[fluid-dynamics-stubs]
+\Include[adiabatic-shear-band]
+\Include[air-track]
+\Include[ballistic-limit]
+\Include[bimoment]
+\Include[birch-murnaghan-equation-of-state]
+\Include[boundary-friction]
+\Include[capacitor-spring-analogy]
+\Include[centrode]
+\Include[configurational-mechanics]
+\Include[constraint-classical-mechanics]
+\Include[convective-momentum-transport]
+\Include[cremona-diagram]
+\Include[crystal-plasticity]
+\Include[cylindrical-joint]
+\Include[diametral-compression-test]
+\Include[dynamic-balance]
+\Include[dynamics-of-markovian-particles]
+\Include[elastica-theory]
+\Include[euler-force]
+\Include[feynman-s-lost-lecture]
+\Include[front-velocity]
+\Include[galileo-s-law-of-odd-numbers]
+\Include[geomechanics]
+\Include[hannay-angle]
+\Include[helmholtz-theorem-classical-mechanics]
+\Include[herpolhode]
+\Include[hot-hardness]
+\Include[impact-parameter]
+\Include[inertial-balance]
+\Include[johnsen-rahbek-effect]
+\Include[lateral-strain]
+\Include[line-of-thrust]
+\Include[mechanical-similarity]
+\Include[membrane-theory-of-shells]
+\Include[n-body-choreography]
+\Include[natural-frequency]
+\Include[phase-shift-torque-measurement]
+\Include[piola-transformation]
+\Include[prismatic-joint]
+\Include[pure-shear]
+\Include[quasistatic-loading]
+\Include[relative-viscosity]
+\Include[residual-strength]
+\Include[retardation-time]
+\Include[revolute-joint]
+\Include[screw-joint]
+\Include[signal-velocity]
+\Include[slip-vehicle-dynamics]
+\Include[slipperiness]
+\Include[supersonic-fracture]
+\Include[time-domain-electromagnetics]
+\Include[x-wave]
+\Include[yaw-rate-sensor]
+
+= Condensed matter stubs
+{parent=Physics stubs}
+{wiki=Category:Condensed_matter_stubs}
+
+\Include[quantum-phases]
+\Include[a-center]
+\Include[abinit]
+\Include[acceptor-semiconductors]
+\Include[alpha-factor]
+\Include[aluminium-gallium-phosphide]
+\Include[anderson-orthogonality-theorem]
+\Include[barnett-effect]
+\Include[bilayer]
+\Include[bogoliubov-quasiparticle]
+\Include[cavity-method]
+\Include[colloid-vibration-current]
+\Include[confined-liquid]
+\Include[diffuson]
+\Include[dynamic-electrophoretic-mobility]
+\Include[ecs-journal-of-solid-state-science-and-technology]
+\Include[ecs-solid-state-letters]
+\Include[eon]
+\Include[exc-code]
+\Include[electron-hole-droplets]
+\Include[fermi-arc]
+\Include[fluctuation-electron-microscopy]
+\Include[gallium-arsenide-phosphide]
+\Include[gallium-indium-arsenide-antimonide-phosphide]
+\Include[gardner-transition]
+\Include[gas-immersion-laser-doping]
+\Include[gough-joule-effect]
+\Include[helical-dirac-fermion]
+\Include[indium-arsenide-antimonide-phosphide]
+\Include[indium-gallium-arsenide-phosphide]
+\Include[indium-gallium-phosphide]
+\Include[institut-neel]
+\Include[ishimori-equation]
+\Include[island-growth]
+\Include[isotropic-solid]
+\Include[kadowaki-woods-ratio]
+\Include[kubo-gap]
+\Include[kugel-khomskii-coupling]
+\Include[lambda-point-refrigerator]
+\Include[lanthanum-barium-copper-oxide]
+\Include[lockin-effect]
+\Include[magnetic-impurity]
+\Include[microviscosity]
+\Include[model-solid-approximation]
+\Include[narrow-gap-semiconductor]
+\Include[numerical-renormalization-group]
+\Include[orientational-glass]
+\Include[pearl-vortex]
+\Include[pendellosung]
+\Include[phason]
+\Include[phonon-drag]
+\Include[photoinduced-phase-transitions]
+\Include[photoionisation-cross-section]
+\Include[plastic-magnet]
+\Include[plumber-s-nightmare]
+\Include[polymeric-liquid-crystal]
+\Include[rehbinder-effect]
+\Include[ridley-watkins-hilsum-theory]
+\Include[ronchigram]
+\Include[shallow-donor]
+\Include[slater-pauling-rule]
+\Include[slave-boson]
+\Include[strong-confinement-limit]
+\Include[superprism]
+\Include[surface-magnon-polariton]
+\Include[thermal-effective-mass]
+\Include[thouless-energy]
+\Include[tricritical-point]
+\Include[universal-conductance-fluctuations]
+\Include[wideband-materials]
+\Include[wilson-ratio]
+
+= Electromagnetism stubs
+{parent=Physics stubs}
+{wiki=Category:Electromagnetism_stubs}
+
+\Include[electricity-stubs]
+\Include[electrochemistry-stubs]
+\Include[alternate-phase-return-to-zero]
+\Include[axilrod-teller-potential]
+\Include[bridgman-effect]
+\Include[camelback-potential]
+\Include[cherenkov-luminescence-imaging]
+\Include[corotation-electric-field]
+\Include[crab-cavity]
+\Include[cryoelectronics]
+\Include[disturbance-storm-time-index]
+\Include[eddy-current-sensor]
+\Include[einstein-unit]
+\Include[electrodynamic-wheel]
+\Include[electromagnetic-buoyancy]
+\Include[electromagnetic-cavity]
+\Include[electron-magnetic-resonance]
+\Include[faraday-balance]
+\Include[garshelis-effect]
+\Include[guillemin-effect]
+\Include[isopotential-map]
+\Include[jar-unit]
+\Include[ka-band]
+\Include[karlqvist-gap]
+\Include[magnet-keeper]
+\Include[magnetic-dipole-transition]
+\Include[magnetic-energy]
+\Include[magnetic-field-viewing-film]
+\Include[meteosat-visible-and-infrared-imager]
+\Include[nanomagnet]
+\Include[nanostrain]
+\Include[perfect-conductor]
+\Include[permeameter]
+\Include[rating-electrical]
+\Include[rectilinear-propagation]
+\Include[rowland-ring]
+\Include[simion]
+\Include[semifluxon]
+\Include[supercurrent]
+\Include[tropospheric-wave]
+\Include[ultrafast-monochromator]
+\Include[uranium-ditelluride]
+\Include[vnir]
+\Include[werthamer-helfand-hohenberg-theory]
+\Include[wet-leakage-current-test]
+\Include[wien-filter]
+\Include[zenneck-wave]
+
+= Geophysics stubs
+{parent=Physics stubs}
+{wiki=Category:Geophysics_stubs}
+
+\Include[seismology-stubs]
+\Include[anacoustic-zone]
+\Include[biogeophysics]
+\Include[black-forest-observatory]
+\Include[boletin-de-geologia]
+\Include[brunhes-matuyama-reversal]
+\Include[byerlee-s-law]
+\Include[carboneras-fault]
+\Include[center-of-research-in-astronomy-astrophysics-and-geophysics]
+\Include[compression-geology]
+\Include[conrad-discontinuity]
+\Include[curie-depth]
+\Include[fairfield-geotechnologies]
+\Include[fraser-filter]
+\Include[gardner-s-relation]
+\Include[geofisica-internacional]
+\Include[geosphere]
+\Include[induced-polarization]
+\Include[international-bathymetric-chart-of-the-southern-ocean]
+\Include[international-federation-of-digital-seismograph-networks]
+\Include[international-geomagnetic-reference-field]
+\Include[kirklington-hall-research-station]
+\Include[kiyoo-wadati]
+\Include[lawrence-morley]
+\Include[lithospheric-drip]
+\Include[mass-distribution]
+\Include[miyake-event]
+\Include[mudrock-line]
+\Include[national-geomagnetism-program]
+\Include[osmond-fisher]
+\Include[overburden-pressure]
+\Include[pager]
+\Include[polar-drift]
+\Include[polflucht]
+\Include[pure-and-applied-geophysics]
+\Include[quake-catcher-network]
+\Include[roi-pac]
+\Include[radexpro-seismic-software]
+\Include[radiocarbon-journal]
+\Include[refraction-microtremor]
+\Include[ring-current]
+\Include[robert-norman]
+\Include[rossby-parameter]
+\Include[seg-y]
+\Include[seismic-vibrator]
+\Include[seismicity]
+\Include[seismogenic-layer]
+\Include[shakemap]
+\Include[spectral-induced-polarisation]
+\Include[stanislav-i-braginsky]
+\Include[strainmeter]
+\Include[surveys-in-geophysics]
+\Include[telegeodynamics]
+\Include[turam-method]
+\Include[upward-continuation]
+\Include[world-magnetic-model]
+
+= Materials science stubs
+{parent=Physics stubs}
+{wiki=Category:Materials_science_stubs}
+
+\Include[materials-science-journal-stubs]
+\Include[nanotechnology-stubs]
+\Include[2d-silica]
+\Include[almen-strip]
+\Include[amorphism]
+\Include[asbestiform]
+\Include[ashoverite]
+\Include[asperity-materials-science]
+\Include[axial-ratio]
+\Include[bauschinger-effect]
+\Include[boriding]
+\Include[bridgman-stockbarger-method]
+\Include[caesium-cadmium-bromide]
+\Include[characteristic-energy-length-scale]
+\Include[chirotechnology]
+\Include[cholesteric-liquid-crystal]
+\Include[compression-set]
+\Include[compressive-stress]
+\Include[congruent-melting]
+\Include[converting-metallurgy]
+\Include[crystal-field-excitation]
+\Include[crystallography-reviews]
+\Include[dielectric-thermal-analysis]
+\Include[direct-methods-crystallography]
+\Include[dispersion-materials-science]
+\Include[drawing-tower]
+\Include[dry-etching]
+\Include[effective-diffusion-coefficient]
+\Include[electro-sinter-forging]
+\Include[equiaxed-crystal]
+\Include[felicity-effect]
+\Include[flash-protection]
+\Include[fractional-crystallization-chemistry]
+\Include[friability]
+\Include[geometric-dynamic-recrystallization]
+\Include[gilchrist-thomas-process]
+\Include[glass-filled-polymer]
+\Include[gordon-e-moore-medal-for-outstanding-achievement-in-solid-state-science-and-technology]
+\Include[halpin-tsai-model]
+\Include[hardmask]
+\Include[holmium-magnesium-zinc-quasicrystal]
+\Include[homeotropic-alignment]
+\Include[incipient-wetness-impregnation]
+\Include[inorganic-crystal-structure-database]
+\Include[ionic-crystal]
+\Include[iron-tetraboride]
+\Include[john-david-hunt]
+\Include[johnson-s-figure-of-merit]
+\Include[journal-of-chemical-crystallography]
+\Include[kapustinskii-equation]
+\Include[keatite]
+\Include[knudsen-cell]
+\Include[lamella-materials]
+\Include[lely-method]
+\Include[list-of-fire-retardant-materials]
+\Include[lixiviant]
+\Include[mof-5]
+\Include[macropore]
+\Include[materials-project]
+\Include[matte-metallurgy]
+\Include[mesoporous-silicate]
+\Include[metal-inorganic-framework]
+\Include[micropipe]
+\Include[microporous-material]
+\Include[mirror-furnace]
+\Include[moldable-wood]
+\Include[nott-202]
+\Include[nacrite]
+\Include[native-state-metallurgy]
+\Include[oligocrystalline-material]
+\Include[ptfe-fiber]
+\Include[photomechanical-effect]
+\Include[plasma-ashing]
+\Include[poling-metallurgy]
+\Include[polysome-crystallography]
+\Include[porosimetry]
+\Include[preferential-alignment]
+\Include[prill]
+\Include[protocrystalline]
+\Include[refraction-metallurgy]
+\Include[remote-plasma]
+\Include[scratch-drive-actuator]
+\Include[scratch-hardness]
+\Include[seed-crystal]
+\Include[silicalite]
+\Include[spin-echo-small-angle-neutron-scattering]
+\Include[tammann-commemorative-medal]
+\Include[tear-resistance]
+\Include[tin-cry]
+\Include[touchstone-assaying-tool]
+\Include[vacuum-metallurgy]
+\Include[wax-emulsion]
+\Include[zeolite-facies]
+
+= Nuclear and atomic physics stubs
+{parent=Physics stubs}
+{wiki=Category:Nuclear_and_atomic_physics_stubs}
+
+\Include[isotope-stubs]
+\Include[nuclear-chemistry-stubs]
+\Include[nuclear-technology-stubs]
+\Include[nuclear-topic-book-stubs]
+\Include[armf-i]
+\Include[absorption-hardening]
+\Include[activation-product]
+\Include[argonne-fast-source-reactor]
+\Include[association-of-los-alamos-scientists]
+\Include[atomic-data-and-nuclear-data-tables]
+\Include[atomic-homefront]
+\Include[atomic-spacing]
+\Include[bethe-feynman-formula]
+\Include[boron-aluminum-titanium-hydride]
+\Include[branching-fraction]
+\Include[central-interstate-low-level-radioactive-waste-compact]
+\Include[charged-particle-equilibrium]
+\Include[chernobylite]
+\Include[closure-temperature]
+\Include[continuous-slowing-down-approximation-range]
+\Include[cooperative-luminescence-and-cooperative-absorption]
+\Include[coulomb-excitation]
+\Include[criticality-status]
+\Include[cumulative-dose]
+\Include[decay-product]
+\Include[defence-nuclear-material]
+\Include[delayed-nuclear-radiation]
+\Include[european-physical-journal-a]
+\Include[excitation-function]
+\Include[exoelectron-emission]
+\Include[features-events-and-processes]
+\Include[fermi-motion]
+\Include[fission-product-pilot-plant]
+\Include[franco-british-nuclear-forum]
+\Include[fuel-element-failure]
+\Include[fuel-fleas]
+\Include[gamma-counter]
+\Include[genetic-significant-dose]
+\Include[giant-resonance]
+\Include[godwin-laboratory-university-of-cambridge]
+\Include[gummed-film]
+\Include[high-flux-reactor]
+\Include[hyperdeformation]
+\Include[hypertriton]
+\Include[interacting-boson-model]
+\Include[international-nuclear-information-system]
+\Include[ionium-thorium-dating]
+\Include[island-of-inversion]
+\Include[isotopes-in-medicine]
+\Include[journal-of-environmental-radioactivity]
+\Include[kaonium]
+\Include[lithium-atom]
+\Include[lucas-cell]
+\Include[moata]
+\Include[magneto-inertial-fusion]
+\Include[major-actinide]
+\Include[mattauch-isobar-rule]
+\Include[median-aerodynamic-diameter]
+\Include[mixed-waste-radioactive-hazardous]
+\Include[multichannel-analyzer]
+\Include[negative-ion-products]
+\Include[neutron-economy]
+\Include[neutron-embrittlement]
+\Include[neutron-irradiation-damage]
+\Include[neutron-probe]
+\Include[neutron-proton-ratio]
+\Include[non-proliferation-trust]
+\Include[nuclear-instruments-and-methods-in-physics-research]
+\Include[nuclear-physics-journal]
+\Include[nuclear-physics-and-atomic-energy-journal]
+\Include[nuclear-science-and-techniques]
+\Include[nuclear-collision-length]
+\Include[nuclear-interaction-length]
+\Include[nuclear-shaped-charge]
+\Include[nuclear-transparency]
+\Include[nucleon-pair-breaking-in-fission]
+\Include[nukleonik]
+\Include[operation-groundhog]
+\Include[orphan-source]
+\Include[proton-capture]
+\Include[pulse-height-analyzer]
+\Include[ra-1-enrico-fermi]
+\Include[radioactive-substances-act-1993]
+\Include[radioactivity-fixatives]
+\Include[radiological-response-and-emergency-management-system]
+\Include[rainout]
+\Include[reaktor-serba-guna-g-a-siwabessy]
+\Include[red-oil]
+\Include[resonance-escape-probability]
+\Include[slac-bag-model]
+\Include[scientists-against-nuclear-arms]
+\Include[scientists-for-global-responsibility]
+\Include[seed-nucleus]
+\Include[sievert-chamber]
+\Include[spin-destruction-collision]
+\Include[superdeformation]
+\Include[supervising-scientist]
+\Include[swedish-radiation-safety-authority]
+\Include[symmetry-energy]
+\Include[tokamak-de-fontenay-aux-roses]
+\Include[toroidal-fusion-core-experiment]
+\Include[total-effective-dose-equivalent]
+\Include[trace-radioisotope]
+\Include[transient-equilibrium]
+\Include[transuranic-waste]
+\Include[uranium-medical-research-centre]
+\Include[uranium-tailings]
+\Include[widom-larsen-theory]
+\Include[woods-saxon-potential]
+\Include[rez]
+
+= Particle physics stubs
+{parent=Physics stubs}
+{wiki=Category:Particle_physics_stubs}
+
+\Include[accelerator-physics-stubs]
+\Include[onium]
+\Include[adone]
+\Include[aida-computing]
+\Include[arc-ecris]
+\Include[absorber]
+\Include[artificial-disintegration]
+\Include[attenuation-length]
+\Include[available-energy-particle-collision]
+\Include[beam-crossing]
+\Include[beetle-asic]
+\Include[birks-law]
+\Include[bottom-eta-meson]
+\Include[brown-rho-scaling]
+\Include[centro-nacional-de-aceleradores]
+\Include[cold-atom-laboratory]
+\Include[comphep]
+\Include[composite-boson]
+\Include[constituent-quark]
+\Include[current-quark]
+\Include[dglap-evolution-equations]
+\Include[d-meson]
+\Include[deconfinement]
+\Include[dijet-event]
+\Include[direct-photon]
+\Include[double-charm-tetraquark]
+\Include[event-reconstruction]
+\Include[event-shape-observables]
+\Include[fragmentation-function]
+\Include[froissart-bound]
+\Include[hepnet]
+\Include[hard-hadronic-reaction]
+\Include[hastatic-order]
+\Include[heavy-baryon-chiral-perturbation-theory]
+\Include[heavy-quark-effective-theory]
+\Include[heptaquark]
+\Include[hodoscope]
+\Include[hypercolor-physics]
+\Include[ionometer]
+\Include[isoscalar]
+\Include[isospin-multiplet]
+\Include[isovector]
+\Include[java-analysis-studio]
+\Include[jet-quenching]
+\Include[kaonic-hydrogen]
+\Include[landau-pomeranchuk-migdal-effect]
+\Include[linear-induction-accelerator]
+\Include[liquid-scintillator-neutrino-detector]
+\Include[little-hierarchy-problem]
+\Include[lund-string-model]
+\Include[magnetic-chicane]
+\Include[massive-particle]
+\Include[mesonic-molecule]
+\Include[missing-energy]
+\Include[mixing-angle]
+\Include[moliere-radius]
+\Include[muon-capture]
+\Include[muonium]
+\Include[moller-scattering]
+\Include[neutral-particle]
+\Include[neutron-supermirror]
+\Include[nuclearite]
+\Include[ozi-rule]
+\Include[omega-meson]
+\Include[onset-of-deconfinement]
+\Include[openscientist]
+\Include[pythia]
+\Include[particle-zoo]
+\Include[photoinduced-charge-separation]
+\Include[photon-factory]
+\Include[pion-decay-constant]
+\Include[primakoff-effect]
+\Include[pseudoscalar-meson]
+\Include[pseudovector-meson]
+\Include[qcd-sum-rules]
+\Include[quantum-hadrodynamics]
+\Include[radiation-length]
+\Include[radiative-process]
+\Include[range-particle-radiation]
+\Include[reactor-experiment-for-neutrino-oscillation]
+\Include[relic-abundance]
+\Include[resonance-particle-physics]
+\Include[soleil]
+\Include[scherk-schwarz-mechanism]
+\Include[shashlik-physics]
+\Include[singapore-synchrotron-light-source]
+\Include[sirius-synchrotron-light-source]
+\Include[soft-collinear-effective-theory]
+\Include[spherical-neutron-polarimetry]
+\Include[stop-squark]
+\Include[strange-particle]
+\Include[straw-chamber]
+\Include[strong-gravity]
+\Include[subatomic-scale]
+\Include[supersplit-supersymmetry]
+\Include[t-meson]
+\Include[theta-meson]
+\Include[threshold-energy]
+\Include[thrust-particle-physics]
+\Include[time-of-flight-detector]
+\Include[track-imaging-cherenkov-experiment]
+\Include[track-significance]
+\Include[tracking-particle-physics]
+\Include[transition-radiation-detector]
+\Include[transverse-mass]
+\Include[trigger-particle-physics]
+\Include[true-muonium]
+\Include[truly-neutral-particle]
+\Include[upsilon-meson]
+\Include[v-particle]
+\Include[vector-meson]
+\Include[virgin-neutron]
+\Include[x-3872]
+\Include[y-4140]
+\Include[y-4260]
+\Include[z-4430]
+\Include[xi-cc-plus-plus]
+
+= Physical chemistry stubs
+{parent=Physics stubs}
+{wiki=Category:Physical_chemistry_stubs}
+
+\Include[aces-computational-chemistry]
+\Include[accepted-and-experimental-value]
+\Include[adparticle]
+\Include[aggregation-number]
+\Include[alkali-metal-nitrate]
+\Include[allomerism]
+\Include[alloy-broadening]
+\Include[atomic-ratio]
+\Include[balliol-trinity-laboratories]
+\Include[basis-set-superposition-error]
+\Include[brillouin-s-theorem]
+\Include[bronzing]
+\Include[columbus]
+\Include[cavitation-elastomers]
+\Include[chemphyschem]
+\Include[coalescence-chemistry]
+\Include[cold-filter-plugging-point]
+\Include[cole-equation-of-state]
+\Include[color-reaction]
+\Include[combustion-explosion-and-shock-waves]
+\Include[coomber-s-relationship]
+\Include[copper-coulometer]
+\Include[counterion-condensation]
+\Include[crystalloluminescence]
+\Include[current-opinion-in-colloid-and-interface-science]
+\Include[diphoterine]
+\Include[empirical-valence-bond]
+\Include[expansion-ratio]
+\Include[gas-phase-electrophoretic-molecular-mobility-analysis]
+\Include[grote-hynes-theory]
+\Include[hamaker-theory]
+\Include[hot-atom]
+\Include[hydration-energy]
+\Include[ice-ii]
+\Include[ice-iii]
+\Include[ice-ix]
+\Include[ice-ic]
+\Include[ice-v]
+\Include[ice-vi]
+\Include[ice-viii]
+\Include[ice-x]
+\Include[ice-xii]
+\Include[ice-xv]
+\Include[ice-xvi]
+\Include[institute-of-physical-chemistry-of-the-polish-academy-of-sciences]
+\Include[intrinsic-low-dimensional-manifold]
+\Include[isotopocule]
+\Include[jones-dole-equation]
+\Include[journal-of-physical-organic-chemistry]
+\Include[journal-of-the-chemical-society-faraday-transactions]
+\Include[judd-ofelt-theory]
+\Include[knudsen-gas]
+\Include[krafft-temperature]
+\Include[ligand-isomerism]
+\Include[magnetic-isotope-effect]
+\Include[metal-ion-buffer]
+\Include[microsegregation]
+\Include[nonthermal-surface-reaction]
+\Include[perfect-mixing]
+\Include[photothermal-effect]
+\Include[plumbosolvency]
+\Include[potential-of-mean-force]
+\Include[quasi-solid]
+\Include[reaction-step]
+\Include[russian-journal-of-physical-chemistry-a]
+\Include[russian-journal-of-physical-chemistry-b]
+\Include[selective-adsorption]
+\Include[smoluchowski-factor]
+\Include[solvophobic]
+\Include[solvophoresis]
+\Include[steric-factor]
+\Include[the-journal-of-physical-chemistry-a]
+\Include[the-journal-of-physical-chemistry-b]
+\Include[the-journal-of-physical-chemistry-c]
+\Include[the-journal-of-physical-chemistry-letters]
+\Include[thomas-kurtzman]
+\Include[victor-meyer-apparatus]
+\Include[zeitschrift-fur-physikalische-chemie]
+
+= Physics book stubs
+{parent=Physics stubs}
+{wiki=Category:Physics_book_stubs}
+
+\Include[a-briefer-history-of-time-hawking-and-mlodinow-book]
+\Include[a-different-universe]
+\Include[an-elementary-treatise-on-electricity]
+\Include[beyond-einstein-book]
+\Include[biological-physics]
+\Include[cracking-the-particle-code-of-the-universe-the-hunt-for-the-higgs-boson]
+\Include[einstein-gravity-in-a-nutshell]
+\Include[einstein-wrote-back]
+\Include[electrons-and-holes-in-semiconductors-with-applications-to-transistor-electronics]
+\Include[entropy-a-new-world-view]
+\Include[fear-of-physics]
+\Include[forces-of-nature-book]
+\Include[fundamentals-of-physics]
+\Include[god-and-the-new-physics]
+\Include[helgoland-book]
+\Include[how-to-build-a-time-machine]
+\Include[human-universe-book]
+\Include[in-search-of-schrodinger-s-cat]
+\Include[inside-the-atom]
+\Include[instant-physics]
+\Include[lecture-notes-in-physics]
+\Include[molecular-spectra-and-molecular-structure-iv-constants-of-diatomic-molecules]
+\Include[my-brief-history]
+\Include[on-the-origin-of-time]
+\Include[on-the-shoulders-of-giants-book]
+\Include[parallel-worlds-book]
+\Include[principles-of-quantum-mechanics]
+\Include[quantum-man-richard-feynman-s-life-in-science]
+\Include[rp-photonics-encyclopedia]
+\Include[reality-is-not-what-it-seems]
+\Include[reinventing-gravity]
+\Include[relativity-the-special-and-the-general-theory]
+\Include[seven-brief-lessons-on-physics]
+\Include[the-character-of-physical-law]
+\Include[the-dreams-that-stuff-is-made-of]
+\Include[the-fifth-essence]
+\Include[the-laws-of-physics]
+\Include[the-order-of-time-book]
+\Include[the-physics-of-basketball]
+\Include[the-physics-of-superheroes]
+\Include[the-radiation-belt-and-magnetosphere]
+\Include[understanding-physics]
+\Include[university-physics]
+\Include[wholeness-and-the-implicate-order]
+\Include[wonders-of-life-book]
+\Include[wonders-of-the-solar-system-book]
+\Include[wonders-of-the-universe-book]
+
+= Physics journal stubs
+{parent=Physics stubs}
+{wiki=Category:Physics_journal_stubs}
+
+\Include[aip-advances]
+\Include[apl-photonics]
+\Include[acta-physica-polonica]
+\Include[advances-in-high-energy-physics]
+\Include[advances-in-physics]
+\Include[advances-in-space-research]
+\Include[annals-of-physics]
+\Include[applied-physics-express]
+\Include[applied-radiation-and-isotopes]
+\Include[australian-journal-of-physics]
+\Include[biorheology-journal]
+\Include[bulletin-of-the-lebedev-physics-institute]
+\Include[bulletin-of-the-russian-academy-of-sciences-physics]
+\Include[chinese-journal-of-physics]
+\Include[chinese-physics-c]
+\Include[communications-in-theoretical-physics]
+\Include[computer-physics-communications]
+\Include[diamond-and-related-materials]
+\Include[electronic-journal-of-theoretical-physics]
+\Include[european-physical-journal-b]
+\Include[european-physical-journal-c]
+\Include[fluid-dynamics-research]
+\Include[frontiers-of-physics]
+\Include[geophysical-and-astrophysical-fluid-dynamics]
+\Include[ieee-journal-of-quantum-electronics]
+\Include[ieee-journal-of-selected-topics-in-quantum-electronics]
+\Include[ieee-journal-of-solid-state-circuits]
+\Include[indian-journal-of-physics]
+\Include[infrared-physics-and-technology]
+\Include[iranian-journal-of-physics-research]
+\Include[japanese-journal-of-applied-physics]
+\Include[journal-of-applied-physics]
+\Include[journal-of-atmospheric-and-solar-terrestrial-physics]
+\Include[journal-of-computational-physics]
+\Include[journal-of-computational-and-nonlinear-dynamics]
+\Include[journal-of-electromagnetic-waves-and-applications]
+\Include[journal-of-experimental-and-theoretical-physics]
+\Include[journal-of-experiments-in-fluid-mechanics]
+\Include[journal-of-high-energy-physics]
+\Include[journal-of-luminescence]
+\Include[journal-of-materials-processing-technology]
+\Include[journal-of-nanophotonics]
+\Include[journal-of-near-infrared-spectroscopy]
+\Include[journal-of-renewable-and-sustainable-energy]
+\Include[living-reviews-journal-series]
+\Include[low-temperature-physics-journal]
+\Include[materials-science-and-engineering-a]
+\Include[materials-science-and-engineering-b]
+\Include[nature-reviews-physics]
+\Include[neuroquantology]
+\Include[nuovo-cimento]
+\Include[physical-review-applied]
+\Include[physical-review-x]
+\Include[physics-letters]
+\Include[physics-reports]
+\Include[physics-and-chemistry-of-glasses]
+\Include[physics-in-perspective]
+\Include[physics-of-metals-and-metallography]
+\Include[physikalische-zeitschrift]
+\Include[plasmonics-journal]
+\Include[proceedings-of-the-physical-society]
+\Include[progress-of-theoretical-and-experimental-physics]
+\Include[quanta-journal]
+\Include[quantum-journal]
+\Include[radiation-effects-and-defects-in-solids]
+\Include[radiation-measurements]
+\Include[research-letters-in-physics]
+\Include[review-of-scientific-instruments]
+\Include[reviews-of-modern-physics]
+\Include[space-weather]
+\Include[theoretical-and-mathematical-physics]
+\Include[wear-journal]
+\Include[zeitschrift-fur-physik]
+
+= Physics stub templates
+{parent=Physics stubs}
+{wiki=Category:Physics_stub_templates}
+
+= Plasma physics stubs
+{parent=Physics stubs}
+{wiki=Category:Plasma_physics_stubs}
+
+\Include[anisothermal-plasma]
+\Include[atmospheric-pressure-discharge]
+\Include[bernstein-greene-kruskal-modes]
+\Include[chromo-weibel-instability]
+\Include[compact-toroid]
+\Include[diocotron-instability]
+\Include[divertor]
+\Include[dreicer-field]
+\Include[drift-waves]
+\Include[ete-tokamak]
+\Include[electrodeless-plasma-excitation]
+\Include[electron-spiral-toroid]
+\Include[flux-loop]
+\Include[gas-focusing]
+\Include[glasser-effect]
+\Include[hl-2a]
+\Include[hl-2m]
+\Include[ht-7]
+\Include[high-confinement-mode]
+\Include[ion-cyclotron-resonance]
+\Include[janus-laser]
+\Include[kink-instability]
+\Include[lundquist-number]
+\Include[magnetic-diffusivity]
+\Include[magnetic-pressure]
+\Include[magnetic-topology]
+\Include[mirnov-oscillations]
+\Include[ohmic-plasma]
+\Include[pegasus-toroidal-experiment]
+\Include[penrose-criterion]
+\Include[plasma-powered-cannon]
+\Include[plasma-channel]
+\Include[plasma-confinement]
+\Include[plasma-diffusion]
+\Include[plasma-recombination]
+\Include[proto-sphera]
+\Include[relativistic-plasma]
+\Include[relativistic-similarity-parameter]
+\Include[resonant-magnetic-perturbations]
+\Include[resonator-mode]
+\Include[stellar-wind-bubble]
+\Include[surface-wave-sustained-discharge]
+\Include[taylor-state]
+\Include[upper-hybrid-oscillation]
+\Include[vacuum-arc]
+\Include[woltjer-s-theorem]
+\Include[zakharov-system]
+\Include[zonal-and-poloidal]
+\Include[zonal-flow-plasma]
+
+= Quantum physics stubs
+{parent=Physics stubs}
+{wiki=Category:Quantum_physics_stubs}
+
+\Include[adinkra-symbols-physics]
+\Include[back-action-quantum]
+\Include[bloch-spectrum]
+\Include[bogoliubov-causality-condition]
+\Include[bogomol-nyi-prasad-sommerfield-state]
+\Include[braid-statistics]
+\Include[ca-duality]
+\Include[cadpac]
+\Include[caloron]
+\Include[cascading-gauge-theory]
+\Include[cavity-switch]
+\Include[central-field-approximation]
+\Include[chiral-gauge-theory]
+\Include[close-coupling]
+\Include[composite-gravity]
+\Include[continuum-limit]
+\Include[d-term]
+\Include[dangerously-irrelevant-operator]
+\Include[dirac-cone]
+\Include[dirac-fermion]
+\Include[dirac-hole-theory]
+\Include[double-copy-theory]
+\Include[dual-superconductor-model]
+\Include[duru-kleinert-transformation]
+\Include[dynamical-reduction]
+\Include[extended-supersymmetry]
+\Include[f-term]
+\Include[frw-cft-duality]
+\Include[fayet-iliopoulos-d-term]
+\Include[gapped-hamiltonian]
+\Include[gauge-principle]
+\Include[gaugino-condensation]
+\Include[ginsparg-wilson-equation]
+\Include[global-anomaly]
+\Include[gravitational-anomaly]
+\Include[gravitational-decoherence]
+\Include[group-field-theory]
+\Include[heisenberg-langevin-equations]
+\Include[higgs-phase]
+\Include[ir-uv-mixing]
+\Include[instanton-fluid]
+\Include[kcbs-pentagram]
+\Include[kato-theorem]
+\Include[konishi-anomaly]
+\Include[large-gauge-transformation]
+\Include[level-repulsion]
+\Include[lieb-conjecture]
+\Include[macroscopic-quantum-self-trapping]
+\Include[macroscopic-quantum-state]
+\Include[meron-physics]
+\Include[minimal-subtraction-scheme]
+\Include[minisuperspace]
+\Include[mixed-anomaly]
+\Include[non-linear-coherent-states]
+\Include[non-relativistic-quantum-electrodynamics]
+\Include[nonclassical-light]
+\Include[orbital-motion-quantum]
+\Include[phenomenological-quantum-gravity]
+\Include[pointer-state]
+\Include[projective-superspace]
+\Include[quest]
+\Include[quist]
+\Include[quadratic-fourier-transform]
+\Include[quantum-carpet]
+\Include[quantum-compass]
+\Include[quantum-correlation]
+\Include[quantum-coupling]
+\Include[quantum-dynamics]
+\Include[quantum-heterostructure]
+\Include[quantum-instrument]
+\Include[quantum-limit]
+\Include[quantum-process]
+\Include[quantum-telescope]
+\Include[quantum-weirdness]
+\Include[quiver-diagram]
+\Include[r-symmetry]
+\Include[reeh-schlieder-theorem]
+\Include[relativistic-electron-beam]
+\Include[renormalon]
+\Include[schrieffer-wolff-transformation]
+\Include[schrodinger-s-kittens-and-the-search-for-reality]
+\Include[seiberg-witten-map]
+\Include[short-supermultiplet]
+\Include[shortcuts-to-adiabaticity]
+\Include[slavnov-taylor-identities]
+\Include[spin-exchange-interaction]
+\Include[spinhenge-at-home]
+\Include[stochastic-vacuum-model]
+\Include[stokes-operators]
+\Include[sum-rule-in-quantum-mechanics]
+\Include[supercharge]
+\Include[superghost]
+\Include[supersymmetric-localization]
+\Include[susskind-glogower-operator]
+\Include[totalitarian-principle]
+\Include[translational-partition-function]
+\Include[tunnel-injection]
+\Include[unitarity-gauge]
+\Include[vafa-witten-theorem]
+\Include[wave-function-renormalization]
+\Include[werner-state]
+\Include[wess-zumino-gauge]
+\Include[wigner-araki-yanase-theorem]
+
+= Relativity stubs
+{parent=Physics stubs}
+{wiki=Category:Relativity_stubs}
+
+\Include[2-plus-1-dimensional-topological-gravity]
+\Include[analog-models-of-gravity]
+\Include[black-hole-complementarity]
+\Include[bonnor-beam]
+\Include[bousso-s-holographic-bound]
+\Include[cghs-model]
+\Include[cauchy-horizon]
+\Include[causal-patch]
+\Include[conformal-supergravity]
+\Include[curvature-invariant]
+\Include[dgp-model]
+\Include[diffeomorphism-constraint]
+\Include[effective-one-body-formalism]
+\Include[ehrenfest-tolman-effect]
+\Include[four-frequency]
+\Include[gauged-supergravity]
+\Include[gauss-bonnet-gravity]
+\Include[geroch-energy]
+\Include[geroch-group]
+\Include[gibbons-hawking-effect]
+\Include[gowdy-solution]
+\Include[gravitational-plane-wave]
+\Include[gravitational-soliton]
+\Include[gravitomagnetic-time-delay]
+\Include[gregory-laflamme-instability]
+\Include[hartle-thorne-metric]
+\Include[hayward-metric]
+\Include[hidden-momentum]
+\Include[hoop-conjecture]
+\Include[horava-lifshitz-gravity]
+\Include[invariant-speed]
+\Include[jackiw-teitelboim-gravity]
+\Include[jordan-and-einstein-frames]
+\Include[kantowski-sachs-metric]
+\Include[kerr-schild-perturbations]
+\Include[macdowell-mansouri-action]
+\Include[malament-hogarth-spacetime]
+\Include[newton-cartan-theory]
+\Include[non-exact-solutions-in-general-relativity]
+\Include[orthonormal-frame]
+\Include[ozsvath-schucking-metric]
+\Include[post-newtonian-expansion]
+\Include[relativistic-disk]
+\Include[relativistic-speed]
+\Include[roman-ring]
+\Include[sheep-symbolic-computation-system]
+\Include[scalar-field-solution]
+\Include[synge-s-world-function]
+\Include[taub-nut-space]
+\Include[torsion-bar-antenna]
+\Include[very-special-relativity]
+\Include[weyl-scalar]
+\Include[weyl-lewis-papapetrou-coordinates]
+
+= Theoretical physics stubs
+{parent=Physics stubs}
+{wiki=Category:Theoretical_physics_stubs}
+
+\Include[string-theory-stubs]
+\Include[analysis-of-flows]
+\Include[back-reaction]
+\Include[causal-contact]
+\Include[double-scaling-limit]
+\Include[drinfeld-sokolov-wilson-equation]
+\Include[ernst-equation]
+\Include[fluxon]
+\Include[gardner-equation]
+\Include[hamiltonian-lattice-gauge-theory]
+\Include[light-cone-gauge]
+\Include[meta-operator]
+\Include[n-vector-model]
+\Include[peierls-bracket]
+\Include[quenched-approximation]
+\Include[topological-excitations]
+\Include[unnormalized-modified-kdv-equation]
+\Include[volterra-lattice]
+
+= Active cavity radiometer
+{parent=Physics stubs}
+{wiki=Active_cavity_radiometer}
+
+= Air lock
+{parent=Physics stubs}
+{wiki=Air_lock}
+
+= Atomichron
+{parent=Physics stubs}
+{wiki=Atomichron}
+
+= Bayshore Resilience
+{parent=Physics stubs}
+{wiki=Bayshore_Resilience}
+
+= Beard and Chuang model
+{parent=Physics stubs}
+{wiki=Beard_and_Chuang_model}
+
+= Bhāskara's wheel
+{parent=Physics stubs}
+{wiki=Bhāskara's_wheel}
+
+= Britney Spears' Guide to Semiconductor Physics
+{parent=Physics stubs}
+{wiki=Britney_Spears'_Guide_to_Semiconductor_Physics}
+
+= Carreau fluid
+{parent=Physics stubs}
+{wiki=Carreau_fluid}
+
+= Coalescence (physics)
+{parent=Physics stubs}
+{wiki=Coalescence_(physics)}
+
+= Coherent potential approximation
+{parent=Physics stubs}
+{wiki=Coherent_potential_approximation}
+
+= Communication physics
+{parent=Physics stubs}
+{wiki=Communication_physics}
+
+= Complementary experiments
+{parent=Physics stubs}
+{wiki=Complementary_experiments}
+
+= Compressed hydrogen
+{parent=Physics stubs}
+{wiki=Compressed_hydrogen}
+
+= Conceptual physics
+{parent=Physics stubs}
+{wiki=Conceptual_physics}
+
+= Conventional superconductor
+{parent=Physics stubs}
+{wiki=Conventional_superconductor}
+
+= Crest and trough
+{parent=Physics stubs}
+{wiki=Crest_and_trough}
+
+= Dasar
+{parent=Physics stubs}
+{wiki=Dasar}
+
+= Electrically scanning microwave radiometer
+{parent=Physics stubs}
+{wiki=Electrically_scanning_microwave_radiometer}
+
+= Electron quadruplets
+{parent=Physics stubs}
+{wiki=Electron_quadruplets}
+
+= Energy functional
+{parent=Physics stubs}
+{wiki=Energy_functional}
+
+= Engineering science and mechanics
+{parent=Physics stubs}
+{wiki=Engineering_science_and_mechanics}
+
+= Equivalent dumping coefficient
+{parent=Physics stubs}
+{wiki=Equivalent_dumping_coefficient}
+
+= Exceptional point
+{parent=Physics stubs}
+{wiki=Exceptional_point}
+
+= Extinction paradox
+{parent=Physics stubs}
+{wiki=Extinction_paradox}
+
+= First-order fluid
+{parent=Physics stubs}
+{wiki=First-order_fluid}
+
+= Foot per second squared
+{parent=Physics stubs}
+{wiki=Foot_per_second_squared}
+
+= Frank–Van der Merwe growth
+{parent=Physics stubs}
+{wiki=Frank–Van_der_Merwe_growth}
+
+= Fuel mass fraction
+{parent=Physics stubs}
+{wiki=Fuel_mass_fraction}
+
+= Goddard problem
+{parent=Physics stubs}
+{wiki=Goddard_problem}
+
+= Grazing incidence diffraction
+{parent=Physics stubs}
+{wiki=Grazing_incidence_diffraction}
+
+= Helical boundary conditions
+{parent=Physics stubs}
+{wiki=Helical_boundary_conditions}
+
+= Ideally hard superconductor
+{parent=Physics stubs}
+{wiki=Ideally_hard_superconductor}
+
+= Inherent viscosity
+{parent=Physics stubs}
+{wiki=Inherent_viscosity}
+
+= Interface (matter)
+{parent=Physics stubs}
+{wiki=Interface_(matter)}
+
+= Ion drift meter
+{parent=Physics stubs}
+{wiki=Ion_drift_meter}
+
+= Isotropic radiation
+{parent=Physics stubs}
+{wiki=Isotropic_radiation}
+
+= Jolly balance
+{parent=Physics stubs}
+{wiki=Jolly_balance}
+
+= K band (infrared)
+{parent=Physics stubs}
+{wiki=K_band_(infrared)}
+
+= Karatmeter
+{parent=Physics stubs}
+{wiki=Karatmeter}
+
+= Kleemenko cycle
+{parent=Physics stubs}
+{wiki=Kleemenko_cycle}
+
+= LARMOR neutron microscope
+{parent=Physics stubs}
+{wiki=LARMOR_neutron_microscope}
+
+= Laser dye
+{parent=Physics stubs}
+{wiki=Laser_dye}
+
+= Laser integration line
+{parent=Physics stubs}
+{wiki=Laser_integration_line}
+
+= Laser printing of single nanoparticles
+{parent=Physics stubs}
+{wiki=Laser_printing_of_single_nanoparticles}
+
+= Light valve
+{parent=Physics stubs}
+{wiki=Light_valve}
+
+= Liquid whistle
+{parent=Physics stubs}
+{wiki=Liquid_whistle}
+
+= M5-brane
+{parent=Physics stubs}
+{wiki=M5-brane}
+
+= MIRACL
+{parent=Physics stubs}
+{wiki=MIRACL}
+
+= Magnetorheological finishing
+{parent=Physics stubs}
+{wiki=Magnetorheological_finishing}
+
+= Malter effect
+{parent=Physics stubs}
+{wiki=Malter_effect}
+
+= Matthiessen's ratio
+{parent=Physics stubs}
+{wiki=Matthiessen's_ratio}
+
+= Mercier criterion
+{parent=Physics stubs}
+{wiki=Mercier_criterion}
+
+= Microbarometer
+{parent=Physics stubs}
+{wiki=Microbarometer}
+
+= Middle World
+{parent=Physics stubs}
+{wiki=Middle_World}
+
+= Modulation sphere
+{parent=Physics stubs}
+{wiki=Modulation_sphere}
+
+= Moisture expansion
+{parent=Physics stubs}
+{wiki=Moisture_expansion}
+
+= Mott criterion
+{parent=Physics stubs}
+{wiki=Mott_criterion}
+
+= Multiple-emitter transistor
+{parent=Physics stubs}
+{wiki=Multiple-emitter_transistor}
+
+= NIST-7
+{parent=Physics stubs}
+{wiki=NIST-7}
+
+= Nanomechanical resonator
+{parent=Physics stubs}
+{wiki=Nanomechanical_resonator}
+
+= Nanophotonic scintillators
+{parent=Physics stubs}
+{wiki=Nanophotonic_scintillators}
+
+= Nonadiabatic transition state theory
+{parent=Physics stubs}
+{wiki=Nonadiabatic_transition_state_theory}
+
+= Orthobaric density
+{parent=Physics stubs}
+{wiki=Orthobaric_density}
+
+= Pair potential
+{parent=Physics stubs}
+{wiki=Pair_potential}
+
+= Parabola of safety
+{parent=Physics stubs}
+{wiki=Parabola_of_safety}
+
+= Pasotron
+{parent=Physics stubs}
+{wiki=Pasotron}
+
+= Phase conjugation
+{parent=Physics stubs}
+{wiki=Phase_conjugation}
+
+= Phase distortion
+{parent=Physics stubs}
+{wiki=Phase_distortion}
+
+= Phase offset modulation
+{parent=Physics stubs}
+{wiki=Phase_offset_modulation}
+
+= Phase switch
+{parent=Physics stubs}
+{wiki=Phase_switch}
+
+= Phoswich detector
+{parent=Physics stubs}
+{wiki=Phoswich_detector}
+
+= Photo-Carnot engine
+{parent=Physics stubs}
+{wiki=Photo-Carnot_engine}
+
+= Physical Review Focus
+{parent=Physics stubs}
+{wiki=Physical_Review_Focus}
+
+= Physics and Astronomy Classification Scheme
+{parent=Physics stubs}
+{wiki=Physics_and_Astronomy_Classification_Scheme}
+
+= Planar array radar
+{parent=Physics stubs}
+{wiki=Planar_array_radar}
+
+= Pole piece
+{parent=Physics stubs}
+{wiki=Pole_piece}
+
+= Ponderomotive energy
+{parent=Physics stubs}
+{wiki=Ponderomotive_energy}
+
+= Pseudo-modal energies
+{parent=Physics stubs}
+{wiki=Pseudo-modal_energies}
+
+= Radiation effect
+{parent=Physics stubs}
+{wiki=Radiation_effect}
+
+= Radio-frequency induction
+{parent=Physics stubs}
+{wiki=Radio-frequency_induction}
+
+= Radiophysics
+{parent=Physics stubs}
+{wiki=Radiophysics}
+
+= Resistive skin time
+{parent=Physics stubs}
+{wiki=Resistive_skin_time}
+
+= Reverse diffusion
+{parent=Physics stubs}
+{wiki=Reverse_diffusion}
+
+= Rheoscope
+{parent=Physics stubs}
+{wiki=Rheoscope}
+
+= Robophysics
+{parent=Physics stubs}
+{wiki=Robophysics}
+
+= Rotational Brownian motion
+{parent=Physics stubs}
+{wiki=Rotational_Brownian_motion}
+
+= Rotatum
+{parent=Physics stubs}
+{wiki=Rotatum}
+
+= Rutherford cable
+{parent=Physics stubs}
+{wiki=Rutherford_cable}
+
+= Ruze's equation
+{parent=Physics stubs}
+{wiki=Ruze's_equation}
+
+= Self-amplified spontaneous emission
+{parent=Physics stubs}
+{wiki=Self-amplified_spontaneous_emission}
+
+= Self-diffusion
+{parent=Physics stubs}
+{wiki=Self-diffusion}
+
+= Shape waves
+{parent=Physics stubs}
+{wiki=Shape_waves}
+
+= Shortwave radiation
+{parent=Physics stubs}
+{wiki=Shortwave_radiation}
+
+= Single particle extinction and scattering
+{parent=Physics stubs}
+{wiki=Single_particle_extinction_and_scattering}
+
+= Spatial resolution
+{parent=Physics stubs}
+{wiki=Spatial_resolution}
+
+= Specific mechanical energy
+{parent=Physics stubs}
+{wiki=Specific_mechanical_energy}
+
+= Specific potential energy
+{parent=Physics stubs}
+{wiki=Specific_potential_energy}
+
+= Stoneley wave
+{parent=Physics stubs}
+{wiki=Stoneley_wave}
+
+= Streaming vibration current
+{parent=Physics stubs}
+{wiki=Streaming_vibration_current}
+
+= Submerged specific gravity
+{parent=Physics stubs}
+{wiki=Submerged_specific_gravity}
+
+= Super-Poissonian distribution
+{parent=Physics stubs}
+{wiki=Super-Poissonian_distribution}
+
+= Superconducting steel
+{parent=Physics stubs}
+{wiki=Superconducting_steel}
+
+= Superferromagnetism
+{parent=Physics stubs}
+{wiki=Superferromagnetism}
+
+= Surface freezing
+{parent=Physics stubs}
+{wiki=Surface_freezing}
+
+= Terradynamics
+{parent=Physics stubs}
+{wiki=Terradynamics}
+
+= Transient friction loading
+{parent=Physics stubs}
+{wiki=Transient_friction_loading}
+
+= Unwin Radar
+{parent=Physics stubs}
+{wiki=Unwin_Radar}
+
+= Vibroscope
+{parent=Physics stubs}
+{wiki=Vibroscope}
+
+= X-ray machine
+{parent=Physics stubs}
+{wiki=X-ray_machine}
+
+= Z-tube
+{parent=Physics stubs}
+{wiki=Z-tube}
+
+= Subfields of physics
+{parent=Physics}
+{wiki=Category:Subfields_of_physics}
+
+= Applied and interdisciplinary physics
+{parent=Subfields of physics}
+{wiki=Category:Applied_and_interdisciplinary_physics}
+
+\Include[accelerator-physics]
+\Include[ballistics]
+\Include[chemical-physics]
+\Include[high-pressure-science]
+\Include[materials-science]
+\Include[mechanical-engineering]
+\Include[physical-chemistry]
+\Include[physical-oceanography]
+\Include[psychophysics]
+\Include[social-physics]
+\Include[soil-mechanics]
+\Include[soil-physics]
+\Include[textile-engineering]
+\Include[underwater-diving-physics]
+\Include[atmospheric-physics]
+\Include[biophysics]
+\Include[geophysics]
+\Include[medical-physics]
+\Include[meteorology]
+\Include[oceanography]
+\Include[agrophysics]
+\Include[applied-physics]
+\Include[building-engineering-physics]
+\Include[cardiophysics]
+\Include[catalogue-of-spectroscopic-binary-orbits]
+\Include[charge-exchange]
+\Include[engineering-physics]
+\Include[fluxnet]
+\Include[fire-urgency-estimator-in-geosynchronous-orbit]
+\Include[frozen-mirror-image-method]
+\Include[high-energy-x-rays]
+\Include[international-noble-gas-experiment]
+\Include[outline-of-applied-physics]
+\Include[petrophysics]
+\Include[physics-of-financial-markets]
+\Include[physics-of-firearms]
+\Include[pore-pressure-gradient]
+\Include[poromechanics]
+\Include[ruby-pressure-scale]
+\Include[snow-science]
+\Include[theoretical-astronomy]
+\Include[weighting]
+
+= Astrophysics
+{parent=Subfields of physics}
+{wiki=Astrophysics}
+
+\Include[astroparticle-physics]
+\Include[astrophysics-journals]
+\Include[astrophysics-theories]
+\Include[celestial-mechanics]
+\Include[cosmic-rays]
+\Include[dark-concepts-in-astrophysics]
+\Include[quark-matter]
+\Include[space-plasmas]
+\Include[standard-candles]
+\Include[stellar-dynamics]
+\Include[gravitational-wave-astronomy]
+\Include[nucleosynthesis]
+\Include[plasma-parameters]
+\Include[arianna-experiment]
+\Include[absolute-horizon]
+\Include[accretion-astrophysics]
+\Include[astrophysical-fluid-dynamics]
+\Include[atomic-and-molecular-astrophysics]
+\Include[bahcall-wolf-cusp]
+\Include[bidirectional-scattering-distribution-function]
+\Include[blast-wave]
+\Include[chandrasekhar-limit]
+\Include[chandrasekhar-polarization]
+\Include[chandrasekhar-potential-energy-tensor]
+\Include[chandrasekhar-fermi-method]
+\Include[chandrasekhar-kendall-function]
+\Include[circular-polarization]
+\Include[convective-overturn]
+\Include[coronal-loop]
+\Include[cosmochemistry]
+\Include[critical-ionization-velocity]
+\Include[crocco-s-multiplanetary-trajectory]
+\Include[dark-matter-particle-explorer]
+\Include[de-laval-nozzle]
+\Include[de-sitter-effect]
+\Include[differential-rotation]
+\Include[dirichlet-s-ellipsoidal-problem]
+\Include[dusty-plasma]
+\Include[dynamical-friction]
+\Include[eddington-luminosity]
+\Include[eddington-number]
+\Include[eggshell-planet]
+\Include[ejecta]
+\Include[ekpyrotic-universe]
+\Include[enduring-quests-and-daring-visions]
+\Include[exomol]
+\Include[extragalactic-cosmic-ray]
+\Include[fermi-gamma-ray-space-telescope]
+\Include[fiske-planetarium]
+\Include[flux-tube]
+\Include[fractal-cosmology]
+\Include[galactic-bridges-and-tails]
+\Include[galaxy-h-alpha-fabry-perot-system]
+\Include[gas-torus]
+\Include[gauge-vector-tensor-gravity]
+\Include[graphical-timeline-of-the-stelliferous-era]
+\Include[graphical-timeline-of-the-universe]
+\Include[gravitational-compression]
+\Include[gravitational-lensing-formalism]
+\Include[gravitysimulator]
+\Include[grey-atmosphere]
+\Include[gunn-peterson-trough]
+\Include[high-altitude-observatory]
+\Include[high-energy-density-physics]
+\Include[high-time-resolution-astrophysics]
+\Include[highly-charged-ion]
+\Include[hydrogen-anion]
+\Include[icranet]
+\Include[irap-phd-program]
+\Include[illustris-project]
+\Include[instituto-de-astrofisica-de-andalucia]
+\Include[international-center-for-relativistic-astrophysics]
+\Include[iron-peak]
+\Include[isabella-m-gioia]
+\Include[kavli-prize]
+\Include[kvant-1]
+\Include[lane-emden-equation]
+\Include[mass-to-light-ratio]
+\Include[mass-deficit]
+\Include[mass-segregation-astronomy]
+\Include[morphs-collaboration]
+\Include[multi-messenger-astronomy]
+\Include[nasa-heliophysics]
+\Include[neutronium]
+\Include[nordtvedt-effect]
+\Include[nuclear-astrophysics]
+\Include[osipkov-merritt-model]
+\Include[p-nuclei]
+\Include[p-process]
+\Include[peryton-astronomy]
+\Include[petrie-prize-lecture]
+\Include[phillips-relationship]
+\Include[photodissociation]
+\Include[photoevaporation]
+\Include[photographic-magnitude]
+\Include[plasmoid]
+\Include[plummer-model]
+\Include[polarization-in-astronomy]
+\Include[polytrope]
+\Include[pulsed-accretion]
+\Include[q-pace]
+\Include[r-process]
+\Include[radio-object-with-continuous-optical-spectrum]
+\Include[relativistic-beaming]
+\Include[richtmyer-meshkov-instability]
+\Include[rossby-wave-instability]
+\Include[rotational-brownian-motion-astronomy]
+\Include[rp-process]
+\Include[rubble-pile]
+\Include[s-process]
+\Include[sao-206462]
+\Include[scalar-tensor-vector-gravity]
+\Include[schonberg-chandrasekhar-limit]
+\Include[solar-physics]
+\Include[sommerfeld-parameter]
+\Include[source-function]
+\Include[soltan-argument]
+\Include[stationary-orbit]
+\Include[stellar-pulsation]
+\Include[stromgren-sphere]
+\Include[superionic-water]
+\Include[superluminal-motion]
+\Include[supernova-nucleosynthesis]
+\Include[tensor-vector-scalar-gravity]
+\Include[toomre-s-stability-criterion]
+\Include[universemachine]
+\Include[urca-process]
+\Include[whole-earth-blazar-telescope]
+\Include[wouthuysen-field-coupling]
+\Include[xmm-cluster-survey]
+\Include[zanstra-method]
+
+= Atomic, molecular, and optical physics
+{parent=Subfields of physics}
+{wiki=Atomic,_molecular,_and_optical_physics}
+
+\Include[atomic-physics]
+\Include[above-threshold-ionization]
+\Include[atomic-mirror]
+\Include[core-electron]
+\Include[dark-state]
+\Include[double-ionization]
+\Include[electro-optics]
+\Include[heavy-rydberg-system]
+\Include[homogeneous-broadening]
+\Include[i-i-rabi-prize]
+\Include[inelastic-mean-free-path]
+\Include[institute-of-physics-joseph-thomson-medal-and-prize]
+\Include[interferometric-microscopy]
+\Include[optical-molasses]
+\Include[polarization-gradient-cooling]
+\Include[rabi-frequency]
+\Include[rabi-resonance-method]
+\Include[ridged-mirror]
+\Include[rydberg-state]
+\Include[sub-doppler-cooling]
+\Include[super-tonks-girardeau-gas]
+\Include[vacuum-rabi-oscillation]
+
+= Classical mechanics
+{parent=Subfields of physics}
+{wiki=Classical_mechanics}
+
+\Include[acoustics]
+\Include[statics]
+\Include[wave-mechanics]
+\Include[continuum-mechanics]
+\Include[analytical-dynamics]
+\Include[anharmonicity]
+\Include[anti-vibration-compound]
+\Include[appell-s-equation-of-motion]
+\Include[binet-equation]
+\Include[bonnet-s-theorem]
+\Include[centers-of-gravity-in-non-uniform-fields]
+\Include[central-configuration]
+\Include[classical-mechanics-goldstein]
+\Include[classical-central-force-problem]
+\Include[complex-harmonic-motion]
+\Include[configuration-space-physics]
+\Include[conjugate-variables]
+\Include[constant-of-motion]
+\Include[cotes-s-spiral]
+\Include[damping-torque]
+\Include[elastic-collision]
+\Include[elastic-energy]
+\Include[exact-solutions-of-classical-central-force-problems]
+\Include[few-body-systems]
+\Include[first-class-constraint]
+\Include[free-body]
+\Include[frenkel-kontorova-model]
+\Include[galilean-invariance]
+\Include[garnier-integrable-system]
+\Include[gauss-s-principle-of-least-constraint]
+\Include[holonomic-constraints]
+\Include[impulse-physics]
+\Include[inertia]
+\Include[initial-stability]
+\Include[instant-centre-of-rotation]
+\Include[jet-force]
+\Include[kepler-problem]
+\Include[kinematic-diagram]
+\Include[liouville-dynamical-system]
+\Include[mass-spring-damper-model]
+\Include[mass-flow-meter]
+\Include[mathematical-methods-of-classical-mechanics]
+\Include[mcgehee-transformation]
+\Include[mean-speed-theorem]
+\Include[momentum-curtain]
+\Include[motion-graphs-and-derivatives]
+\Include[newtonian-dynamics]
+\Include[positive-pressure]
+\Include[potential-well]
+\Include[rattleback]
+\Include[rayleigh-lorentz-pendulum]
+\Include[relativistic-system-mathematics]
+\Include[roberval-balance]
+\Include[roll-center]
+\Include[roll-moment]
+\Include[secondary-stability]
+\Include[simple-harmonic-motion]
+\Include[sitnikov-problem]
+\Include[sliding-motion]
+\Include[soft-body-dynamics]
+\Include[startup-winding]
+\Include[support-polygon]
+\Include[tippe-top]
+
+= Condensed matter physics
+{parent=Subfields of physics}
+{wiki=Condensed_matter_physics}
+
+\Include[chemical-bonding]
+\Include[correlated-electrons]
+\Include[electronic-band-structures]
+\Include[glass-physics]
+\Include[laboratory-techniques-in-condensed-matter-physics]
+\Include[quantum-magnetism]
+\Include[semiconductor-properties]
+\Include[water-physics]
+\Include[josephson-effect]
+\Include[mesoscopic-physics]
+\Include[soft-matter]
+\Include[anderson-impurity-model]
+\Include[anderson-localization]
+\Include[annual-review-of-condensed-matter-physics]
+\Include[artificial-lattice]
+\Include[ashcroft-and-mermin]
+\Include[aubry-andre-model]
+\Include[bethe-ansatz]
+\Include[bloch-s-theorem]
+\Include[bloch-oscillation]
+\Include[chiral-magnetic-effect]
+\Include[colloidal-crystal]
+\Include[cophonicity]
+\Include[crystal-field-theory]
+\Include[degenerate-semiconductor]
+\Include[dirac-matter]
+\Include[dissipative-particle-dynamics]
+\Include[effective-mass-solid-state-physics]
+\Include[electric-field-screening]
+\Include[electron-tomography]
+\Include[fermi-energy]
+\Include[fermi-liquid-theory]
+\Include[fluorescence-intermittency-in-colloidal-nanocrystals]
+\Include[free-electron-model]
+\Include[freeze-thaw-resistance]
+\Include[friedel-oscillations]
+\Include[forster-coupling]
+\Include[giant-oscillator-strength]
+\Include[gruneisen-parameter]
+\Include[heavy-fermion-material]
+\Include[heavy-fermion-superconductor]
+\Include[hubbard-model]
+\Include[introduction-to-solid-state-physics]
+\Include[jellium]
+\Include[keldysh-formalism]
+\Include[kohn-anomaly]
+\Include[kohn-luttinger-superconductivity]
+\Include[kondo-insulator]
+\Include[kondo-model]
+\Include[lindhard-theory]
+\Include[liquefaction]
+\Include[little-parks-effect]
+\Include[luttinger-s-theorem]
+\Include[luttinger-kohn-model]
+\Include[luttinger-ward-functional]
+\Include[lyddane-sachs-teller-relation]
+\Include[magnetic-topological-insulator]
+\Include[metal-insulator-transition]
+\Include[mode-coupling]
+\Include[particle-in-a-one-dimensional-lattice]
+\Include[path-integrals-in-polymer-science]
+\Include[phase-separation]
+\Include[phenomenology-physics]
+\Include[phonon-noise]
+\Include[poole-frenkel-effect]
+\Include[quantum-acoustics]
+\Include[quantum-boomerang-effect]
+\Include[quantum-dimer-magnet]
+\Include[quantum-dot-single-photon-source]
+\Include[quantum-oscillations]
+\Include[quantum-spin-tunneling]
+\Include[quasi-harmonic-approximation]
+\Include[random-phase-approximation]
+\Include[resonating-valence-bond-theory]
+\Include[rydberg-matter]
+\Include[schottky-effect]
+\Include[semimetal]
+\Include[single-atom-transistor]
+\Include[single-layer-materials]
+\Include[single-molecule-magnet]
+\Include[spaser]
+\Include[spontelectrics]
+\Include[structure-of-liquids-and-glasses]
+\Include[superexchange]
+\Include[superlubricity]
+\Include[surface-photovoltage]
+\Include[surface-reconstruction]
+\Include[su-schrieffer-heeger-model]
+\Include[thomas-fermi-screening]
+\Include[tonks-girardeau-gas]
+\Include[topological-insulator]
+\Include[total-position-spread]
+\Include[tube-based-nanostructure]
+\Include[two-dimensional-semiconductor]
+\Include[ultradivided-matter]
+\Include[wannier-function]
+\Include[wigner-crystal]
+
+= Experimental physics
+{parent=Subfields of physics}
+{wiki=Experimental_physics}
+
+\Include[experimental-particle-physics]
+\Include[elevator-paradox-physics]
+\Include[emission-channeling]
+\Include[faraday-cup-electrometer]
+\Include[fragment-separator]
+\Include[monochromatization]
+\Include[pauli-effect]
+\Include[ripple-tank]
+\Include[total-absorption-spectroscopy]
+\Include[uncertainty]
+\Include[x-ray-crystal-truncation-rod]
+
+= Nuclear physics
+{parent=Subfields of physics}
+{wiki=Nuclear_physics}
+
+\Include[isotopes]
+\Include[nuclear-chemistry]
+\Include[nuclear-energy]
+\Include[nuclear-interdisciplinary-topics]
+\Include[nuclear-physics-journals]
+\Include[nuclear-technology]
+\Include[nucleons]
+\Include[radioactivity]
+\Include[binding-energy]
+\Include[copernicium]
+\Include[radiation-protection]
+\Include[ab-initio-methods-nuclear-physics]
+\Include[actinides-in-the-environment]
+\Include[alpha-nuclide]
+\Include[anomalon]
+\Include[beta-decay-stable-isobars]
+\Include[beta-decay]
+\Include[beta-decay-transition]
+\Include[bethe-formula]
+\Include[borromean-nucleus]
+\Include[charmed-baryon]
+\Include[cluster-decay]
+\Include[cold-fission]
+\Include[color-glass-condensate]
+\Include[common-beta-emitters]
+\Include[commonly-used-gamma-emitting-isotopes]
+\Include[coulomb-barrier]
+\Include[dead-time]
+\Include[decay-energy]
+\Include[decay-scheme]
+\Include[discovery-of-nuclear-fission]
+\Include[double-beta-decay]
+\Include[double-electron-capture]
+\Include[enubet]
+\Include[effective-range]
+\Include[effects-of-nuclear-explosions]
+\Include[electron-capture]
+\Include[electronic-anticoincidence]
+\Include[ericson-ericson-lorentz-lorenz-correction]
+\Include[even-and-odd-atomic-nuclei]
+\Include[extended-periodic-table]
+\Include[facility-for-rare-isotope-beams]
+\Include[faddeev-equations]
+\Include[fast-fission]
+\Include[fissile-material]
+\Include[fission-products-by-element]
+\Include[gamma-ray]
+\Include[gamow-factor]
+\Include[geiger-nuttall-law]
+\Include[hadron]
+\Include[halo-nucleus]
+\Include[high-energy-nuclear-physics]
+\Include[hypernucleus]
+\Include[internal-conversion]
+\Include[internal-conversion-coefficient]
+\Include[island-of-stability]
+\Include[isobar-nuclide]
+\Include[isotone]
+\Include[isotope]
+\Include[lead-shielding]
+\Include[liquid-metal-cooled-reactor]
+\Include[long-lived-fission-product]
+\Include[mass-excess]
+\Include[natural-nuclear-fission-reactor]
+\Include[neutron-capture]
+\Include[neutron-cross-section]
+\Include[neutron-emission]
+\Include[neutron-number]
+\Include[neutron-transport]
+\Include[nilsson-model]
+\Include[nuclear-binding-energy]
+\Include[nuclear-chain-reaction]
+\Include[nuclear-clock]
+\Include[nuclear-data]
+\Include[nuclear-emulsion]
+\Include[nuclear-explosion]
+\Include[nuclear-explosive]
+\Include[nuclear-fission-product]
+\Include[nuclear-force]
+\Include[nuclear-isomer]
+\Include[nuclear-resonance-fluorescence]
+\Include[nuclear-shell-model]
+\Include[nuclear-structure]
+\Include[nuclear-transmutation]
+\Include[nucleonica]
+\Include[nuclide]
+\Include[oppenheimer-phillips-process]
+\Include[pair-production]
+\Include[pandemonium-effect]
+\Include[prompt-criticality]
+\Include[proton-emission]
+\Include[q-value-nuclear-science]
+\Include[radioactive-displacement-law-of-fajans-and-soddy]
+\Include[radionuclide]
+\Include[radium-and-radon-in-the-environment]
+\Include[ronen-s-golden-rule-for-cluster-radioactivity]
+\Include[starlight]
+\Include[self-consistency-principle-in-high-energy-physics]
+\Include[semi-empirical-mass-formula]
+\Include[separation-energy]
+\Include[sisyphus-cooling]
+\Include[solid-state-nuclear-track-detector]
+\Include[spontaneous-fission]
+\Include[stripping-reaction-physics]
+\Include[strong-interaction]
+\Include[superheavy-element]
+\Include[synthesis-of-precious-metals]
+\Include[synthetic-element]
+\Include[tetraquark]
+\Include[tom-w-bonner-prize-in-nuclear-physics]
+\Include[transuranium-element]
+\Include[transverse-momentum-distributions]
+\Include[valley-of-stability]
+\Include[weak-charge]
+\Include[xi-baryon]
+\Include[yrast]
+
+= Plasma physics
+{parent=Subfields of physics}
+{wiki=Plasma_physics}
+
+\Include[electric-arcs]
+\Include[fusion-power]
+\Include[plasma-diagnostics]
+\Include[plasma-instabilities]
+\Include[plasma-science-journals]
+\Include[plasma-technology-and-applications]
+\Include[plasma-types]
+\Include[waves-in-plasmas]
+\Include[magnetohydrodynamics]
+\Include[ambipolar-diffusion]
+\Include[biconic-cusp]
+\Include[bohm-diffusion]
+\Include[boltzmann-relation]
+\Include[classical-diffusion]
+\Include[clebsch-representation]
+\Include[current-sheet]
+\Include[debye-sheath]
+\Include[diffusion-damping]
+\Include[dynomak]
+\Include[force-free-magnetic-field]
+\Include[guiding-center]
+\Include[gyrokinetics]
+\Include[hsu-diffusion]
+\Include[ion-wind]
+\Include[landau-damping]
+\Include[levitated-dipole]
+\Include[magnetic-buoyancy]
+\Include[magnetic-diffusion]
+\Include[marklund-convection]
+\Include[penning-mixture]
+\Include[pinch-plasma-physics]
+\Include[plasma-medicine]
+\Include[plasma-mirror]
+\Include[plasma-scaling]
+\Include[plasma-shaping]
+\Include[plasma-surface-interaction]
+\Include[q-machine]
+\Include[rooster-tail]
+\Include[rotating-wall-technique]
+\Include[self-focusing]
+\Include[spheromak]
+\Include[tokamak-sawtooth]
+\Include[two-dimensional-point-vortex-gas]
+\Include[vsim]
+\Include[warm-dense-matter]
+
+= Quantum mechanics
+{parent=Subfields of physics}
+{wiki=Quantum_mechanics}
+
+\Include[density-functional-theory]
+\Include[hilbert-spaces]
+\Include[quantum-fiction]
+\Include[quantum-lattice-models]
+\Include[quantum-mechanical-potentials]
+\Include[quantum-mechanics-in-fiction]
+\Include[quantum-mechanics-journals]
+\Include[quantum-models]
+\Include[quantum-mysticism]
+\Include[quantum-optics]
+\Include[quantum-states]
+\Include[semiempirical-quantum-chemistry-methods]
+\Include[multiverse]
+\Include[3-j-symbol]
+\Include[6-j-symbol]
+\Include[9-j-symbol]
+\Include[adiabatic-quantum-computation]
+\Include[applications-of-quantum-mechanics]
+\Include[are-quanta-real]
+\Include[auxiliary-field-monte-carlo]
+\Include[avoided-crossing]
+\Include[bargmann-s-limit]
+\Include[bohr-festival]
+\Include[cluster-expansion-approach]
+\Include[coincidence-counting-physics]
+\Include[complementarity-physics]
+\Include[complete-set-of-commuting-observables]
+\Include[degenerate-energy-levels]
+\Include[dephasing-rate-sp-formula]
+\Include[derivations-of-the-lorentz-transformations]
+\Include[dissipation-model-for-extended-environment]
+\Include[drell-yan-process]
+\Include[dynamical-pictures]
+\Include[efimov-state]
+\Include[eigenspinor]
+\Include[einselection]
+\Include[einstein-brillouin-keller-method]
+\Include[electric-dipole-spin-resonance]
+\Include[electric-dipole-transition]
+\Include[energy-level-splitting]
+\Include[energy-operator]
+\Include[ermakov-lewis-invariant]
+\Include[excited-state]
+\Include[expectation-value-quantum-mechanics]
+\Include[fermi-heap-and-fermi-hole]
+\Include[field-electron-emission]
+\Include[first-quantization]
+\Include[free-orbit-experiment-with-laser-interferometry-x-rays]
+\Include[free-carrier-absorption]
+\Include[fusion-of-anyons]
+\Include[galilei-covariant-tensor-formulation]
+\Include[gausson-physics]
+\Include[generalized-probabilistic-theory]
+\Include[ghost-imaging]
+\Include[glossary-of-elementary-quantum-mechanics]
+\Include[glossary-of-quantum-philosophy]
+\Include[good-quantum-number]
+\Include[ground-state]
+\Include[hartman-effect]
+\Include[heisenberg-picture]
+\Include[hierarchical-equations-of-motion]
+\Include[holstein-primakoff-transformation]
+\Include[hopfield-dielectric]
+\Include[imaginary-time]
+\Include[interaction-picture]
+\Include[intersystem-crossing]
+\Include[introduction-to-elementary-particles-book]
+\Include[introduction-to-quantum-mechanics-book]
+\Include[introduction-to-quantum-mechanics]
+\Include[inverse-square-potential]
+\Include[kadison-singer-problem]
+\Include[kubo-formula]
+\Include[ladder-operator]
+\Include[landau-zener-formula]
+\Include[langmuir-states]
+\Include[lindbladian]
+\Include[localization-protected-quantum-order]
+\Include[london-moment]
+\Include[madelung-equations]
+\Include[magnetic-resonance-quantum-mechanics]
+\Include[many-body-localization]
+\Include[matrix-mechanics]
+\Include[maxwell-bloch-equations]
+\Include[minority-interpretations-of-quantum-mechanics]
+\Include[modern-quantum-mechanics]
+\Include[momentum-operator]
+\Include[monte-carlo-methods-for-electron-transport]
+\Include[multiple-scattering-theory]
+\Include[multiplet]
+\Include[neural-network-quantum-states]
+\Include[observable]
+\Include[orbital-magnetization]
+\Include[particle-number-operator]
+\Include[pauli-equation]
+\Include[periodic-instantons]
+\Include[permutationally-invariant-quantum-state-tomography]
+\Include[phase-space-wavefunctions]
+\Include[position-and-momentum-spaces]
+\Include[position-operator]
+\Include[probability-current]
+\Include[proton-tunneling]
+\Include[purity-quantum-mechanics]
+\Include[quantum]
+\Include[quantum-confined-stark-effect]
+\Include[quantum-1-f-noise]
+\Include[quantum-battery]
+\Include[quantum-calculus]
+\Include[quantum-chaos]
+\Include[quantum-contextuality]
+\Include[quantum-cylindrical-quadrupole]
+\Include[quantum-engineering]
+\Include[quantum-feedback]
+\Include[quantum-gyroscope]
+\Include[quantum-hydrodynamics]
+\Include[quantum-indeterminacy]
+\Include[quantum-inverse-scattering-method]
+\Include[quantum-machine]
+\Include[quantum-mechanical-scattering-of-photon-and-nucleus]
+\Include[quantum-mechanics-of-time-travel]
+\Include[quantum-microscopy]
+\Include[quantum-money]
+\Include[quantum-network]
+\Include[quantum-operation]
+\Include[quantum-reference-frame]
+\Include[quantum-revival]
+\Include[quantum-scar]
+\Include[quantum-social-science]
+\Include[quantum-stirring-ratchets-and-pumping]
+\Include[quantum-superposition]
+\Include[quantum-tomography]
+\Include[quantum-tunnelling]
+\Include[quasi-set-theory]
+\Include[racah-seniority-number]
+\Include[redfield-equation]
+\Include[relativistic-dynamics]
+\Include[representation-theory-of-the-galilean-group]
+\Include[representation-theory-of-the-lorentz-group]
+\Include[resonances-in-scattering-from-potentials]
+\Include[rotation-operator-quantum-mechanics]
+\Include[scattering-length]
+\Include[scissors-modes]
+\Include[stationary-state]
+\Include[strong-subadditivity-of-quantum-entropy]
+\Include[subatomic-particle]
+\Include[superradiant-phase-transition]
+\Include[supersymmetric-quantum-mechanics]
+\Include[surface-hopping]
+\Include[teaching-quantum-mechanics]
+\Include[the-principles-of-quantum-mechanics]
+\Include[time-dependent-variational-monte-carlo]
+\Include[translation-operator-quantum-mechanics]
+\Include[unitarity-physics]
+\Include[unitary-transformation-quantum-mechanics]
+\Include[valleytronics]
+\Include[virtual-state]
+\Include[wannier-equation]
+\Include[weyl-equation]
+
+= Branches of physics
+{parent=Subfields of physics}
+{wiki=Branches_of_physics}
+
+= Works about physics
+{parent=Physics}
+{wiki=Category:Works_about_physics}
+
+= Films about physics
+{parent=Works about physics}
+{wiki=Category:Films_about_physics}
+
+\Include[films-about-invisibility]
+\Include[bullseye-1990-film]
+\Include[interstellar-film]
+\Include[tenet-film]
+\Include[the-challenge-2023-film]
+\Include[the-sorcerer-s-apprentice-2010-film]
+
+= Physics literature
+{parent=Works about physics}
+{wiki=Category:Physics_literature}
+
+\Include[physics-books]
+\Include[physics-in-fiction]
+\Include[physics-journals]
+\Include[physics-magazines]
+\Include[physics-websites]
+
+= MinutePhysics
+{parent=Works about physics}
+{wiki=MinutePhysics}
+
+= Overlap fermion
+{parent=Physics}
+{wiki=Overlap_fermion}

@@ -1,0 +1,374 @@
+= Computational problems
+{wiki=Computational_problems}
+
+= Distributed computing problems
+{parent=Computational problems}
+{wiki=Category:Distributed_computing_problems}
+
+= Concurrency control
+{parent=Distributed computing problems}
+{wiki=Concurrency_control}
+
+= Data synchronization
+{parent=Distributed computing problems}
+{wiki=Data_synchronization}
+
+= Atomic broadcast
+{parent=Distributed computing problems}
+{wiki=Atomic_broadcast}
+
+= Atomic commit
+{parent=Distributed computing problems}
+{wiki=Atomic_commit}
+
+= Automatic vectorization
+{parent=Distributed computing problems}
+{wiki=Automatic_vectorization}
+
+= Big memory
+{parent=Distributed computing problems}
+{wiki=Big_memory}
+
+= Clock synchronization
+{parent=Distributed computing problems}
+{wiki=Clock_synchronization}
+
+= Consensus (computer science)
+{parent=Distributed computing problems}
+{wiki=Consensus_(computer_science)}
+
+= Data lineage
+{parent=Distributed computing problems}
+{wiki=Data_lineage}
+
+= Deadlock
+{parent=Distributed computing problems}
+{wiki=Deadlock}
+
+= Distributed concurrency control
+{parent=Distributed computing problems}
+{wiki=Distributed_concurrency_control}
+
+= Edit conflict
+{parent=Distributed computing problems}
+{wiki=Edit_conflict}
+
+= Embarrassingly parallel
+{parent=Distributed computing problems}
+{wiki=Embarrassingly_parallel}
+
+= Failure semantics
+{parent=Distributed computing problems}
+{wiki=Failure_semantics}
+
+= Fallacies of distributed computing
+{parent=Distributed computing problems}
+{wiki=Fallacies_of_distributed_computing}
+
+= Happened-before
+{parent=Distributed computing problems}
+{wiki=Happened-before}
+
+= Leader election
+{parent=Distributed computing problems}
+{wiki=Leader_election}
+
+= Self-stabilization
+{parent=Distributed computing problems}
+{wiki=Self-stabilization}
+
+= Serializability
+{parent=Distributed computing problems}
+{wiki=Serializability}
+
+= Shared register
+{parent=Distributed computing problems}
+{wiki=Shared_register}
+
+= State machine replication
+{parent=Distributed computing problems}
+{wiki=State_machine_replication}
+
+= Superstabilization
+{parent=Distributed computing problems}
+{wiki=Superstabilization}
+
+= Terminating Reliable Broadcast
+{parent=Distributed computing problems}
+{wiki=Terminating_Reliable_Broadcast}
+
+= Timing failure
+{parent=Distributed computing problems}
+{wiki=Timing_failure}
+
+= Uniform consensus
+{parent=Distributed computing problems}
+{wiki=Uniform_consensus}
+
+= Version vector
+{parent=Distributed computing problems}
+{wiki=Version_vector}
+
+= NL-complete problems
+{parent=Computational problems}
+{wiki=Category:NL-complete_problems}
+
+= 2-satisfiability
+{parent=NL-complete problems}
+{wiki=2-satisfiability}
+
+= NP-complete problems
+{parent=Computational problems}
+{wiki=NP-complete_problems}
+
+= Nonograms
+{parent=NP-complete problems}
+{wiki=Nonograms}
+
+= Number partitioning
+{parent=NP-complete problems}
+{wiki=Number_partitioning}
+
+= SAT solvers
+{parent=NP-complete problems}
+{wiki=Category:SAT_solvers}
+
+= SMT solvers
+{parent=NP-complete problems}
+{wiki=Category:SMT_solvers}
+
+= Strongly NP-complete problems
+{parent=NP-complete problems}
+{wiki=Category:Strongly_NP-complete_problems}
+
+= Weakly NP-complete problems
+{parent=NP-complete problems}
+{wiki=Category:Weakly_NP-complete_problems}
+
+= Battleship (puzzle)
+{parent=NP-complete problems}
+{wiki=Battleship_(puzzle)}
+
+= Generalized assignment problem
+{parent=NP-complete problems}
+{wiki=Generalized_assignment_problem}
+
+= Hashiwokakero
+{parent=NP-complete problems}
+{wiki=Hashiwokakero}
+
+= Hitori
+{parent=NP-complete problems}
+{wiki=Hitori}
+
+= Kakuro
+{parent=NP-complete problems}
+{wiki=Kakuro}
+
+= Karp's 21 NP-complete problems
+{parent=NP-complete problems}
+{wiki=Karp's_21_NP-complete_problems}
+
+= Light Up (puzzle)
+{parent=NP-complete problems}
+{wiki=Light_Up_(puzzle)}
+
+= List of NP-complete problems
+{parent=NP-complete problems}
+{wiki=List_of_NP-complete_problems}
+
+= Mastermind (board game)
+{parent=NP-complete problems}
+{wiki=Mastermind_(board_game)}
+
+= Masyu
+{parent=NP-complete problems}
+{wiki=Masyu}
+
+= Minesweeper (video game)
+{parent=NP-complete problems}
+{wiki=Minesweeper_(video_game)}
+
+= NP-completeness
+{parent=NP-complete problems}
+{wiki=NP-completeness}
+
+= Not-all-equal 3-satisfiability
+{parent=NP-complete problems}
+{wiki=Not-all-equal_3-satisfiability}
+
+= Nurikabe (puzzle)
+{parent=NP-complete problems}
+{wiki=Nurikabe_(puzzle)}
+
+= Quadrel
+{parent=NP-complete problems}
+{wiki=Quadrel}
+
+= SameGame
+{parent=NP-complete problems}
+{wiki=SameGame}
+
+= Set splitting problem
+{parent=NP-complete problems}
+{wiki=Set_splitting_problem}
+
+= Shakashaka
+{parent=NP-complete problems}
+{wiki=Shakashaka}
+
+= Slitherlink
+{parent=NP-complete problems}
+{wiki=Slitherlink}
+
+= Tentai Show
+{parent=NP-complete problems}
+{wiki=Tentai_Show}
+
+= Tetris
+{parent=NP-complete problems}
+{wiki=Tetris}
+
+= Traveling purchaser problem
+{parent=NP-complete problems}
+{wiki=Traveling_purchaser_problem}
+
+= Unit disk graph
+{parent=NP-complete problems}
+{wiki=Unit_disk_graph}
+
+= Vehicle routing problem
+{parent=NP-complete problems}
+{wiki=Vehicle_routing_problem}
+
+= NP-hard problems
+{parent=Computational problems}
+{wiki=NP-hard_problems}
+
+= MAX-3LIN-EQN
+{parent=NP-hard problems}
+{wiki=MAX-3LIN-EQN}
+
+= MAX-3SAT
+{parent=NP-hard problems}
+{wiki=MAX-3SAT}
+
+= MAXEkSAT
+{parent=NP-hard problems}
+{wiki=MAXEkSAT}
+
+= NP-hardness
+{parent=NP-hard problems}
+{wiki=NP-hardness}
+
+= Quadratic assignment problem
+{parent=NP-hard problems}
+{wiki=Quadratic_assignment_problem}
+
+= Quadratic bottleneck assignment problem
+{parent=NP-hard problems}
+{wiki=Quadratic_bottleneck_assignment_problem}
+
+= Rectilinear Steiner tree
+{parent=NP-hard problems}
+{wiki=Rectilinear_Steiner_tree}
+
+= P-complete problems
+{parent=Computational problems}
+{wiki=Category:P-complete_problems}
+
+= PSPACE-complete problems
+{parent=Computational problems}
+{wiki=Category:PSPACE-complete_problems}
+
+= Atomix (video game)
+{parent=PSPACE-complete problems}
+{wiki=Atomix_(video_game)}
+
+= Computer Othello
+{parent=PSPACE-complete problems}
+{wiki=Computer_Othello}
+
+= Game of the Amazons
+{parent=PSPACE-complete problems}
+{wiki=Game_of_the_Amazons}
+
+= Generalized geography
+{parent=PSPACE-complete problems}
+{wiki=Generalized_geography}
+
+= Intersection non-emptiness problem
+{parent=PSPACE-complete problems}
+{wiki=Intersection_non-emptiness_problem}
+
+= List of PSPACE-complete problems
+{parent=PSPACE-complete problems}
+{wiki=List_of_PSPACE-complete_problems}
+
+= NFA minimization
+{parent=PSPACE-complete problems}
+{wiki=NFA_minimization}
+
+= Sokoban
+{parent=PSPACE-complete problems}
+{wiki=Sokoban}
+
+= Polynomial-time problems
+{parent=Computational problems}
+{wiki=Category:Polynomial-time_problems}
+
+= 3SUM
+{parent=Polynomial-time problems}
+{wiki=3SUM}
+
+= Element distinctness problem
+{parent=Polynomial-time problems}
+{wiki=Element_distinctness_problem}
+
+= Reconfiguration
+{parent=Computational problems}
+{wiki=Reconfiguration}
+
+= AI-complete
+{parent=Computational problems}
+{wiki=AI-complete}
+
+= Circuit satisfiability problem
+{parent=Computational problems}
+{wiki=Circuit_satisfiability_problem}
+
+= Decision problem
+{parent=Computational problems}
+{wiki=Decision_problem}
+
+= Function problem
+{parent=Computational problems}
+{wiki=Function_problem}
+
+= Linear search problem
+{parent=Computational problems}
+{wiki=Linear_search_problem}
+
+= List of PPAD-complete problems
+{parent=Computational problems}
+{wiki=List_of_PPAD-complete_problems}
+
+= Optimization problem
+{parent=Computational problems}
+{wiki=Optimization_problem}
+
+= Predecessor problem
+{parent=Computational problems}
+{wiki=Predecessor_problem}
+
+= Promise problem
+{parent=Computational problems}
+{wiki=Promise_problem}
+
+= Ring learning with errors
+{parent=Computational problems}
+{wiki=Ring_learning_with_errors}
+
+= Search problem
+{parent=Computational problems}
+{wiki=Search_problem}

@@ -1,0 +1,678 @@
+= Algebraic graph theory
+{wiki=Algebraic_graph_theory}
+
+= Cayley graphs
+{parent=Algebraic graph theory}
+{wiki=Category:Cayley_graphs}
+
+= Cayley graph
+{parent=Cayley graphs}
+{wiki=Cayley_graph}
+
+= Growth rate (group theory)
+{parent=Cayley graphs}
+{wiki=Growth_rate_(group_theory)}
+
+= Superstrong approximation
+{parent=Cayley graphs}
+{wiki=Superstrong_approximation}
+
+= Regular graphs
+{parent=Algebraic graph theory}
+{wiki=Regular_graphs}
+
+= Strongly regular graphs
+{parent=Regular graphs}
+{wiki=Strongly_regular_graphs}
+
+= 110-vertex Iofinova–Ivanov graph
+{parent=Regular graphs}
+{wiki=110-vertex_Iofinova–Ivanov_graph}
+
+= Andrásfai graph
+{parent=Regular graphs}
+{wiki=Andrásfai_graph}
+
+= Antiprism graph
+{parent=Regular graphs}
+{wiki=Antiprism_graph}
+
+= Archimedean graph
+{parent=Regular graphs}
+{wiki=Archimedean_graph}
+
+= Balaban 10-cage
+{parent=Regular graphs}
+{wiki=Balaban_10-cage}
+
+= Balaban 11-cage
+{parent=Regular graphs}
+{wiki=Balaban_11-cage}
+
+= Barnette–Bosák–Lederberg graph
+{parent=Regular graphs}
+{wiki=Barnette–Bosák–Lederberg_graph}
+
+= Bidiakis cube
+{parent=Regular graphs}
+{wiki=Bidiakis_cube}
+
+= Biggs–Smith graph
+{parent=Regular graphs}
+{wiki=Biggs–Smith_graph}
+
+= Blanuša snarks
+{parent=Regular graphs}
+{wiki=Blanuša_snarks}
+
+= Brinkmann graph
+{parent=Regular graphs}
+{wiki=Brinkmann_graph}
+
+= Cage (graph theory)
+{parent=Regular graphs}
+{wiki=Cage_(graph_theory)}
+
+= Cameron graph
+{parent=Regular graphs}
+{wiki=Cameron_graph}
+
+= Chang graphs
+{parent=Regular graphs}
+{wiki=Chang_graphs}
+
+= Chvátal graph
+{parent=Regular graphs}
+{wiki=Chvátal_graph}
+
+= Circulant graph
+{parent=Regular graphs}
+{wiki=Circulant_graph}
+
+= Circular coloring
+{parent=Regular graphs}
+{wiki=Circular_coloring}
+
+= Clebsch graph
+{parent=Regular graphs}
+{wiki=Clebsch_graph}
+
+= Complete graph
+{parent=Regular graphs}
+{wiki=Complete_graph}
+
+= Coxeter graph
+{parent=Regular graphs}
+{wiki=Coxeter_graph}
+
+= Crown graph
+{parent=Regular graphs}
+{wiki=Crown_graph}
+
+= Cube-connected cycles
+{parent=Regular graphs}
+{wiki=Cube-connected_cycles}
+
+= Cubic graph
+{parent=Regular graphs}
+{wiki=Cubic_graph}
+
+= Cycle graph
+{parent=Regular graphs}
+{wiki=Cycle_graph}
+
+= Dejter graph
+{parent=Regular graphs}
+{wiki=Dejter_graph}
+
+= Desargues graph
+{parent=Regular graphs}
+{wiki=Desargues_graph}
+
+= Diamond cubic
+{parent=Regular graphs}
+{wiki=Diamond_cubic}
+
+= Dipole graph
+{parent=Regular graphs}
+{wiki=Dipole_graph}
+
+= Double-star snark
+{parent=Regular graphs}
+{wiki=Double-star_snark}
+
+= Dyck graph
+{parent=Regular graphs}
+{wiki=Dyck_graph}
+
+= Dürer graph
+{parent=Regular graphs}
+{wiki=Dürer_graph}
+
+= Ellingham–Horton graph
+{parent=Regular graphs}
+{wiki=Ellingham–Horton_graph}
+
+= F26A graph
+{parent=Regular graphs}
+{wiki=F26A_graph}
+
+= Flower snark
+{parent=Regular graphs}
+{wiki=Flower_snark}
+
+= Folded cube graph
+{parent=Regular graphs}
+{wiki=Folded_cube_graph}
+
+= Folkman graph
+{parent=Regular graphs}
+{wiki=Folkman_graph}
+
+= Foster cage
+{parent=Regular graphs}
+{wiki=Foster_cage}
+
+= Foster graph
+{parent=Regular graphs}
+{wiki=Foster_graph}
+
+= Franklin graph
+{parent=Regular graphs}
+{wiki=Franklin_graph}
+
+= Frankl–Rödl graph
+{parent=Regular graphs}
+{wiki=Frankl–Rödl_graph}
+
+= Frucht graph
+{parent=Regular graphs}
+{wiki=Frucht_graph}
+
+= Generalized Petersen graph
+{parent=Regular graphs}
+{wiki=Generalized_Petersen_graph}
+
+= Gewirtz graph
+{parent=Regular graphs}
+{wiki=Gewirtz_graph}
+
+= Gosset graph
+{parent=Regular graphs}
+{wiki=Gosset_graph}
+
+= Grassmann graph
+{parent=Regular graphs}
+{wiki=Grassmann_graph}
+
+= Gray graph
+{parent=Regular graphs}
+{wiki=Gray_graph}
+
+= Hall–Janko graph
+{parent=Regular graphs}
+{wiki=Hall–Janko_graph}
+
+= Halved cube graph
+{parent=Regular graphs}
+{wiki=Halved_cube_graph}
+
+= Hamming graph
+{parent=Regular graphs}
+{wiki=Hamming_graph}
+
+= Harries graph
+{parent=Regular graphs}
+{wiki=Harries_graph}
+
+= Harries–Wong graph
+{parent=Regular graphs}
+{wiki=Harries–Wong_graph}
+
+= Heawood graph
+{parent=Regular graphs}
+{wiki=Heawood_graph}
+
+= Higman–Sims graph
+{parent=Regular graphs}
+{wiki=Higman–Sims_graph}
+
+= Hoffman graph
+{parent=Regular graphs}
+{wiki=Hoffman_graph}
+
+= Hoffman–Singleton graph
+{parent=Regular graphs}
+{wiki=Hoffman–Singleton_graph}
+
+= Holt graph
+{parent=Regular graphs}
+{wiki=Holt_graph}
+
+= Horton graph
+{parent=Regular graphs}
+{wiki=Horton_graph}
+
+= Hypercube graph
+{parent=Regular graphs}
+{wiki=Hypercube_graph}
+
+= Johnson graph
+{parent=Regular graphs}
+{wiki=Johnson_graph}
+
+= Klein graphs
+{parent=Regular graphs}
+{wiki=Klein_graphs}
+
+= Kneser graph
+{parent=Regular graphs}
+{wiki=Kneser_graph}
+
+= Laves graph
+{parent=Regular graphs}
+{wiki=Laves_graph}
+
+= Livingstone graph
+{parent=Regular graphs}
+{wiki=Livingstone_graph}
+
+= Ljubljana graph
+{parent=Regular graphs}
+{wiki=Ljubljana_graph}
+
+= McGee graph
+{parent=Regular graphs}
+{wiki=McGee_graph}
+
+= McKay–Miller–Širáň graph
+{parent=Regular graphs}
+{wiki=McKay–Miller–Širáň_graph}
+
+= McLaughlin graph
+{parent=Regular graphs}
+{wiki=McLaughlin_graph}
+
+= Meredith graph
+{parent=Regular graphs}
+{wiki=Meredith_graph}
+
+= Meringer graph
+{parent=Regular graphs}
+{wiki=Meringer_graph}
+
+= Moore graph
+{parent=Regular graphs}
+{wiki=Moore_graph}
+
+= Möbius ladder
+{parent=Regular graphs}
+{wiki=Möbius_ladder}
+
+= Möbius–Kantor graph
+{parent=Regular graphs}
+{wiki=Möbius–Kantor_graph}
+
+= Nauru graph
+{parent=Regular graphs}
+{wiki=Nauru_graph}
+
+= Null graph
+{parent=Regular graphs}
+{wiki=Null_graph}
+
+= Odd graph
+{parent=Regular graphs}
+{wiki=Odd_graph}
+
+= Paley graph
+{parent=Regular graphs}
+{wiki=Paley_graph}
+
+= Pappus graph
+{parent=Regular graphs}
+{wiki=Pappus_graph}
+
+= Perkel graph
+{parent=Regular graphs}
+{wiki=Perkel_graph}
+
+= Petersen graph
+{parent=Regular graphs}
+{wiki=Petersen_graph}
+
+= Platonic graph
+{parent=Regular graphs}
+{wiki=Platonic_graph}
+
+= Prism graph
+{parent=Regular graphs}
+{wiki=Prism_graph}
+
+= Quartic graph
+{parent=Regular graphs}
+{wiki=Quartic_graph}
+
+= Random regular graph
+{parent=Regular graphs}
+{wiki=Random_regular_graph}
+
+= Regular graph
+{parent=Regular graphs}
+{wiki=Regular_graph}
+
+= Robertson graph
+{parent=Regular graphs}
+{wiki=Robertson_graph}
+
+= Robertson–Wegner graph
+{parent=Regular graphs}
+{wiki=Robertson–Wegner_graph}
+
+= Rook's graph
+{parent=Regular graphs}
+{wiki=Rook's_graph}
+
+= Schläfli graph
+{parent=Regular graphs}
+{wiki=Schläfli_graph}
+
+= Shrikhande graph
+{parent=Regular graphs}
+{wiki=Shrikhande_graph}
+
+= Shuffle-exchange network
+{parent=Regular graphs}
+{wiki=Shuffle-exchange_network}
+
+= Snark (graph theory)
+{parent=Regular graphs}
+{wiki=Snark_(graph_theory)}
+
+= Sudoku graph
+{parent=Regular graphs}
+{wiki=Sudoku_graph}
+
+= Supersingular isogeny graph
+{parent=Regular graphs}
+{wiki=Supersingular_isogeny_graph}
+
+= Suzuki graph
+{parent=Regular graphs}
+{wiki=Suzuki_graph}
+
+= Sylvester graph
+{parent=Regular graphs}
+{wiki=Sylvester_graph}
+
+= Szekeres snark
+{parent=Regular graphs}
+{wiki=Szekeres_snark}
+
+= Table of simple cubic graphs
+{parent=Regular graphs}
+{wiki=Table_of_simple_cubic_graphs}
+
+= Tietze's graph
+{parent=Regular graphs}
+{wiki=Tietze's_graph}
+
+= Triangle graph
+{parent=Regular graphs}
+{wiki=Triangle_graph}
+
+= Tutte 12-cage
+{parent=Regular graphs}
+{wiki=Tutte_12-cage}
+
+= Tutte graph
+{parent=Regular graphs}
+{wiki=Tutte_graph}
+
+= Tutte–Coxeter graph
+{parent=Regular graphs}
+{wiki=Tutte–Coxeter_graph}
+
+= Wagner graph
+{parent=Regular graphs}
+{wiki=Wagner_graph}
+
+= Watkins snark
+{parent=Regular graphs}
+{wiki=Watkins_snark}
+
+= Wells graph
+{parent=Regular graphs}
+{wiki=Wells_graph}
+
+= Wong graph
+{parent=Regular graphs}
+{wiki=Wong_graph}
+
+= Adjacency algebra
+{parent=Algebraic graph theory}
+{wiki=Adjacency_algebra}
+
+= Adjacency matrix
+{parent=Algebraic graph theory}
+{wiki=Adjacency_matrix}
+
+= Algebraic connectivity
+{parent=Algebraic graph theory}
+{wiki=Algebraic_connectivity}
+
+= Alon–Boppana bound
+{parent=Algebraic graph theory}
+{wiki=Alon–Boppana_bound}
+
+= Babai's problem
+{parent=Algebraic graph theory}
+{wiki=Babai's_problem}
+
+= Brouwer's conjecture
+{parent=Algebraic graph theory}
+{wiki=Brouwer's_conjecture}
+
+= Centrality
+{parent=Algebraic graph theory}
+{wiki=Centrality}
+
+= Clustering coefficient
+{parent=Algebraic graph theory}
+{wiki=Clustering_coefficient}
+
+= Complex network zeta function
+{parent=Algebraic graph theory}
+{wiki=Complex_network_zeta_function}
+
+= Conductance (graph)
+{parent=Algebraic graph theory}
+{wiki=Conductance_(graph)}
+
+= Conference graph
+{parent=Algebraic graph theory}
+{wiki=Conference_graph}
+
+= Conference matrix
+{parent=Algebraic graph theory}
+{wiki=Conference_matrix}
+
+= Cycle basis
+{parent=Algebraic graph theory}
+{wiki=Cycle_basis}
+
+= Cycle space
+{parent=Algebraic graph theory}
+{wiki=Cycle_space}
+
+= Degree matrix
+{parent=Algebraic graph theory}
+{wiki=Degree_matrix}
+
+= Distance-regular graph
+{parent=Algebraic graph theory}
+{wiki=Distance-regular_graph}
+
+= Distance-transitive graph
+{parent=Algebraic graph theory}
+{wiki=Distance-transitive_graph}
+
+= Dual graph
+{parent=Algebraic graph theory}
+{wiki=Dual_graph}
+
+= Edge-transitive graph
+{parent=Algebraic graph theory}
+{wiki=Edge-transitive_graph}
+
+= Edge and vertex spaces
+{parent=Algebraic graph theory}
+{wiki=Edge_and_vertex_spaces}
+
+= Edmonds matrix
+{parent=Algebraic graph theory}
+{wiki=Edmonds_matrix}
+
+= Elementary Number Theory, Group Theory and Ramanujan Graphs
+{parent=Algebraic graph theory}
+{wiki=Elementary_Number_Theory,_Group_Theory_and_Ramanujan_Graphs}
+
+= Expander mixing lemma
+{parent=Algebraic graph theory}
+{wiki=Expander_mixing_lemma}
+
+= Frucht's theorem
+{parent=Algebraic graph theory}
+{wiki=Frucht's_theorem}
+
+= Graham–Pollak theorem
+{parent=Algebraic graph theory}
+{wiki=Graham–Pollak_theorem}
+
+= Graph automorphism
+{parent=Algebraic graph theory}
+{wiki=Graph_automorphism}
+
+= Graph energy
+{parent=Algebraic graph theory}
+{wiki=Graph_energy}
+
+= Hafnian
+{parent=Algebraic graph theory}
+{wiki=Hafnian}
+
+= Half-transitive graph
+{parent=Algebraic graph theory}
+{wiki=Half-transitive_graph}
+
+= Hierarchical closeness
+{parent=Algebraic graph theory}
+{wiki=Hierarchical_closeness}
+
+= Ihara zeta function
+{parent=Algebraic graph theory}
+{wiki=Ihara_zeta_function}
+
+= Incidence matrix
+{parent=Algebraic graph theory}
+{wiki=Incidence_matrix}
+
+= Integral graph
+{parent=Algebraic graph theory}
+{wiki=Integral_graph}
+
+= Jordan–Pólya number
+{parent=Algebraic graph theory}
+{wiki=Jordan–Pólya_number}
+
+= Katz centrality
+{parent=Algebraic graph theory}
+{wiki=Katz_centrality}
+
+= Kirchhoff's theorem
+{parent=Algebraic graph theory}
+{wiki=Kirchhoff's_theorem}
+
+= Laplacian matrix
+{parent=Algebraic graph theory}
+{wiki=Laplacian_matrix}
+
+= Lovász conjecture
+{parent=Algebraic graph theory}
+{wiki=Lovász_conjecture}
+
+= Mac Lane's planarity criterion
+{parent=Algebraic graph theory}
+{wiki=Mac_Lane's_planarity_criterion}
+
+= Matching polynomial
+{parent=Algebraic graph theory}
+{wiki=Matching_polynomial}
+
+= Minimum rank of a graph
+{parent=Algebraic graph theory}
+{wiki=Minimum_rank_of_a_graph}
+
+= Modularity (networks)
+{parent=Algebraic graph theory}
+{wiki=Modularity_(networks)}
+
+= Parry–Sullivan invariant
+{parent=Algebraic graph theory}
+{wiki=Parry–Sullivan_invariant}
+
+= Ramanujan graph
+{parent=Algebraic graph theory}
+{wiki=Ramanujan_graph}
+
+= Rank (graph theory)
+{parent=Algebraic graph theory}
+{wiki=Rank_(graph_theory)}
+
+= Seidel adjacency matrix
+{parent=Algebraic graph theory}
+{wiki=Seidel_adjacency_matrix}
+
+= Semi-symmetric graph
+{parent=Algebraic graph theory}
+{wiki=Semi-symmetric_graph}
+
+= Sims conjecture
+{parent=Algebraic graph theory}
+{wiki=Sims_conjecture}
+
+= Spectral clustering
+{parent=Algebraic graph theory}
+{wiki=Spectral_clustering}
+
+= Spectral graph theory
+{parent=Algebraic graph theory}
+{wiki=Spectral_graph_theory}
+
+= Strongly regular graph
+{parent=Algebraic graph theory}
+{wiki=Strongly_regular_graph}
+
+= Symmetric graph
+{parent=Algebraic graph theory}
+{wiki=Symmetric_graph}
+
+= Tutte matrix
+{parent=Algebraic graph theory}
+{wiki=Tutte_matrix}
+
+= Two-graph
+{parent=Algebraic graph theory}
+{wiki=Two-graph}
+
+= Vertex-transitive graph
+{parent=Algebraic graph theory}
+{wiki=Vertex-transitive_graph}
+
+= Walk-regular graph
+{parent=Algebraic graph theory}
+{wiki=Walk-regular_graph}
+
+= Zero-symmetric graph
+{parent=Algebraic graph theory}
+{wiki=Zero-symmetric_graph}

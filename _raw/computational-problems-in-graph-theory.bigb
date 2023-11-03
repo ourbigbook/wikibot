@@ -1,0 +1,706 @@
+= Computational problems in graph theory
+{wiki=Category:Computational_problems_in_graph_theory}
+
+= Bipartite realization problem
+{parent=Computational problems in graph theory}
+{wiki=Bipartite_realization_problem}
+
+= Canadian traveller problem
+{parent=Computational problems in graph theory}
+{wiki=Canadian_traveller_problem}
+
+= Chinese postman problem
+{parent=Computational problems in graph theory}
+{wiki=Chinese_postman_problem}
+
+= Clique cover
+{parent=Computational problems in graph theory}
+{wiki=Clique_cover}
+
+= Clique problem
+{parent=Computational problems in graph theory}
+{wiki=Clique_problem}
+
+= Connected dominating set
+{parent=Computational problems in graph theory}
+{wiki=Connected_dominating_set}
+
+= Correlation clustering
+{parent=Computational problems in graph theory}
+{wiki=Correlation_clustering}
+
+= Degree diameter problem
+{parent=Computational problems in graph theory}
+{wiki=Degree_diameter_problem}
+
+= Deterministic rendezvous problem
+{parent=Computational problems in graph theory}
+{wiki=Deterministic_rendezvous_problem}
+
+= Digraph realization problem
+{parent=Computational problems in graph theory}
+{wiki=Digraph_realization_problem}
+
+= Domatic number
+{parent=Computational problems in graph theory}
+{wiki=Domatic_number}
+
+= Dominating set
+{parent=Computational problems in graph theory}
+{wiki=Dominating_set}
+
+= Edge cover
+{parent=Computational problems in graph theory}
+{wiki=Edge_cover}
+
+= Edge dominating set
+{parent=Computational problems in graph theory}
+{wiki=Edge_dominating_set}
+
+= Feedback arc set
+{parent=Computational problems in graph theory}
+{wiki=Feedback_arc_set}
+
+= Feedback vertex set
+{parent=Computational problems in graph theory}
+{wiki=Feedback_vertex_set}
+
+= Frequent subtree mining
+{parent=Computational problems in graph theory}
+{wiki=Frequent_subtree_mining}
+
+= Good spanning tree
+{parent=Computational problems in graph theory}
+{wiki=Good_spanning_tree}
+
+= Graph coloring
+{parent=Computational problems in graph theory}
+{wiki=Graph_coloring}
+
+= Perfect graphs
+{parent=Graph coloring}
+{wiki=Category:Perfect_graphs}
+
+= Acyclic coloring
+{parent=Graph coloring}
+{wiki=Acyclic_coloring}
+
+= Adjacent-vertex-distinguishing-total coloring
+{parent=Graph coloring}
+{wiki=Adjacent-vertex-distinguishing-total_coloring}
+
+= Albertson conjecture
+{parent=Graph coloring}
+{wiki=Albertson_conjecture}
+
+= B-coloring
+{parent=Graph coloring}
+{wiki=B-coloring}
+
+= Brooks' theorem
+{parent=Graph coloring}
+{wiki=Brooks'_theorem}
+
+= Cereceda's conjecture
+{parent=Graph coloring}
+{wiki=Cereceda's_conjecture}
+
+= Chromatic polynomial
+{parent=Graph coloring}
+{wiki=Chromatic_polynomial}
+
+= Cocoloring
+{parent=Graph coloring}
+{wiki=Cocoloring}
+
+= Complete coloring
+{parent=Graph coloring}
+{wiki=Complete_coloring}
+
+= Conflict-free coloring
+{parent=Graph coloring}
+{wiki=Conflict-free_coloring}
+
+= Critical graph
+{parent=Graph coloring}
+{wiki=Critical_graph}
+
+= De Bruijn–Erdős theorem (graph theory)
+{parent=Graph coloring}
+{wiki=De_Bruijn–Erdős_theorem_(graph_theory)}
+
+= Defective coloring
+{parent=Graph coloring}
+{wiki=Defective_coloring}
+
+= Distinguishing coloring
+{parent=Graph coloring}
+{wiki=Distinguishing_coloring}
+
+= Earth–Moon problem
+{parent=Graph coloring}
+{wiki=Earth–Moon_problem}
+
+= Edge coloring
+{parent=Graph coloring}
+{wiki=Edge_coloring}
+
+= Equitable coloring
+{parent=Graph coloring}
+{wiki=Equitable_coloring}
+
+= Erdős–Faber–Lovász conjecture
+{parent=Graph coloring}
+{wiki=Erdős–Faber–Lovász_conjecture}
+
+= Exact coloring
+{parent=Graph coloring}
+{wiki=Exact_coloring}
+
+= Five color theorem
+{parent=Graph coloring}
+{wiki=Five_color_theorem}
+
+= Four color theorem
+{parent=Graph coloring}
+{wiki=Four_color_theorem}
+
+= Fractional coloring
+{parent=Graph coloring}
+{wiki=Fractional_coloring}
+
+= Gallai–Hasse–Roy–Vitaver theorem
+{parent=Graph coloring}
+{wiki=Gallai–Hasse–Roy–Vitaver_theorem}
+
+= Goldberg–Seymour conjecture
+{parent=Graph coloring}
+{wiki=Goldberg–Seymour_conjecture}
+
+= Graph coloring game
+{parent=Graph coloring}
+{wiki=Graph_coloring_game}
+
+= Greedy coloring
+{parent=Graph coloring}
+{wiki=Greedy_coloring}
+
+= Grundy number
+{parent=Graph coloring}
+{wiki=Grundy_number}
+
+= Grötzsch's theorem
+{parent=Graph coloring}
+{wiki=Grötzsch's_theorem}
+
+= Gyárfás–Sumner conjecture
+{parent=Graph coloring}
+{wiki=Gyárfás–Sumner_conjecture}
+
+= Hadwiger conjecture (graph theory)
+{parent=Graph coloring}
+{wiki=Hadwiger_conjecture_(graph_theory)}
+
+= Hadwiger–Nelson problem
+{parent=Graph coloring}
+{wiki=Hadwiger–Nelson_problem}
+
+= Hajós construction
+{parent=Graph coloring}
+{wiki=Hajós_construction}
+
+= Hamiltonian coloring
+{parent=Graph coloring}
+{wiki=Hamiltonian_coloring}
+
+= Harmonious coloring
+{parent=Graph coloring}
+{wiki=Harmonious_coloring}
+
+= Heawood conjecture
+{parent=Graph coloring}
+{wiki=Heawood_conjecture}
+
+= Heawood number
+{parent=Graph coloring}
+{wiki=Heawood_number}
+
+= Hedetniemi's conjecture
+{parent=Graph coloring}
+{wiki=Hedetniemi's_conjecture}
+
+= Incidence coloring
+{parent=Graph coloring}
+{wiki=Incidence_coloring}
+
+= Interval chromatic number of an ordered graph
+{parent=Graph coloring}
+{wiki=Interval_chromatic_number_of_an_ordered_graph}
+
+= Interval edge coloring
+{parent=Graph coloring}
+{wiki=Interval_edge_coloring}
+
+= Kempe chain
+{parent=Graph coloring}
+{wiki=Kempe_chain}
+
+= L(2,1)-coloring
+{parent=Graph coloring}
+{wiki=L(2,1)-coloring}
+
+= L(h, k)-coloring
+{parent=Graph coloring}
+{wiki=L(h,_k)-coloring}
+
+= List coloring
+{parent=Graph coloring}
+{wiki=List_coloring}
+
+= List edge-coloring
+{parent=Graph coloring}
+{wiki=List_edge-coloring}
+
+= Monochromatic triangle
+{parent=Graph coloring}
+{wiki=Monochromatic_triangle}
+
+= Open coloring axiom
+{parent=Graph coloring}
+{wiki=Open_coloring_axiom}
+
+= Oriented coloring
+{parent=Graph coloring}
+{wiki=Oriented_coloring}
+
+= Path coloring
+{parent=Graph coloring}
+{wiki=Path_coloring}
+
+= Perfectly orderable graph
+{parent=Graph coloring}
+{wiki=Perfectly_orderable_graph}
+
+= Precoloring extension
+{parent=Graph coloring}
+{wiki=Precoloring_extension}
+
+= Rainbow coloring
+{parent=Graph coloring}
+{wiki=Rainbow_coloring}
+
+= Rainbow matching
+{parent=Graph coloring}
+{wiki=Rainbow_matching}
+
+= Shift graph
+{parent=Graph coloring}
+{wiki=Shift_graph}
+
+= Star coloring
+{parent=Graph coloring}
+{wiki=Star_coloring}
+
+= Strong coloring
+{parent=Graph coloring}
+{wiki=Strong_coloring}
+
+= Subcoloring
+{parent=Graph coloring}
+{wiki=Subcoloring}
+
+= Sum coloring
+{parent=Graph coloring}
+{wiki=Sum_coloring}
+
+= Symmetric hypergraph theorem
+{parent=Graph coloring}
+{wiki=Symmetric_hypergraph_theorem}
+
+= T-coloring
+{parent=Graph coloring}
+{wiki=T-coloring}
+
+= Total coloring
+{parent=Graph coloring}
+{wiki=Total_coloring}
+
+= Tree-depth
+{parent=Graph coloring}
+{wiki=Tree-depth}
+
+= Tricolorability
+{parent=Graph coloring}
+{wiki=Tricolorability}
+
+= Uniquely colorable graph
+{parent=Graph coloring}
+{wiki=Uniquely_colorable_graph}
+
+= Vizing's theorem
+{parent=Graph coloring}
+{wiki=Vizing's_theorem}
+
+= Well-colored graph
+{parent=Graph coloring}
+{wiki=Well-colored_graph}
+
+= Χ-bounded
+{parent=Graph coloring}
+{wiki=Χ-bounded}
+
+= Graph cut optimization
+{parent=Computational problems in graph theory}
+{wiki=Graph_cut_optimization}
+
+= Graph cuts in computer vision
+{parent=Computational problems in graph theory}
+{wiki=Graph_cuts_in_computer_vision}
+
+= Graph matching
+{parent=Computational problems in graph theory}
+{wiki=Graph_matching}
+
+= Graph partition
+{parent=Computational problems in graph theory}
+{wiki=Graph_partition}
+
+= Graph realization problem
+{parent=Computational problems in graph theory}
+{wiki=Graph_realization_problem}
+
+= Graph sandwich problem
+{parent=Computational problems in graph theory}
+{wiki=Graph_sandwich_problem}
+
+= Hamiltonian cycle polynomial
+{parent=Computational problems in graph theory}
+{wiki=Hamiltonian_cycle_polynomial}
+
+= Hamiltonian path
+{parent=Computational problems in graph theory}
+{wiki=Hamiltonian_path}
+
+= Hamiltonian path problem
+{parent=Computational problems in graph theory}
+{wiki=Hamiltonian_path_problem}
+
+= Independent set (graph theory)
+{parent=Computational problems in graph theory}
+{wiki=Independent_set_(graph_theory)}
+
+= Induced subgraph isomorphism problem
+{parent=Computational problems in graph theory}
+{wiki=Induced_subgraph_isomorphism_problem}
+
+= Instant Insanity
+{parent=Computational problems in graph theory}
+{wiki=Instant_Insanity}
+
+= Longest uncrossed knight's path
+{parent=Computational problems in graph theory}
+{wiki=Longest_uncrossed_knight's_path}
+
+= Matching (graph theory)
+{parent=Computational problems in graph theory}
+{wiki=Matching_(graph_theory)}
+
+= Stable matching
+{parent=Matching (graph theory)}
+{wiki=Stable_matching}
+
+= Assignment problem
+{parent=Matching (graph theory)}
+{wiki=Assignment_problem}
+
+= Berge's theorem
+{parent=Matching (graph theory)}
+{wiki=Berge's_theorem}
+
+= Chord diagram (mathematics)
+{parent=Matching (graph theory)}
+{wiki=Chord_diagram_(mathematics)}
+
+= Claw-free graph
+{parent=Matching (graph theory)}
+{wiki=Claw-free_graph}
+
+= Factor-critical graph
+{parent=Matching (graph theory)}
+{wiki=Factor-critical_graph}
+
+= Fractional matching
+{parent=Matching (graph theory)}
+{wiki=Fractional_matching}
+
+= House allocation problem
+{parent=Matching (graph theory)}
+{wiki=House_allocation_problem}
+
+= Hungarian algorithm
+{parent=Matching (graph theory)}
+{wiki=Hungarian_algorithm}
+
+= Induced matching
+{parent=Matching (graph theory)}
+{wiki=Induced_matching}
+
+= Kőnig's theorem (graph theory)
+{parent=Matching (graph theory)}
+{wiki=Kőnig's_theorem_(graph_theory)}
+
+= Matching in hypergraphs
+{parent=Matching (graph theory)}
+{wiki=Matching_in_hypergraphs}
+
+= Matching polytope
+{parent=Matching (graph theory)}
+{wiki=Matching_polytope}
+
+= Matching preclusion
+{parent=Matching (graph theory)}
+{wiki=Matching_preclusion}
+
+= Maximally matchable edge
+{parent=Matching (graph theory)}
+{wiki=Maximally_matchable_edge}
+
+= Maximum cardinality matching
+{parent=Matching (graph theory)}
+{wiki=Maximum_cardinality_matching}
+
+= Perfect matching
+{parent=Matching (graph theory)}
+{wiki=Perfect_matching}
+
+= Perfect matching in high-degree hypergraphs
+{parent=Matching (graph theory)}
+{wiki=Perfect_matching_in_high-degree_hypergraphs}
+
+= Petersen's theorem
+{parent=Matching (graph theory)}
+{wiki=Petersen's_theorem}
+
+= Pfaffian orientation
+{parent=Matching (graph theory)}
+{wiki=Pfaffian_orientation}
+
+= Priority matching
+{parent=Matching (graph theory)}
+{wiki=Priority_matching}
+
+= Rank-maximal allocation
+{parent=Matching (graph theory)}
+{wiki=Rank-maximal_allocation}
+
+= Ruzsa–Szemerédi problem
+{parent=Matching (graph theory)}
+{wiki=Ruzsa–Szemerédi_problem}
+
+= Saturation (graph theory)
+{parent=Matching (graph theory)}
+{wiki=Saturation_(graph_theory)}
+
+= Skew-symmetric graph
+{parent=Matching (graph theory)}
+{wiki=Skew-symmetric_graph}
+
+= Top trading cycle
+{parent=Matching (graph theory)}
+{wiki=Top_trading_cycle}
+
+= Tutte theorem
+{parent=Matching (graph theory)}
+{wiki=Tutte_theorem}
+
+= Tutte–Berge formula
+{parent=Matching (graph theory)}
+{wiki=Tutte–Berge_formula}
+
+= MaxDDBS
+{parent=Computational problems in graph theory}
+{wiki=MaxDDBS}
+
+= Maximal independent set
+{parent=Computational problems in graph theory}
+{wiki=Maximal_independent_set}
+
+= Maximum agreement subtree problem
+{parent=Computational problems in graph theory}
+{wiki=Maximum_agreement_subtree_problem}
+
+= Maximum common edge subgraph
+{parent=Computational problems in graph theory}
+{wiki=Maximum_common_edge_subgraph}
+
+= Maximum cut
+{parent=Computational problems in graph theory}
+{wiki=Maximum_cut}
+
+= Maximum flow problem
+{parent=Computational problems in graph theory}
+{wiki=Maximum_flow_problem}
+
+= Maximum weight matching
+{parent=Computational problems in graph theory}
+{wiki=Maximum_weight_matching}
+
+= Mixed Chinese postman problem
+{parent=Computational problems in graph theory}
+{wiki=Mixed_Chinese_postman_problem}
+
+= Multi-trials technique
+{parent=Computational problems in graph theory}
+{wiki=Multi-trials_technique}
+
+= Nonblocker
+{parent=Computational problems in graph theory}
+{wiki=Nonblocker}
+
+= Nondeterministic constraint logic
+{parent=Computational problems in graph theory}
+{wiki=Nondeterministic_constraint_logic}
+
+= Odd cycle transversal
+{parent=Computational problems in graph theory}
+{wiki=Odd_cycle_transversal}
+
+= Pebble motion problems
+{parent=Computational problems in graph theory}
+{wiki=Pebble_motion_problems}
+
+= Planarity testing
+{parent=Computational problems in graph theory}
+{wiki=Planarity_testing}
+
+= Planted clique
+{parent=Computational problems in graph theory}
+{wiki=Planted_clique}
+
+= Quadratic pseudo-Boolean optimization
+{parent=Computational problems in graph theory}
+{wiki=Quadratic_pseudo-Boolean_optimization}
+
+= Radio coloring
+{parent=Computational problems in graph theory}
+{wiki=Radio_coloring}
+
+= Set TSP problem
+{parent=Computational problems in graph theory}
+{wiki=Set_TSP_problem}
+
+= Spanning tree
+{parent=Computational problems in graph theory}
+{wiki=Spanning_tree}
+
+= Arboricity
+{parent=Spanning tree}
+{wiki=Arboricity}
+
+= Bridge protocol data unit
+{parent=Spanning tree}
+{wiki=Bridge_protocol_data_unit}
+
+= Capacitated minimum spanning tree
+{parent=Spanning tree}
+{wiki=Capacitated_minimum_spanning_tree}
+
+= Degree-constrained spanning tree
+{parent=Spanning tree}
+{wiki=Degree-constrained_spanning_tree}
+
+= Euclidean minimum spanning tree
+{parent=Spanning tree}
+{wiki=Euclidean_minimum_spanning_tree}
+
+= Expected linear time MST algorithm
+{parent=Spanning tree}
+{wiki=Expected_linear_time_MST_algorithm}
+
+= Grid bracing
+{parent=Spanning tree}
+{wiki=Grid_bracing}
+
+= K-minimum spanning tree
+{parent=Spanning tree}
+{wiki=K-minimum_spanning_tree}
+
+= Kinetic minimum spanning tree
+{parent=Spanning tree}
+{wiki=Kinetic_minimum_spanning_tree}
+
+= Markov chain tree theorem
+{parent=Spanning tree}
+{wiki=Markov_chain_tree_theorem}
+
+= Minimum-cost spanning tree game
+{parent=Spanning tree}
+{wiki=Minimum-cost_spanning_tree_game}
+
+= Minimum degree spanning tree
+{parent=Spanning tree}
+{wiki=Minimum_degree_spanning_tree}
+
+= Minimum routing cost spanning tree
+{parent=Spanning tree}
+{wiki=Minimum_routing_cost_spanning_tree}
+
+= Minimum spanning tree
+{parent=Spanning tree}
+{wiki=Minimum_spanning_tree}
+
+= Minimum spanning tree-based segmentation
+{parent=Spanning tree}
+{wiki=Minimum_spanning_tree-based_segmentation}
+
+= Multiple Spanning Tree Protocol
+{parent=Spanning tree}
+{wiki=Multiple_Spanning_Tree_Protocol}
+
+= Net (polyhedron)
+{parent=Spanning tree}
+{wiki=Net_(polyhedron)}
+
+= Parallel algorithms for minimum spanning trees
+{parent=Spanning tree}
+{wiki=Parallel_algorithms_for_minimum_spanning_trees}
+
+= Rectilinear minimum spanning tree
+{parent=Spanning tree}
+{wiki=Rectilinear_minimum_spanning_tree}
+
+= Spanning Tree Protocol
+{parent=Spanning tree}
+{wiki=Spanning_Tree_Protocol}
+
+= Tree spanner
+{parent=Spanning tree}
+{wiki=Tree_spanner}
+
+= Trémaux tree
+{parent=Spanning tree}
+{wiki=Trémaux_tree}
+
+= Virtual Link Trunking
+{parent=Spanning tree}
+{wiki=Virtual_Link_Trunking}
+
+= Xuong tree
+{parent=Spanning tree}
+{wiki=Xuong_tree}
+
+= Steiner tree problem
+{parent=Computational problems in graph theory}
+{wiki=Steiner_tree_problem}
+
+= Strong connectivity augmentation
+{parent=Computational problems in graph theory}
+{wiki=Strong_connectivity_augmentation}
+
+= Vertex cover
+{parent=Computational problems in graph theory}
+{wiki=Vertex_cover}
+
+= Vertex cycle cover
+{parent=Computational problems in graph theory}
+{wiki=Vertex_cycle_cover}

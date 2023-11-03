@@ -1,0 +1,482 @@
+= Graphs
+{wiki=Graphs}
+
+= Application-specific graphs
+{parent=Graphs}
+{wiki=Category:Application-specific_graphs}
+
+= Graph data structures
+{parent=Application-specific graphs}
+{wiki=Category:Graph_data_structures}
+
+= Trees (data structures)
+{parent=Application-specific graphs}
+{wiki=Category:Trees_(data_structures)}
+
+= Bratteli diagram
+{parent=Application-specific graphs}
+{wiki=Bratteli_diagram}
+
+= Bratteli–Vershik diagram
+{parent=Application-specific graphs}
+{wiki=Bratteli–Vershik_diagram}
+
+= Citation graph
+{parent=Application-specific graphs}
+{wiki=Citation_graph}
+
+= Co-stardom network
+{parent=Application-specific graphs}
+{wiki=Co-stardom_network}
+
+= Code property graph
+{parent=Application-specific graphs}
+{wiki=Code_property_graph}
+
+= Collaboration graph
+{parent=Application-specific graphs}
+{wiki=Collaboration_graph}
+
+= Conceptual graph
+{parent=Application-specific graphs}
+{wiki=Conceptual_graph}
+
+= Configuration graph
+{parent=Application-specific graphs}
+{wiki=Configuration_graph}
+
+= Constraint graph
+{parent=Application-specific graphs}
+{wiki=Constraint_graph}
+
+= Constraint graph (layout)
+{parent=Application-specific graphs}
+{wiki=Constraint_graph_(layout)}
+
+= Control-flow graph
+{parent=Application-specific graphs}
+{wiki=Control-flow_graph}
+
+= Disjunctive graph
+{parent=Application-specific graphs}
+{wiki=Disjunctive_graph}
+
+= Eodermdrome
+{parent=Application-specific graphs}
+{wiki=Eodermdrome}
+
+= Evolutionary graph theory
+{parent=Application-specific graphs}
+{wiki=Evolutionary_graph_theory}
+
+= Factor graph
+{parent=Application-specific graphs}
+{wiki=Factor_graph}
+
+= Graph-structured stack
+{parent=Application-specific graphs}
+{wiki=Graph-structured_stack}
+
+= Ingredient-flavor network
+{parent=Application-specific graphs}
+{wiki=Ingredient-flavor_network}
+
+= Loss network
+{parent=Application-specific graphs}
+{wiki=Loss_network}
+
+= Prime graph
+{parent=Application-specific graphs}
+{wiki=Prime_graph}
+
+= Process graph
+{parent=Application-specific graphs}
+{wiki=Process_graph}
+
+= Program dependence graph
+{parent=Application-specific graphs}
+{wiki=Program_dependence_graph}
+
+= Reeb graph
+{parent=Application-specific graphs}
+{wiki=Reeb_graph}
+
+= Tanner graph
+{parent=Application-specific graphs}
+{wiki=Tanner_graph}
+
+= Trellis (graph)
+{parent=Application-specific graphs}
+{wiki=Trellis_(graph)}
+
+= Webgraph
+{parent=Application-specific graphs}
+{wiki=Webgraph}
+
+= Graph families
+{parent=Graphs}
+{wiki=Category:Graph_families}
+
+= Intersection classes of graphs
+{parent=Graph families}
+{wiki=Category:Intersection_classes_of_graphs}
+
+= Parametric families of graphs
+{parent=Graph families}
+{wiki=Category:Parametric_families_of_graphs}
+
+= Trees (graph theory)
+{parent=Graph families}
+{wiki=Category:Trees_(graph_theory)}
+
+= Asymmetric graph
+{parent=Graph families}
+{wiki=Asymmetric_graph}
+
+= Bipartite graph
+{parent=Graph families}
+{wiki=Bipartite_graph}
+
+= Bivariegated graph
+{parent=Graph families}
+{wiki=Bivariegated_graph}
+
+= Block graph
+{parent=Graph families}
+{wiki=Block_graph}
+
+= Bound graph
+{parent=Graph families}
+{wiki=Bound_graph}
+
+= Cactus graph
+{parent=Graph families}
+{wiki=Cactus_graph}
+
+= Chordal bipartite graph
+{parent=Graph families}
+{wiki=Chordal_bipartite_graph}
+
+= Chordal graph
+{parent=Graph families}
+{wiki=Chordal_graph}
+
+= Cluster graph
+{parent=Graph families}
+{wiki=Cluster_graph}
+
+= Comparability graph
+{parent=Graph families}
+{wiki=Comparability_graph}
+
+= Convex bipartite graph
+{parent=Graph families}
+{wiki=Convex_bipartite_graph}
+
+= Dense graph
+{parent=Graph families}
+{wiki=Dense_graph}
+
+= Distance-hereditary graph
+{parent=Graph families}
+{wiki=Distance-hereditary_graph}
+
+= Dually chordal graph
+{parent=Graph families}
+{wiki=Dually_chordal_graph}
+
+= Even-hole-free graph
+{parent=Graph families}
+{wiki=Even-hole-free_graph}
+
+= Expander graph
+{parent=Graph families}
+{wiki=Expander_graph}
+
+= Forcing graph
+{parent=Graph families}
+{wiki=Forcing_graph}
+
+= Geodetic graph
+{parent=Graph families}
+{wiki=Geodetic_graph}
+
+= Halin graph
+{parent=Graph families}
+{wiki=Halin_graph}
+
+= Hanan grid
+{parent=Graph families}
+{wiki=Hanan_grid}
+
+= Highly irregular graph
+{parent=Graph families}
+{wiki=Highly_irregular_graph}
+
+= Homogeneous graph
+{parent=Graph families}
+{wiki=Homogeneous_graph}
+
+= Kronecker graph
+{parent=Graph families}
+{wiki=Kronecker_graph}
+
+= Lattice graph
+{parent=Graph families}
+{wiki=Lattice_graph}
+
+= Leaf power
+{parent=Graph families}
+{wiki=Leaf_power}
+
+= Linear forest
+{parent=Graph families}
+{wiki=Linear_forest}
+
+= List of graphs by edges and vertices
+{parent=Graph families}
+{wiki=List_of_graphs_by_edges_and_vertices}
+
+= Locally linear graph
+{parent=Graph families}
+{wiki=Locally_linear_graph}
+
+= Lévy family of graphs
+{parent=Graph families}
+{wiki=Lévy_family_of_graphs}
+
+= Map graph
+{parent=Graph families}
+{wiki=Map_graph}
+
+= Meyniel graph
+{parent=Graph families}
+{wiki=Meyniel_graph}
+
+= Modular graph
+{parent=Graph families}
+{wiki=Modular_graph}
+
+= Multipartite graph
+{parent=Graph families}
+{wiki=Multipartite_graph}
+
+= Outerplanar graph
+{parent=Graph families}
+{wiki=Outerplanar_graph}
+
+= Overfull graph
+{parent=Graph families}
+{wiki=Overfull_graph}
+
+= Pairwise compatibility graph
+{parent=Graph families}
+{wiki=Pairwise_compatibility_graph}
+
+= Panconnectivity
+{parent=Graph families}
+{wiki=Panconnectivity}
+
+= Parity graph
+{parent=Graph families}
+{wiki=Parity_graph}
+
+= Planar graph
+{parent=Graph families}
+{wiki=Planar_graph}
+
+= Ptolemaic graph
+{parent=Graph families}
+{wiki=Ptolemaic_graph}
+
+= Quasi-bipartite graph
+{parent=Graph families}
+{wiki=Quasi-bipartite_graph}
+
+= Scale-free network
+{parent=Graph families}
+{wiki=Scale-free_network}
+
+= Self-complementary graph
+{parent=Graph families}
+{wiki=Self-complementary_graph}
+
+= Split graph
+{parent=Graph families}
+{wiki=Split_graph}
+
+= Squaregraph
+{parent=Graph families}
+{wiki=Squaregraph}
+
+= Strangulated graph
+{parent=Graph families}
+{wiki=Strangulated_graph}
+
+= Strongly chordal graph
+{parent=Graph families}
+{wiki=Strongly_chordal_graph}
+
+= Threshold graph
+{parent=Graph families}
+{wiki=Threshold_graph}
+
+= Triangle-free graph
+{parent=Graph families}
+{wiki=Triangle-free_graph}
+
+= Trivially perfect graph
+{parent=Graph families}
+{wiki=Trivially_perfect_graph}
+
+= Universal graph
+{parent=Graph families}
+{wiki=Universal_graph}
+
+= Well-covered graph
+{parent=Graph families}
+{wiki=Well-covered_graph}
+
+= Word-representable graph
+{parent=Graph families}
+{wiki=Word-representable_graph}
+
+= Individual graphs
+{parent=Graphs}
+{wiki=Category:Individual_graphs}
+
+= 120-cell
+{parent=Individual graphs}
+{wiki=120-cell}
+
+= 26-fullerene graph
+{parent=Individual graphs}
+{wiki=26-fullerene_graph}
+
+= Berlekamp–Van Lint–Seidel graph
+{parent=Individual graphs}
+{wiki=Berlekamp–Van_Lint–Seidel_graph}
+
+= Brouwer–Haemers graph
+{parent=Individual graphs}
+{wiki=Brouwer–Haemers_graph}
+
+= Bull graph
+{parent=Individual graphs}
+{wiki=Bull_graph}
+
+= Butterfly graph
+{parent=Individual graphs}
+{wiki=Butterfly_graph}
+
+= Diamond graph
+{parent=Individual graphs}
+{wiki=Diamond_graph}
+
+= Dodecahedron
+{parent=Individual graphs}
+{wiki=Dodecahedron}
+
+= Errera graph
+{parent=Individual graphs}
+{wiki=Errera_graph}
+
+= Goldner–Harary graph
+{parent=Individual graphs}
+{wiki=Goldner–Harary_graph}
+
+= Golomb graph
+{parent=Individual graphs}
+{wiki=Golomb_graph}
+
+= Grötzsch graph
+{parent=Individual graphs}
+{wiki=Grötzsch_graph}
+
+= Icosahedron
+{parent=Individual graphs}
+{wiki=Icosahedron}
+
+= Kittell graph
+{parent=Individual graphs}
+{wiki=Kittell_graph}
+
+= Krackhardt kite graph
+{parent=Individual graphs}
+{wiki=Krackhardt_kite_graph}
+
+= Loupekine snarks
+{parent=Individual graphs}
+{wiki=Loupekine_snarks}
+
+= M22 graph
+{parent=Individual graphs}
+{wiki=M22_graph}
+
+= Moser spindle
+{parent=Individual graphs}
+{wiki=Moser_spindle}
+
+= Octahedron
+{parent=Individual graphs}
+{wiki=Octahedron}
+
+= Poussin graph
+{parent=Individual graphs}
+{wiki=Poussin_graph}
+
+= Rado graph
+{parent=Individual graphs}
+{wiki=Rado_graph}
+
+= Sousselier graph
+{parent=Individual graphs}
+{wiki=Sousselier_graph}
+
+= Tetrahedron
+{parent=Individual graphs}
+{wiki=Tetrahedron}
+
+= Truncated icosahedron
+{parent=Individual graphs}
+{wiki=Truncated_icosahedron}
+
+= Truncated icosidodecahedron
+{parent=Individual graphs}
+{wiki=Truncated_icosidodecahedron}
+
+= Truncated tetrahedron
+{parent=Individual graphs}
+{wiki=Truncated_tetrahedron}
+
+= Wiener–Araya graph
+{parent=Individual graphs}
+{wiki=Wiener–Araya_graph}
+
+= Infinite graphs
+{parent=Graphs}
+{wiki=Category:Infinite_graphs}
+
+= Henson graph
+{parent=Infinite graphs}
+{wiki=Henson_graph}
+
+= Kőnig's lemma
+{parent=Infinite graphs}
+{wiki=Kőnig's_lemma}
+
+= List of graphs
+{parent=Graphs}
+{wiki=List_of_graphs}
+
+= Named graph
+{parent=Graphs}
+{wiki=Named_graph}
+
+= Smith graph
+{parent=Graphs}
+{wiki=Smith_graph}
+
+= Table of the largest known graphs of a given diameter and maximal degree
+{parent=Graphs}
+{wiki=Table_of_the_largest_known_graphs_of_a_given_diameter_and_maximal_degree}

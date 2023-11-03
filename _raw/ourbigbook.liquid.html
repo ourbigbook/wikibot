@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang=en>
+<head>
+<meta charset=utf-8>
+<title>{{ title }}{% unless is_index_article %} - Wikipedia Bot - OurBigBook Docs{% endunless %}</title>
+{% if is_index_article %}<script type="application/ld+json">{"name":"OurBigBook Docs","url":"https://docs.ourbigbook.com"}</script>
+{% endif %}<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>{{ style }}</style>
+<link rel="stylesheet" type="text/css" href="{{ raw_relpath }}/main.css">
+<link rel="shortcut icon" href="{{ raw_relpath }}/../logo.svg" />
+{{ head }}</head>
+<body>
+<header>
+<a href="{{ root_page }}"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/220px-Wikipedia-logo-v2.svg.png" />OurBigBook Wikipedia Bot</a>
+<a href="https://docs.ourbigbook.com/wikipedia-bot"><img src="https://docs.ourbigbook.com/_raw/logo.svg" />Documentation</a>
+</header>
+<main class="ourbigbook">
+{{ body }}</main>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2XSEK2ND00"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-2XSEK2ND00');
+</script>
+{{ post_body }}</body>
+</html>

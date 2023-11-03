@@ -1,0 +1,4138 @@
+= Theoretical computer science
+{wiki=Theoretical_computer_science}
+
+= Computational learning theory
+{parent=Theoretical computer science}
+{wiki=Computational_learning_theory}
+
+= Algorithmic learning theory
+{parent=Computational learning theory}
+{wiki=Algorithmic_learning_theory}
+
+= Bondy's theorem
+{parent=Computational learning theory}
+{wiki=Bondy's_theorem}
+
+= Cover's theorem
+{parent=Computational learning theory}
+{wiki=Cover's_theorem}
+
+= Distribution learning theory
+{parent=Computational learning theory}
+{wiki=Distribution_learning_theory}
+
+= Induction of regular languages
+{parent=Computational learning theory}
+{wiki=Induction_of_regular_languages}
+
+= Language identification in the limit
+{parent=Computational learning theory}
+{wiki=Language_identification_in_the_limit}
+
+= Probably approximately correct learning
+{parent=Computational learning theory}
+{wiki=Probably_approximately_correct_learning}
+
+= Shattered set
+{parent=Computational learning theory}
+{wiki=Shattered_set}
+
+= Teaching dimension
+{parent=Computational learning theory}
+{wiki=Teaching_dimension}
+
+= Unique negative dimension
+{parent=Computational learning theory}
+{wiki=Unique_negative_dimension}
+
+= Vapnik–Chervonenkis theory
+{parent=Computational learning theory}
+{wiki=Vapnik–Chervonenkis_theory}
+
+= Win–stay, lose–switch
+{parent=Computational learning theory}
+{wiki=Win–stay,_lose–switch}
+
+= Witness set
+{parent=Computational learning theory}
+{wiki=Witness_set}
+
+= Formal languages
+{parent=Theoretical computer science}
+{wiki=Formal_languages}
+
+= Computer languages
+{parent=Formal languages}
+{wiki=Computer_languages}
+
+= Dependently typed languages
+{parent=Formal languages}
+{wiki=Category:Dependently_typed_languages}
+
+= Formal theories
+{parent=Formal languages}
+{wiki=Category:Formal_theories}
+
+= Grammar frameworks
+{parent=Formal languages}
+{wiki=Grammar_frameworks}
+
+= L-systems
+{parent=Formal languages}
+{wiki=L-systems}
+
+= Logic symbols
+{parent=Formal languages}
+{wiki=Logic_symbols}
+
+= Metalanguages
+{parent=Formal languages}
+{wiki=Metalanguages}
+
+= Abstract rewriting system
+{parent=Formal languages}
+{wiki=Abstract_rewriting_system}
+
+= Abstract semantic graph
+{parent=Formal languages}
+{wiki=Abstract_semantic_graph}
+
+= Abstract syntax tree
+{parent=Formal languages}
+{wiki=Abstract_syntax_tree}
+
+= Adaptive grammar
+{parent=Formal languages}
+{wiki=Adaptive_grammar}
+
+= Affix grammar
+{parent=Formal languages}
+{wiki=Affix_grammar}
+
+= Agent Communications Language
+{parent=Formal languages}
+{wiki=Agent_Communications_Language}
+
+= Alphabet (formal languages)
+{parent=Formal languages}
+{wiki=Alphabet_(formal_languages)}
+
+= Ambiguous grammar
+{parent=Formal languages}
+{wiki=Ambiguous_grammar}
+
+= Arden's rule
+{parent=Formal languages}
+{wiki=Arden's_rule}
+
+= Attribute grammar
+{parent=Formal languages}
+{wiki=Attribute_grammar}
+
+= Augmented Backus–Naur form
+{parent=Formal languages}
+{wiki=Augmented_Backus–Naur_form}
+
+= Autocorrelation (words)
+{parent=Formal languages}
+{wiki=Autocorrelation_(words)}
+
+= Backus–Naur form
+{parent=Formal languages}
+{wiki=Backus–Naur_form}
+
+= Bigram
+{parent=Formal languages}
+{wiki=Bigram}
+
+= Boolean grammar
+{parent=Formal languages}
+{wiki=Boolean_grammar}
+
+= Brzozowski derivative
+{parent=Formal languages}
+{wiki=Brzozowski_derivative}
+
+= Büchi-Elgot-Trakhtenbrot theorem
+{parent=Formal languages}
+{wiki=Büchi-Elgot-Trakhtenbrot_theorem}
+
+= Categorial grammar
+{parent=Formal languages}
+{wiki=Categorial_grammar}
+
+= Chomsky hierarchy
+{parent=Formal languages}
+{wiki=Chomsky_hierarchy}
+
+= Chomsky normal form
+{parent=Formal languages}
+{wiki=Chomsky_normal_form}
+
+= Chomsky–Schützenberger enumeration theorem
+{parent=Formal languages}
+{wiki=Chomsky–Schützenberger_enumeration_theorem}
+
+= Chomsky–Schützenberger representation theorem
+{parent=Formal languages}
+{wiki=Chomsky–Schützenberger_representation_theorem}
+
+= Closest string
+{parent=Formal languages}
+{wiki=Closest_string}
+
+= Compact semigroup
+{parent=Formal languages}
+{wiki=Compact_semigroup}
+
+= Compiler Description Language
+{parent=Formal languages}
+{wiki=Compiler_Description_Language}
+
+= Concatenation
+{parent=Formal languages}
+{wiki=Concatenation}
+
+= Cone (formal languages)
+{parent=Formal languages}
+{wiki=Cone_(formal_languages)}
+
+= Conference on Implementation and Application of Automata
+{parent=Formal languages}
+{wiki=Conference_on_Implementation_and_Application_of_Automata}
+
+= Conjunctive grammar
+{parent=Formal languages}
+{wiki=Conjunctive_grammar}
+
+= Context-free grammar
+{parent=Formal languages}
+{wiki=Context-free_grammar}
+
+= Context-free language
+{parent=Formal languages}
+{wiki=Context-free_language}
+
+= Context-sensitive grammar
+{parent=Formal languages}
+{wiki=Context-sensitive_grammar}
+
+= Context-sensitive language
+{parent=Formal languages}
+{wiki=Context-sensitive_language}
+
+= Controlled grammar
+{parent=Formal languages}
+{wiki=Controlled_grammar}
+
+= Critical exponent of a word
+{parent=Formal languages}
+{wiki=Critical_exponent_of_a_word}
+
+= Cross-serial dependencies
+{parent=Formal languages}
+{wiki=Cross-serial_dependencies}
+
+= Cyclic language
+{parent=Formal languages}
+{wiki=Cyclic_language}
+
+= Definite clause grammar
+{parent=Formal languages}
+{wiki=Definite_clause_grammar}
+
+= Dershowitz–Manna ordering
+{parent=Formal languages}
+{wiki=Dershowitz–Manna_ordering}
+
+= Descriptional Complexity of Formal Systems
+{parent=Formal languages}
+{wiki=Descriptional_Complexity_of_Formal_Systems}
+
+= Descriptive interpretation
+{parent=Formal languages}
+{wiki=Descriptive_interpretation}
+
+= Deterministic context-free grammar
+{parent=Formal languages}
+{wiki=Deterministic_context-free_grammar}
+
+= Deterministic context-free language
+{parent=Formal languages}
+{wiki=Deterministic_context-free_language}
+
+= Discontinuous-constituent phrase structure grammar
+{parent=Formal languages}
+{wiki=Discontinuous-constituent_phrase_structure_grammar}
+
+= Dyck language
+{parent=Formal languages}
+{wiki=Dyck_language}
+
+= ECLR-attributed grammar
+{parent=Formal languages}
+{wiki=ECLR-attributed_grammar}
+
+= Emptiness problem
+{parent=Formal languages}
+{wiki=Emptiness_problem}
+
+= Empty string
+{parent=Formal languages}
+{wiki=Empty_string}
+
+= Equivalence (formal languages)
+{parent=Formal languages}
+{wiki=Equivalence_(formal_languages)}
+
+= Equivalence problem
+{parent=Formal languages}
+{wiki=Equivalence_problem}
+
+= Extended Backus–Naur form
+{parent=Formal languages}
+{wiki=Extended_Backus–Naur_form}
+
+= Extended affix grammar
+{parent=Formal languages}
+{wiki=Extended_affix_grammar}
+
+= Formal grammar
+{parent=Formal languages}
+{wiki=Formal_grammar}
+
+= Formal proof
+{parent=Formal languages}
+{wiki=Formal_proof}
+
+= Formal system
+{parent=Formal languages}
+{wiki=Formal_system}
+
+= Formation rule
+{parent=Formal languages}
+{wiki=Formation_rule}
+
+= Free monoid
+{parent=Formal languages}
+{wiki=Free_monoid}
+
+= Generalized context-free grammar
+{parent=Formal languages}
+{wiki=Generalized_context-free_grammar}
+
+= Gesture Description Language
+{parent=Formal languages}
+{wiki=Gesture_Description_Language}
+
+= Global index grammar
+{parent=Formal languages}
+{wiki=Global_index_grammar}
+
+= Greibach's theorem
+{parent=Formal languages}
+{wiki=Greibach's_theorem}
+
+= Greibach normal form
+{parent=Formal languages}
+{wiki=Greibach_normal_form}
+
+= Growing context-sensitive grammar
+{parent=Formal languages}
+{wiki=Growing_context-sensitive_grammar}
+
+= Hall word
+{parent=Formal languages}
+{wiki=Hall_word}
+
+= Head grammar
+{parent=Formal languages}
+{wiki=Head_grammar}
+
+= History monoid
+{parent=Formal languages}
+{wiki=History_monoid}
+
+= Indexed grammar
+{parent=Formal languages}
+{wiki=Indexed_grammar}
+
+= Indexed language
+{parent=Formal languages}
+{wiki=Indexed_language}
+
+= Interchange lemma
+{parent=Formal languages}
+{wiki=Interchange_lemma}
+
+= International Conference on Developments in Language Theory
+{parent=Formal languages}
+{wiki=International_Conference_on_Developments_in_Language_Theory}
+
+= Introduction to Automata Theory, Languages, and Computation
+{parent=Formal languages}
+{wiki=Introduction_to_Automata_Theory,_Languages,_and_Computation}
+
+= Junction Grammar
+{parent=Formal languages}
+{wiki=Junction_Grammar}
+
+= Kleene star
+{parent=Formal languages}
+{wiki=Kleene_star}
+
+= Kuroda normal form
+{parent=Formal languages}
+{wiki=Kuroda_normal_form}
+
+= L-attributed grammar
+{parent=Formal languages}
+{wiki=L-attributed_grammar}
+
+= LL grammar
+{parent=Formal languages}
+{wiki=LL_grammar}
+
+= LR-attributed grammar
+{parent=Formal languages}
+{wiki=LR-attributed_grammar}
+
+= Leftist grammar
+{parent=Formal languages}
+{wiki=Leftist_grammar}
+
+= Lexical grammar
+{parent=Formal languages}
+{wiki=Lexical_grammar}
+
+= Linear grammar
+{parent=Formal languages}
+{wiki=Linear_grammar}
+
+= List of formal language and literal string topics
+{parent=Formal languages}
+{wiki=List_of_formal_language_and_literal_string_topics}
+
+= Literal movement grammar
+{parent=Formal languages}
+{wiki=Literal_movement_grammar}
+
+= Local language (formal language)
+{parent=Formal languages}
+{wiki=Local_language_(formal_language)}
+
+= Locally catenative sequence
+{parent=Formal languages}
+{wiki=Locally_catenative_sequence}
+
+= Longest increasing subsequence
+{parent=Formal languages}
+{wiki=Longest_increasing_subsequence}
+
+= Longest repeated substring problem
+{parent=Formal languages}
+{wiki=Longest_repeated_substring_problem}
+
+= Ludwig Staiger
+{parent=Formal languages}
+{wiki=Ludwig_Staiger}
+
+= MU puzzle
+{parent=Formal languages}
+{wiki=MU_puzzle}
+
+= Markup language
+{parent=Formal languages}
+{wiki=Markup_language}
+
+= Matrix grammar
+{parent=Formal languages}
+{wiki=Matrix_grammar}
+
+= Maximal pair
+{parent=Formal languages}
+{wiki=Maximal_pair}
+
+= Mildly context-sensitive grammar formalism
+{parent=Formal languages}
+{wiki=Mildly_context-sensitive_grammar_formalism}
+
+= Minimalist grammar
+{parent=Formal languages}
+{wiki=Minimalist_grammar}
+
+= Monoid factorisation
+{parent=Formal languages}
+{wiki=Monoid_factorisation}
+
+= Montague grammar
+{parent=Formal languages}
+{wiki=Montague_grammar}
+
+= Morphic word
+{parent=Formal languages}
+{wiki=Morphic_word}
+
+= Muller–Schupp theorem
+{parent=Formal languages}
+{wiki=Muller–Schupp_theorem}
+
+= Myhill–Nerode theorem
+{parent=Formal languages}
+{wiki=Myhill–Nerode_theorem}
+
+= Nested word
+{parent=Formal languages}
+{wiki=Nested_word}
+
+= Non-logical symbol
+{parent=Formal languages}
+{wiki=Non-logical_symbol}
+
+= Noncontracting grammar
+{parent=Formal languages}
+{wiki=Noncontracting_grammar}
+
+= Normal form (abstract rewriting)
+{parent=Formal languages}
+{wiki=Normal_form_(abstract_rewriting)}
+
+= Ogden's lemma
+{parent=Formal languages}
+{wiki=Ogden's_lemma}
+
+= Omega-regular language
+{parent=Formal languages}
+{wiki=Omega-regular_language}
+
+= Omega language
+{parent=Formal languages}
+{wiki=Omega_language}
+
+= Operator-precedence grammar
+{parent=Formal languages}
+{wiki=Operator-precedence_grammar}
+
+= Parikh's theorem
+{parent=Formal languages}
+{wiki=Parikh's_theorem}
+
+= Parser combinator
+{parent=Formal languages}
+{wiki=Parser_combinator}
+
+= Parsing expression grammar
+{parent=Formal languages}
+{wiki=Parsing_expression_grammar}
+
+= Picture language
+{parent=Formal languages}
+{wiki=Picture_language}
+
+= Prefix grammar
+{parent=Formal languages}
+{wiki=Prefix_grammar}
+
+= Production (computer science)
+{parent=Formal languages}
+{wiki=Production_(computer_science)}
+
+= Proof (truth)
+{parent=Formal languages}
+{wiki=Proof_(truth)}
+
+= Pumping lemma for context-free languages
+{parent=Formal languages}
+{wiki=Pumping_lemma_for_context-free_languages}
+
+= Pumping lemma for regular languages
+{parent=Formal languages}
+{wiki=Pumping_lemma_for_regular_languages}
+
+= Quasi-quotation
+{parent=Formal languages}
+{wiki=Quasi-quotation}
+
+= Range concatenation grammar
+{parent=Formal languages}
+{wiki=Range_concatenation_grammar}
+
+= Recursively enumerable language
+{parent=Formal languages}
+{wiki=Recursively_enumerable_language}
+
+= Regular grammar
+{parent=Formal languages}
+{wiki=Regular_grammar}
+
+= Regular language
+{parent=Formal languages}
+{wiki=Regular_language}
+
+= Regular tree grammar
+{parent=Formal languages}
+{wiki=Regular_tree_grammar}
+
+= Regulated rewriting
+{parent=Formal languages}
+{wiki=Regulated_rewriting}
+
+= Rewriting
+{parent=Formal languages}
+{wiki=Rewriting}
+
+= S-attributed grammar
+{parent=Formal languages}
+{wiki=S-attributed_grammar}
+
+= SCIgen
+{parent=Formal languages}
+{wiki=SCIgen}
+
+= SLR grammar
+{parent=Formal languages}
+{wiki=SLR_grammar}
+
+= Semantics encoding
+{parent=Formal languages}
+{wiki=Semantics_encoding}
+
+= Semi-Thue system
+{parent=Formal languages}
+{wiki=Semi-Thue_system}
+
+= Sesquipower
+{parent=Formal languages}
+{wiki=Sesquipower}
+
+= Signed-digit representation
+{parent=Formal languages}
+{wiki=Signed-digit_representation}
+
+= Simple precedence grammar
+{parent=Formal languages}
+{wiki=Simple_precedence_grammar}
+
+= Sparse language
+{parent=Formal languages}
+{wiki=Sparse_language}
+
+= Splicing rule
+{parent=Formal languages}
+{wiki=Splicing_rule}
+
+= Square-free word
+{parent=Formal languages}
+{wiki=Square-free_word}
+
+= Star height
+{parent=Formal languages}
+{wiki=Star_height}
+
+= Star height problem
+{parent=Formal languages}
+{wiki=Star_height_problem}
+
+= Straight-line grammar
+{parent=Formal languages}
+{wiki=Straight-line_grammar}
+
+= String operations
+{parent=Formal languages}
+{wiki=String_operations}
+
+= Substring
+{parent=Formal languages}
+{wiki=Substring}
+
+= Symbol (formal)
+{parent=Formal languages}
+{wiki=Symbol_(formal)}
+
+= Syntactic monoid
+{parent=Formal languages}
+{wiki=Syntactic_monoid}
+
+= Syntactic predicate
+{parent=Formal languages}
+{wiki=Syntactic_predicate}
+
+= Syntax (logic)
+{parent=Formal languages}
+{wiki=Syntax_(logic)}
+
+= Syntax diagram
+{parent=Formal languages}
+{wiki=Syntax_diagram}
+
+= Terminal yield
+{parent=Formal languages}
+{wiki=Terminal_yield}
+
+= Top-down parsing language
+{parent=Formal languages}
+{wiki=Top-down_parsing_language}
+
+= Trace monoid
+{parent=Formal languages}
+{wiki=Trace_monoid}
+
+= Trace theory
+{parent=Formal languages}
+{wiki=Trace_theory}
+
+= Unary language
+{parent=Formal languages}
+{wiki=Unary_language}
+
+= Unary numeral system
+{parent=Formal languages}
+{wiki=Unary_numeral_system}
+
+= Unavoidable pattern
+{parent=Formal languages}
+{wiki=Unavoidable_pattern}
+
+= Unrestricted grammar
+{parent=Formal languages}
+{wiki=Unrestricted_grammar}
+
+= Van Wijngaarden grammar
+{parent=Formal languages}
+{wiki=Van_Wijngaarden_grammar}
+
+= WFF 'N PROOF
+{parent=Formal languages}
+{wiki=WFF_'N_PROOF}
+
+= Well-formed formula
+{parent=Formal languages}
+{wiki=Well-formed_formula}
+
+= Wirth–Weber precedence relationship
+{parent=Formal languages}
+{wiki=Wirth–Weber_precedence_relationship}
+
+= Logic in computer science
+{parent=Theoretical computer science}
+{wiki=Logic_in_computer_science}
+
+= Automated theorem proving
+{parent=Logic in computer science}
+{wiki=Automated_theorem_proving}
+
+= Linear logic
+{parent=Logic in computer science}
+{wiki=Linear_logic}
+
+= Logic conferences
+{parent=Logic in computer science}
+{wiki=Category:Logic_conferences}
+
+= Logic families
+{parent=Logic in computer science}
+{wiki=Logic_families}
+
+= Logic gates
+{parent=Logic in computer science}
+{wiki=Logic_gates}
+
+= Logic programming
+{parent=Logic in computer science}
+{wiki=Logic_programming}
+
+= Logical calculi
+{parent=Logic in computer science}
+{wiki=Category:Logical_calculi}
+
+= Modal logic
+{parent=Logic in computer science}
+{wiki=Modal_logic}
+
+= Program logic
+{parent=Logic in computer science}
+{wiki=Category:Program_logic}
+
+= Programming language semantics
+{parent=Logic in computer science}
+{wiki=Programming_language_semantics}
+
+= Quantum gates
+{parent=Logic in computer science}
+{wiki=Quantum_gates}
+
+= Type theory
+{parent=Logic in computer science}
+{wiki=Type_theory}
+
+= ACM Transactions on Computational Logic
+{parent=Logic in computer science}
+{wiki=ACM_Transactions_on_Computational_Logic}
+
+= Alternating-time temporal logic
+{parent=Logic in computer science}
+{wiki=Alternating-time_temporal_logic}
+
+= Anti-unification (computer science)
+{parent=Logic in computer science}
+{wiki=Anti-unification_(computer_science)}
+
+= Assertion (software development)
+{parent=Logic in computer science}
+{wiki=Assertion_(software_development)}
+
+= Backward chaining
+{parent=Logic in computer science}
+{wiki=Backward_chaining}
+
+= Boolean circuit
+{parent=Logic in computer science}
+{wiki=Boolean_circuit}
+
+= Boolean flag
+{parent=Logic in computer science}
+{wiki=Boolean_flag}
+
+= Boolean satisfiability problem
+{parent=Logic in computer science}
+{wiki=Boolean_satisfiability_problem}
+
+= Bunched logic
+{parent=Logic in computer science}
+{wiki=Bunched_logic}
+
+= CTL*
+{parent=Logic in computer science}
+{wiki=CTL*}
+
+= Combinational logic
+{parent=Logic in computer science}
+{wiki=Combinational_logic}
+
+= Combs method
+{parent=Logic in computer science}
+{wiki=Combs_method}
+
+= CompCert
+{parent=Logic in computer science}
+{wiki=CompCert}
+
+= Computability logic
+{parent=Logic in computer science}
+{wiki=Computability_logic}
+
+= Computation tree logic
+{parent=Logic in computer science}
+{wiki=Computation_tree_logic}
+
+= Computational logic
+{parent=Logic in computer science}
+{wiki=Computational_logic}
+
+= Curry–Howard correspondence
+{parent=Logic in computer science}
+{wiki=Curry–Howard_correspondence}
+
+= DatalogZ
+{parent=Logic in computer science}
+{wiki=DatalogZ}
+
+= DiVincenzo's criteria
+{parent=Logic in computer science}
+{wiki=DiVincenzo's_criteria}
+
+= Dynamic logic (modal logic)
+{parent=Logic in computer science}
+{wiki=Dynamic_logic_(modal_logic)}
+
+= Event calculus
+{parent=Logic in computer science}
+{wiki=Event_calculus}
+
+= Fluent (artificial intelligence)
+{parent=Logic in computer science}
+{wiki=Fluent_(artificial_intelligence)}
+
+= Frege system
+{parent=Logic in computer science}
+{wiki=Frege_system}
+
+= Functional completeness
+{parent=Logic in computer science}
+{wiki=Functional_completeness}
+
+= Functional verification
+{parent=Logic in computer science}
+{wiki=Functional_verification}
+
+= Fuzzy logic
+{parent=Logic in computer science}
+{wiki=Fuzzy_logic}
+
+= Game semantics
+{parent=Logic in computer science}
+{wiki=Game_semantics}
+
+= Geometry of interaction
+{parent=Logic in computer science}
+{wiki=Geometry_of_interaction}
+
+= HOL (proof assistant)
+{parent=Logic in computer science}
+{wiki=HOL_(proof_assistant)}
+
+= Hennessy–Milner logic
+{parent=Logic in computer science}
+{wiki=Hennessy–Milner_logic}
+
+= Herbrand Award
+{parent=Logic in computer science}
+{wiki=Herbrand_Award}
+
+= Horn-satisfiability
+{parent=Logic in computer science}
+{wiki=Horn-satisfiability}
+
+= Horn clause
+{parent=Logic in computer science}
+{wiki=Horn_clause}
+
+= Interference freedom
+{parent=Logic in computer science}
+{wiki=Interference_freedom}
+
+= Intuitionistic logic
+{parent=Logic in computer science}
+{wiki=Intuitionistic_logic}
+
+= Intuitionistic type theory
+{parent=Logic in computer science}
+{wiki=Intuitionistic_type_theory}
+
+= Journal of Automated Reasoning
+{parent=Logic in computer science}
+{wiki=Journal_of_Automated_Reasoning}
+
+= Journal of Logic and Computation
+{parent=Logic in computer science}
+{wiki=Journal_of_Logic_and_Computation}
+
+= Karnaugh map
+{parent=Logic in computer science}
+{wiki=Karnaugh_map}
+
+= Knowledge Interchange Format
+{parent=Logic in computer science}
+{wiki=Knowledge_Interchange_Format}
+
+= Logic for Computable Functions
+{parent=Logic in computer science}
+{wiki=Logic_for_Computable_Functions}
+
+= Logic optimization
+{parent=Logic in computer science}
+{wiki=Logic_optimization}
+
+= Logical Methods in Computer Science
+{parent=Logic in computer science}
+{wiki=Logical_Methods_in_Computer_Science}
+
+= Logical framework
+{parent=Logic in computer science}
+{wiki=Logical_framework}
+
+= Maximum satisfiability problem
+{parent=Logic in computer science}
+{wiki=Maximum_satisfiability_problem}
+
+= Model checking
+{parent=Logic in computer science}
+{wiki=Model_checking}
+
+= Model elimination
+{parent=Logic in computer science}
+{wiki=Model_elimination}
+
+= Multi-Agent Programming Contest
+{parent=Logic in computer science}
+{wiki=Multi-Agent_Programming_Contest}
+
+= Noise-based logic
+{parent=Logic in computer science}
+{wiki=Noise-based_logic}
+
+= Ordered weighted averaging aggregation operator
+{parent=Logic in computer science}
+{wiki=Ordered_weighted_averaging_aggregation_operator}
+
+= Peano axioms
+{parent=Logic in computer science}
+{wiki=Peano_axioms}
+
+= Perceptual computing
+{parent=Logic in computer science}
+{wiki=Perceptual_computing}
+
+= Postcondition
+{parent=Logic in computer science}
+{wiki=Postcondition}
+
+= Precondition
+{parent=Logic in computer science}
+{wiki=Precondition}
+
+= Preferential entailment
+{parent=Logic in computer science}
+{wiki=Preferential_entailment}
+
+= Proof complexity
+{parent=Logic in computer science}
+{wiki=Proof_complexity}
+
+= Propositional proof system
+{parent=Logic in computer science}
+{wiki=Propositional_proof_system}
+
+= Q0 (mathematical logic)
+{parent=Logic in computer science}
+{wiki=Q0_(mathematical_logic)}
+
+= Race condition
+{parent=Logic in computer science}
+{wiki=Race_condition}
+
+= Racetrack problem
+{parent=Logic in computer science}
+{wiki=Racetrack_problem}
+
+= Runtime verification
+{parent=Logic in computer science}
+{wiki=Runtime_verification}
+
+= SAT solver
+{parent=Logic in computer science}
+{wiki=SAT_solver}
+
+= Satisfiability modulo theories
+{parent=Logic in computer science}
+{wiki=Satisfiability_modulo_theories}
+
+= Separation logic
+{parent=Logic in computer science}
+{wiki=Separation_logic}
+
+= Sequential logic
+{parent=Logic in computer science}
+{wiki=Sequential_logic}
+
+= State space enumeration
+{parent=Logic in computer science}
+{wiki=State_space_enumeration}
+
+= Structural induction
+{parent=Logic in computer science}
+{wiki=Structural_induction}
+
+= Successor function
+{parent=Logic in computer science}
+{wiki=Successor_function}
+
+= Symposium on Logic in Computer Science
+{parent=Logic in computer science}
+{wiki=Symposium_on_Logic_in_Computer_Science}
+
+= Tseytin transformation
+{parent=Logic in computer science}
+{wiki=Tseytin_transformation}
+
+= Twelf
+{parent=Logic in computer science}
+{wiki=Twelf}
+
+= Type-1 OWA operators
+{parent=Logic in computer science}
+{wiki=Type-1_OWA_operators}
+
+= Type-2 fuzzy sets and systems
+{parent=Logic in computer science}
+{wiki=Type-2_fuzzy_sets_and_systems}
+
+= Typed lambda calculus
+{parent=Logic in computer science}
+{wiki=Typed_lambda_calculus}
+
+= Undecidable problem
+{parent=Logic in computer science}
+{wiki=Undecidable_problem}
+
+= Unification (computer science)
+{parent=Logic in computer science}
+{wiki=Unification_(computer_science)}
+
+= WalkSAT
+{parent=Logic in computer science}
+{wiki=WalkSAT}
+
+= ΛProlog
+{parent=Logic in computer science}
+{wiki=ΛProlog}
+
+= Mathematical theorems in theoretical computer science
+{parent=Theoretical computer science}
+{wiki=Category:Mathematical_theorems_in_theoretical_computer_science}
+
+= Theorems in theory of computation
+{parent=Mathematical theorems in theoretical computer science}
+{wiki=Category:Theorems_in_theory_of_computation}
+
+= Immerman–Szelepcsényi theorem
+{parent=Mathematical theorems in theoretical computer science}
+{wiki=Immerman–Szelepcsényi_theorem}
+
+= Mathematics of computing
+{parent=Theoretical computer science}
+{wiki=Mathematics_of_computing}
+
+= Domain theory
+{parent=Mathematics of computing}
+{wiki=Domain_theory}
+
+= Mathematical software
+{parent=Mathematics of computing}
+{wiki=Mathematical_software}
+
+= Actor model theory
+{parent=Mathematics of computing}
+{wiki=Actor_model_theory}
+
+= Log probability
+{parent=Mathematics of computing}
+{wiki=Log_probability}
+
+= Natural computation
+{parent=Theoretical computer science}
+{wiki=Natural_computation}
+
+= MAYA-II
+{parent=Natural computation}
+{wiki=MAYA-II}
+
+= Problems in computer science
+{parent=Theoretical computer science}
+{wiki=Category:Problems_in_computer_science}
+
+= Unsolved problems in computer science
+{parent=Problems in computer science}
+{wiki=Unsolved_problems_in_computer_science}
+
+= AI winter
+{parent=Problems in computer science}
+{wiki=AI_winter}
+
+= Dining philosophers problem
+{parent=Problems in computer science}
+{wiki=Dining_philosophers_problem}
+
+= Pagh's problem
+{parent=Problems in computer science}
+{wiki=Pagh's_problem}
+
+= Producer–consumer problem
+{parent=Problems in computer science}
+{wiki=Producer–consumer_problem}
+
+= Sleeping barber problem
+{parent=Problems in computer science}
+{wiki=Sleeping_barber_problem}
+
+= Starvation (computer science)
+{parent=Problems in computer science}
+{wiki=Starvation_(computer_science)}
+
+= Quantum information science
+{parent=Theoretical computer science}
+{wiki=Quantum_information_science}
+
+= Quantum measurement
+{parent=Quantum information science}
+{wiki=Quantum_measurement}
+
+= 1QBit
+{parent=Quantum information science}
+{wiki=1QBit}
+
+= AQUA@home
+{parent=Quantum information science}
+{wiki=AQUA@home}
+
+= Absolutely maximally entangled state
+{parent=Quantum information science}
+{wiki=Absolutely_maximally_entangled_state}
+
+= Algorithmic cooling
+{parent=Quantum information science}
+{wiki=Algorithmic_cooling}
+
+= Amplitude damping channel
+{parent=Quantum information science}
+{wiki=Amplitude_damping_channel}
+
+= Ancilla bit
+{parent=Quantum information science}
+{wiki=Ancilla_bit}
+
+= Bekenstein bound
+{parent=Quantum information science}
+{wiki=Bekenstein_bound}
+
+= Bell's theorem
+{parent=Quantum information science}
+{wiki=Bell's_theorem}
+
+= Bell diagonal state
+{parent=Quantum information science}
+{wiki=Bell_diagonal_state}
+
+= Bell state
+{parent=Quantum information science}
+{wiki=Bell_state}
+
+= Bound entanglement
+{parent=Quantum information science}
+{wiki=Bound_entanglement}
+
+= Bures metric
+{parent=Quantum information science}
+{wiki=Bures_metric}
+
+= Cat state
+{parent=Quantum information science}
+{wiki=Cat_state}
+
+= Cavity quantum electrodynamics
+{parent=Quantum information science}
+{wiki=Cavity_quantum_electrodynamics}
+
+= Center for Quantum Information Science & Technology
+{parent=Quantum information science}
+{wiki=Center_for_Quantum_Information_Science_&_Technology}
+
+= Centre for Nanoscience and Quantum Information
+{parent=Quantum information science}
+{wiki=Centre_for_Nanoscience_and_Quantum_Information}
+
+= Centre for Quantum Technologies
+{parent=Quantum information science}
+{wiki=Centre_for_Quantum_Technologies}
+
+= Charge qubit
+{parent=Quantum information science}
+{wiki=Charge_qubit}
+
+= Circuit quantum electrodynamics
+{parent=Quantum information science}
+{wiki=Circuit_quantum_electrodynamics}
+
+= Classical information channel
+{parent=Quantum information science}
+{wiki=Classical_information_channel}
+
+= Cluster state
+{parent=Quantum information science}
+{wiki=Cluster_state}
+
+= Continuous-time quantum walk
+{parent=Quantum information science}
+{wiki=Continuous-time_quantum_walk}
+
+= Continuous-variable quantum information
+{parent=Quantum information science}
+{wiki=Continuous-variable_quantum_information}
+
+= Controlled NOT gate
+{parent=Quantum information science}
+{wiki=Controlled_NOT_gate}
+
+= Counterfactual quantum computation
+{parent=Quantum information science}
+{wiki=Counterfactual_quantum_computation}
+
+= D-Wave Two
+{parent=Quantum information science}
+{wiki=D-Wave_Two}
+
+= Decoherence-free subspaces
+{parent=Quantum information science}
+{wiki=Decoherence-free_subspaces}
+
+= Deferred measurement principle
+{parent=Quantum information science}
+{wiki=Deferred_measurement_principle}
+
+= Dephasing
+{parent=Quantum information science}
+{wiki=Dephasing}
+
+= Dynamical decoupling
+{parent=Quantum information science}
+{wiki=Dynamical_decoupling}
+
+= Elitzur–Vaidman bomb tester
+{parent=Quantum information science}
+{wiki=Elitzur–Vaidman_bomb_tester}
+
+= Entanglement-assisted classical capacity
+{parent=Quantum information science}
+{wiki=Entanglement-assisted_classical_capacity}
+
+= Entanglement depth
+{parent=Quantum information science}
+{wiki=Entanglement_depth}
+
+= Entropy exchange
+{parent=Quantum information science}
+{wiki=Entropy_exchange}
+
+= Fidelity of quantum states
+{parent=Quantum information science}
+{wiki=Fidelity_of_quantum_states}
+
+= Flux qubit
+{parent=Quantum information science}
+{wiki=Flux_qubit}
+
+= Fundamental Fysiks Group
+{parent=Quantum information science}
+{wiki=Fundamental_Fysiks_Group}
+
+= Georgia Tech Quantum Institute
+{parent=Quantum information science}
+{wiki=Georgia_Tech_Quantum_Institute}
+
+= Germanium-vacancy center in diamond
+{parent=Quantum information science}
+{wiki=Germanium-vacancy_center_in_diamond}
+
+= Gnu code
+{parent=Quantum information science}
+{wiki=Gnu_code}
+
+= Gottesman–Knill theorem
+{parent=Quantum information science}
+{wiki=Gottesman–Knill_theorem}
+
+= Graph state
+{parent=Quantum information science}
+{wiki=Graph_state}
+
+= Hamiltonian simulation
+{parent=Quantum information science}
+{wiki=Hamiltonian_simulation}
+
+= Holographic principle
+{parent=Quantum information science}
+{wiki=Holographic_principle}
+
+= Information causality
+{parent=Quantum information science}
+{wiki=Information_causality}
+
+= Institute for Quantum Computing
+{parent=Quantum information science}
+{wiki=Institute_for_Quantum_Computing}
+
+= KLM protocol
+{parent=Quantum information science}
+{wiki=KLM_protocol}
+
+= LOCC
+{parent=Quantum information science}
+{wiki=LOCC}
+
+= Leggett inequality
+{parent=Quantum information science}
+{wiki=Leggett_inequality}
+
+= Leggett–Garg inequality
+{parent=Quantum information science}
+{wiki=Leggett–Garg_inequality}
+
+= Libquantum
+{parent=Quantum information science}
+{wiki=Libquantum}
+
+= Linear optical quantum computing
+{parent=Quantum information science}
+{wiki=Linear_optical_quantum_computing}
+
+= M-Labs
+{parent=Quantum information science}
+{wiki=M-Labs}
+
+= Margolus–Levitin theorem
+{parent=Quantum information science}
+{wiki=Margolus–Levitin_theorem}
+
+= Monogamy of entanglement
+{parent=Quantum information science}
+{wiki=Monogamy_of_entanglement}
+
+= Multipartite entanglement
+{parent=Quantum information science}
+{wiki=Multipartite_entanglement}
+
+= NOON state
+{parent=Quantum information science}
+{wiki=NOON_state}
+
+= Negativity (quantum mechanics)
+{parent=Quantum information science}
+{wiki=Negativity_(quantum_mechanics)}
+
+= No-broadcasting theorem
+{parent=Quantum information science}
+{wiki=No-broadcasting_theorem}
+
+= No-cloning theorem
+{parent=Quantum information science}
+{wiki=No-cloning_theorem}
+
+= No-communication theorem
+{parent=Quantum information science}
+{wiki=No-communication_theorem}
+
+= No-deleting theorem
+{parent=Quantum information science}
+{wiki=No-deleting_theorem}
+
+= Noiseless subsystems
+{parent=Quantum information science}
+{wiki=Noiseless_subsystems}
+
+= Nuclear magnetic resonance quantum computer
+{parent=Quantum information science}
+{wiki=Nuclear_magnetic_resonance_quantum_computer}
+
+= Optical cluster state
+{parent=Quantum information science}
+{wiki=Optical_cluster_state}
+
+= Pauli group
+{parent=Quantum information science}
+{wiki=Pauli_group}
+
+= Phase qubit
+{parent=Quantum information science}
+{wiki=Phase_qubit}
+
+= Physical Review A
+{parent=Quantum information science}
+{wiki=Physical_Review_A}
+
+= Pockels effect
+{parent=Quantum information science}
+{wiki=Pockels_effect}
+
+= Pulse programming
+{parent=Quantum information science}
+{wiki=Pulse_programming}
+
+= Pusey–Barrett–Rudolph theorem
+{parent=Quantum information science}
+{wiki=Pusey–Barrett–Rudolph_theorem}
+
+= Quantinuum
+{parent=Quantum information science}
+{wiki=Quantinuum}
+
+= Quantum Byzantine agreement
+{parent=Quantum information science}
+{wiki=Quantum_Byzantine_agreement}
+
+= Quantum Communications Hub
+{parent=Quantum information science}
+{wiki=Quantum_Communications_Hub}
+
+= Quantum Cramér–Rao bound
+{parent=Quantum information science}
+{wiki=Quantum_Cramér–Rao_bound}
+
+= Quantum Experiments at Space Scale
+{parent=Quantum information science}
+{wiki=Quantum_Experiments_at_Space_Scale}
+
+= Quantum Fisher information
+{parent=Quantum information science}
+{wiki=Quantum_Fisher_information}
+
+= Quantum LC circuit
+{parent=Quantum information science}
+{wiki=Quantum_LC_circuit}
+
+= Quantum Markov chain
+{parent=Quantum information science}
+{wiki=Quantum_Markov_chain}
+
+= Quantum Theory: Concepts and Methods
+{parent=Quantum information science}
+{wiki=Quantum_Theory:_Concepts_and_Methods}
+
+= Quantum bus
+{parent=Quantum information science}
+{wiki=Quantum_bus}
+
+= Quantum catalyst
+{parent=Quantum information science}
+{wiki=Quantum_catalyst}
+
+= Quantum cellular automaton
+{parent=Quantum information science}
+{wiki=Quantum_cellular_automaton}
+
+= Quantum cloning
+{parent=Quantum information science}
+{wiki=Quantum_cloning}
+
+= Quantum convolutional code
+{parent=Quantum information science}
+{wiki=Quantum_convolutional_code}
+
+= Quantum discord
+{parent=Quantum information science}
+{wiki=Quantum_discord}
+
+= Quantum dot cellular automaton
+{parent=Quantum information science}
+{wiki=Quantum_dot_cellular_automaton}
+
+= Quantum entanglement
+{parent=Quantum information science}
+{wiki=Quantum_entanglement}
+
+= Quantum fingerprinting
+{parent=Quantum information science}
+{wiki=Quantum_fingerprinting}
+
+= Quantum game theory
+{parent=Quantum information science}
+{wiki=Quantum_game_theory}
+
+= Quantum gate teleportation
+{parent=Quantum information science}
+{wiki=Quantum_gate_teleportation}
+
+= Quantum illumination
+{parent=Quantum information science}
+{wiki=Quantum_illumination}
+
+= Quantum imaging
+{parent=Quantum information science}
+{wiki=Quantum_imaging}
+
+= Quantum key distribution
+{parent=Quantum information science}
+{wiki=Quantum_key_distribution}
+
+= Quantum lithography
+{parent=Quantum information science}
+{wiki=Quantum_lithography}
+
+= Quantum logic clock
+{parent=Quantum information science}
+{wiki=Quantum_logic_clock}
+
+= Quantum logic gate
+{parent=Quantum information science}
+{wiki=Quantum_logic_gate}
+
+= Quantum memory
+{parent=Quantum information science}
+{wiki=Quantum_memory}
+
+= Quantum metrology
+{parent=Quantum information science}
+{wiki=Quantum_metrology}
+
+= Quantum neural network
+{parent=Quantum information science}
+{wiki=Quantum_neural_network}
+
+= Quantum pseudo-telepathy
+{parent=Quantum information science}
+{wiki=Quantum_pseudo-telepathy}
+
+= Quantum radar
+{parent=Quantum information science}
+{wiki=Quantum_radar}
+
+= Quantum readout
+{parent=Quantum information science}
+{wiki=Quantum_readout}
+
+= Quantum refereed game
+{parent=Quantum information science}
+{wiki=Quantum_refereed_game}
+
+= Quantum register
+{parent=Quantum information science}
+{wiki=Quantum_register}
+
+= Quantum sensor
+{parent=Quantum information science}
+{wiki=Quantum_sensor}
+
+= Quantum signal processing
+{parent=Quantum information science}
+{wiki=Quantum_signal_processing}
+
+= Quantum technology
+{parent=Quantum information science}
+{wiki=Quantum_technology}
+
+= QxBranch
+{parent=Quantum information science}
+{wiki=QxBranch}
+
+= Range criterion
+{parent=Quantum information science}
+{wiki=Range_criterion}
+
+= Reduced dynamics
+{parent=Quantum information science}
+{wiki=Reduced_dynamics}
+
+= Reduction criterion
+{parent=Quantum information science}
+{wiki=Reduction_criterion}
+
+= Relativistic quantum cryptography
+{parent=Quantum information science}
+{wiki=Relativistic_quantum_cryptography}
+
+= Rigetti Computing
+{parent=Quantum information science}
+{wiki=Rigetti_Computing}
+
+= Separable state
+{parent=Quantum information science}
+{wiki=Separable_state}
+
+= Silicon-vacancy center in diamond
+{parent=Quantum information science}
+{wiki=Silicon-vacancy_center_in_diamond}
+
+= Spin qubit quantum computer
+{parent=Quantum information science}
+{wiki=Spin_qubit_quantum_computer}
+
+= Spin squeezing
+{parent=Quantum information science}
+{wiki=Spin_squeezing}
+
+= Squashed entanglement
+{parent=Quantum information science}
+{wiki=Squashed_entanglement}
+
+= State-merging
+{parent=Quantum information science}
+{wiki=State-merging}
+
+= Steane code
+{parent=Quantum information science}
+{wiki=Steane_code}
+
+= Superconducting quantum computing
+{parent=Quantum information science}
+{wiki=Superconducting_quantum_computing}
+
+= Superdense coding
+{parent=Quantum information science}
+{wiki=Superdense_coding}
+
+= Symmetric logarithmic derivative
+{parent=Quantum information science}
+{wiki=Symmetric_logarithmic_derivative}
+
+= Time-bin encoding
+{parent=Quantum information science}
+{wiki=Time-bin_encoding}
+
+= Toric code
+{parent=Quantum information science}
+{wiki=Toric_code}
+
+= Trace distance
+{parent=Quantum information science}
+{wiki=Trace_distance}
+
+= Transmon
+{parent=Quantum information science}
+{wiki=Transmon}
+
+= Trapped-ion quantum computer
+{parent=Quantum information science}
+{wiki=Trapped-ion_quantum_computer}
+
+= USC-Lockheed Martin Quantum Computing Center
+{parent=Quantum information science}
+{wiki=USC-Lockheed_Martin_Quantum_Computing_Center}
+
+= Uncomputation
+{parent=Quantum information science}
+{wiki=Uncomputation}
+
+= Waterloo Institute for Nanotechnology
+{parent=Quantum information science}
+{wiki=Waterloo_Institute_for_Nanotechnology}
+
+= Weak measurement
+{parent=Quantum information science}
+{wiki=Weak_measurement}
+
+= Weak value
+{parent=Quantum information science}
+{wiki=Weak_value}
+
+= Rewriting systems
+{parent=Theoretical computer science}
+{wiki=Category:Rewriting_systems}
+
+= Substitution (logic)
+{parent=Rewriting systems}
+{wiki=Substitution_(logic)}
+
+= Term-rewriting programming languages
+{parent=Rewriting systems}
+{wiki=Category:Term-rewriting_programming_languages}
+
+= Church–Rosser theorem
+{parent=Rewriting systems}
+{wiki=Church–Rosser_theorem}
+
+= Confluence (abstract rewriting)
+{parent=Rewriting systems}
+{wiki=Confluence_(abstract_rewriting)}
+
+= Convergence (logic)
+{parent=Rewriting systems}
+{wiki=Convergence_(logic)}
+
+= Critical pair (term rewriting)
+{parent=Rewriting systems}
+{wiki=Critical_pair_(term_rewriting)}
+
+= Director string
+{parent=Rewriting systems}
+{wiki=Director_string}
+
+= Divergence (computer science)
+{parent=Rewriting systems}
+{wiki=Divergence_(computer_science)}
+
+= Encompassment ordering
+{parent=Rewriting systems}
+{wiki=Encompassment_ordering}
+
+= Explicit substitution
+{parent=Rewriting systems}
+{wiki=Explicit_substitution}
+
+= Jean-Pierre Jouannaud
+{parent=Rewriting systems}
+{wiki=Jean-Pierre_Jouannaud}
+
+= Newman's lemma
+{parent=Rewriting systems}
+{wiki=Newman's_lemma}
+
+= Orthogonality (term rewriting)
+{parent=Rewriting systems}
+{wiki=Orthogonality_(term_rewriting)}
+
+= Overlap (term rewriting)
+{parent=Rewriting systems}
+{wiki=Overlap_(term_rewriting)}
+
+= Path ordering (term rewriting)
+{parent=Rewriting systems}
+{wiki=Path_ordering_(term_rewriting)}
+
+= Reduction strategy
+{parent=Rewriting systems}
+{wiki=Reduction_strategy}
+
+= Reflexive closure
+{parent=Rewriting systems}
+{wiki=Reflexive_closure}
+
+= Rewrite order
+{parent=Rewriting systems}
+{wiki=Rewrite_order}
+
+= Symmetric closure
+{parent=Rewriting systems}
+{wiki=Symmetric_closure}
+
+= Term (logic)
+{parent=Rewriting systems}
+{wiki=Term_(logic)}
+
+= Theoretical computer science conferences
+{parent=Theoretical computer science}
+{wiki=Category:Theoretical_computer_science_conferences}
+
+= Computational Complexity Conference
+{parent=Theoretical computer science conferences}
+{wiki=Computational_Complexity_Conference}
+
+= Computer Aided Verification
+{parent=Theoretical computer science conferences}
+{wiki=Computer_Aided_Verification}
+
+= Conference on Automated Deduction
+{parent=Theoretical computer science conferences}
+{wiki=Conference_on_Automated_Deduction}
+
+= European Symposium on Algorithms
+{parent=Theoretical computer science conferences}
+{wiki=European_Symposium_on_Algorithms}
+
+= Innovations in Theoretical Computer Science
+{parent=Theoretical computer science conferences}
+{wiki=Innovations_in_Theoretical_Computer_Science}
+
+= Interactive Theorem Proving (conference)
+{parent=Theoretical computer science conferences}
+{wiki=Interactive_Theorem_Proving_(conference)}
+
+= International Colloquium on Automata, Languages and Programming
+{parent=Theoretical computer science conferences}
+{wiki=International_Colloquium_on_Automata,_Languages_and_Programming}
+
+= International Conference on Applications and Theory of Petri Nets and Concurrency
+{parent=Theoretical computer science conferences}
+{wiki=International_Conference_on_Applications_and_Theory_of_Petri_Nets_and_Concurrency}
+
+= International Conference on Automated Reasoning with Analytic Tableaux and Related Methods
+{parent=Theoretical computer science conferences}
+{wiki=International_Conference_on_Automated_Reasoning_with_Analytic_Tableaux_and_Related_Methods}
+
+= International Conference on Rewriting Techniques and Applications
+{parent=Theoretical computer science conferences}
+{wiki=International_Conference_on_Rewriting_Techniques_and_Applications}
+
+= International Conference on Theory and Applications of Models of Computation
+{parent=Theoretical computer science conferences}
+{wiki=International_Conference_on_Theory_and_Applications_of_Models_of_Computation}
+
+= International Joint Conference on Automated Reasoning
+{parent=Theoretical computer science conferences}
+{wiki=International_Joint_Conference_on_Automated_Reasoning}
+
+= International Symposium on Distributed Computing
+{parent=Theoretical computer science conferences}
+{wiki=International_Symposium_on_Distributed_Computing}
+
+= International Symposium on Fundamentals of Computation Theory
+{parent=Theoretical computer science conferences}
+{wiki=International_Symposium_on_Fundamentals_of_Computation_Theory}
+
+= International Symposium on Graph Drawing
+{parent=Theoretical computer science conferences}
+{wiki=International_Symposium_on_Graph_Drawing}
+
+= Logic for Programming, Artificial Intelligence and Reasoning
+{parent=Theoretical computer science conferences}
+{wiki=Logic_for_Programming,_Artificial_Intelligence_and_Reasoning}
+
+= RAMiCS
+{parent=Theoretical computer science conferences}
+{wiki=RAMiCS}
+
+= SWAT and WADS conferences
+{parent=Theoretical computer science conferences}
+{wiki=SWAT_and_WADS_conferences}
+
+= Symposium on Computational Geometry
+{parent=Theoretical computer science conferences}
+{wiki=Symposium_on_Computational_Geometry}
+
+= Symposium on Discrete Algorithms
+{parent=Theoretical computer science conferences}
+{wiki=Symposium_on_Discrete_Algorithms}
+
+= Symposium on Foundations of Computer Science
+{parent=Theoretical computer science conferences}
+{wiki=Symposium_on_Foundations_of_Computer_Science}
+
+= Symposium on Parallelism in Algorithms and Architectures
+{parent=Theoretical computer science conferences}
+{wiki=Symposium_on_Parallelism_in_Algorithms_and_Architectures}
+
+= Symposium on Principles of Distributed Computing
+{parent=Theoretical computer science conferences}
+{wiki=Symposium_on_Principles_of_Distributed_Computing}
+
+= Symposium on Theory of Computing
+{parent=Theoretical computer science conferences}
+{wiki=Symposium_on_Theory_of_Computing}
+
+= Workshop on Logic, Language, Information and Computation
+{parent=Theoretical computer science conferences}
+{wiki=Workshop_on_Logic,_Language,_Information_and_Computation}
+
+= Theoretical computer scientists
+{parent=Theoretical computer science}
+{wiki=Category:Theoretical_computer_scientists}
+
+= Formal methods people
+{parent=Theoretical computer scientists}
+{wiki=Category:Formal_methods_people}
+
+= Researchers in geometric algorithms
+{parent=Theoretical computer scientists}
+{wiki=Category:Researchers_in_geometric_algorithms}
+
+= Adam Wierman
+{parent=Theoretical computer scientists}
+{wiki=Adam_Wierman}
+
+= Alan Cobham (mathematician)
+{parent=Theoretical computer scientists}
+{wiki=Alan_Cobham_(mathematician)}
+
+= Alan Selman
+{parent=Theoretical computer scientists}
+{wiki=Alan_Selman}
+
+= Albert R. Meyer
+{parent=Theoretical computer scientists}
+{wiki=Albert_R._Meyer}
+
+= Alexander Meduna
+{parent=Theoretical computer scientists}
+{wiki=Alexander_Meduna}
+
+= Alexander Razborov
+{parent=Theoretical computer scientists}
+{wiki=Alexander_Razborov}
+
+= Alexander Schrijver
+{parent=Theoretical computer scientists}
+{wiki=Alexander_Schrijver}
+
+= Alfred Aho
+{parent=Theoretical computer scientists}
+{wiki=Alfred_Aho}
+
+= Alistair Sinclair
+{parent=Theoretical computer scientists}
+{wiki=Alistair_Sinclair}
+
+= Allan Borodin
+{parent=Theoretical computer scientists}
+{wiki=Allan_Borodin}
+
+= Amir Pnueli
+{parent=Theoretical computer scientists}
+{wiki=Amir_Pnueli}
+
+= Amit Kumar (academic)
+{parent=Theoretical computer scientists}
+{wiki=Amit_Kumar_(academic)}
+
+= Amit Sahai
+{parent=Theoretical computer scientists}
+{wiki=Amit_Sahai}
+
+= Amos Fiat
+{parent=Theoretical computer scientists}
+{wiki=Amos_Fiat}
+
+= Anca Muscholl
+{parent=Theoretical computer scientists}
+{wiki=Anca_Muscholl}
+
+= Andrea LaPaugh
+{parent=Theoretical computer scientists}
+{wiki=Andrea_LaPaugh}
+
+= Andris Ambainis
+{parent=Theoretical computer scientists}
+{wiki=Andris_Ambainis}
+
+= Angelika Steger
+{parent=Theoretical computer scientists}
+{wiki=Angelika_Steger}
+
+= Anna Karlin
+{parent=Theoretical computer scientists}
+{wiki=Anna_Karlin}
+
+= Arnold L. Rosenberg
+{parent=Theoretical computer scientists}
+{wiki=Arnold_L._Rosenberg}
+
+= Arun Sharma (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=Arun_Sharma_(computer_scientist)}
+
+= Assaf Naor
+{parent=Theoretical computer scientists}
+{wiki=Assaf_Naor}
+
+= Avi Wigderson
+{parent=Theoretical computer scientists}
+{wiki=Avi_Wigderson}
+
+= Avinash Kak
+{parent=Theoretical computer scientists}
+{wiki=Avinash_Kak}
+
+= Avner Magen
+{parent=Theoretical computer scientists}
+{wiki=Avner_Magen}
+
+= Avrim Blum
+{parent=Theoretical computer scientists}
+{wiki=Avrim_Blum}
+
+= Baruch Awerbuch
+{parent=Theoretical computer scientists}
+{wiki=Baruch_Awerbuch}
+
+= Baruch Schieber
+{parent=Theoretical computer scientists}
+{wiki=Baruch_Schieber}
+
+= Benjamin Rossman
+{parent=Theoretical computer scientists}
+{wiki=Benjamin_Rossman}
+
+= Boaz Barak
+{parent=Theoretical computer scientists}
+{wiki=Boaz_Barak}
+
+= Brenda Baker
+{parent=Theoretical computer scientists}
+{wiki=Brenda_Baker}
+
+= Carolyn Talcott
+{parent=Theoretical computer scientists}
+{wiki=Carolyn_Talcott}
+
+= Carsten Lund
+{parent=Theoretical computer scientists}
+{wiki=Carsten_Lund}
+
+= Charles E. Leiserson
+{parent=Theoretical computer scientists}
+{wiki=Charles_E._Leiserson}
+
+= Chris Umans
+{parent=Theoretical computer scientists}
+{wiki=Chris_Umans}
+
+= Christel Baier
+{parent=Theoretical computer scientists}
+{wiki=Christel_Baier}
+
+= Christos Papadimitriou
+{parent=Theoretical computer scientists}
+{wiki=Christos_Papadimitriou}
+
+= Claire Mathieu
+{parent=Theoretical computer scientists}
+{wiki=Claire_Mathieu}
+
+= Claude Lemaréchal
+{parent=Theoretical computer scientists}
+{wiki=Claude_Lemaréchal}
+
+= Cristina Bazgan
+{parent=Theoretical computer scientists}
+{wiki=Cristina_Bazgan}
+
+= Cristopher Moore
+{parent=Theoretical computer scientists}
+{wiki=Cristopher_Moore}
+
+= Cynthia Dwork
+{parent=Theoretical computer scientists}
+{wiki=Cynthia_Dwork}
+
+= Dan Hirschberg
+{parent=Theoretical computer scientists}
+{wiki=Dan_Hirschberg}
+
+= Dan Willard
+{parent=Theoretical computer scientists}
+{wiki=Dan_Willard}
+
+= Dana Angluin
+{parent=Theoretical computer scientists}
+{wiki=Dana_Angluin}
+
+= Dana Moshkovitz
+{parent=Theoretical computer scientists}
+{wiki=Dana_Moshkovitz}
+
+= Dana Randall
+{parent=Theoretical computer scientists}
+{wiki=Dana_Randall}
+
+= Dana Ron
+{parent=Theoretical computer scientists}
+{wiki=Dana_Ron}
+
+= Daniel Sleator
+{parent=Theoretical computer scientists}
+{wiki=Daniel_Sleator}
+
+= Daniel Spielman
+{parent=Theoretical computer scientists}
+{wiki=Daniel_Spielman}
+
+= Danny Dolev
+{parent=Theoretical computer scientists}
+{wiki=Danny_Dolev}
+
+= David E. Goldberg
+{parent=Theoretical computer scientists}
+{wiki=David_E._Goldberg}
+
+= David Luenberger
+{parent=Theoretical computer scientists}
+{wiki=David_Luenberger}
+
+= David Peleg (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=David_Peleg_(computer_scientist)}
+
+= David Zuckerman (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=David_Zuckerman_(computer_scientist)}
+
+= Dexter Kozen
+{parent=Theoretical computer scientists}
+{wiki=Dexter_Kozen}
+
+= Donald B. Johnson
+{parent=Theoretical computer scientists}
+{wiki=Donald_B._Johnson}
+
+= Edith Cohen
+{parent=Theoretical computer scientists}
+{wiki=Edith_Cohen}
+
+= Edsger W. Dijkstra
+{parent=Theoretical computer scientists}
+{wiki=Edsger_W._Dijkstra}
+
+= Edward G. Coffman Jr.
+{parent=Theoretical computer scientists}
+{wiki=Edward_G._Coffman_Jr.}
+
+= Elette Boyle
+{parent=Theoretical computer scientists}
+{wiki=Elette_Boyle}
+
+= Eli Shamir
+{parent=Theoretical computer scientists}
+{wiki=Eli_Shamir}
+
+= Eli Upfal
+{parent=Theoretical computer scientists}
+{wiki=Eli_Upfal}
+
+= Endre Szemerédi
+{parent=Theoretical computer scientists}
+{wiki=Endre_Szemerédi}
+
+= Eric Allender
+{parent=Theoretical computer scientists}
+{wiki=Eric_Allender}
+
+= Erik Demaine
+{parent=Theoretical computer scientists}
+{wiki=Erik_Demaine}
+
+= Eugene Lawler
+{parent=Theoretical computer scientists}
+{wiki=Eugene_Lawler}
+
+= Eun Jung Kim (parameterized complexity)
+{parent=Theoretical computer scientists}
+{wiki=Eun_Jung_Kim_(parameterized_complexity)}
+
+= Faith Ellen
+{parent=Theoretical computer scientists}
+{wiki=Faith_Ellen}
+
+= Ferdinand Peper
+{parent=Theoretical computer scientists}
+{wiki=Ferdinand_Peper}
+
+= Ferran Hurtado
+{parent=Theoretical computer scientists}
+{wiki=Ferran_Hurtado}
+
+= Florian Neukart
+{parent=Theoretical computer scientists}
+{wiki=Florian_Neukart}
+
+= Fotios Zaharoglou
+{parent=Theoretical computer scientists}
+{wiki=Fotios_Zaharoglou}
+
+= Franco P. Preparata
+{parent=Theoretical computer scientists}
+{wiki=Franco_P._Preparata}
+
+= Gary Miller (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=Gary_Miller_(computer_scientist)}
+
+= Gheorghe Păun
+{parent=Theoretical computer scientists}
+{wiki=Gheorghe_Păun}
+
+= Giuseppe F. Italiano
+{parent=Theoretical computer scientists}
+{wiki=Giuseppe_F._Italiano}
+
+= Greta Panova
+{parent=Theoretical computer scientists}
+{wiki=Greta_Panova}
+
+= Gunther Schmidt
+{parent=Theoretical computer scientists}
+{wiki=Gunther_Schmidt}
+
+= Gustave Solomon
+{parent=Theoretical computer scientists}
+{wiki=Gustave_Solomon}
+
+= Gábor N. Sárközy
+{parent=Theoretical computer scientists}
+{wiki=Gábor_N._Sárközy}
+
+= Hans Hermes
+{parent=Theoretical computer scientists}
+{wiki=Hans_Hermes}
+
+= Hans L. Bodlaender
+{parent=Theoretical computer scientists}
+{wiki=Hans_L._Bodlaender}
+
+= Harry Mairson
+{parent=Theoretical computer scientists}
+{wiki=Harry_Mairson}
+
+= Harry R. Lewis
+{parent=Theoretical computer scientists}
+{wiki=Harry_R._Lewis}
+
+= Hisao Yamada
+{parent=Theoretical computer scientists}
+{wiki=Hisao_Yamada}
+
+= I. J. Good
+{parent=Theoretical computer scientists}
+{wiki=I._J._Good}
+
+= Ian Munro (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=Ian_Munro_(computer_scientist)}
+
+= Jack Lutz
+{parent=Theoretical computer scientists}
+{wiki=Jack_Lutz}
+
+= James Renegar
+{parent=Theoretical computer scientists}
+{wiki=James_Renegar}
+
+= Jan van Leeuwen
+{parent=Theoretical computer scientists}
+{wiki=Jan_van_Leeuwen}
+
+= Janusz Brzozowski (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=Janusz_Brzozowski_(computer_scientist)}
+
+= Jean-Éric Pin
+{parent=Theoretical computer scientists}
+{wiki=Jean-Éric_Pin}
+
+= Jean Gallier
+{parent=Theoretical computer scientists}
+{wiki=Jean_Gallier}
+
+= Jeff Edmonds
+{parent=Theoretical computer scientists}
+{wiki=Jeff_Edmonds}
+
+= Jennifer Tour Chayes
+{parent=Theoretical computer scientists}
+{wiki=Jennifer_Tour_Chayes}
+
+= Jin-Yi Cai
+{parent=Theoretical computer scientists}
+{wiki=Jin-Yi_Cai}
+
+= Joachim von zur Gathen
+{parent=Theoretical computer scientists}
+{wiki=Joachim_von_zur_Gathen}
+
+= Joan Feigenbaum
+{parent=Theoretical computer scientists}
+{wiki=Joan_Feigenbaum}
+
+= Johan Håstad
+{parent=Theoretical computer scientists}
+{wiki=Johan_Håstad}
+
+= John Koza
+{parent=Theoretical computer scientists}
+{wiki=John_Koza}
+
+= John Reif
+{parent=Theoretical computer scientists}
+{wiki=John_Reif}
+
+= John Watrous (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=John_Watrous_(computer_scientist)}
+
+= Juhani Karhumäki
+{parent=Theoretical computer scientists}
+{wiki=Juhani_Karhumäki}
+
+= Julia Chuzhoy
+{parent=Theoretical computer scientists}
+{wiki=Julia_Chuzhoy}
+
+= Juraj Hromkovič
+{parent=Theoretical computer scientists}
+{wiki=Juraj_Hromkovič}
+
+= Juris Hartmanis
+{parent=Theoretical computer scientists}
+{wiki=Juris_Hartmanis}
+
+= János Komlós (mathematician)
+{parent=Theoretical computer scientists}
+{wiki=János_Komlós_(mathematician)}
+
+= Katrina Ligett
+{parent=Theoretical computer scientists}
+{wiki=Katrina_Ligett}
+
+= Kavitha Telikepalli
+{parent=Theoretical computer scientists}
+{wiki=Kavitha_Telikepalli}
+
+= Kazuo Iwama (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=Kazuo_Iwama_(computer_scientist)}
+
+= Ken Batcher
+{parent=Theoretical computer scientists}
+{wiki=Ken_Batcher}
+
+= Ketan Mulmuley
+{parent=Theoretical computer scientists}
+{wiki=Ketan_Mulmuley}
+
+= Kosaburo Hashiguchi
+{parent=Theoretical computer scientists}
+{wiki=Kosaburo_Hashiguchi}
+
+= Kousha Etessami
+{parent=Theoretical computer scientists}
+{wiki=Kousha_Etessami}
+
+= Lance Fortnow
+{parent=Theoretical computer scientists}
+{wiki=Lance_Fortnow}
+
+= Larry Stockmeyer
+{parent=Theoretical computer scientists}
+{wiki=Larry_Stockmeyer}
+
+= Lawrence J. Fogel
+{parent=Theoretical computer scientists}
+{wiki=Lawrence_J._Fogel}
+
+= Lenore Blum
+{parent=Theoretical computer scientists}
+{wiki=Lenore_Blum}
+
+= Leslie Ann Goldberg
+{parent=Theoretical computer scientists}
+{wiki=Leslie_Ann_Goldberg}
+
+= Leslie Valiant
+{parent=Theoretical computer scientists}
+{wiki=Leslie_Valiant}
+
+= Li Huatian
+{parent=Theoretical computer scientists}
+{wiki=Li_Huatian}
+
+= Lov Grover
+{parent=Theoretical computer scientists}
+{wiki=Lov_Grover}
+
+= Luca Trevisan
+{parent=Theoretical computer scientists}
+{wiki=Luca_Trevisan}
+
+= László Babai
+{parent=Theoretical computer scientists}
+{wiki=László_Babai}
+
+= Maarten van Emden
+{parent=Theoretical computer scientists}
+{wiki=Maarten_van_Emden}
+
+= Madhu Sudan
+{parent=Theoretical computer scientists}
+{wiki=Madhu_Sudan}
+
+= Manindra Agrawal
+{parent=Theoretical computer scientists}
+{wiki=Manindra_Agrawal}
+
+= Manuel Blum
+{parent=Theoretical computer scientists}
+{wiki=Manuel_Blum}
+
+= Marek Karpinski
+{parent=Theoretical computer scientists}
+{wiki=Marek_Karpinski}
+
+= Marilyn Walker
+{parent=Theoretical computer scientists}
+{wiki=Marilyn_Walker}
+
+= Mario Szegedy
+{parent=Theoretical computer scientists}
+{wiki=Mario_Szegedy}
+
+= Mark Jerrum
+{parent=Theoretical computer scientists}
+{wiki=Mark_Jerrum}
+
+= Martin Dyer
+{parent=Theoretical computer scientists}
+{wiki=Martin_Dyer}
+
+= Mary Wootters
+{parent=Theoretical computer scientists}
+{wiki=Mary_Wootters}
+
+= Maxime Crochemore
+{parent=Theoretical computer scientists}
+{wiki=Maxime_Crochemore}
+
+= Michael A. Bender
+{parent=Theoretical computer scientists}
+{wiki=Michael_A._Bender}
+
+= Michael A. Harrison
+{parent=Theoretical computer scientists}
+{wiki=Michael_A._Harrison}
+
+= Michael Fellows
+{parent=Theoretical computer scientists}
+{wiki=Michael_Fellows}
+
+= Michael Fredman
+{parent=Theoretical computer scientists}
+{wiki=Michael_Fredman}
+
+= Michael Garey
+{parent=Theoretical computer scientists}
+{wiki=Michael_Garey}
+
+= Michael J. Fischer
+{parent=Theoretical computer scientists}
+{wiki=Michael_J._Fischer}
+
+= Michael Luby
+{parent=Theoretical computer scientists}
+{wiki=Michael_Luby}
+
+= Michael Mitzenmacher
+{parent=Theoretical computer scientists}
+{wiki=Michael_Mitzenmacher}
+
+= Michael O. Rabin
+{parent=Theoretical computer scientists}
+{wiki=Michael_O._Rabin}
+
+= Michael Saks (mathematician)
+{parent=Theoretical computer scientists}
+{wiki=Michael_Saks_(mathematician)}
+
+= Michael Sipser
+{parent=Theoretical computer scientists}
+{wiki=Michael_Sipser}
+
+= Michael W. Shields
+{parent=Theoretical computer scientists}
+{wiki=Michael_W._Shields}
+
+= Michal Parnas
+{parent=Theoretical computer scientists}
+{wiki=Michal_Parnas}
+
+= Mihai Pătrașcu (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=Mihai_Pătrașcu_(computer_scientist)}
+
+= Mihalis Yannakakis
+{parent=Theoretical computer scientists}
+{wiki=Mihalis_Yannakakis}
+
+= Mike Paterson
+{parent=Theoretical computer scientists}
+{wiki=Mike_Paterson}
+
+= Mikhail Atallah
+{parent=Theoretical computer scientists}
+{wiki=Mikhail_Atallah}
+
+= Mikkel Thorup
+{parent=Theoretical computer scientists}
+{wiki=Mikkel_Thorup}
+
+= Miklós Ajtai
+{parent=Theoretical computer scientists}
+{wiki=Miklós_Ajtai}
+
+= Mohammad Hajiaghayi
+{parent=Theoretical computer scientists}
+{wiki=Mohammad_Hajiaghayi}
+
+= Moni Naor
+{parent=Theoretical computer scientists}
+{wiki=Moni_Naor}
+
+= Monika Henzinger
+{parent=Theoretical computer scientists}
+{wiki=Monika_Henzinger}
+
+= Moti Yung
+{parent=Theoretical computer scientists}
+{wiki=Moti_Yung}
+
+= Nachum Dershowitz
+{parent=Theoretical computer scientists}
+{wiki=Nachum_Dershowitz}
+
+= Nancy Lynch
+{parent=Theoretical computer scientists}
+{wiki=Nancy_Lynch}
+
+= Narendra Karmarkar
+{parent=Theoretical computer scientists}
+{wiki=Narendra_Karmarkar}
+
+= Nati Linial
+{parent=Theoretical computer scientists}
+{wiki=Nati_Linial}
+
+= Naum Z. Shor
+{parent=Theoretical computer scientists}
+{wiki=Naum_Z._Shor}
+
+= Naveen Garg
+{parent=Theoretical computer scientists}
+{wiki=Naveen_Garg}
+
+= Neeraj Kayal
+{parent=Theoretical computer scientists}
+{wiki=Neeraj_Kayal}
+
+= Neil Immerman
+{parent=Theoretical computer scientists}
+{wiki=Neil_Immerman}
+
+= Nick Pippenger
+{parent=Theoretical computer scientists}
+{wiki=Nick_Pippenger}
+
+= Nicole Immorlica
+{parent=Theoretical computer scientists}
+{wiki=Nicole_Immorlica}
+
+= Nicole Megow
+{parent=Theoretical computer scientists}
+{wiki=Nicole_Megow}
+
+= Nir Shavit
+{parent=Theoretical computer scientists}
+{wiki=Nir_Shavit}
+
+= Nissim Francez
+{parent=Theoretical computer scientists}
+{wiki=Nissim_Francez}
+
+= Nitin Saxena
+{parent=Theoretical computer scientists}
+{wiki=Nitin_Saxena}
+
+= Noam Nisan
+{parent=Theoretical computer scientists}
+{wiki=Noam_Nisan}
+
+= Oded Goldreich
+{parent=Theoretical computer scientists}
+{wiki=Oded_Goldreich}
+
+= Ofer Strichman
+{parent=Theoretical computer scientists}
+{wiki=Ofer_Strichman}
+
+= Omer Reingold
+{parent=Theoretical computer scientists}
+{wiki=Omer_Reingold}
+
+= Oscar H. Ibarra
+{parent=Theoretical computer scientists}
+{wiki=Oscar_H._Ibarra}
+
+= Paritosh Pandya
+{parent=Theoretical computer scientists}
+{wiki=Paritosh_Pandya}
+
+= Patricia Bouyer-Decitre
+{parent=Theoretical computer scientists}
+{wiki=Patricia_Bouyer-Decitre}
+
+= Patrick C. Fischer
+{parent=Theoretical computer scientists}
+{wiki=Patrick_C._Fischer}
+
+= Paul Christiano (researcher)
+{parent=Theoretical computer scientists}
+{wiki=Paul_Christiano_(researcher)}
+
+= Paul Vitányi
+{parent=Theoretical computer scientists}
+{wiki=Paul_Vitányi}
+
+= Peter Ružička
+{parent=Theoretical computer scientists}
+{wiki=Peter_Ružička}
+
+= Peter Shor
+{parent=Theoretical computer scientists}
+{wiki=Peter_Shor}
+
+= Peter van Emde Boas
+{parent=Theoretical computer scientists}
+{wiki=Peter_van_Emde_Boas}
+
+= Philippa Gardner
+{parent=Theoretical computer scientists}
+{wiki=Philippa_Gardner}
+
+= Piotr Indyk
+{parent=Theoretical computer scientists}
+{wiki=Piotr_Indyk}
+
+= R. C. T. Lee
+{parent=Theoretical computer scientists}
+{wiki=R._C._T._Lee}
+
+= Rafail Ostrovsky
+{parent=Theoretical computer scientists}
+{wiki=Rafail_Ostrovsky}
+
+= Rajeev Motwani
+{parent=Theoretical computer scientists}
+{wiki=Rajeev_Motwani}
+
+= Ran Libeskind-Hadas
+{parent=Theoretical computer scientists}
+{wiki=Ran_Libeskind-Hadas}
+
+= Ran Raz
+{parent=Theoretical computer scientists}
+{wiki=Ran_Raz}
+
+= Rasmus Pagh
+{parent=Theoretical computer scientists}
+{wiki=Rasmus_Pagh}
+
+= Ravindran Kannan
+{parent=Theoretical computer scientists}
+{wiki=Ravindran_Kannan}
+
+= Ray Solomonoff
+{parent=Theoretical computer scientists}
+{wiki=Ray_Solomonoff}
+
+= Rediet Abebe
+{parent=Theoretical computer scientists}
+{wiki=Rediet_Abebe}
+
+= Richard Cleve
+{parent=Theoretical computer scientists}
+{wiki=Richard_Cleve}
+
+= Richard Lipton
+{parent=Theoretical computer scientists}
+{wiki=Richard_Lipton}
+
+= Richart E. Slusher
+{parent=Theoretical computer scientists}
+{wiki=Richart_E._Slusher}
+
+= Robert McNaughton
+{parent=Theoretical computer scientists}
+{wiki=Robert_McNaughton}
+
+= Rod Downey
+{parent=Theoretical computer scientists}
+{wiki=Rod_Downey}
+
+= Ronald V. Book
+{parent=Theoretical computer scientists}
+{wiki=Ronald_V._Book}
+
+= Ronitt Rubinfeld
+{parent=Theoretical computer scientists}
+{wiki=Ronitt_Rubinfeld}
+
+= Rudolf Berghammer
+{parent=Theoretical computer scientists}
+{wiki=Rudolf_Berghammer}
+
+= Ryan Williams (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=Ryan_Williams_(computer_scientist)}
+
+= Róbert Szelepcsényi
+{parent=Theoretical computer scientists}
+{wiki=Róbert_Szelepcsényi}
+
+= Rózsa Péter
+{parent=Theoretical computer scientists}
+{wiki=Rózsa_Péter}
+
+= Rüdiger Valk
+{parent=Theoretical computer scientists}
+{wiki=Rüdiger_Valk}
+
+= Rūsiņš Mārtiņš Freivalds
+{parent=Theoretical computer scientists}
+{wiki=Rūsiņš_Mārtiņš_Freivalds}
+
+= S. Muthukrishnan (computer scientist)
+{parent=Theoretical computer scientists}
+{wiki=S._Muthukrishnan_(computer_scientist)}
+
+= S. Rao Kosaraju
+{parent=Theoretical computer scientists}
+{wiki=S._Rao_Kosaraju}
+
+= Salil Vadhan
+{parent=Theoretical computer scientists}
+{wiki=Salil_Vadhan}
+
+= Sanjeev Arora
+{parent=Theoretical computer scientists}
+{wiki=Sanjeev_Arora}
+
+= Santosh Vempala
+{parent=Theoretical computer scientists}
+{wiki=Santosh_Vempala}
+
+= Sartaj Sahni
+{parent=Theoretical computer scientists}
+{wiki=Sartaj_Sahni}
+
+= Scott Aaronson
+{parent=Theoretical computer scientists}
+{wiki=Scott_Aaronson}
+
+= Seinosuke Toda
+{parent=Theoretical computer scientists}
+{wiki=Seinosuke_Toda}
+
+= Seymour Ginsburg
+{parent=Theoretical computer scientists}
+{wiki=Seymour_Ginsburg}
+
+= Shafi Goldwasser
+{parent=Theoretical computer scientists}
+{wiki=Shafi_Goldwasser}
+
+= Shai Halevi
+{parent=Theoretical computer scientists}
+{wiki=Shai_Halevi}
+
+= Sheila Greibach
+{parent=Theoretical computer scientists}
+{wiki=Sheila_Greibach}
+
+= Shlomi Dolev
+{parent=Theoretical computer scientists}
+{wiki=Shlomi_Dolev}
+
+= Shlomo Moran
+{parent=Theoretical computer scientists}
+{wiki=Shlomo_Moran}
+
+= Shmuel Safra
+{parent=Theoretical computer scientists}
+{wiki=Shmuel_Safra}
+
+= Shmuel Zaks
+{parent=Theoretical computer scientists}
+{wiki=Shmuel_Zaks}
+
+= Shuchi Chawla
+{parent=Theoretical computer scientists}
+{wiki=Shuchi_Chawla}
+
+= Silvio Micali
+{parent=Theoretical computer scientists}
+{wiki=Silvio_Micali}
+
+= Sofya Raskhodnikova
+{parent=Theoretical computer scientists}
+{wiki=Sofya_Raskhodnikova}
+
+= Solomon Marcus
+{parent=Theoretical computer scientists}
+{wiki=Solomon_Marcus}
+
+= Stathis Zachos
+{parent=Theoretical computer scientists}
+{wiki=Stathis_Zachos}
+
+= Stefan Szeider
+{parent=Theoretical computer scientists}
+{wiki=Stefan_Szeider}
+
+= Stephen Cook
+{parent=Theoretical computer scientists}
+{wiki=Stephen_Cook}
+
+= Subhash Kak
+{parent=Theoretical computer scientists}
+{wiki=Subhash_Kak}
+
+= Subhash Khot
+{parent=Theoretical computer scientists}
+{wiki=Subhash_Khot}
+
+= Suresh Venkatasubramanian
+{parent=Theoretical computer scientists}
+{wiki=Suresh_Venkatasubramanian}
+
+= Susanne Albers
+{parent=Theoretical computer scientists}
+{wiki=Susanne_Albers}
+
+= Teofilo F. Gonzalez
+{parent=Theoretical computer scientists}
+{wiki=Teofilo_F._Gonzalez}
+
+= Tim Roughgarden
+{parent=Theoretical computer scientists}
+{wiki=Tim_Roughgarden}
+
+= Tobias Nipkow
+{parent=Theoretical computer scientists}
+{wiki=Tobias_Nipkow}
+
+= Toniann Pitassi
+{parent=Theoretical computer scientists}
+{wiki=Toniann_Pitassi}
+
+= Umesh Vazirani
+{parent=Theoretical computer scientists}
+{wiki=Umesh_Vazirani}
+
+= Uriel Feige
+{parent=Theoretical computer scientists}
+{wiki=Uriel_Feige}
+
+= Urmila Mahadev
+{parent=Theoretical computer scientists}
+{wiki=Urmila_Mahadev}
+
+= Uwe Schöning
+{parent=Theoretical computer scientists}
+{wiki=Uwe_Schöning}
+
+= Uzi Vishkin
+{parent=Theoretical computer scientists}
+{wiki=Uzi_Vishkin}
+
+= Valerie King
+{parent=Theoretical computer scientists}
+{wiki=Valerie_King}
+
+= Vaughan Pratt
+{parent=Theoretical computer scientists}
+{wiki=Vaughan_Pratt}
+
+= Venkatesan Guruswami
+{parent=Theoretical computer scientists}
+{wiki=Venkatesan_Guruswami}
+
+= Victor Pan
+{parent=Theoretical computer scientists}
+{wiki=Victor_Pan}
+
+= Victor Shoup
+{parent=Theoretical computer scientists}
+{wiki=Victor_Shoup}
+
+= Vijay Vazirani
+{parent=Theoretical computer scientists}
+{wiki=Vijay_Vazirani}
+
+= Viliam Geffert
+{parent=Theoretical computer scientists}
+{wiki=Viliam_Geffert}
+
+= Virginia Vassilevska Williams
+{parent=Theoretical computer scientists}
+{wiki=Virginia_Vassilevska_Williams}
+
+= Vladlen Koltun
+{parent=Theoretical computer scientists}
+{wiki=Vladlen_Koltun}
+
+= Wayne Snyder
+{parent=Theoretical computer scientists}
+{wiki=Wayne_Snyder}
+
+= Wilfried Brauer
+{parent=Theoretical computer scientists}
+{wiki=Wilfried_Brauer}
+
+= Wojciech Rytter
+{parent=Theoretical computer scientists}
+{wiki=Wojciech_Rytter}
+
+= Yael Tauman Kalai
+{parent=Theoretical computer scientists}
+{wiki=Yael_Tauman_Kalai}
+
+= Yinyu Ye
+{parent=Theoretical computer scientists}
+{wiki=Yinyu_Ye}
+
+= Yossi Matias
+{parent=Theoretical computer scientists}
+{wiki=Yossi_Matias}
+
+= Yuri Ofman
+{parent=Theoretical computer scientists}
+{wiki=Yuri_Ofman}
+
+= Zvi Galil
+{parent=Theoretical computer scientists}
+{wiki=Zvi_Galil}
+
+= Theory of computation
+{parent=Theoretical computer science}
+{wiki=Theory_of_computation}
+
+= Computability theory
+{parent=Theory of computation}
+{wiki=Computability_theory}
+
+= Computational complexity theory
+{parent=Theory of computation}
+{wiki=Computational_complexity_theory}
+
+= Computer arithmetic
+{parent=Theory of computation}
+{wiki=Computer_arithmetic}
+
+= Ackermann function
+{parent=Theory of computation}
+{wiki=Ackermann_function}
+
+= Admissible numbering
+{parent=Theory of computation}
+{wiki=Admissible_numbering}
+
+= Andreas Brandstädt
+{parent=Theory of computation}
+{wiki=Andreas_Brandstädt}
+
+= Blockhead (thought experiment)
+{parent=Theory of computation}
+{wiki=Blockhead_(thought_experiment)}
+
+= Bremermann's limit
+{parent=Theory of computation}
+{wiki=Bremermann's_limit}
+
+= Brooks–Iyengar algorithm
+{parent=Theory of computation}
+{wiki=Brooks–Iyengar_algorithm}
+
+= Busy beaver
+{parent=Theory of computation}
+{wiki=Busy_beaver}
+
+= Byzantine fault
+{parent=Theory of computation}
+{wiki=Byzantine_fault}
+
+= Church–Turing thesis
+{parent=Theory of computation}
+{wiki=Church–Turing_thesis}
+
+= Church–Turing–Deutsch principle
+{parent=Theory of computation}
+{wiki=Church–Turing–Deutsch_principle}
+
+= Circuit (computer science)
+{parent=Theory of computation}
+{wiki=Circuit_(computer_science)}
+
+= Computability
+{parent=Theory of computation}
+{wiki=Computability}
+
+= Computable function
+{parent=Theory of computation}
+{wiki=Computable_function}
+
+= Computable number
+{parent=Theory of computation}
+{wiki=Computable_number}
+
+= Computable set
+{parent=Theory of computation}
+{wiki=Computable_set}
+
+= Computably enumerable set
+{parent=Theory of computation}
+{wiki=Computably_enumerable_set}
+
+= Computation history
+{parent=Theory of computation}
+{wiki=Computation_history}
+
+= Computation in the limit
+{parent=Theory of computation}
+{wiki=Computation_in_the_limit}
+
+= Computational semiotics
+{parent=Theory of computation}
+{wiki=Computational_semiotics}
+
+= Cylindric numbering
+{parent=Theory of computation}
+{wiki=Cylindric_numbering}
+
+= Cylindrification
+{parent=Theory of computation}
+{wiki=Cylindrification}
+
+= Digital physics
+{parent=Theory of computation}
+{wiki=Digital_physics}
+
+= Effective method
+{parent=Theory of computation}
+{wiki=Effective_method}
+
+= Entscheidungsproblem
+{parent=Theory of computation}
+{wiki=Entscheidungsproblem}
+
+= Enumerator (computer science)
+{parent=Theory of computation}
+{wiki=Enumerator_(computer_science)}
+
+= General recursive function
+{parent=Theory of computation}
+{wiki=General_recursive_function}
+
+= Gödel numbering
+{parent=Theory of computation}
+{wiki=Gödel_numbering}
+
+= Halting problem
+{parent=Theory of computation}
+{wiki=Halting_problem}
+
+= History of the Church–Turing thesis
+{parent=Theory of computation}
+{wiki=History_of_the_Church–Turing_thesis}
+
+= Hypercomputation
+{parent=Theory of computation}
+{wiki=Hypercomputation}
+
+= International Conference on Reachability Problems
+{parent=Theory of computation}
+{wiki=International_Conference_on_Reachability_Problems}
+
+= Intersection type discipline
+{parent=Theory of computation}
+{wiki=Intersection_type_discipline}
+
+= Introduction to the Theory of Computation
+{parent=Theory of computation}
+{wiki=Introduction_to_the_Theory_of_Computation}
+
+= Limits of computation
+{parent=Theory of computation}
+{wiki=Limits_of_computation}
+
+= List of computability and complexity topics
+{parent=Theory of computation}
+{wiki=List_of_computability_and_complexity_topics}
+
+= List of undecidable problems
+{parent=Theory of computation}
+{wiki=List_of_undecidable_problems}
+
+= Mortality (computability theory)
+{parent=Theory of computation}
+{wiki=Mortality_(computability_theory)}
+
+= Nomogram
+{parent=Theory of computation}
+{wiki=Nomogram}
+
+= Nondeterministic algorithm
+{parent=Theory of computation}
+{wiki=Nondeterministic_algorithm}
+
+= Numbering (computability theory)
+{parent=Theory of computation}
+{wiki=Numbering_(computability_theory)}
+
+= Parallel computation thesis
+{parent=Theory of computation}
+{wiki=Parallel_computation_thesis}
+
+= Parallel terraced scan
+{parent=Theory of computation}
+{wiki=Parallel_terraced_scan}
+
+= Post correspondence problem
+{parent=Theory of computation}
+{wiki=Post_correspondence_problem}
+
+= Reachability analysis
+{parent=Theory of computation}
+{wiki=Reachability_analysis}
+
+= Reachability problem
+{parent=Theory of computation}
+{wiki=Reachability_problem}
+
+= Real computation
+{parent=Theory of computation}
+{wiki=Real_computation}
+
+= Rounding
+{parent=Theory of computation}
+{wiki=Rounding}
+
+= Scale factor (computer science)
+{parent=Theory of computation}
+{wiki=Scale_factor_(computer_science)}
+
+= Self-reference
+{parent=Theory of computation}
+{wiki=Self-reference}
+
+= Semiotic engineering
+{parent=Theory of computation}
+{wiki=Semiotic_engineering}
+
+= Shadow square
+{parent=Theory of computation}
+{wiki=Shadow_square}
+
+= Simply typed lambda calculus
+{parent=Theory of computation}
+{wiki=Simply_typed_lambda_calculus}
+
+= Size-change termination principle
+{parent=Theory of computation}
+{wiki=Size-change_termination_principle}
+
+= Sudan function
+{parent=Theory of computation}
+{wiki=Sudan_function}
+
+= Tarski–Kuratowski algorithm
+{parent=Theory of computation}
+{wiki=Tarski–Kuratowski_algorithm}
+
+= Ten15
+{parent=Theory of computation}
+{wiki=Ten15}
+
+= Transcomputational problem
+{parent=Theory of computation}
+{wiki=Transcomputational_problem}
+
+= Turing's proof
+{parent=Theory of computation}
+{wiki=Turing's_proof}
+
+= Turing completeness
+{parent=Theory of computation}
+{wiki=Turing_completeness}
+
+= Turing degree
+{parent=Theory of computation}
+{wiki=Turing_degree}
+
+= Turing tarpit
+{parent=Theory of computation}
+{wiki=Turing_tarpit}
+
+= Two Generals' Problem
+{parent=Theory of computation}
+{wiki=Two_Generals'_Problem}
+
+= Undefined value
+{parent=Theory of computation}
+{wiki=Undefined_value}
+
+= Wang tile
+{parent=Theory of computation}
+{wiki=Wang_tile}
+
+= X-Machine Testing
+{parent=Theory of computation}
+{wiki=X-Machine_Testing}
+
+= Yao's test
+{parent=Theory of computation}
+{wiki=Yao's_test}
+
+= ACM Doctoral Dissertation Award
+{parent=Theoretical computer science}
+{wiki=ACM_Doctoral_Dissertation_Award}
+
+= ACM SIGACT
+{parent=Theoretical computer science}
+{wiki=ACM_SIGACT}
+
+= Algorithmic technique
+{parent=Theoretical computer science}
+{wiki=Algorithmic_technique}
+
+= Analysis of Boolean functions
+{parent=Theoretical computer science}
+{wiki=Analysis_of_Boolean_functions}
+
+= Automated reasoning
+{parent=Theoretical computer science}
+{wiki=Automated_reasoning}
+
+= Knowledge representation
+{parent=Automated reasoning}
+{wiki=Knowledge_representation}
+
+= Rule engines
+{parent=Automated reasoning}
+{wiki=Rule_engines}
+
+= Type inference
+{parent=Automated reasoning}
+{wiki=Type_inference}
+
+= Association for Automated Reasoning
+{parent=Automated reasoning}
+{wiki=Association_for_Automated_Reasoning}
+
+= Commonsense reasoning
+{parent=Automated reasoning}
+{wiki=Commonsense_reasoning}
+
+= Handbook of Automated Reasoning
+{parent=Automated reasoning}
+{wiki=Handbook_of_Automated_Reasoning}
+
+= Knowledge representation and reasoning
+{parent=Automated reasoning}
+{wiki=Knowledge_representation_and_reasoning}
+
+= Model-based reasoning
+{parent=Automated reasoning}
+{wiki=Model-based_reasoning}
+
+= Opportunistic reasoning
+{parent=Automated reasoning}
+{wiki=Opportunistic_reasoning}
+
+= Reasoning system
+{parent=Automated reasoning}
+{wiki=Reasoning_system}
+
+= Semantic reasoner
+{parent=Automated reasoning}
+{wiki=Semantic_reasoner}
+
+= Sentient (intelligence analysis system)
+{parent=Automated reasoning}
+{wiki=Sentient_(intelligence_analysis_system)}
+
+= Stanhope Demonstrator
+{parent=Automated reasoning}
+{wiki=Stanhope_Demonstrator}
+
+= The Engine
+{parent=Automated reasoning}
+{wiki=The_Engine}
+
+= Bigraph
+{parent=Theoretical computer science}
+{wiki=Bigraph}
+
+= Bio-inspired computing
+{parent=Theoretical computer science}
+{wiki=Bio-inspired_computing}
+
+= Bird–Meertens formalism
+{parent=Theoretical computer science}
+{wiki=Bird–Meertens_formalism}
+
+= Bisimulation
+{parent=Theoretical computer science}
+{wiki=Bisimulation}
+
+= Bridging model
+{parent=Theoretical computer science}
+{wiki=Bridging_model}
+
+= British Colloquium for Theoretical Computer Science
+{parent=Theoretical computer science}
+{wiki=British_Colloquium_for_Theoretical_Computer_Science}
+
+= Calculating Space
+{parent=Theoretical computer science}
+{wiki=Calculating_Space}
+
+= Categorical logic
+{parent=Theoretical computer science}
+{wiki=Categorical_logic}
+
+= Topos theory
+{parent=Categorical logic}
+{wiki=Topos_theory}
+
+= Categorical set theory
+{parent=Categorical logic}
+{wiki=Categorical_set_theory}
+
+= Higher-dimensional algebra
+{parent=Categorical logic}
+{wiki=Higher-dimensional_algebra}
+
+= Lawvere theory
+{parent=Categorical logic}
+{wiki=Lawvere_theory}
+
+= Natural numbers object
+{parent=Categorical logic}
+{wiki=Natural_numbers_object}
+
+= Stone's representation theorem for Boolean algebras
+{parent=Categorical logic}
+{wiki=Stone's_representation_theorem_for_Boolean_algebras}
+
+= Stone space
+{parent=Categorical logic}
+{wiki=Stone_space}
+
+= Circuit Value Problem
+{parent=Theoretical computer science}
+{wiki=Circuit_Value_Problem}
+
+= Coinduction
+{parent=Theoretical computer science}
+{wiki=Coinduction}
+
+= Complexity function
+{parent=Theoretical computer science}
+{wiki=Complexity_function}
+
+= Computability in Europe
+{parent=Theoretical computer science}
+{wiki=Computability_in_Europe}
+
+= Computation
+{parent=Theoretical computer science}
+{wiki=Computation}
+
+= Computational problem
+{parent=Theoretical computer science}
+{wiki=Computational_problem}
+
+= Concurrence (quantum computing)
+{parent=Theoretical computer science}
+{wiki=Concurrence_(quantum_computing)}
+
+= Configurable modularity
+{parent=Theoretical computer science}
+{wiki=Configurable_modularity}
+
+= Correctness (computer science)
+{parent=Theoretical computer science}
+{wiki=Correctness_(computer_science)}
+
+= Dynamic Data Driven Applications Systems
+{parent=Theoretical computer science}
+{wiki=Dynamic_Data_Driven_Applications_Systems}
+
+= Erdős Lectures
+{parent=Theoretical computer science}
+{wiki=Erdős_Lectures}
+
+= Error tolerance (PAC learning)
+{parent=Theoretical computer science}
+{wiki=Error_tolerance_(PAC_learning)}
+
+= European Association for Theoretical Computer Science
+{parent=Theoretical computer science}
+{wiki=European_Association_for_Theoretical_Computer_Science}
+
+= Exact cover
+{parent=Theoretical computer science}
+{wiki=Exact_cover}
+
+= Extractor (mathematics)
+{parent=Theoretical computer science}
+{wiki=Extractor_(mathematics)}
+
+= Flajolet Lecture Prize
+{parent=Theoretical computer science}
+{wiki=Flajolet_Lecture_Prize}
+
+= Formal language
+{parent=Theoretical computer science}
+{wiki=Formal_language}
+
+= Formal methods
+{parent=Theoretical computer science}
+{wiki=Formal_methods}
+
+= Abstract data types
+{parent=Formal methods}
+{wiki=Abstract_data_types}
+
+= Formal methods organizations
+{parent=Formal methods}
+{wiki=Category:Formal_methods_organizations}
+
+= Formal methods publications
+{parent=Formal methods}
+{wiki=Category:Formal_methods_publications}
+
+= Formal methods stubs
+{parent=Formal methods}
+{wiki=Category:Formal_methods_stubs}
+
+= Formal methods terminology
+{parent=Formal methods}
+{wiki=Category:Formal_methods_terminology}
+
+= Formal methods tools
+{parent=Formal methods}
+{wiki=Category:Formal_methods_tools}
+
+= Program derivation
+{parent=Formal methods}
+{wiki=Program_derivation}
+
+= Satisfiability problems
+{parent=Formal methods}
+{wiki=Category:Satisfiability_problems}
+
+= Algebraic specification
+{parent=Formal methods}
+{wiki=Algebraic_specification}
+
+= And-inverter graph
+{parent=Formal methods}
+{wiki=And-inverter_graph}
+
+= Applicative universal grammar
+{parent=Formal methods}
+{wiki=Applicative_universal_grammar}
+
+= Asynchronous system
+{parent=Formal methods}
+{wiki=Asynchronous_system}
+
+= Binary moment diagram
+{parent=Formal methods}
+{wiki=Binary_moment_diagram}
+
+= Business process validation
+{parent=Formal methods}
+{wiki=Business_process_validation}
+
+= Concurrency semantics
+{parent=Formal methods}
+{wiki=Concurrency_semantics}
+
+= Continued process verification
+{parent=Formal methods}
+{wiki=Continued_process_verification}
+
+= Critical process parameters
+{parent=Formal methods}
+{wiki=Critical_process_parameters}
+
+= DREAM (software)
+{parent=Formal methods}
+{wiki=DREAM_(software)}
+
+= Dependability
+{parent=Formal methods}
+{wiki=Dependability}
+
+= Design space verification
+{parent=Formal methods}
+{wiki=Design_space_verification}
+
+= Direct function
+{parent=Formal methods}
+{wiki=Direct_function}
+
+= Dynamic timing verification
+{parent=Formal methods}
+{wiki=Dynamic_timing_verification}
+
+= Extended static checking
+{parent=Formal methods}
+{wiki=Extended_static_checking}
+
+= Formal equivalence checking
+{parent=Formal methods}
+{wiki=Formal_equivalence_checking}
+
+= Gödel logic
+{parent=Formal methods}
+{wiki=Gödel_logic}
+
+= Homotopy type theory
+{parent=Formal methods}
+{wiki=Homotopy_type_theory}
+
+= International Conference on Software Engineering and Formal Methods
+{parent=Formal methods}
+{wiki=International_Conference_on_Software_Engineering_and_Formal_Methods}
+
+= Invariant-based programming
+{parent=Formal methods}
+{wiki=Invariant-based_programming}
+
+= Liskov substitution principle
+{parent=Formal methods}
+{wiki=Liskov_substitution_principle}
+
+= Loop invariant
+{parent=Formal methods}
+{wiki=Loop_invariant}
+
+= Loop variant
+{parent=Formal methods}
+{wiki=Loop_variant}
+
+= Lustre (programming language)
+{parent=Formal methods}
+{wiki=Lustre_(programming_language)}
+
+= McCarthy 91 function
+{parent=Formal methods}
+{wiki=McCarthy_91_function}
+
+= Model-based specification
+{parent=Formal methods}
+{wiki=Model-based_specification}
+
+= Mondex
+{parent=Formal methods}
+{wiki=Mondex}
+
+= Oracle unified method
+{parent=Formal methods}
+{wiki=Oracle_unified_method}
+
+= POPLmark challenge
+{parent=Formal methods}
+{wiki=POPLmark_challenge}
+
+= Predicate transformer semantics
+{parent=Formal methods}
+{wiki=Predicate_transformer_semantics}
+
+= Process performance qualification protocol
+{parent=Formal methods}
+{wiki=Process_performance_qualification_protocol}
+
+= Process qualification
+{parent=Formal methods}
+{wiki=Process_qualification}
+
+= Process validation
+{parent=Formal methods}
+{wiki=Process_validation}
+
+= Production equipment control
+{parent=Formal methods}
+{wiki=Production_equipment_control}
+
+= Proof-carrying code
+{parent=Formal methods}
+{wiki=Proof-carrying_code}
+
+= QED manifesto
+{parent=Formal methods}
+{wiki=QED_manifesto}
+
+= RCOS (computer sciences)
+{parent=Formal methods}
+{wiki=RCOS_(computer_sciences)}
+
+= Rational unified process
+{parent=Formal methods}
+{wiki=Rational_unified_process}
+
+= Retiming
+{parent=Formal methods}
+{wiki=Retiming}
+
+= Retrenchment (computing)
+{parent=Formal methods}
+{wiki=Retrenchment_(computing)}
+
+= Robbins algebra
+{parent=Formal methods}
+{wiki=Robbins_algebra}
+
+= SIGNAL (programming language)
+{parent=Formal methods}
+{wiki=SIGNAL_(programming_language)}
+
+= SLAM project
+{parent=Formal methods}
+{wiki=SLAM_project}
+
+= Set theory
+{parent=Formal methods}
+{wiki=Set_theory}
+
+= Software verification and validation
+{parent=Formal methods}
+{wiki=Software_verification_and_validation}
+
+= Static timing analysis
+{parent=Formal methods}
+{wiki=Static_timing_analysis}
+
+= Statistical static timing analysis
+{parent=Formal methods}
+{wiki=Statistical_static_timing_analysis}
+
+= Strict function
+{parent=Formal methods}
+{wiki=Strict_function}
+
+= Symbolic simulation
+{parent=Formal methods}
+{wiki=Symbolic_simulation}
+
+= Syntactic methods
+{parent=Formal methods}
+{wiki=Syntactic_methods}
+
+= Verification and validation of computer simulation models
+{parent=Formal methods}
+{wiki=Verification_and_validation_of_computer_simulation_models}
+
+= Verification condition generator
+{parent=Formal methods}
+{wiki=Verification_condition_generator}
+
+= Formal verification
+{parent=Theoretical computer science}
+{wiki=Formal_verification}
+
+= French Institute for Research in Computer Science and Automation
+{parent=Theoretical computer science}
+{wiki=French_Institute_for_Research_in_Computer_Science_and_Automation}
+
+= Full-employment theorem
+{parent=Theoretical computer science}
+{wiki=Full-employment_theorem}
+
+= Fundamenta Informaticae
+{parent=Theoretical computer science}
+{wiki=Fundamenta_Informaticae}
+
+= Grammar systems theory
+{parent=Theoretical computer science}
+{wiki=Grammar_systems_theory}
+
+= Granular computing
+{parent=Theoretical computer science}
+{wiki=Granular_computing}
+
+= Gödel Prize
+{parent=Theoretical computer science}
+{wiki=Gödel_Prize}
+
+= Indirect self-reference
+{parent=Theoretical computer science}
+{wiki=Indirect_self-reference}
+
+= Interactive computation
+{parent=Theoretical computer science}
+{wiki=Interactive_computation}
+
+= Journal of Automata, Languages and Combinatorics
+{parent=Theoretical computer science}
+{wiki=Journal_of_Automata,_Languages_and_Combinatorics}
+
+= Knowledge Based Software Assistant
+{parent=Theoretical computer science}
+{wiki=Knowledge_Based_Software_Assistant}
+
+= Knuth Prize
+{parent=Theoretical computer science}
+{wiki=Knuth_Prize}
+
+= Level ancestor problem
+{parent=Theoretical computer science}
+{wiki=Level_ancestor_problem}
+
+= Lowest common ancestor
+{parent=Theoretical computer science}
+{wiki=Lowest_common_ancestor}
+
+= Machine learning in physics
+{parent=Theoretical computer science}
+{wiki=Machine_learning_in_physics}
+
+= Manifold hypothesis
+{parent=Theoretical computer science}
+{wiki=Manifold_hypothesis}
+
+= Monge array
+{parent=Theoretical computer science}
+{wiki=Monge_array}
+
+= Motion planning
+{parent=Theoretical computer science}
+{wiki=Motion_planning}
+
+= Natural computing
+{parent=Theoretical computer science}
+{wiki=Natural_computing}
+
+= Neighbour-sensing model
+{parent=Theoretical computer science}
+{wiki=Neighbour-sensing_model}
+
+= Nominal techniques
+{parent=Theoretical computer science}
+{wiki=Nominal_techniques}
+
+= Nominal terms (computer science)
+{parent=Theoretical computer science}
+{wiki=Nominal_terms_(computer_science)}
+
+= Occam learning
+{parent=Theoretical computer science}
+{wiki=Occam_learning}
+
+= Pattern language (formal languages)
+{parent=Theoretical computer science}
+{wiki=Pattern_language_(formal_languages)}
+
+= Probabilistic bisimulation
+{parent=Theoretical computer science}
+{wiki=Probabilistic_bisimulation}
+
+= Profinite word
+{parent=Theoretical computer science}
+{wiki=Profinite_word}
+
+= Promise theory
+{parent=Theoretical computer science}
+{wiki=Promise_theory}
+
+= Pseudorandomness
+{parent=Theoretical computer science}
+{wiki=Pseudorandomness}
+
+= Ehrenfeucht–Mycielski sequence
+{parent=Pseudorandomness}
+{wiki=Ehrenfeucht–Mycielski_sequence}
+
+= Hard-core predicate
+{parent=Pseudorandomness}
+{wiki=Hard-core_predicate}
+
+= PRF advantage
+{parent=Pseudorandomness}
+{wiki=PRF_advantage}
+
+= Pseudorandom binary sequence
+{parent=Pseudorandomness}
+{wiki=Pseudorandom_binary_sequence}
+
+= Pseudorandom function family
+{parent=Pseudorandomness}
+{wiki=Pseudorandom_function_family}
+
+= Pseudorandom generator theorem
+{parent=Pseudorandomness}
+{wiki=Pseudorandom_generator_theorem}
+
+= Pseudorandom generators for polynomials
+{parent=Pseudorandomness}
+{wiki=Pseudorandom_generators_for_polynomials}
+
+= Pseudorandom noise
+{parent=Pseudorandomness}
+{wiki=Pseudorandom_noise}
+
+= Stochastic screening
+{parent=Pseudorandomness}
+{wiki=Stochastic_screening}
+
+= Quantum complexity theory
+{parent=Theoretical computer science}
+{wiki=Quantum_complexity_theory}
+
+= Claw finding problem
+{parent=Quantum complexity theory}
+{wiki=Claw_finding_problem}
+
+= Gap-Hamming problem
+{parent=Quantum complexity theory}
+{wiki=Gap-Hamming_problem}
+
+= Hamiltonian complexity
+{parent=Quantum complexity theory}
+{wiki=Hamiltonian_complexity}
+
+= PP (complexity)
+{parent=Quantum complexity theory}
+{wiki=PP_(complexity)}
+
+= PostBQP
+{parent=Quantum complexity theory}
+{wiki=PostBQP}
+
+= QMA
+{parent=Quantum complexity theory}
+{wiki=QMA}
+
+= Quantum Turing machine
+{parent=Quantum complexity theory}
+{wiki=Quantum_Turing_machine}
+
+= Quantum digital signature
+{parent=Theoretical computer science}
+{wiki=Quantum_digital_signature}
+
+= Quantum machine learning
+{parent=Theoretical computer science}
+{wiki=Quantum_machine_learning}
+
+= Quasi-empiricism in mathematics
+{parent=Theoretical computer science}
+{wiki=Quasi-empiricism_in_mathematics}
+
+= Regular numerical predicate
+{parent=Theoretical computer science}
+{wiki=Regular_numerical_predicate}
+
+= Representer theorem
+{parent=Theoretical computer science}
+{wiki=Representer_theorem}
+
+= Rough set
+{parent=Theoretical computer science}
+{wiki=Rough_set}
+
+= Safety and liveness properties
+{parent=Theoretical computer science}
+{wiki=Safety_and_liveness_properties}
+
+= Scientific community metaphor
+{parent=Theoretical computer science}
+{wiki=Scientific_community_metaphor}
+
+= Semantic spacetime
+{parent=Theoretical computer science}
+{wiki=Semantic_spacetime}
+
+= Semigroup action
+{parent=Theoretical computer science}
+{wiki=Semigroup_action}
+
+= Simulation (computer science)
+{parent=Theoretical computer science}
+{wiki=Simulation_(computer_science)}
+
+= Small-bias sample space
+{parent=Theoretical computer science}
+{wiki=Small-bias_sample_space}
+
+= Spintronics
+{parent=Theoretical computer science}
+{wiki=Spintronics}
+
+= Antisymmetric exchange
+{parent=Spintronics}
+{wiki=Antisymmetric_exchange}
+
+= Biexciton
+{parent=Spintronics}
+{wiki=Biexciton}
+
+= Bipolar magnetic semiconductor
+{parent=Spintronics}
+{wiki=Bipolar_magnetic_semiconductor}
+
+= Center for Quantum Spintronics
+{parent=Spintronics}
+{wiki=Center_for_Quantum_Spintronics}
+
+= Colossal magnetoresistance
+{parent=Spintronics}
+{wiki=Colossal_magnetoresistance}
+
+= Cooper pair
+{parent=Spintronics}
+{wiki=Cooper_pair}
+
+= Dresselhaus effect
+{parent=Spintronics}
+{wiki=Dresselhaus_effect}
+
+= Electric charge
+{parent=Spintronics}
+{wiki=Electric_charge}
+
+= Electron
+{parent=Spintronics}
+{wiki=Electron}
+
+= Extraordinary magnetoresistance
+{parent=Spintronics}
+{wiki=Extraordinary_magnetoresistance}
+
+= Flux pumping
+{parent=Spintronics}
+{wiki=Flux_pumping}
+
+= Giant magnetoresistance
+{parent=Spintronics}
+{wiki=Giant_magnetoresistance}
+
+= Half-metal
+{parent=Spintronics}
+{wiki=Half-metal}
+
+= Heusler compound
+{parent=Spintronics}
+{wiki=Heusler_compound}
+
+= Magnetic semiconductor
+{parent=Spintronics}
+{wiki=Magnetic_semiconductor}
+
+= Magneto-Electric Spin-Orbit
+{parent=Spintronics}
+{wiki=Magneto-Electric_Spin-Orbit}
+
+= Magnetocapacitance
+{parent=Spintronics}
+{wiki=Magnetocapacitance}
+
+= Magnetoresistance
+{parent=Spintronics}
+{wiki=Magnetoresistance}
+
+= Magnetoresistive RAM
+{parent=Spintronics}
+{wiki=Magnetoresistive_RAM}
+
+= Michael Coey
+{parent=Spintronics}
+{wiki=Michael_Coey}
+
+= Pauli exclusion principle
+{parent=Spintronics}
+{wiki=Pauli_exclusion_principle}
+
+= Planar Hall sensor
+{parent=Spintronics}
+{wiki=Planar_Hall_sensor}
+
+= Positronium
+{parent=Spintronics}
+{wiki=Positronium}
+
+= Quantum Hall effect
+{parent=Spintronics}
+{wiki=Quantum_Hall_effect}
+
+= Quantum spin Hall effect
+{parent=Spintronics}
+{wiki=Quantum_spin_Hall_effect}
+
+= Rabi problem
+{parent=Spintronics}
+{wiki=Rabi_problem}
+
+= Racetrack memory
+{parent=Spintronics}
+{wiki=Racetrack_memory}
+
+= Rashba effect
+{parent=Spintronics}
+{wiki=Rashba_effect}
+
+= Rashba–Edelstein effect
+{parent=Spintronics}
+{wiki=Rashba–Edelstein_effect}
+
+= Spin-transfer torque
+{parent=Spintronics}
+{wiki=Spin-transfer_torque}
+
+= Spin Hall effect
+{parent=Spintronics}
+{wiki=Spin_Hall_effect}
+
+= Spin Hall magnetoresistance
+{parent=Spintronics}
+{wiki=Spin_Hall_magnetoresistance}
+
+= Spin Nernst Effect
+{parent=Spintronics}
+{wiki=Spin_Nernst_Effect}
+
+= Spin canting
+{parent=Spintronics}
+{wiki=Spin_canting}
+
+= Spin engineering
+{parent=Spintronics}
+{wiki=Spin_engineering}
+
+= Spin gapless semiconductor
+{parent=Spintronics}
+{wiki=Spin_gapless_semiconductor}
+
+= Spin magnetic moment
+{parent=Spintronics}
+{wiki=Spin_magnetic_moment}
+
+= Spin polarization
+{parent=Spintronics}
+{wiki=Spin_polarization}
+
+= Spin pumping
+{parent=Spintronics}
+{wiki=Spin_pumping}
+
+= Spin transistor
+{parent=Spintronics}
+{wiki=Spin_transistor}
+
+= Spin valve
+{parent=Spintronics}
+{wiki=Spin_valve}
+
+= Spinplasmonics
+{parent=Spintronics}
+{wiki=Spinplasmonics}
+
+= Spinterface
+{parent=Spintronics}
+{wiki=Spinterface}
+
+= Spin–orbit interaction
+{parent=Spintronics}
+{wiki=Spin–orbit_interaction}
+
+= Stern–Gerlach experiment
+{parent=Spintronics}
+{wiki=Stern–Gerlach_experiment}
+
+= Stuart Parkin
+{parent=Spintronics}
+{wiki=Stuart_Parkin}
+
+= Superconductivity
+{parent=Spintronics}
+{wiki=Superconductivity}
+
+= Superlattice
+{parent=Spintronics}
+{wiki=Superlattice}
+
+= Trion (physics)
+{parent=Spintronics}
+{wiki=Trion_(physics)}
+
+= Tunnel magnetoresistance
+{parent=Spintronics}
+{wiki=Tunnel_magnetoresistance}
+
+= Voigt–Thomson law
+{parent=Spintronics}
+{wiki=Voigt–Thomson_law}
+
+= Summer School Marktoberdorf
+{parent=Theoretical computer science}
+{wiki=Summer_School_Marktoberdorf}
+
+= Sun–Ni law
+{parent=Theoretical computer science}
+{wiki=Sun–Ni_law}
+
+= Theory of Computing Systems
+{parent=Theoretical computer science}
+{wiki=Theory_of_Computing_Systems}
+
+= Threshold theorem
+{parent=Theoretical computer science}
+{wiki=Threshold_theorem}
+
+= Tree (automata theory)
+{parent=Theoretical computer science}
+{wiki=Tree_(automata_theory)}
+
+= Tree automaton
+{parent=Theoretical computer science}
+{wiki=Tree_automaton}
+
+= Tree transducer
+{parent=Theoretical computer science}
+{wiki=Tree_transducer}

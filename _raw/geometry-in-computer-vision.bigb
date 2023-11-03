@@ -1,0 +1,126 @@
+= Geometry in computer vision
+{wiki=Category:Geometry_in_computer_vision}
+
+= 3D pose estimation
+{parent=Geometry in computer vision}
+{wiki=3D_pose_estimation}
+
+= Camera auto-calibration
+{parent=Geometry in computer vision}
+{wiki=Camera_auto-calibration}
+
+= Camera matrix
+{parent=Geometry in computer vision}
+{wiki=Camera_matrix}
+
+= Camera resectioning
+{parent=Geometry in computer vision}
+{wiki=Camera_resectioning}
+
+= Computer stereo vision
+{parent=Geometry in computer vision}
+{wiki=Computer_stereo_vision}
+
+= Correspondence problem
+{parent=Geometry in computer vision}
+{wiki=Correspondence_problem}
+
+= Direct linear transformation
+{parent=Geometry in computer vision}
+{wiki=Direct_linear_transformation}
+
+= Eight-point algorithm
+{parent=Geometry in computer vision}
+{wiki=Eight-point_algorithm}
+
+= Epipolar geometry
+{parent=Geometry in computer vision}
+{wiki=Epipolar_geometry}
+
+= Essential matrix
+{parent=Geometry in computer vision}
+{wiki=Essential_matrix}
+
+= Free-form deformation
+{parent=Geometry in computer vision}
+{wiki=Free-form_deformation}
+
+= Fundamental matrix (computer vision)
+{parent=Geometry in computer vision}
+{wiki=Fundamental_matrix_(computer_vision)}
+
+= Homography (computer vision)
+{parent=Geometry in computer vision}
+{wiki=Homography_(computer_vision)}
+
+= Image rectification
+{parent=Geometry in computer vision}
+{wiki=Image_rectification}
+
+= Iterative closest point
+{parent=Geometry in computer vision}
+{wiki=Iterative_closest_point}
+
+= Laguerre formula
+{parent=Geometry in computer vision}
+{wiki=Laguerre_formula}
+
+= Pinhole camera model
+{parent=Geometry in computer vision}
+{wiki=Pinhole_camera_model}
+
+= Pose (computer vision)
+{parent=Geometry in computer vision}
+{wiki=Pose_(computer_vision)}
+
+= Reprojection error
+{parent=Geometry in computer vision}
+{wiki=Reprojection_error}
+
+= Semi-global matching
+{parent=Geometry in computer vision}
+{wiki=Semi-global_matching}
+
+= Stereo cameras
+{parent=Geometry in computer vision}
+{wiki=Stereo_cameras}
+
+= Fujifilm FinePix Real 3D
+{parent=Stereo cameras}
+{wiki=Fujifilm_FinePix_Real_3D}
+
+= High Resolution Stereo Camera
+{parent=Stereo cameras}
+{wiki=High_Resolution_Stereo_Camera}
+
+= Kodak Stereo Camera
+{parent=Stereo cameras}
+{wiki=Kodak_Stereo_Camera}
+
+= Minoru 3D Webcam
+{parent=Stereo cameras}
+{wiki=Minoru_3D_Webcam}
+
+= Nimslo
+{parent=Stereo cameras}
+{wiki=Nimslo}
+
+= Stereo Realist
+{parent=Stereo cameras}
+{wiki=Stereo_Realist}
+
+= View-Master Personal Stereo Camera
+{parent=Stereo cameras}
+{wiki=View-Master_Personal_Stereo_Camera}
+
+= Texture mapping unit
+{parent=Geometry in computer vision}
+{wiki=Texture_mapping_unit}
+
+= Triangulation (computer vision)
+{parent=Geometry in computer vision}
+{wiki=Triangulation_(computer_vision)}
+
+= Vanishing point
+{parent=Geometry in computer vision}
+{wiki=Vanishing_point}

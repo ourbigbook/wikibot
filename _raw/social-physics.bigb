@@ -1,0 +1,10 @@
+= Social physics
+{wiki=Social_physics}
+
+= Crowd simulation
+{parent=Social physics}
+{wiki=Crowd_simulation}
+
+= Evacuation simulation
+{parent=Social physics}
+{wiki=Evacuation_simulation}

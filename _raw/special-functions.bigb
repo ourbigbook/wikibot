@@ -1,0 +1,1066 @@
+= Special functions
+{wiki=Special_functions}
+
+= Elementary special functions
+{parent=Special functions}
+{wiki=Category:Elementary_special_functions}
+
+= Exponentials
+{parent=Elementary special functions}
+{wiki=Exponentials}
+
+= Hyperbolic functions
+{parent=Elementary special functions}
+{wiki=Hyperbolic_functions}
+
+= Inverse hyperbolic functions
+{parent=Elementary special functions}
+{wiki=Inverse_hyperbolic_functions}
+
+= Logarithms
+{parent=Elementary special functions}
+{wiki=Logarithms}
+
+= Trigonometry
+{parent=Elementary special functions}
+{wiki=Trigonometry}
+
+= Dirichlet function
+{parent=Elementary special functions}
+{wiki=Dirichlet_function}
+
+= Double exponential function
+{parent=Elementary special functions}
+{wiki=Double_exponential_function}
+
+= Exponential function
+{parent=Elementary special functions}
+{wiki=Exponential_function}
+
+= Gudermannian function
+{parent=Elementary special functions}
+{wiki=Gudermannian_function}
+
+= Kronecker delta
+{parent=Elementary special functions}
+{wiki=Kronecker_delta}
+
+= Logarithm
+{parent=Elementary special functions}
+{wiki=Logarithm}
+
+= Ptolemy's table of chords
+{parent=Elementary special functions}
+{wiki=Ptolemy's_table_of_chords}
+
+= Sigmoid function
+{parent=Elementary special functions}
+{wiki=Sigmoid_function}
+
+= Soboleva modified hyperbolic tangent
+{parent=Elementary special functions}
+{wiki=Soboleva_modified_hyperbolic_tangent}
+
+= Elliptic functions
+{parent=Special functions}
+{wiki=Elliptic_functions}
+
+= Elliptic curves
+{parent=Elliptic functions}
+{wiki=Elliptic_curves}
+
+= Inverse Jacobi elliptic functions
+{parent=Elliptic functions}
+{wiki=Inverse_Jacobi_elliptic_functions}
+
+= Inverse lemniscate functions
+{parent=Elliptic functions}
+{wiki=Inverse_lemniscate_functions}
+
+= Abel elliptic functions
+{parent=Elliptic functions}
+{wiki=Abel_elliptic_functions}
+
+= Carlson symmetric form
+{parent=Elliptic functions}
+{wiki=Carlson_symmetric_form}
+
+= Complex multiplication
+{parent=Elliptic functions}
+{wiki=Complex_multiplication}
+
+= Dedekind eta function
+{parent=Elliptic functions}
+{wiki=Dedekind_eta_function}
+
+= Dixon elliptic functions
+{parent=Elliptic functions}
+{wiki=Dixon_elliptic_functions}
+
+= Elliptic function
+{parent=Elliptic functions}
+{wiki=Elliptic_function}
+
+= Elliptic integral
+{parent=Elliptic functions}
+{wiki=Elliptic_integral}
+
+= Equianharmonic
+{parent=Elliptic functions}
+{wiki=Equianharmonic}
+
+= Fundamenta nova theoriae functionum ellipticarum
+{parent=Elliptic functions}
+{wiki=Fundamenta_nova_theoriae_functionum_ellipticarum}
+
+= Fundamental pair of periods
+{parent=Elliptic functions}
+{wiki=Fundamental_pair_of_periods}
+
+= Half-period ratio
+{parent=Elliptic functions}
+{wiki=Half-period_ratio}
+
+= J-invariant
+{parent=Elliptic functions}
+{wiki=J-invariant}
+
+= Jacobi theta functions (notational variations)
+{parent=Elliptic functions}
+{wiki=Jacobi_theta_functions_(notational_variations)}
+
+= Landen's transformation
+{parent=Elliptic functions}
+{wiki=Landen's_transformation}
+
+= Legendre's relation
+{parent=Elliptic functions}
+{wiki=Legendre's_relation}
+
+= Lemniscate elliptic functions
+{parent=Elliptic functions}
+{wiki=Lemniscate_elliptic_functions}
+
+= Modular lambda function
+{parent=Elliptic functions}
+{wiki=Modular_lambda_function}
+
+= Nome (mathematics)
+{parent=Elliptic functions}
+{wiki=Nome_(mathematics)}
+
+= Picard–Fuchs equation
+{parent=Elliptic functions}
+{wiki=Picard–Fuchs_equation}
+
+= Quarter period
+{parent=Elliptic functions}
+{wiki=Quarter_period}
+
+= Theta function
+{parent=Elliptic functions}
+{wiki=Theta_function}
+
+= Weierstrass elliptic function
+{parent=Elliptic functions}
+{wiki=Weierstrass_elliptic_function}
+
+= Weierstrass functions
+{parent=Elliptic functions}
+{wiki=Weierstrass_functions}
+
+= Hypergeometric functions
+{parent=Special functions}
+{wiki=Hypergeometric_functions}
+
+= Appell series
+{parent=Hypergeometric functions}
+{wiki=Appell_series}
+
+= Bilateral hypergeometric series
+{parent=Hypergeometric functions}
+{wiki=Bilateral_hypergeometric_series}
+
+= Dougall's formula
+{parent=Hypergeometric functions}
+{wiki=Dougall's_formula}
+
+= Elliptic hypergeometric series
+{parent=Hypergeometric functions}
+{wiki=Elliptic_hypergeometric_series}
+
+= Frobenius solution to the hypergeometric equation
+{parent=Hypergeometric functions}
+{wiki=Frobenius_solution_to_the_hypergeometric_equation}
+
+= General hypergeometric function
+{parent=Hypergeometric functions}
+{wiki=General_hypergeometric_function}
+
+= Horn function
+{parent=Hypergeometric functions}
+{wiki=Horn_function}
+
+= Humbert series
+{parent=Hypergeometric functions}
+{wiki=Humbert_series}
+
+= Hypergeometric function of a matrix argument
+{parent=Hypergeometric functions}
+{wiki=Hypergeometric_function_of_a_matrix_argument}
+
+= Kampé de Fériet function
+{parent=Hypergeometric functions}
+{wiki=Kampé_de_Fériet_function}
+
+= Lauricella hypergeometric series
+{parent=Hypergeometric functions}
+{wiki=Lauricella_hypergeometric_series}
+
+= Legendre function
+{parent=Hypergeometric functions}
+{wiki=Legendre_function}
+
+= List of hypergeometric identities
+{parent=Hypergeometric functions}
+{wiki=List_of_hypergeometric_identities}
+
+= MacRobert E function
+{parent=Hypergeometric functions}
+{wiki=MacRobert_E_function}
+
+= Meijer G-function
+{parent=Hypergeometric functions}
+{wiki=Meijer_G-function}
+
+= Riemann's differential equation
+{parent=Hypergeometric functions}
+{wiki=Riemann's_differential_equation}
+
+= Schwarz's list
+{parent=Hypergeometric functions}
+{wiki=Schwarz's_list}
+
+= Special hypergeometric functions
+{parent=Special functions}
+{wiki=Category:Special_hypergeometric_functions}
+
+= Bessel function
+{parent=Special hypergeometric functions}
+{wiki=Bessel_function}
+
+= Bessel–Clifford function
+{parent=Special hypergeometric functions}
+{wiki=Bessel–Clifford_function}
+
+= Coulomb wave function
+{parent=Special hypergeometric functions}
+{wiki=Coulomb_wave_function}
+
+= Cunningham function
+{parent=Special hypergeometric functions}
+{wiki=Cunningham_function}
+
+= Error function
+{parent=Special hypergeometric functions}
+{wiki=Error_function}
+
+= Incomplete Bessel functions
+{parent=Special hypergeometric functions}
+{wiki=Incomplete_Bessel_functions}
+
+= Kelvin functions
+{parent=Special hypergeometric functions}
+{wiki=Kelvin_functions}
+
+= Lentz's algorithm
+{parent=Special hypergeometric functions}
+{wiki=Lentz's_algorithm}
+
+= Logarithmic integral function
+{parent=Special hypergeometric functions}
+{wiki=Logarithmic_integral_function}
+
+= Solid harmonics
+{parent=Special hypergeometric functions}
+{wiki=Solid_harmonics}
+
+= Sonine formula
+{parent=Special hypergeometric functions}
+{wiki=Sonine_formula}
+
+= Spherical harmonics
+{parent=Special hypergeometric functions}
+{wiki=Spherical_harmonics}
+
+= Table of spherical harmonics
+{parent=Special hypergeometric functions}
+{wiki=Table_of_spherical_harmonics}
+
+= Toronto function
+{parent=Special hypergeometric functions}
+{wiki=Toronto_function}
+
+= Zonal spherical harmonics
+{parent=Special hypergeometric functions}
+{wiki=Zonal_spherical_harmonics}
+
+= Theta functions
+{parent=Special functions}
+{wiki=Theta_functions}
+
+= Jacobi form
+{parent=Theta functions}
+{wiki=Jacobi_form}
+
+= Metaplectic group
+{parent=Theta functions}
+{wiki=Metaplectic_group}
+
+= Schottky problem
+{parent=Theta functions}
+{wiki=Schottky_problem}
+
+= Theta characteristic
+{parent=Theta functions}
+{wiki=Theta_characteristic}
+
+= Theta divisor
+{parent=Theta functions}
+{wiki=Theta_divisor}
+
+= Theta function of a lattice
+{parent=Theta functions}
+{wiki=Theta_function_of_a_lattice}
+
+= Zeta and L-functions
+{parent=Special functions}
+{wiki=Category:Zeta_and_L-functions}
+
+= Airy zeta function
+{parent=Zeta and L-functions}
+{wiki=Airy_zeta_function}
+
+= Apéry's theorem
+{parent=Zeta and L-functions}
+{wiki=Apéry's_theorem}
+
+= Arakawa–Kaneko zeta function
+{parent=Zeta and L-functions}
+{wiki=Arakawa–Kaneko_zeta_function}
+
+= Arithmetic zeta function
+{parent=Zeta and L-functions}
+{wiki=Arithmetic_zeta_function}
+
+= Artin L-function
+{parent=Zeta and L-functions}
+{wiki=Artin_L-function}
+
+= Artin conductor
+{parent=Zeta and L-functions}
+{wiki=Artin_conductor}
+
+= Artin–Mazur zeta function
+{parent=Zeta and L-functions}
+{wiki=Artin–Mazur_zeta_function}
+
+= Automorphic L-function
+{parent=Zeta and L-functions}
+{wiki=Automorphic_L-function}
+
+= Barnes zeta function
+{parent=Zeta and L-functions}
+{wiki=Barnes_zeta_function}
+
+= Basel problem
+{parent=Zeta and L-functions}
+{wiki=Basel_problem}
+
+= Beurling zeta function
+{parent=Zeta and L-functions}
+{wiki=Beurling_zeta_function}
+
+= Birch and Swinnerton-Dyer conjecture
+{parent=Zeta and L-functions}
+{wiki=Birch_and_Swinnerton-Dyer_conjecture}
+
+= Brumer–Stark conjecture
+{parent=Zeta and L-functions}
+{wiki=Brumer–Stark_conjecture}
+
+= Chowla–Mordell theorem
+{parent=Zeta and L-functions}
+{wiki=Chowla–Mordell_theorem}
+
+= Clausen function
+{parent=Zeta and L-functions}
+{wiki=Clausen_function}
+
+= Dedekind zeta function
+{parent=Zeta and L-functions}
+{wiki=Dedekind_zeta_function}
+
+= Dirichlet's theorem on arithmetic progressions
+{parent=Zeta and L-functions}
+{wiki=Dirichlet's_theorem_on_arithmetic_progressions}
+
+= Dirichlet L-function
+{parent=Zeta and L-functions}
+{wiki=Dirichlet_L-function}
+
+= Dirichlet beta function
+{parent=Zeta and L-functions}
+{wiki=Dirichlet_beta_function}
+
+= Dirichlet character
+{parent=Zeta and L-functions}
+{wiki=Dirichlet_character}
+
+= Dirichlet eta function
+{parent=Zeta and L-functions}
+{wiki=Dirichlet_eta_function}
+
+= Divisor function
+{parent=Zeta and L-functions}
+{wiki=Divisor_function}
+
+= Dwork conjecture
+{parent=Zeta and L-functions}
+{wiki=Dwork_conjecture}
+
+= Eichler–Shimura congruence relation
+{parent=Zeta and L-functions}
+{wiki=Eichler–Shimura_congruence_relation}
+
+= Equivariant L-function
+{parent=Zeta and L-functions}
+{wiki=Equivariant_L-function}
+
+= Euler product
+{parent=Zeta and L-functions}
+{wiki=Euler_product}
+
+= Explicit formulae for L-functions
+{parent=Zeta and L-functions}
+{wiki=Explicit_formulae_for_L-functions}
+
+= Feller–Tornier constant
+{parent=Zeta and L-functions}
+{wiki=Feller–Tornier_constant}
+
+= Functional equation (L-function)
+{parent=Zeta and L-functions}
+{wiki=Functional_equation_(L-function)}
+
+= Gan–Gross–Prasad conjecture
+{parent=Zeta and L-functions}
+{wiki=Gan–Gross–Prasad_conjecture}
+
+= Generalized Riemann hypothesis
+{parent=Zeta and L-functions}
+{wiki=Generalized_Riemann_hypothesis}
+
+= Goss zeta function
+{parent=Zeta and L-functions}
+{wiki=Goss_zeta_function}
+
+= Grand Riemann hypothesis
+{parent=Zeta and L-functions}
+{wiki=Grand_Riemann_hypothesis}
+
+= Hadjicostas's formula
+{parent=Zeta and L-functions}
+{wiki=Hadjicostas's_formula}
+
+= Hardy–Littlewood zeta-function conjectures
+{parent=Zeta and L-functions}
+{wiki=Hardy–Littlewood_zeta-function_conjectures}
+
+= Hasse–Weil zeta function
+{parent=Zeta and L-functions}
+{wiki=Hasse–Weil_zeta_function}
+
+= Hecke character
+{parent=Zeta and L-functions}
+{wiki=Hecke_character}
+
+= Hideo Shimizu
+{parent=Zeta and L-functions}
+{wiki=Hideo_Shimizu}
+
+= Hilbert–Pólya conjecture
+{parent=Zeta and L-functions}
+{wiki=Hilbert–Pólya_conjecture}
+
+= Hurwitz zeta function
+{parent=Zeta and L-functions}
+{wiki=Hurwitz_zeta_function}
+
+= Igusa zeta function
+{parent=Zeta and L-functions}
+{wiki=Igusa_zeta_function}
+
+= L-function
+{parent=Zeta and L-functions}
+{wiki=L-function}
+
+= Langlands program
+{parent=Zeta and L-functions}
+{wiki=Langlands_program}
+
+= Langlands–Deligne local constant
+{parent=Zeta and L-functions}
+{wiki=Langlands–Deligne_local_constant}
+
+= Lefschetz zeta function
+{parent=Zeta and L-functions}
+{wiki=Lefschetz_zeta_function}
+
+= Lerch zeta function
+{parent=Zeta and L-functions}
+{wiki=Lerch_zeta_function}
+
+= Li's criterion
+{parent=Zeta and L-functions}
+{wiki=Li's_criterion}
+
+= Lindelöf hypothesis
+{parent=Zeta and L-functions}
+{wiki=Lindelöf_hypothesis}
+
+= List of zeta functions
+{parent=Zeta and L-functions}
+{wiki=List_of_zeta_functions}
+
+= Local Langlands conjectures
+{parent=Zeta and L-functions}
+{wiki=Local_Langlands_conjectures}
+
+= Local zeta function
+{parent=Zeta and L-functions}
+{wiki=Local_zeta_function}
+
+= Matsumoto zeta function
+{parent=Zeta and L-functions}
+{wiki=Matsumoto_zeta_function}
+
+= Montgomery's pair correlation conjecture
+{parent=Zeta and L-functions}
+{wiki=Montgomery's_pair_correlation_conjecture}
+
+= Motivic L-function
+{parent=Zeta and L-functions}
+{wiki=Motivic_L-function}
+
+= Multiple zeta function
+{parent=Zeta and L-functions}
+{wiki=Multiple_zeta_function}
+
+= P-adic L-function
+{parent=Zeta and L-functions}
+{wiki=P-adic_L-function}
+
+= Prime zeta function
+{parent=Zeta and L-functions}
+{wiki=Prime_zeta_function}
+
+= Proof of the Euler product formula for the Riemann zeta function
+{parent=Zeta and L-functions}
+{wiki=Proof_of_the_Euler_product_formula_for_the_Riemann_zeta_function}
+
+= Ramanujan tau function
+{parent=Zeta and L-functions}
+{wiki=Ramanujan_tau_function}
+
+= Ramanujan–Petersson conjecture
+{parent=Zeta and L-functions}
+{wiki=Ramanujan–Petersson_conjecture}
+
+= Rankin–Selberg method
+{parent=Zeta and L-functions}
+{wiki=Rankin–Selberg_method}
+
+= Riemann Xi function
+{parent=Zeta and L-functions}
+{wiki=Riemann_Xi_function}
+
+= Riemann hypothesis
+{parent=Zeta and L-functions}
+{wiki=Riemann_hypothesis}
+
+= Riemann zeta function
+{parent=Zeta and L-functions}
+{wiki=Riemann_zeta_function}
+
+= Riemann–Siegel formula
+{parent=Zeta and L-functions}
+{wiki=Riemann–Siegel_formula}
+
+= Riemann–Siegel theta function
+{parent=Zeta and L-functions}
+{wiki=Riemann–Siegel_theta_function}
+
+= Riesz function
+{parent=Zeta and L-functions}
+{wiki=Riesz_function}
+
+= Ruelle zeta function
+{parent=Zeta and L-functions}
+{wiki=Ruelle_zeta_function}
+
+= Selberg's zeta function conjecture
+{parent=Zeta and L-functions}
+{wiki=Selberg's_zeta_function_conjecture}
+
+= Selberg class
+{parent=Zeta and L-functions}
+{wiki=Selberg_class}
+
+= Shimizu L-function
+{parent=Zeta and L-functions}
+{wiki=Shimizu_L-function}
+
+= Shimura variety
+{parent=Zeta and L-functions}
+{wiki=Shimura_variety}
+
+= Shintani zeta function
+{parent=Zeta and L-functions}
+{wiki=Shintani_zeta_function}
+
+= Siegel zero
+{parent=Zeta and L-functions}
+{wiki=Siegel_zero}
+
+= Special values of L-functions
+{parent=Zeta and L-functions}
+{wiki=Special_values_of_L-functions}
+
+= Standard L-function
+{parent=Zeta and L-functions}
+{wiki=Standard_L-function}
+
+= Stieltjes constants
+{parent=Zeta and L-functions}
+{wiki=Stieltjes_constants}
+
+= Subgroup growth
+{parent=Zeta and L-functions}
+{wiki=Subgroup_growth}
+
+= Tate's thesis
+{parent=Zeta and L-functions}
+{wiki=Tate's_thesis}
+
+= Turing's method
+{parent=Zeta and L-functions}
+{wiki=Turing's_method}
+
+= Waldspurger's theorem
+{parent=Zeta and L-functions}
+{wiki=Waldspurger's_theorem}
+
+= Weil's criterion
+{parent=Zeta and L-functions}
+{wiki=Weil's_criterion}
+
+= Weil conjectures
+{parent=Zeta and L-functions}
+{wiki=Weil_conjectures}
+
+= Z function
+{parent=Zeta and L-functions}
+{wiki=Z_function}
+
+= ZetaGrid
+{parent=Zeta and L-functions}
+{wiki=ZetaGrid}
+
+= Zeta function (operator)
+{parent=Zeta and L-functions}
+{wiki=Zeta_function_(operator)}
+
+= Zeta function universality
+{parent=Zeta and L-functions}
+{wiki=Zeta_function_universality}
+
+= Airy function
+{parent=Special functions}
+{wiki=Airy_function}
+
+= Anger function
+{parent=Special functions}
+{wiki=Anger_function}
+
+= Baer function
+{parent=Special functions}
+{wiki=Baer_function}
+
+= Barnes integral
+{parent=Special functions}
+{wiki=Barnes_integral}
+
+= Bateman Manuscript Project
+{parent=Special functions}
+{wiki=Bateman_Manuscript_Project}
+
+= Bateman function
+{parent=Special functions}
+{wiki=Bateman_function}
+
+= Bickley–Naylor functions
+{parent=Special functions}
+{wiki=Bickley–Naylor_functions}
+
+= Bounded type (mathematics)
+{parent=Special functions}
+{wiki=Bounded_type_(mathematics)}
+
+= Boxcar function
+{parent=Special functions}
+{wiki=Boxcar_function}
+
+= Buchstab function
+{parent=Special functions}
+{wiki=Buchstab_function}
+
+= Böhmer integral
+{parent=Special functions}
+{wiki=Böhmer_integral}
+
+= Cantor function
+{parent=Special functions}
+{wiki=Cantor_function}
+
+= Carotid–Kundalini function
+{parent=Special functions}
+{wiki=Carotid–Kundalini_function}
+
+= Chandrasekhar's H-function
+{parent=Special functions}
+{wiki=Chandrasekhar's_H-function}
+
+= Chandrasekhar's X- and Y-function
+{parent=Special functions}
+{wiki=Chandrasekhar's_X-_and_Y-function}
+
+= Chapman function
+{parent=Special functions}
+{wiki=Chapman_function}
+
+= Clausen's formula
+{parent=Special functions}
+{wiki=Clausen's_formula}
+
+= Complete Fermi–Dirac integral
+{parent=Special functions}
+{wiki=Complete_Fermi–Dirac_integral}
+
+= Confluent hypergeometric function
+{parent=Special functions}
+{wiki=Confluent_hypergeometric_function}
+
+= Conical function
+{parent=Special functions}
+{wiki=Conical_function}
+
+= Coshc function
+{parent=Special functions}
+{wiki=Coshc_function}
+
+= Crenel function
+{parent=Special functions}
+{wiki=Crenel_function}
+
+= Dawson function
+{parent=Special functions}
+{wiki=Dawson_function}
+
+= Debye function
+{parent=Special functions}
+{wiki=Debye_function}
+
+= Dickman function
+{parent=Special functions}
+{wiki=Dickman_function}
+
+= Einstein function
+{parent=Special functions}
+{wiki=Einstein_function}
+
+= Entire function
+{parent=Special functions}
+{wiki=Entire_function}
+
+= Exponential integral
+{parent=Special functions}
+{wiki=Exponential_integral}
+
+= Ferrers function
+{parent=Special functions}
+{wiki=Ferrers_function}
+
+= Fox H-function
+{parent=Special functions}
+{wiki=Fox_H-function}
+
+= Fresnel integral
+{parent=Special functions}
+{wiki=Fresnel_integral}
+
+= Goodwin–Staton integral
+{parent=Special functions}
+{wiki=Goodwin–Staton_integral}
+
+= Griewank function
+{parent=Special functions}
+{wiki=Griewank_function}
+
+= Hankel contour
+{parent=Special functions}
+{wiki=Hankel_contour}
+
+= Harish-Chandra's Ξ function
+{parent=Special functions}
+{wiki=Harish-Chandra's_Ξ_function}
+
+= Heaviside step function
+{parent=Special functions}
+{wiki=Heaviside_step_function}
+
+= Herglotz–Zagier function
+{parent=Special functions}
+{wiki=Herglotz–Zagier_function}
+
+= Heun function
+{parent=Special functions}
+{wiki=Heun_function}
+
+= Holonomic function
+{parent=Special functions}
+{wiki=Holonomic_function}
+
+= Hough function
+{parent=Special functions}
+{wiki=Hough_function}
+
+= Hyperbolastic functions
+{parent=Special functions}
+{wiki=Hyperbolastic_functions}
+
+= Incomplete Bessel K function/generalized incomplete gamma function
+{parent=Special functions}
+{wiki=Incomplete_Bessel_K_function/generalized_incomplete_gamma_function}
+
+= Incomplete Fermi–Dirac integral
+{parent=Special functions}
+{wiki=Incomplete_Fermi–Dirac_integral}
+
+= Incomplete polylogarithm
+{parent=Special functions}
+{wiki=Incomplete_polylogarithm}
+
+= Inverse tangent integral
+{parent=Special functions}
+{wiki=Inverse_tangent_integral}
+
+= Jacobi elliptic functions
+{parent=Special functions}
+{wiki=Jacobi_elliptic_functions}
+
+= Jacobi zeta function
+{parent=Special functions}
+{wiki=Jacobi_zeta_function}
+
+= Kontorovich–Lebedev transform
+{parent=Special functions}
+{wiki=Kontorovich–Lebedev_transform}
+
+= Kummer's function
+{parent=Special functions}
+{wiki=Kummer's_function}
+
+= Lambert W function
+{parent=Special functions}
+{wiki=Lambert_W_function}
+
+= Lamé function
+{parent=Special functions}
+{wiki=Lamé_function}
+
+= Legendre chi function
+{parent=Special functions}
+{wiki=Legendre_chi_function}
+
+= Legendre form
+{parent=Special functions}
+{wiki=Legendre_form}
+
+= List of eponyms of special functions
+{parent=Special functions}
+{wiki=List_of_eponyms_of_special_functions}
+
+= Logit
+{parent=Special functions}
+{wiki=Logit}
+
+= Lommel function
+{parent=Special functions}
+{wiki=Lommel_function}
+
+= Mathieu function
+{parent=Special functions}
+{wiki=Mathieu_function}
+
+= Mayer f-function
+{parent=Special functions}
+{wiki=Mayer_f-function}
+
+= Minkowski's question-mark function
+{parent=Special functions}
+{wiki=Minkowski's_question-mark_function}
+
+= Mittag-Leffler function
+{parent=Special functions}
+{wiki=Mittag-Leffler_function}
+
+= Modular form
+{parent=Special functions}
+{wiki=Modular_form}
+
+= Neville theta functions
+{parent=Special functions}
+{wiki=Neville_theta_functions}
+
+= Oblate spheroidal wave function
+{parent=Special functions}
+{wiki=Oblate_spheroidal_wave_function}
+
+= Painlevé transcendents
+{parent=Special functions}
+{wiki=Painlevé_transcendents}
+
+= Parabolic cylinder function
+{parent=Special functions}
+{wiki=Parabolic_cylinder_function}
+
+= Pochhammer contour
+{parent=Special functions}
+{wiki=Pochhammer_contour}
+
+= Prolate spheroidal wave function
+{parent=Special functions}
+{wiki=Prolate_spheroidal_wave_function}
+
+= Q-function
+{parent=Special functions}
+{wiki=Q-function}
+
+= Ramp function
+{parent=Special functions}
+{wiki=Ramp_function}
+
+= Real analytic Eisenstein series
+{parent=Special functions}
+{wiki=Real_analytic_Eisenstein_series}
+
+= Rectangular function
+{parent=Special functions}
+{wiki=Rectangular_function}
+
+= Ruler function
+{parent=Special functions}
+{wiki=Ruler_function}
+
+= Scorer's function
+{parent=Special functions}
+{wiki=Scorer's_function}
+
+= Selberg integral
+{parent=Special functions}
+{wiki=Selberg_integral}
+
+= Sinhc function
+{parent=Special functions}
+{wiki=Sinhc_function}
+
+= Spence's function
+{parent=Special functions}
+{wiki=Spence's_function}
+
+= Spin-weighted spherical harmonics
+{parent=Special functions}
+{wiki=Spin-weighted_spherical_harmonics}
+
+= Step function
+{parent=Special functions}
+{wiki=Step_function}
+
+= Struve function
+{parent=Special functions}
+{wiki=Struve_function}
+
+= Strömgren integral
+{parent=Special functions}
+{wiki=Strömgren_integral}
+
+= Student's t-distribution
+{parent=Special functions}
+{wiki=Student's_t-distribution}
+
+= Synchrotron function
+{parent=Special functions}
+{wiki=Synchrotron_function}
+
+= Tak (function)
+{parent=Special functions}
+{wiki=Tak_(function)}
+
+= Tanc function
+{parent=Special functions}
+{wiki=Tanc_function}
+
+= Tanhc function
+{parent=Special functions}
+{wiki=Tanhc_function}
+
+= Thomae's function
+{parent=Special functions}
+{wiki=Thomae's_function}
+
+= Tracy–Widom distribution
+{parent=Special functions}
+{wiki=Tracy–Widom_distribution}
+
+= Transcendental function
+{parent=Special functions}
+{wiki=Transcendental_function}
+
+= Transport function
+{parent=Special functions}
+{wiki=Transport_function}
+
+= Triangular function
+{parent=Special functions}
+{wiki=Triangular_function}
+
+= Trigonometric integral
+{parent=Special functions}
+{wiki=Trigonometric_integral}
+
+= Voigt profile
+{parent=Special functions}
+{wiki=Voigt_profile}
+
+= Walsh function
+{parent=Special functions}
+{wiki=Walsh_function}
+
+= Whipple formulae
+{parent=Special functions}
+{wiki=Whipple_formulae}
+
+= Wright omega function
+{parent=Special functions}
+{wiki=Wright_omega_function}

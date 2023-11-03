@@ -1,0 +1,1666 @@
+= Group theory
+{wiki=Group_theory}
+
+= Abelian group theory
+{parent=Group theory}
+{wiki=Category:Abelian_group_theory}
+
+= Abelian Lie group
+{parent=Abelian group theory}
+{wiki=Abelian_Lie_group}
+
+= Abelian group
+{parent=Abelian group theory}
+{wiki=Abelian_group}
+
+= Algebraically compact group
+{parent=Abelian group theory}
+{wiki=Algebraically_compact_group}
+
+= Baer–Specker group
+{parent=Abelian group theory}
+{wiki=Baer–Specker_group}
+
+= Basic subgroup
+{parent=Abelian group theory}
+{wiki=Basic_subgroup}
+
+= Butler group
+{parent=Abelian group theory}
+{wiki=Butler_group}
+
+= Cotorsion group
+{parent=Abelian group theory}
+{wiki=Cotorsion_group}
+
+= Cyclic group
+{parent=Abelian group theory}
+{wiki=Cyclic_group}
+
+= Divisible group
+{parent=Abelian group theory}
+{wiki=Divisible_group}
+
+= Elementary abelian group
+{parent=Abelian group theory}
+{wiki=Elementary_abelian_group}
+
+= Essential subgroup
+{parent=Abelian group theory}
+{wiki=Essential_subgroup}
+
+= Group of rational points on the unit circle
+{parent=Abelian group theory}
+{wiki=Group_of_rational_points_on_the_unit_circle}
+
+= Height (abelian group)
+{parent=Abelian group theory}
+{wiki=Height_(abelian_group)}
+
+= Herbrand quotient
+{parent=Abelian group theory}
+{wiki=Herbrand_quotient}
+
+= Locally compact abelian group
+{parent=Abelian group theory}
+{wiki=Locally_compact_abelian_group}
+
+= Locally cyclic group
+{parent=Abelian group theory}
+{wiki=Locally_cyclic_group}
+
+= Norm (abelian group)
+{parent=Abelian group theory}
+{wiki=Norm_(abelian_group)}
+
+= Primary cyclic group
+{parent=Abelian group theory}
+{wiki=Primary_cyclic_group}
+
+= Prüfer group
+{parent=Abelian group theory}
+{wiki=Prüfer_group}
+
+= Prüfer theorems
+{parent=Abelian group theory}
+{wiki=Prüfer_theorems}
+
+= Pure subgroup
+{parent=Abelian group theory}
+{wiki=Pure_subgroup}
+
+= Rank of an abelian group
+{parent=Abelian group theory}
+{wiki=Rank_of_an_abelian_group}
+
+= Topological abelian group
+{parent=Abelian group theory}
+{wiki=Topological_abelian_group}
+
+= Torsion subgroup
+{parent=Abelian group theory}
+{wiki=Torsion_subgroup}
+
+= Algebraic groups
+{parent=Group theory}
+{wiki=Algebraic_groups}
+
+= Abelian varieties
+{parent=Algebraic groups}
+{wiki=Abelian_varieties}
+
+= Algebraic homogeneous spaces
+{parent=Algebraic groups}
+{wiki=Category:Algebraic_homogeneous_spaces}
+
+= E8 (mathematics)
+{parent=Algebraic groups}
+{wiki=E8_(mathematics)}
+
+= Exceptional Lie algebras
+{parent=Algebraic groups}
+{wiki=Category:Exceptional_Lie_algebras}
+
+= Linear algebraic groups
+{parent=Algebraic groups}
+{wiki=Category:Linear_algebraic_groups}
+
+= Representation theory of algebraic groups
+{parent=Algebraic groups}
+{wiki=Category:Representation_theory_of_algebraic_groups}
+
+= Adelic algebraic group
+{parent=Algebraic groups}
+{wiki=Adelic_algebraic_group}
+
+= Algebraic group
+{parent=Algebraic groups}
+{wiki=Algebraic_group}
+
+= Approximation in algebraic groups
+{parent=Algebraic groups}
+{wiki=Approximation_in_algebraic_groups}
+
+= Barsotti–Tate group
+{parent=Algebraic groups}
+{wiki=Barsotti–Tate_group}
+
+= Borel subgroup
+{parent=Algebraic groups}
+{wiki=Borel_subgroup}
+
+= Borel–de Siebenthal theory
+{parent=Algebraic groups}
+{wiki=Borel–de_Siebenthal_theory}
+
+= Bruhat decomposition
+{parent=Algebraic groups}
+{wiki=Bruhat_decomposition}
+
+= Cartier duality
+{parent=Algebraic groups}
+{wiki=Cartier_duality}
+
+= Chevalley's structure theorem
+{parent=Algebraic groups}
+{wiki=Chevalley's_structure_theorem}
+
+= Cohomological invariant
+{parent=Algebraic groups}
+{wiki=Cohomological_invariant}
+
+= Complexification (Lie group)
+{parent=Algebraic groups}
+{wiki=Complexification_(Lie_group)}
+
+= Diagonalizable group
+{parent=Algebraic groups}
+{wiki=Diagonalizable_group}
+
+= Dieudonné module
+{parent=Algebraic groups}
+{wiki=Dieudonné_module}
+
+= Differential algebraic group
+{parent=Algebraic groups}
+{wiki=Differential_algebraic_group}
+
+= E6 (mathematics)
+{parent=Algebraic groups}
+{wiki=E6_(mathematics)}
+
+= E7 (mathematics)
+{parent=Algebraic groups}
+{wiki=E7_(mathematics)}
+
+= F4 (mathematics)
+{parent=Algebraic groups}
+{wiki=F4_(mathematics)}
+
+= Fixed-point subgroup
+{parent=Algebraic groups}
+{wiki=Fixed-point_subgroup}
+
+= G2 (mathematics)
+{parent=Algebraic groups}
+{wiki=G2_(mathematics)}
+
+= Generalized Jacobian
+{parent=Algebraic groups}
+{wiki=Generalized_Jacobian}
+
+= Geometric invariant theory
+{parent=Algebraic groups}
+{wiki=Geometric_invariant_theory}
+
+= Jacobson–Morozov theorem
+{parent=Algebraic groups}
+{wiki=Jacobson–Morozov_theorem}
+
+= Kazhdan–Margulis theorem
+{parent=Algebraic groups}
+{wiki=Kazhdan–Margulis_theorem}
+
+= Kempf vanishing theorem
+{parent=Algebraic groups}
+{wiki=Kempf_vanishing_theorem}
+
+= Kneser–Tits conjecture
+{parent=Algebraic groups}
+{wiki=Kneser–Tits_conjecture}
+
+= Kostant polynomial
+{parent=Algebraic groups}
+{wiki=Kostant_polynomial}
+
+= Lang's theorem
+{parent=Algebraic groups}
+{wiki=Lang's_theorem}
+
+= Langlands decomposition
+{parent=Algebraic groups}
+{wiki=Langlands_decomposition}
+
+= List of irreducible Tits indices
+{parent=Algebraic groups}
+{wiki=List_of_irreducible_Tits_indices}
+
+= Mumford–Tate group
+{parent=Algebraic groups}
+{wiki=Mumford–Tate_group}
+
+= Pseudo-reductive group
+{parent=Algebraic groups}
+{wiki=Pseudo-reductive_group}
+
+= Radical of an algebraic group
+{parent=Algebraic groups}
+{wiki=Radical_of_an_algebraic_group}
+
+= Restricted Lie algebra
+{parent=Algebraic groups}
+{wiki=Restricted_Lie_algebra}
+
+= Root datum
+{parent=Algebraic groups}
+{wiki=Root_datum}
+
+= Rost invariant
+{parent=Algebraic groups}
+{wiki=Rost_invariant}
+
+= Serre group
+{parent=Algebraic groups}
+{wiki=Serre_group}
+
+= Severi–Brauer variety
+{parent=Algebraic groups}
+{wiki=Severi–Brauer_variety}
+
+= Siegel parabolic subgroup
+{parent=Algebraic groups}
+{wiki=Siegel_parabolic_subgroup}
+
+= Spaltenstein variety
+{parent=Algebraic groups}
+{wiki=Spaltenstein_variety}
+
+= Tamagawa number
+{parent=Algebraic groups}
+{wiki=Tamagawa_number}
+
+= Taniyama group
+{parent=Algebraic groups}
+{wiki=Taniyama_group}
+
+= Torus action
+{parent=Algebraic groups}
+{wiki=Torus_action}
+
+= Trace field of a representation
+{parent=Algebraic groups}
+{wiki=Trace_field_of_a_representation}
+
+= Verschiebung operator
+{parent=Algebraic groups}
+{wiki=Verschiebung_operator}
+
+= Weil's conjecture on Tamagawa numbers
+{parent=Algebraic groups}
+{wiki=Weil's_conjecture_on_Tamagawa_numbers}
+
+= Weyl module
+{parent=Algebraic groups}
+{wiki=Weyl_module}
+
+= Étale group scheme
+{parent=Algebraic groups}
+{wiki=Étale_group_scheme}
+
+= Combinatorial group theory
+{parent=Group theory}
+{wiki=Combinatorial_group_theory}
+
+= Absolute presentation of a group
+{parent=Combinatorial group theory}
+{wiki=Absolute_presentation_of_a_group}
+
+= Automorphism group of a free group
+{parent=Combinatorial group theory}
+{wiki=Automorphism_group_of_a_free_group}
+
+= Baumslag–Solitar group
+{parent=Combinatorial group theory}
+{wiki=Baumslag–Solitar_group}
+
+= Commutator collecting process
+{parent=Combinatorial group theory}
+{wiki=Commutator_collecting_process}
+
+= Freiheitssatz
+{parent=Combinatorial group theory}
+{wiki=Freiheitssatz}
+
+= Fundamental polygon
+{parent=Combinatorial group theory}
+{wiki=Fundamental_polygon}
+
+= Hall–Petresco identity
+{parent=Combinatorial group theory}
+{wiki=Hall–Petresco_identity}
+
+= Herzog–Schönheim conjecture
+{parent=Combinatorial group theory}
+{wiki=Herzog–Schönheim_conjecture}
+
+= Normal form for free groups and free product of groups
+{parent=Combinatorial group theory}
+{wiki=Normal_form_for_free_groups_and_free_product_of_groups}
+
+= SQ-universal group
+{parent=Combinatorial group theory}
+{wiki=SQ-universal_group}
+
+= Tietze transformations
+{parent=Combinatorial group theory}
+{wiki=Tietze_transformations}
+
+= Von Neumann conjecture
+{parent=Combinatorial group theory}
+{wiki=Von_Neumann_conjecture}
+
+= Coxeter groups
+{parent=Group theory}
+{wiki=Coxeter_groups}
+
+= Bruhat order
+{parent=Coxeter groups}
+{wiki=Bruhat_order}
+
+= Coxeter element
+{parent=Coxeter groups}
+{wiki=Coxeter_element}
+
+= Coxeter group
+{parent=Coxeter groups}
+{wiki=Coxeter_group}
+
+= Coxeter–Dynkin diagram
+{parent=Coxeter groups}
+{wiki=Coxeter–Dynkin_diagram}
+
+= Longest element of a Coxeter group
+{parent=Coxeter groups}
+{wiki=Longest_element_of_a_Coxeter_group}
+
+= Reflection group
+{parent=Coxeter groups}
+{wiki=Reflection_group}
+
+= Functional subgroups
+{parent=Group theory}
+{wiki=Category:Functional_subgroups}
+
+= Fitting subgroup
+{parent=Functional subgroups}
+{wiki=Fitting_subgroup}
+
+= Group automorphisms
+{parent=Group theory}
+{wiki=Category:Group_automorphisms}
+
+= Automorphism group
+{parent=Group automorphisms}
+{wiki=Automorphism_group}
+
+= Quotientable automorphism
+{parent=Group automorphisms}
+{wiki=Quotientable_automorphism}
+
+= Group products
+{parent=Group theory}
+{wiki=Category:Group_products}
+
+= Direct product of groups
+{parent=Group products}
+{wiki=Direct_product_of_groups}
+
+= Product of group subsets
+{parent=Group products}
+{wiki=Product_of_group_subsets}
+
+= Semidirect product
+{parent=Group products}
+{wiki=Semidirect_product}
+
+= Infinite group theory
+{parent=Group theory}
+{wiki=Infinite_group_theory}
+
+= Commensurability (group theory)
+{parent=Infinite group theory}
+{wiki=Commensurability_(group_theory)}
+
+= Elementary amenable group
+{parent=Infinite group theory}
+{wiki=Elementary_amenable_group}
+
+= FC-group
+{parent=Infinite group theory}
+{wiki=FC-group}
+
+= Free-by-cyclic group
+{parent=Infinite group theory}
+{wiki=Free-by-cyclic_group}
+
+= Gromov's theorem on groups of polynomial growth
+{parent=Infinite group theory}
+{wiki=Gromov's_theorem_on_groups_of_polynomial_growth}
+
+= Higman's embedding theorem
+{parent=Infinite group theory}
+{wiki=Higman's_embedding_theorem}
+
+= Hopfian group
+{parent=Infinite group theory}
+{wiki=Hopfian_group}
+
+= Infinite dihedral group
+{parent=Infinite group theory}
+{wiki=Infinite_dihedral_group}
+
+= Infinite group
+{parent=Infinite group theory}
+{wiki=Infinite_group}
+
+= Locally finite group
+{parent=Infinite group theory}
+{wiki=Locally_finite_group}
+
+= Pro-p group
+{parent=Infinite group theory}
+{wiki=Pro-p_group}
+
+= Profinite group
+{parent=Infinite group theory}
+{wiki=Profinite_group}
+
+= Prüfer rank
+{parent=Infinite group theory}
+{wiki=Prüfer_rank}
+
+= Residually finite group
+{parent=Infinite group theory}
+{wiki=Residually_finite_group}
+
+= Residue-class-wise affine group
+{parent=Infinite group theory}
+{wiki=Residue-class-wise_affine_group}
+
+= Tarski monster group
+{parent=Infinite group theory}
+{wiki=Tarski_monster_group}
+
+= Thompson groups
+{parent=Infinite group theory}
+{wiki=Thompson_groups}
+
+= Tits alternative
+{parent=Infinite group theory}
+{wiki=Tits_alternative}
+
+= Verbal subgroup
+{parent=Infinite group theory}
+{wiki=Verbal_subgroup}
+
+= Z-group
+{parent=Infinite group theory}
+{wiki=Z-group}
+
+= Moonshine theory
+{parent=Group theory}
+{wiki=Moonshine_theory}
+
+= Kac–Moody algebra
+{parent=Moonshine theory}
+{wiki=Kac–Moody_algebra}
+
+= Monster Lie algebra
+{parent=Moonshine theory}
+{wiki=Monster_Lie_algebra}
+
+= Monster group
+{parent=Moonshine theory}
+{wiki=Monster_group}
+
+= Supersingular prime (moonshine theory)
+{parent=Moonshine theory}
+{wiki=Supersingular_prime_(moonshine_theory)}
+
+= Ordered groups
+{parent=Group theory}
+{wiki=Category:Ordered_groups}
+
+= Archimedean group
+{parent=Ordered groups}
+{wiki=Archimedean_group}
+
+= Cyclically ordered group
+{parent=Ordered groups}
+{wiki=Cyclically_ordered_group}
+
+= Hahn embedding theorem
+{parent=Ordered groups}
+{wiki=Hahn_embedding_theorem}
+
+= Linearly ordered group
+{parent=Ordered groups}
+{wiki=Linearly_ordered_group}
+
+= Ordered field
+{parent=Ordered groups}
+{wiki=Ordered_field}
+
+= Ordered ring
+{parent=Ordered groups}
+{wiki=Ordered_ring}
+
+= Partially ordered group
+{parent=Ordered groups}
+{wiki=Partially_ordered_group}
+
+= Riesz space
+{parent=Ordered groups}
+{wiki=Riesz_space}
+
+= P-groups
+{parent=Group theory}
+{wiki=Category:P-groups}
+
+= Coclass
+{parent=P-groups}
+{wiki=Coclass}
+
+= Extra special group
+{parent=P-groups}
+{wiki=Extra_special_group}
+
+= Focal subgroup theorem
+{parent=P-groups}
+{wiki=Focal_subgroup_theorem}
+
+= P-group
+{parent=P-groups}
+{wiki=P-group}
+
+= Powerful p-group
+{parent=P-groups}
+{wiki=Powerful_p-group}
+
+= Regular p-group
+{parent=P-groups}
+{wiki=Regular_p-group}
+
+= Special group (finite group theory)
+{parent=P-groups}
+{wiki=Special_group_(finite_group_theory)}
+
+= Sylow theorems
+{parent=P-groups}
+{wiki=Sylow_theorems}
+
+= Representation theory of groups
+{parent=Group theory}
+{wiki=Category:Representation_theory_of_groups}
+
+= Representation theory of Lie groups
+{parent=Representation theory of groups}
+{wiki=Representation_theory_of_Lie_groups}
+
+= Representation theory of finite groups
+{parent=Representation theory of groups}
+{wiki=Representation_theory_of_finite_groups}
+
+= Unitary representation theory
+{parent=Representation theory of groups}
+{wiki=Category:Unitary_representation_theory}
+
+= Atlas of Lie groups and representations
+{parent=Representation theory of groups}
+{wiki=Atlas_of_Lie_groups_and_representations}
+
+= B-admissible representation
+{parent=Representation theory of groups}
+{wiki=B-admissible_representation}
+
+= Character theory
+{parent=Representation theory of groups}
+{wiki=Character_theory}
+
+= Complex conjugate representation
+{parent=Representation theory of groups}
+{wiki=Complex_conjugate_representation}
+
+= Complex representation
+{parent=Representation theory of groups}
+{wiki=Complex_representation}
+
+= Corepresentations of unitary and antiunitary groups
+{parent=Representation theory of groups}
+{wiki=Corepresentations_of_unitary_and_antiunitary_groups}
+
+= Dual representation
+{parent=Representation theory of groups}
+{wiki=Dual_representation}
+
+= Fontaine's period rings
+{parent=Representation theory of groups}
+{wiki=Fontaine's_period_rings}
+
+= Frobenius–Schur indicator
+{parent=Representation theory of groups}
+{wiki=Frobenius–Schur_indicator}
+
+= Gelfand pair
+{parent=Representation theory of groups}
+{wiki=Gelfand_pair}
+
+= Gelfand–Raikov theorem
+{parent=Representation theory of groups}
+{wiki=Gelfand–Raikov_theorem}
+
+= Group ring
+{parent=Representation theory of groups}
+{wiki=Group_ring}
+
+= K-finite
+{parent=Representation theory of groups}
+{wiki=K-finite}
+
+= Matrix coefficient
+{parent=Representation theory of groups}
+{wiki=Matrix_coefficient}
+
+= McKay conjecture
+{parent=Representation theory of groups}
+{wiki=McKay_conjecture}
+
+= Molien's formula
+{parent=Representation theory of groups}
+{wiki=Molien's_formula}
+
+= Multiplicity-one theorem
+{parent=Representation theory of groups}
+{wiki=Multiplicity-one_theorem}
+
+= P-adic Hodge theory
+{parent=Representation theory of groups}
+{wiki=P-adic_Hodge_theory}
+
+= Partial group algebra
+{parent=Representation theory of groups}
+{wiki=Partial_group_algebra}
+
+= Regular representation
+{parent=Representation theory of groups}
+{wiki=Regular_representation}
+
+= Representation rigid group
+{parent=Representation theory of groups}
+{wiki=Representation_rigid_group}
+
+= Representation theory of diffeomorphism groups
+{parent=Representation theory of groups}
+{wiki=Representation_theory_of_diffeomorphism_groups}
+
+= Schur orthogonality relations
+{parent=Representation theory of groups}
+{wiki=Schur_orthogonality_relations}
+
+= Schur–Weyl duality
+{parent=Representation theory of groups}
+{wiki=Schur–Weyl_duality}
+
+= Springer correspondence
+{parent=Representation theory of groups}
+{wiki=Springer_correspondence}
+
+= Tempered representation
+{parent=Representation theory of groups}
+{wiki=Tempered_representation}
+
+= Subgroup properties
+{parent=Group theory}
+{wiki=Category:Subgroup_properties}
+
+= Abnormal subgroup
+{parent=Subgroup properties}
+{wiki=Abnormal_subgroup}
+
+= Ascendant subgroup
+{parent=Subgroup properties}
+{wiki=Ascendant_subgroup}
+
+= C-normal subgroup
+{parent=Subgroup properties}
+{wiki=C-normal_subgroup}
+
+= Carter subgroup
+{parent=Subgroup properties}
+{wiki=Carter_subgroup}
+
+= Central subgroup
+{parent=Subgroup properties}
+{wiki=Central_subgroup}
+
+= Centrally closed subgroup
+{parent=Subgroup properties}
+{wiki=Centrally_closed_subgroup}
+
+= Characteristic subgroup
+{parent=Subgroup properties}
+{wiki=Characteristic_subgroup}
+
+= Conjugate-permutable subgroup
+{parent=Subgroup properties}
+{wiki=Conjugate-permutable_subgroup}
+
+= Contranormal subgroup
+{parent=Subgroup properties}
+{wiki=Contranormal_subgroup}
+
+= Descendant subgroup
+{parent=Subgroup properties}
+{wiki=Descendant_subgroup}
+
+= Fully normalized subgroup
+{parent=Subgroup properties}
+{wiki=Fully_normalized_subgroup}
+
+= Hall subgroup
+{parent=Subgroup properties}
+{wiki=Hall_subgroup}
+
+= Malnormal subgroup
+{parent=Subgroup properties}
+{wiki=Malnormal_subgroup}
+
+= Maximal subgroup
+{parent=Subgroup properties}
+{wiki=Maximal_subgroup}
+
+= Modular subgroup
+{parent=Subgroup properties}
+{wiki=Modular_subgroup}
+
+= Normal subgroup
+{parent=Subgroup properties}
+{wiki=Normal_subgroup}
+
+= Paranormal subgroup
+{parent=Subgroup properties}
+{wiki=Paranormal_subgroup}
+
+= Polynormal subgroup
+{parent=Subgroup properties}
+{wiki=Polynormal_subgroup}
+
+= Pronormal subgroup
+{parent=Subgroup properties}
+{wiki=Pronormal_subgroup}
+
+= Quasinormal subgroup
+{parent=Subgroup properties}
+{wiki=Quasinormal_subgroup}
+
+= Seminormal subgroup
+{parent=Subgroup properties}
+{wiki=Seminormal_subgroup}
+
+= Semipermutable subgroup
+{parent=Subgroup properties}
+{wiki=Semipermutable_subgroup}
+
+= Serial subgroup
+{parent=Subgroup properties}
+{wiki=Serial_subgroup}
+
+= Special abelian subgroup
+{parent=Subgroup properties}
+{wiki=Special_abelian_subgroup}
+
+= Subnormal subgroup
+{parent=Subgroup properties}
+{wiki=Subnormal_subgroup}
+
+= Transitively normal subgroup
+{parent=Subgroup properties}
+{wiki=Transitively_normal_subgroup}
+
+= Subgroup series
+{parent=Group theory}
+{wiki=Subgroup_series}
+
+= Central series
+{parent=Subgroup series}
+{wiki=Central_series}
+
+= Chief series
+{parent=Subgroup series}
+{wiki=Chief_series}
+
+= Fitting length
+{parent=Subgroup series}
+{wiki=Fitting_length}
+
+= Topological groups
+{parent=Group theory}
+{wiki=Topological_groups}
+
+= Discrete groups
+{parent=Topological groups}
+{wiki=Category:Discrete_groups}
+
+= Amenable group
+{parent=Topological groups}
+{wiki=Amenable_group}
+
+= Bohr compactification
+{parent=Topological groups}
+{wiki=Bohr_compactification}
+
+= Cantor cube
+{parent=Topological groups}
+{wiki=Cantor_cube}
+
+= Chabauty topology
+{parent=Topological groups}
+{wiki=Chabauty_topology}
+
+= Compact group
+{parent=Topological groups}
+{wiki=Compact_group}
+
+= Compactly generated group
+{parent=Topological groups}
+{wiki=Compactly_generated_group}
+
+= Continuous group action
+{parent=Topological groups}
+{wiki=Continuous_group_action}
+
+= Covering group
+{parent=Topological groups}
+{wiki=Covering_group}
+
+= Direct sum of topological groups
+{parent=Topological groups}
+{wiki=Direct_sum_of_topological_groups}
+
+= Discontinuous group
+{parent=Topological groups}
+{wiki=Discontinuous_group}
+
+= Extension of a topological group
+{parent=Topological groups}
+{wiki=Extension_of_a_topological_group}
+
+= Haar measure
+{parent=Topological groups}
+{wiki=Haar_measure}
+
+= Hilbert–Smith conjecture
+{parent=Topological groups}
+{wiki=Hilbert–Smith_conjecture}
+
+= Homogeneous space
+{parent=Topological groups}
+{wiki=Homogeneous_space}
+
+= Identity component
+{parent=Topological groups}
+{wiki=Identity_component}
+
+= Kazhdan's property (T)
+{parent=Topological groups}
+{wiki=Kazhdan's_property_(T)}
+
+= Kronecker's theorem
+{parent=Topological groups}
+{wiki=Kronecker's_theorem}
+
+= Locally compact group
+{parent=Topological groups}
+{wiki=Locally_compact_group}
+
+= Locally profinite group
+{parent=Topological groups}
+{wiki=Locally_profinite_group}
+
+= Loop group
+{parent=Topological groups}
+{wiki=Loop_group}
+
+= Maximal compact subgroup
+{parent=Topological groups}
+{wiki=Maximal_compact_subgroup}
+
+= Monothetic group
+{parent=Topological groups}
+{wiki=Monothetic_group}
+
+= One-parameter group
+{parent=Topological groups}
+{wiki=One-parameter_group}
+
+= Paratopological group
+{parent=Topological groups}
+{wiki=Paratopological_group}
+
+= Peter–Weyl theorem
+{parent=Topological groups}
+{wiki=Peter–Weyl_theorem}
+
+= Positive real numbers
+{parent=Topological groups}
+{wiki=Positive_real_numbers}
+
+= Quasiregular representation
+{parent=Topological groups}
+{wiki=Quasiregular_representation}
+
+= Restricted product
+{parent=Topological groups}
+{wiki=Restricted_product}
+
+= Schwartz–Bruhat function
+{parent=Topological groups}
+{wiki=Schwartz–Bruhat_function}
+
+= Semitopological group
+{parent=Topological groups}
+{wiki=Semitopological_group}
+
+= Topological group
+{parent=Topological groups}
+{wiki=Topological_group}
+
+= Topological ring
+{parent=Topological groups}
+{wiki=Topological_ring}
+
+= Totally disconnected group
+{parent=Topological groups}
+{wiki=Totally_disconnected_group}
+
+= (B, N) pair
+{parent=Group theory}
+{wiki=(B,_N)_pair}
+
+= Acylindrically hyperbolic group
+{parent=Group theory}
+{wiki=Acylindrically_hyperbolic_group}
+
+= Affine group
+{parent=Group theory}
+{wiki=Affine_group}
+
+= Approximate group
+{parent=Group theory}
+{wiki=Approximate_group}
+
+= Artin transfer (group theory)
+{parent=Group theory}
+{wiki=Artin_transfer_(group_theory)}
+
+= Baby-step giant-step
+{parent=Group theory}
+{wiki=Baby-step_giant-step}
+
+= Banach–Tarski paradox
+{parent=Group theory}
+{wiki=Banach–Tarski_paradox}
+
+= Bass–Serre theory
+{parent=Group theory}
+{wiki=Bass–Serre_theory}
+
+= Bender's method
+{parent=Group theory}
+{wiki=Bender's_method}
+
+= Bianchi group
+{parent=Group theory}
+{wiki=Bianchi_group}
+
+= Bicommutant
+{parent=Group theory}
+{wiki=Bicommutant}
+
+= Bimonster group
+{parent=Group theory}
+{wiki=Bimonster_group}
+
+= Bol loop
+{parent=Group theory}
+{wiki=Bol_loop}
+
+= Burnside problem
+{parent=Group theory}
+{wiki=Burnside_problem}
+
+= CN-group
+{parent=Group theory}
+{wiki=CN-group}
+
+= Caesar cipher
+{parent=Group theory}
+{wiki=Caesar_cipher}
+
+= Center (group theory)
+{parent=Group theory}
+{wiki=Center_(group_theory)}
+
+= Character group
+{parent=Group theory}
+{wiki=Character_group}
+
+= Character table
+{parent=Group theory}
+{wiki=Character_table}
+
+= Class automorphism
+{parent=Group theory}
+{wiki=Class_automorphism}
+
+= Class function
+{parent=Group theory}
+{wiki=Class_function}
+
+= Cohomological dimension
+{parent=Group theory}
+{wiki=Cohomological_dimension}
+
+= Commutator subgroup
+{parent=Group theory}
+{wiki=Commutator_subgroup}
+
+= Complement (group theory)
+{parent=Group theory}
+{wiki=Complement_(group_theory)}
+
+= Complex reflection group
+{parent=Group theory}
+{wiki=Complex_reflection_group}
+
+= Component (group theory)
+{parent=Group theory}
+{wiki=Component_(group_theory)}
+
+= Conjugacy class
+{parent=Group theory}
+{wiki=Conjugacy_class}
+
+= Conjugacy class sum
+{parent=Group theory}
+{wiki=Conjugacy_class_sum}
+
+= Conjugacy problem
+{parent=Group theory}
+{wiki=Conjugacy_problem}
+
+= Conjugation of isometries in Euclidean space
+{parent=Group theory}
+{wiki=Conjugation_of_isometries_in_Euclidean_space}
+
+= Core (group theory)
+{parent=Group theory}
+{wiki=Core_(group_theory)}
+
+= Coset
+{parent=Group theory}
+{wiki=Coset}
+
+= Cremona group
+{parent=Group theory}
+{wiki=Cremona_group}
+
+= De Sitter invariant special relativity
+{parent=Group theory}
+{wiki=De_Sitter_invariant_special_relativity}
+
+= Dedekind group
+{parent=Group theory}
+{wiki=Dedekind_group}
+
+= Demushkin group
+{parent=Group theory}
+{wiki=Demushkin_group}
+
+= Descendant tree (group theory)
+{parent=Group theory}
+{wiki=Descendant_tree_(group_theory)}
+
+= Diagonal subgroup
+{parent=Group theory}
+{wiki=Diagonal_subgroup}
+
+= Direct sum of groups
+{parent=Group theory}
+{wiki=Direct_sum_of_groups}
+
+= Double coset
+{parent=Group theory}
+{wiki=Double_coset}
+
+= Double group
+{parent=Group theory}
+{wiki=Double_group}
+
+= Ehlers group
+{parent=Group theory}
+{wiki=Ehlers_group}
+
+= Elliptic curve
+{parent=Group theory}
+{wiki=Elliptic_curve}
+
+= Embedding problem
+{parent=Group theory}
+{wiki=Embedding_problem}
+
+= Engel group
+{parent=Group theory}
+{wiki=Engel_group}
+
+= Engel identity
+{parent=Group theory}
+{wiki=Engel_identity}
+
+= Examples of groups
+{parent=Group theory}
+{wiki=Examples_of_groups}
+
+= Fibonacci group
+{parent=Group theory}
+{wiki=Fibonacci_group}
+
+= Finitely generated group
+{parent=Group theory}
+{wiki=Finitely_generated_group}
+
+= Finiteness properties of groups
+{parent=Group theory}
+{wiki=Finiteness_properties_of_groups}
+
+= Fixed points of isometry groups in Euclidean space
+{parent=Group theory}
+{wiki=Fixed_points_of_isometry_groups_in_Euclidean_space}
+
+= Formation (group theory)
+{parent=Group theory}
+{wiki=Formation_(group_theory)}
+
+= Frattini subgroup
+{parent=Group theory}
+{wiki=Frattini_subgroup}
+
+= G-module
+{parent=Group theory}
+{wiki=G-module}
+
+= Generalized dihedral group
+{parent=Group theory}
+{wiki=Generalized_dihedral_group}
+
+= Generating set of a group
+{parent=Group theory}
+{wiki=Generating_set_of_a_group}
+
+= Geometric group theory
+{parent=Group theory}
+{wiki=Geometric_group_theory}
+
+= (2,3,7) triangle group
+{parent=Geometric group theory}
+{wiki=(2,3,7)_triangle_group}
+
+= Adian–Rabin theorem
+{parent=Geometric group theory}
+{wiki=Adian–Rabin_theorem}
+
+= Asymptotic dimension
+{parent=Geometric group theory}
+{wiki=Asymptotic_dimension}
+
+= Curve complex
+{parent=Geometric group theory}
+{wiki=Curve_complex}
+
+= Discrete group
+{parent=Geometric group theory}
+{wiki=Discrete_group}
+
+= Flexagon
+{parent=Geometric group theory}
+{wiki=Flexagon}
+
+= Free factor complex
+{parent=Geometric group theory}
+{wiki=Free_factor_complex}
+
+= Fully irreducible automorphism
+{parent=Geometric group theory}
+{wiki=Fully_irreducible_automorphism}
+
+= Følner sequence
+{parent=Geometric group theory}
+{wiki=Følner_sequence}
+
+= Geometric group action
+{parent=Geometric group theory}
+{wiki=Geometric_group_action}
+
+= Graph of groups
+{parent=Geometric group theory}
+{wiki=Graph_of_groups}
+
+= Gromov boundary
+{parent=Geometric group theory}
+{wiki=Gromov_boundary}
+
+= Grushko theorem
+{parent=Geometric group theory}
+{wiki=Grushko_theorem}
+
+= Haagerup property
+{parent=Geometric group theory}
+{wiki=Haagerup_property}
+
+= Kurosh subgroup theorem
+{parent=Geometric group theory}
+{wiki=Kurosh_subgroup_theorem}
+
+= Mapping class group of a surface
+{parent=Geometric group theory}
+{wiki=Mapping_class_group_of_a_surface}
+
+= Out(Fn)
+{parent=Geometric group theory}
+{wiki=Out(Fn)}
+
+= Outer space (mathematics)
+{parent=Geometric group theory}
+{wiki=Outer_space_(mathematics)}
+
+= Quasi-isometry
+{parent=Geometric group theory}
+{wiki=Quasi-isometry}
+
+= Relatively hyperbolic group
+{parent=Geometric group theory}
+{wiki=Relatively_hyperbolic_group}
+
+= Rips machine
+{parent=Geometric group theory}
+{wiki=Rips_machine}
+
+= Stallings theorem about ends of groups
+{parent=Geometric group theory}
+{wiki=Stallings_theorem_about_ends_of_groups}
+
+= Subgroup distortion
+{parent=Geometric group theory}
+{wiki=Subgroup_distortion}
+
+= Thurston boundary
+{parent=Geometric group theory}
+{wiki=Thurston_boundary}
+
+= Ultralimit
+{parent=Geometric group theory}
+{wiki=Ultralimit}
+
+= Weyl distance function
+{parent=Geometric group theory}
+{wiki=Weyl_distance_function}
+
+= Švarc–Milnor lemma
+{parent=Geometric group theory}
+{wiki=Švarc–Milnor_lemma}
+
+= Glossary of group theory
+{parent=Group theory}
+{wiki=Glossary_of_group_theory}
+
+= Grigorchuk group
+{parent=Group theory}
+{wiki=Grigorchuk_group}
+
+= Group extension
+{parent=Group theory}
+{wiki=Group_extension}
+
+= Group of Lie type
+{parent=Group theory}
+{wiki=Group_of_Lie_type}
+
+= Group representation
+{parent=Group theory}
+{wiki=Group_representation}
+
+= Group structure and the axiom of choice
+{parent=Group theory}
+{wiki=Group_structure_and_the_axiom_of_choice}
+
+= Hall's identity
+{parent=Group theory}
+{wiki=Hall's_identity}
+
+= Hanna Neumann conjecture
+{parent=Group theory}
+{wiki=Hanna_Neumann_conjecture}
+
+= Higman group
+{parent=Group theory}
+{wiki=Higman_group}
+
+= Higman–Sims asymptotic formula
+{parent=Group theory}
+{wiki=Higman–Sims_asymptotic_formula}
+
+= History of group theory
+{parent=Group theory}
+{wiki=History_of_group_theory}
+
+= Holomorph (mathematics)
+{parent=Group theory}
+{wiki=Holomorph_(mathematics)}
+
+= Homeomorphism group
+{parent=Group theory}
+{wiki=Homeomorphism_group}
+
+= IA automorphism
+{parent=Group theory}
+{wiki=IA_automorphism}
+
+= Idempotent measure
+{parent=Group theory}
+{wiki=Idempotent_measure}
+
+= Index calculus algorithm
+{parent=Group theory}
+{wiki=Index_calculus_algorithm}
+
+= Index of a subgroup
+{parent=Group theory}
+{wiki=Index_of_a_subgroup}
+
+= Induced character
+{parent=Group theory}
+{wiki=Induced_character}
+
+= Induced representation
+{parent=Group theory}
+{wiki=Induced_representation}
+
+= Inner automorphism
+{parent=Group theory}
+{wiki=Inner_automorphism}
+
+= Invariant decomposition
+{parent=Group theory}
+{wiki=Invariant_decomposition}
+
+= Lattice of subgroups
+{parent=Group theory}
+{wiki=Lattice_of_subgroups}
+
+= Leinster group
+{parent=Group theory}
+{wiki=Leinster_group}
+
+= Length function
+{parent=Group theory}
+{wiki=Length_function}
+
+= List of character tables for chemically important 3D point groups
+{parent=Group theory}
+{wiki=List_of_character_tables_for_chemically_important_3D_point_groups}
+
+= List of finite simple groups
+{parent=Group theory}
+{wiki=List_of_finite_simple_groups}
+
+= List of group theory topics
+{parent=Group theory}
+{wiki=List_of_group_theory_topics}
+
+= Lorentz group
+{parent=Group theory}
+{wiki=Lorentz_group}
+
+= Lyndon–Hochschild–Serre spectral sequence
+{parent=Group theory}
+{wiki=Lyndon–Hochschild–Serre_spectral_sequence}
+
+= Magnetic space group
+{parent=Group theory}
+{wiki=Magnetic_space_group}
+
+= Maria Wonenburger
+{parent=Group theory}
+{wiki=Maria_Wonenburger}
+
+= Measurable acting group
+{parent=Group theory}
+{wiki=Measurable_acting_group}
+
+= Measurable group
+{parent=Group theory}
+{wiki=Measurable_group}
+
+= Mennicke symbol
+{parent=Group theory}
+{wiki=Mennicke_symbol}
+
+= Modular group
+{parent=Group theory}
+{wiki=Modular_group}
+
+= Moufang loop
+{parent=Group theory}
+{wiki=Moufang_loop}
+
+= Moufang set
+{parent=Group theory}
+{wiki=Moufang_set}
+
+= Multiplicative character
+{parent=Group theory}
+{wiki=Multiplicative_character}
+
+= No small subgroup
+{parent=Group theory}
+{wiki=No_small_subgroup}
+
+= Norm (group)
+{parent=Group theory}
+{wiki=Norm_(group)}
+
+= Normal closure (group theory)
+{parent=Group theory}
+{wiki=Normal_closure_(group_theory)}
+
+= Nottingham group
+{parent=Group theory}
+{wiki=Nottingham_group}
+
+= Opposite group
+{parent=Group theory}
+{wiki=Opposite_group}
+
+= Outer automorphism group
+{parent=Group theory}
+{wiki=Outer_automorphism_group}
+
+= P-group generation algorithm
+{parent=Group theory}
+{wiki=P-group_generation_algorithm}
+
+= Perfect core
+{parent=Group theory}
+{wiki=Perfect_core}
+
+= Picard modular group
+{parent=Group theory}
+{wiki=Picard_modular_group}
+
+= Point group
+{parent=Group theory}
+{wiki=Point_group}
+
+= Point groups in three dimensions
+{parent=Group theory}
+{wiki=Point_groups_in_three_dimensions}
+
+= Point groups in two dimensions
+{parent=Group theory}
+{wiki=Point_groups_in_two_dimensions}
+
+= Power automorphism
+{parent=Group theory}
+{wiki=Power_automorphism}
+
+= Power closed
+{parent=Group theory}
+{wiki=Power_closed}
+
+= Principal homogeneous space
+{parent=Group theory}
+{wiki=Principal_homogeneous_space}
+
+= Principal ideal theorem
+{parent=Group theory}
+{wiki=Principal_ideal_theorem}
+
+= Principalization (algebra)
+{parent=Group theory}
+{wiki=Principalization_(algebra)}
+
+= Projective representation
+{parent=Group theory}
+{wiki=Projective_representation}
+
+= Quasigroup
+{parent=Group theory}
+{wiki=Quasigroup}
+
+= Quasimorphism
+{parent=Group theory}
+{wiki=Quasimorphism}
+
+= Quasirandom group
+{parent=Group theory}
+{wiki=Quasirandom_group}
+
+= Quaternion group
+{parent=Group theory}
+{wiki=Quaternion_group}
+
+= Quotient group
+{parent=Group theory}
+{wiki=Quotient_group}
+
+= Rank of a group
+{parent=Group theory}
+{wiki=Rank_of_a_group}
+
+= Real element
+{parent=Group theory}
+{wiki=Real_element}
+
+= Real tree
+{parent=Group theory}
+{wiki=Real_tree}
+
+= Representation on coordinate rings
+{parent=Group theory}
+{wiki=Representation_on_coordinate_rings}
+
+= Representation ring
+{parent=Group theory}
+{wiki=Representation_ring}
+
+= Resolvent (Galois theory)
+{parent=Group theory}
+{wiki=Resolvent_(Galois_theory)}
+
+= Retract (group theory)
+{parent=Group theory}
+{wiki=Retract_(group_theory)}
+
+= SL2(R)
+{parent=Group theory}
+{wiki=SL2(R)}
+
+= Schoof's algorithm
+{parent=Group theory}
+{wiki=Schoof's_algorithm}
+
+= Schoof–Elkies–Atkin algorithm
+{parent=Group theory}
+{wiki=Schoof–Elkies–Atkin_algorithm}
+
+= Schottky group
+{parent=Group theory}
+{wiki=Schottky_group}
+
+= Schur multiplier
+{parent=Group theory}
+{wiki=Schur_multiplier}
+
+= Spherical 3-manifold
+{parent=Group theory}
+{wiki=Spherical_3-manifold}
+
+= Subgroup
+{parent=Group theory}
+{wiki=Subgroup}
+
+= Subgroup method
+{parent=Group theory}
+{wiki=Subgroup_method}
+
+= Suzuki group
+{parent=Group theory}
+{wiki=Suzuki_group}
+
+= Symmetric set
+{parent=Group theory}
+{wiki=Symmetric_set}
+
+= Transfer (group theory)
+{parent=Group theory}
+{wiki=Transfer_(group_theory)}
+
+= Virtually
+{parent=Group theory}
+{wiki=Virtually}
+
+= Von Neumann paradox
+{parent=Group theory}
+{wiki=Von_Neumann_paradox}
+
+= Whitehead problem
+{parent=Group theory}
+{wiki=Whitehead_problem}
+
+= Wyckoff positions
+{parent=Group theory}
+{wiki=Wyckoff_positions}
+
+= Zappa–Szép product
+{parent=Group theory}
+{wiki=Zappa–Szép_product}

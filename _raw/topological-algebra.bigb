@@ -1,0 +1,50 @@
+= Topological algebra
+{wiki=Topological_algebra}
+
+= Fréchet algebras
+{parent=Topological algebra}
+{wiki=Category:Fréchet_algebras}
+
+= Banach algebras
+{parent=Fréchet algebras}
+{wiki=Banach_algebras}
+
+= Fréchet algebra
+{parent=Fréchet algebras}
+{wiki=Fréchet_algebra}
+
+= Topological tensor products
+{parent=Topological algebra}
+{wiki=Category:Topological_tensor_products}
+
+= Fredholm determinant
+{parent=Topological tensor products}
+{wiki=Fredholm_determinant}
+
+= Grothendieck trace theorem
+{parent=Topological tensor products}
+{wiki=Grothendieck_trace_theorem}
+
+= Inductive tensor product
+{parent=Topological tensor products}
+{wiki=Inductive_tensor_product}
+
+= Injective tensor product
+{parent=Topological tensor products}
+{wiki=Injective_tensor_product}
+
+= Projective tensor product
+{parent=Topological tensor products}
+{wiki=Projective_tensor_product}
+
+= Schwartz kernel theorem
+{parent=Topological tensor products}
+{wiki=Schwartz_kernel_theorem}
+
+= Adele ring
+{parent=Topological algebra}
+{wiki=Adele_ring}
+
+= Topological divisor of zero
+{parent=Topological algebra}
+{wiki=Topological_divisor_of_zero}

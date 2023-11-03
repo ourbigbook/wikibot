@@ -1,0 +1,510 @@
+= Binary arithmetic
+{wiki=Binary_arithmetic}
+
+= Bit data structures
+{parent=Binary arithmetic}
+{wiki=Category:Bit_data_structures}
+
+= Bit array
+{parent=Bit data structures}
+{wiki=Bit_array}
+
+= Bit field
+{parent=Bit data structures}
+{wiki=Bit_field}
+
+= Bit plane
+{parent=Bit data structures}
+{wiki=Bit_plane}
+
+= Bitboard
+{parent=Bit data structures}
+{wiki=Bitboard}
+
+= Bitmap
+{parent=Bit data structures}
+{wiki=Bitmap}
+
+= Bitmap index
+{parent=Bit data structures}
+{wiki=Bitmap_index}
+
+= Free-space bitmap
+{parent=Bit data structures}
+{wiki=Free-space_bitmap}
+
+= User Electronic Signature
+{parent=Bit data structures}
+{wiki=User_Electronic_Signature}
+
+= Boolean algebra
+{parent=Binary arithmetic}
+{wiki=Boolean_algebra}
+
+= Normal forms (logic)
+{parent=Boolean algebra}
+{wiki=Category:Normal_forms_(logic)}
+
+= 2-valued morphism
+{parent=Boolean algebra}
+{wiki=2-valued_morphism}
+
+= Algebraic normal form
+{parent=Boolean algebra}
+{wiki=Algebraic_normal_form}
+
+= Binary decision diagram
+{parent=Boolean algebra}
+{wiki=Binary_decision_diagram}
+
+= Boole's expansion theorem
+{parent=Boolean algebra}
+{wiki=Boole's_expansion_theorem}
+
+= Boolean-valued function
+{parent=Boolean algebra}
+{wiki=Boolean-valued_function}
+
+= Boolean algebras canonically defined
+{parent=Boolean algebra}
+{wiki=Boolean_algebras_canonically_defined}
+
+= Boolean conjunctive query
+{parent=Boolean algebra}
+{wiki=Boolean_conjunctive_query}
+
+= Boolean data type
+{parent=Boolean algebra}
+{wiki=Boolean_data_type}
+
+= Boolean domain
+{parent=Boolean algebra}
+{wiki=Boolean_domain}
+
+= Boolean expression
+{parent=Boolean algebra}
+{wiki=Boolean_expression}
+
+= Boolean prime ideal theorem
+{parent=Boolean algebra}
+{wiki=Boolean_prime_ideal_theorem}
+
+= Boolean ring
+{parent=Boolean algebra}
+{wiki=Boolean_ring}
+
+= Boolean satisfiability algorithm heuristics
+{parent=Boolean algebra}
+{wiki=Boolean_satisfiability_algorithm_heuristics}
+
+= Booleo
+{parent=Boolean algebra}
+{wiki=Booleo}
+
+= Canonical normal form
+{parent=Boolean algebra}
+{wiki=Canonical_normal_form}
+
+= Cantor algebra
+{parent=Boolean algebra}
+{wiki=Cantor_algebra}
+
+= Chaff algorithm
+{parent=Boolean algebra}
+{wiki=Chaff_algorithm}
+
+= Cohen algebra
+{parent=Boolean algebra}
+{wiki=Cohen_algebra}
+
+= Complete Boolean algebra
+{parent=Boolean algebra}
+{wiki=Complete_Boolean_algebra}
+
+= Consensus theorem
+{parent=Boolean algebra}
+{wiki=Consensus_theorem}
+
+= Davis–Putnam algorithm
+{parent=Boolean algebra}
+{wiki=Davis–Putnam_algorithm}
+
+= De Morgan's laws
+{parent=Boolean algebra}
+{wiki=De_Morgan's_laws}
+
+= Division lattice
+{parent=Boolean algebra}
+{wiki=Division_lattice}
+
+= Evasive Boolean function
+{parent=Boolean algebra}
+{wiki=Evasive_Boolean_function}
+
+= Field of sets
+{parent=Boolean algebra}
+{wiki=Field_of_sets}
+
+= Formula game
+{parent=Boolean algebra}
+{wiki=Formula_game}
+
+= Free Boolean algebra
+{parent=Boolean algebra}
+{wiki=Free_Boolean_algebra}
+
+= George Boole
+{parent=Boolean algebra}
+{wiki=George_Boole}
+
+= Implicant
+{parent=Boolean algebra}
+{wiki=Implicant}
+
+= Implication graph
+{parent=Boolean algebra}
+{wiki=Implication_graph}
+
+= Inclusion (Boolean algebra)
+{parent=Boolean algebra}
+{wiki=Inclusion_(Boolean_algebra)}
+
+= List of Boolean algebra topics
+{parent=Boolean algebra}
+{wiki=List_of_Boolean_algebra_topics}
+
+= Logic redundancy
+{parent=Boolean algebra}
+{wiki=Logic_redundancy}
+
+= Lupanov representation
+{parent=Boolean algebra}
+{wiki=Lupanov_representation}
+
+= Majority function
+{parent=Boolean algebra}
+{wiki=Majority_function}
+
+= Minimal axioms for Boolean algebra
+{parent=Boolean algebra}
+{wiki=Minimal_axioms_for_Boolean_algebra}
+
+= Monadic Boolean algebra
+{parent=Boolean algebra}
+{wiki=Monadic_Boolean_algebra}
+
+= OR gate
+{parent=Boolean algebra}
+{wiki=OR_gate}
+
+= Parity function
+{parent=Boolean algebra}
+{wiki=Parity_function}
+
+= Petrick's method
+{parent=Boolean algebra}
+{wiki=Petrick's_method}
+
+= Planar SAT
+{parent=Boolean algebra}
+{wiki=Planar_SAT}
+
+= Poretsky's law of forms
+{parent=Boolean algebra}
+{wiki=Poretsky's_law_of_forms}
+
+= Product term
+{parent=Boolean algebra}
+{wiki=Product_term}
+
+= Propositional calculus
+{parent=Boolean algebra}
+{wiki=Propositional_calculus}
+
+= Propositional directed acyclic graph
+{parent=Boolean algebra}
+{wiki=Propositional_directed_acyclic_graph}
+
+= Propositional formula
+{parent=Boolean algebra}
+{wiki=Propositional_formula}
+
+= Quine–McCluskey algorithm
+{parent=Boolean algebra}
+{wiki=Quine–McCluskey_algorithm}
+
+= Random algebra
+{parent=Boolean algebra}
+{wiki=Random_algebra}
+
+= Read-once function
+{parent=Boolean algebra}
+{wiki=Read-once_function}
+
+= Reed–Muller expansion
+{parent=Boolean algebra}
+{wiki=Reed–Muller_expansion}
+
+= Relation algebra
+{parent=Boolean algebra}
+{wiki=Relation_algebra}
+
+= Residuated Boolean algebra
+{parent=Boolean algebra}
+{wiki=Residuated_Boolean_algebra}
+
+= Stone functor
+{parent=Boolean algebra}
+{wiki=Stone_functor}
+
+= Total operating characteristic
+{parent=Boolean algebra}
+{wiki=Total_operating_characteristic}
+
+= True quantified Boolean formula
+{parent=Boolean algebra}
+{wiki=True_quantified_Boolean_formula}
+
+= Truth table
+{parent=Boolean algebra}
+{wiki=Truth_table}
+
+= Union (set theory)
+{parent=Boolean algebra}
+{wiki=Union_(set_theory)}
+
+= Vector logic
+{parent=Boolean algebra}
+{wiki=Vector_logic}
+
+= Zhegalkin polynomial
+{parent=Boolean algebra}
+{wiki=Zhegalkin_polynomial}
+
+= Σ-algebra
+{parent=Boolean algebra}
+{wiki=Σ-algebra}
+
+= 1 + 2 + 4 + 8 + ⋯
+{parent=Binary arithmetic}
+{wiki=1_+_2_+_4_+_8_+_⋯}
+
+= Adder (electronics)
+{parent=Binary arithmetic}
+{wiki=Adder_(electronics)}
+
+= Adder–subtractor
+{parent=Binary arithmetic}
+{wiki=Adder–subtractor}
+
+= Arithmetic shift
+{parent=Binary arithmetic}
+{wiki=Arithmetic_shift}
+
+= BIT predicate
+{parent=Binary arithmetic}
+{wiki=BIT_predicate}
+
+= Bfloat16 floating-point format
+{parent=Binary arithmetic}
+{wiki=Bfloat16_floating-point_format}
+
+= Binary-coded decimal
+{parent=Binary arithmetic}
+{wiki=Binary-coded_decimal}
+
+= Binary angular measurement
+{parent=Binary arithmetic}
+{wiki=Binary_angular_measurement}
+
+= Binary clock
+{parent=Binary arithmetic}
+{wiki=Binary_clock}
+
+= Binary logarithm
+{parent=Binary arithmetic}
+{wiki=Binary_logarithm}
+
+= Binary multiplier
+{parent=Binary arithmetic}
+{wiki=Binary_multiplier}
+
+= Binary number
+{parent=Binary arithmetic}
+{wiki=Binary_number}
+
+= Bit-length
+{parent=Binary arithmetic}
+{wiki=Bit-length}
+
+= Bit manipulation
+{parent=Binary arithmetic}
+{wiki=Bit_manipulation}
+
+= Bit numbering
+{parent=Binary arithmetic}
+{wiki=Bit_numbering}
+
+= Bitwise operation
+{parent=Binary arithmetic}
+{wiki=Bitwise_operation}
+
+= Bitwise operations in C
+{parent=Binary arithmetic}
+{wiki=Bitwise_operations_in_C}
+
+= Boolean function
+{parent=Binary arithmetic}
+{wiki=Boolean_function}
+
+= Carry-less product
+{parent=Binary arithmetic}
+{wiki=Carry-less_product}
+
+= Carry-save adder
+{parent=Binary arithmetic}
+{wiki=Carry-save_adder}
+
+= Chen–Ho encoding
+{parent=Binary arithmetic}
+{wiki=Chen–Ho_encoding}
+
+= Densely packed decimal
+{parent=Binary arithmetic}
+{wiki=Densely_packed_decimal}
+
+= Division by two
+{parent=Binary arithmetic}
+{wiki=Division_by_two}
+
+= Double-precision floating-point format
+{parent=Binary arithmetic}
+{wiki=Double-precision_floating-point_format}
+
+= Double dabble
+{parent=Binary arithmetic}
+{wiki=Double_dabble}
+
+= Excess-3
+{parent=Binary arithmetic}
+{wiki=Excess-3}
+
+= Fibbinary number
+{parent=Binary arithmetic}
+{wiki=Fibbinary_number}
+
+= Find first set
+{parent=Binary arithmetic}
+{wiki=Find_first_set}
+
+= Finger binary
+{parent=Binary arithmetic}
+{wiki=Finger_binary}
+
+= Fixed-point arithmetic
+{parent=Binary arithmetic}
+{wiki=Fixed-point_arithmetic}
+
+= GF(2)
+{parent=Binary arithmetic}
+{wiki=GF(2)}
+
+= Gray code
+{parent=Binary arithmetic}
+{wiki=Gray_code}
+
+= Half-carry flag
+{parent=Binary arithmetic}
+{wiki=Half-carry_flag}
+
+= Half-precision floating-point format
+{parent=Binary arithmetic}
+{wiki=Half-precision_floating-point_format}
+
+= Hexadecimal
+{parent=Binary arithmetic}
+{wiki=Hexadecimal}
+
+= IEEE 754
+{parent=Binary arithmetic}
+{wiki=IEEE_754}
+
+= Leading-one detector
+{parent=Binary arithmetic}
+{wiki=Leading-one_detector}
+
+= Logical shift
+{parent=Binary arithmetic}
+{wiki=Logical_shift}
+
+= Mask (computing)
+{parent=Binary arithmetic}
+{wiki=Mask_(computing)}
+
+= Microsoft Binary Format
+{parent=Binary arithmetic}
+{wiki=Microsoft_Binary_Format}
+
+= Moser–de Bruijn sequence
+{parent=Binary arithmetic}
+{wiki=Moser–de_Bruijn_sequence}
+
+= Octal
+{parent=Binary arithmetic}
+{wiki=Octal}
+
+= Octuple-precision floating-point format
+{parent=Binary arithmetic}
+{wiki=Octuple-precision_floating-point_format}
+
+= Offset binary
+{parent=Binary arithmetic}
+{wiki=Offset_binary}
+
+= Permute instruction
+{parent=Binary arithmetic}
+{wiki=Permute_instruction}
+
+= Power of two
+{parent=Binary arithmetic}
+{wiki=Power_of_two}
+
+= Quadruple-precision floating-point format
+{parent=Binary arithmetic}
+{wiki=Quadruple-precision_floating-point_format}
+
+= Redundant binary representation
+{parent=Binary arithmetic}
+{wiki=Redundant_binary_representation}
+
+= Serial binary adder
+{parent=Binary arithmetic}
+{wiki=Serial_binary_adder}
+
+= Sign bit
+{parent=Binary arithmetic}
+{wiki=Sign_bit}
+
+= Sign extension
+{parent=Binary arithmetic}
+{wiki=Sign_extension}
+
+= Single-precision floating-point format
+{parent=Binary arithmetic}
+{wiki=Single-precision_floating-point_format}
+
+= Split octal
+{parent=Binary arithmetic}
+{wiki=Split_octal}
+
+= Subtractor
+{parent=Binary arithmetic}
+{wiki=Subtractor}
+
+= Two's complement
+{parent=Binary arithmetic}
+{wiki=Two's_complement}
+
+= XOR linked list
+{parent=Binary arithmetic}
+{wiki=XOR_linked_list}

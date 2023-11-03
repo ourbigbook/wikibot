@@ -1,0 +1,498 @@
+= Commutative algebra
+{wiki=Commutative_algebra}
+
+= Localization (mathematics)
+{parent=Commutative algebra}
+{wiki=Localization_(mathematics)}
+
+= Hasse principle
+{parent=Localization (mathematics)}
+{wiki=Hasse_principle}
+
+= Local analysis
+{parent=Localization (mathematics)}
+{wiki=Local_analysis}
+
+= Local ring
+{parent=Localization (mathematics)}
+{wiki=Local_ring}
+
+= Semi-local ring
+{parent=Localization (mathematics)}
+{wiki=Semi-local_ring}
+
+= Acceptable ring
+{parent=Commutative algebra}
+{wiki=Acceptable_ring}
+
+= Almost ring
+{parent=Commutative algebra}
+{wiki=Almost_ring}
+
+= Analytically irreducible ring
+{parent=Commutative algebra}
+{wiki=Analytically_irreducible_ring}
+
+= Analytically normal ring
+{parent=Commutative algebra}
+{wiki=Analytically_normal_ring}
+
+= Analytically unramified ring
+{parent=Commutative algebra}
+{wiki=Analytically_unramified_ring}
+
+= Arf ring
+{parent=Commutative algebra}
+{wiki=Arf_ring}
+
+= Artin approximation theorem
+{parent=Commutative algebra}
+{wiki=Artin_approximation_theorem}
+
+= Artinian ideal
+{parent=Commutative algebra}
+{wiki=Artinian_ideal}
+
+= Ascending chain condition
+{parent=Commutative algebra}
+{wiki=Ascending_chain_condition}
+
+= Atomic domain
+{parent=Commutative algebra}
+{wiki=Atomic_domain}
+
+= Auslander–Buchsbaum formula
+{parent=Commutative algebra}
+{wiki=Auslander–Buchsbaum_formula}
+
+= Auslander–Buchsbaum theorem
+{parent=Commutative algebra}
+{wiki=Auslander–Buchsbaum_theorem}
+
+= Bass number
+{parent=Commutative algebra}
+{wiki=Bass_number}
+
+= Bass–Quillen conjecture
+{parent=Commutative algebra}
+{wiki=Bass–Quillen_conjecture}
+
+= Buchsbaum ring
+{parent=Commutative algebra}
+{wiki=Buchsbaum_ring}
+
+= Bézout domain
+{parent=Commutative algebra}
+{wiki=Bézout_domain}
+
+= Catenary ring
+{parent=Commutative algebra}
+{wiki=Catenary_ring}
+
+= Change of rings
+{parent=Commutative algebra}
+{wiki=Change_of_rings}
+
+= Cluster algebra
+{parent=Commutative algebra}
+{wiki=Cluster_algebra}
+
+= Cohen ring
+{parent=Commutative algebra}
+{wiki=Cohen_ring}
+
+= Cohen structure theorem
+{parent=Commutative algebra}
+{wiki=Cohen_structure_theorem}
+
+= Cohen–Macaulay ring
+{parent=Commutative algebra}
+{wiki=Cohen–Macaulay_ring}
+
+= Complete intersection
+{parent=Commutative algebra}
+{wiki=Complete_intersection}
+
+= Complete intersection ring
+{parent=Commutative algebra}
+{wiki=Complete_intersection_ring}
+
+= Completion of a ring
+{parent=Commutative algebra}
+{wiki=Completion_of_a_ring}
+
+= Conductor (ring theory)
+{parent=Commutative algebra}
+{wiki=Conductor_(ring_theory)}
+
+= Congruence ideal
+{parent=Commutative algebra}
+{wiki=Congruence_ideal}
+
+= Connected ring
+{parent=Commutative algebra}
+{wiki=Connected_ring}
+
+= Constructible topology
+{parent=Commutative algebra}
+{wiki=Constructible_topology}
+
+= Deviation of a local ring
+{parent=Commutative algebra}
+{wiki=Deviation_of_a_local_ring}
+
+= Differential calculus over commutative algebras
+{parent=Commutative algebra}
+{wiki=Differential_calculus_over_commutative_algebras}
+
+= Differential graded algebra
+{parent=Commutative algebra}
+{wiki=Differential_graded_algebra}
+
+= Discrete valuation ring
+{parent=Commutative algebra}
+{wiki=Discrete_valuation_ring}
+
+= Divided domain
+{parent=Commutative algebra}
+{wiki=Divided_domain}
+
+= Dualizing module
+{parent=Commutative algebra}
+{wiki=Dualizing_module}
+
+= Eakin–Nagata theorem
+{parent=Commutative algebra}
+{wiki=Eakin–Nagata_theorem}
+
+= Euclidean domain
+{parent=Commutative algebra}
+{wiki=Euclidean_domain}
+
+= Excellent ring
+{parent=Commutative algebra}
+{wiki=Excellent_ring}
+
+= Finite algebra
+{parent=Commutative algebra}
+{wiki=Finite_algebra}
+
+= Finitely generated algebra
+{parent=Commutative algebra}
+{wiki=Finitely_generated_algebra}
+
+= Fitting ideal
+{parent=Commutative algebra}
+{wiki=Fitting_ideal}
+
+= Formally smooth map
+{parent=Commutative algebra}
+{wiki=Formally_smooth_map}
+
+= G-ring
+{parent=Commutative algebra}
+{wiki=G-ring}
+
+= GCD domain
+{parent=Commutative algebra}
+{wiki=GCD_domain}
+
+= Geometrically regular ring
+{parent=Commutative algebra}
+{wiki=Geometrically_regular_ring}
+
+= Glossary of commutative algebra
+{parent=Commutative algebra}
+{wiki=Glossary_of_commutative_algebra}
+
+= Going up and going down
+{parent=Commutative algebra}
+{wiki=Going_up_and_going_down}
+
+= Gorenstein ring
+{parent=Commutative algebra}
+{wiki=Gorenstein_ring}
+
+= Hahn series
+{parent=Commutative algebra}
+{wiki=Hahn_series}
+
+= Hausdorff completion
+{parent=Commutative algebra}
+{wiki=Hausdorff_completion}
+
+= Henselian ring
+{parent=Commutative algebra}
+{wiki=Henselian_ring}
+
+= Hilbert's basis theorem
+{parent=Commutative algebra}
+{wiki=Hilbert's_basis_theorem}
+
+= Hilbert's syzygy theorem
+{parent=Commutative algebra}
+{wiki=Hilbert's_syzygy_theorem}
+
+= Hilbert series and Hilbert polynomial
+{parent=Commutative algebra}
+{wiki=Hilbert_series_and_Hilbert_polynomial}
+
+= Hilbert–Samuel function
+{parent=Commutative algebra}
+{wiki=Hilbert–Samuel_function}
+
+= Hironaka decomposition
+{parent=Commutative algebra}
+{wiki=Hironaka_decomposition}
+
+= Hodge algebra
+{parent=Commutative algebra}
+{wiki=Hodge_algebra}
+
+= Homological conjectures in commutative algebra
+{parent=Commutative algebra}
+{wiki=Homological_conjectures_in_commutative_algebra}
+
+= I-adic topology
+{parent=Commutative algebra}
+{wiki=I-adic_topology}
+
+= Ideal norm
+{parent=Commutative algebra}
+{wiki=Ideal_norm}
+
+= Ideal reduction
+{parent=Commutative algebra}
+{wiki=Ideal_reduction}
+
+= Ideal theory
+{parent=Commutative algebra}
+{wiki=Ideal_theory}
+
+= Integral domain
+{parent=Commutative algebra}
+{wiki=Integral_domain}
+
+= Integrally closed domain
+{parent=Commutative algebra}
+{wiki=Integrally_closed_domain}
+
+= Introduction to Commutative Algebra
+{parent=Commutative algebra}
+{wiki=Introduction_to_Commutative_Algebra}
+
+= Irreducible ring
+{parent=Commutative algebra}
+{wiki=Irreducible_ring}
+
+= Irrelevant ideal
+{parent=Commutative algebra}
+{wiki=Irrelevant_ideal}
+
+= J-2 ring
+{parent=Commutative algebra}
+{wiki=J-2_ring}
+
+= J-multiplicity
+{parent=Commutative algebra}
+{wiki=J-multiplicity}
+
+= Jacobson ring
+{parent=Commutative algebra}
+{wiki=Jacobson_ring}
+
+= Koszul–Tate resolution
+{parent=Commutative algebra}
+{wiki=Koszul–Tate_resolution}
+
+= Krull's principal ideal theorem
+{parent=Commutative algebra}
+{wiki=Krull's_principal_ideal_theorem}
+
+= Krull ring
+{parent=Commutative algebra}
+{wiki=Krull_ring}
+
+= List of commutative algebra topics
+{parent=Commutative algebra}
+{wiki=List_of_commutative_algebra_topics}
+
+= Local criterion for flatness
+{parent=Commutative algebra}
+{wiki=Local_criterion_for_flatness}
+
+= Local parameter
+{parent=Commutative algebra}
+{wiki=Local_parameter}
+
+= Locally nilpotent
+{parent=Commutative algebra}
+{wiki=Locally_nilpotent}
+
+= Minimal prime ideal
+{parent=Commutative algebra}
+{wiki=Minimal_prime_ideal}
+
+= Monomial conjecture
+{parent=Commutative algebra}
+{wiki=Monomial_conjecture}
+
+= Mori domain
+{parent=Commutative algebra}
+{wiki=Mori_domain}
+
+= Mori–Nagata theorem
+{parent=Commutative algebra}
+{wiki=Mori–Nagata_theorem}
+
+= Multiplicatively closed set
+{parent=Commutative algebra}
+{wiki=Multiplicatively_closed_set}
+
+= Multiplier ideal
+{parent=Commutative algebra}
+{wiki=Multiplier_ideal}
+
+= Nagata ring
+{parent=Commutative algebra}
+{wiki=Nagata_ring}
+
+= Nilradical of a ring
+{parent=Commutative algebra}
+{wiki=Nilradical_of_a_ring}
+
+= Novikov ring
+{parent=Commutative algebra}
+{wiki=Novikov_ring}
+
+= Parafactorial local ring
+{parent=Commutative algebra}
+{wiki=Parafactorial_local_ring}
+
+= Perfect ideal
+{parent=Commutative algebra}
+{wiki=Perfect_ideal}
+
+= Primal ideal
+{parent=Commutative algebra}
+{wiki=Primal_ideal}
+
+= Primary decomposition
+{parent=Commutative algebra}
+{wiki=Primary_decomposition}
+
+= Primary ideal
+{parent=Commutative algebra}
+{wiki=Primary_ideal}
+
+= Principal ideal
+{parent=Commutative algebra}
+{wiki=Principal_ideal}
+
+= Principal ideal domain
+{parent=Commutative algebra}
+{wiki=Principal_ideal_domain}
+
+= Principal ideal ring
+{parent=Commutative algebra}
+{wiki=Principal_ideal_ring}
+
+= Prüfer domain
+{parent=Commutative algebra}
+{wiki=Prüfer_domain}
+
+= Puiseux series
+{parent=Commutative algebra}
+{wiki=Puiseux_series}
+
+= Quasi-homogeneous polynomial
+{parent=Commutative algebra}
+{wiki=Quasi-homogeneous_polynomial}
+
+= Rabinowitsch trick
+{parent=Commutative algebra}
+{wiki=Rabinowitsch_trick}
+
+= Rees algebra
+{parent=Commutative algebra}
+{wiki=Rees_algebra}
+
+= Rees decomposition
+{parent=Commutative algebra}
+{wiki=Rees_decomposition}
+
+= Ring of mixed characteristic
+{parent=Commutative algebra}
+{wiki=Ring_of_mixed_characteristic}
+
+= Seminormal ring
+{parent=Commutative algebra}
+{wiki=Seminormal_ring}
+
+= Serre's inequality on height
+{parent=Commutative algebra}
+{wiki=Serre's_inequality_on_height}
+
+= Serre's multiplicity conjectures
+{parent=Commutative algebra}
+{wiki=Serre's_multiplicity_conjectures}
+
+= Spectrum of a ring
+{parent=Commutative algebra}
+{wiki=Spectrum_of_a_ring}
+
+= Stanley decomposition
+{parent=Commutative algebra}
+{wiki=Stanley_decomposition}
+
+= System of parameters
+{parent=Commutative algebra}
+{wiki=System_of_parameters}
+
+= Tensor-hom adjunction
+{parent=Commutative algebra}
+{wiki=Tensor-hom_adjunction}
+
+= Test ideal
+{parent=Commutative algebra}
+{wiki=Test_ideal}
+
+= Tight closure
+{parent=Commutative algebra}
+{wiki=Tight_closure}
+
+= Total ring of fractions
+{parent=Commutative algebra}
+{wiki=Total_ring_of_fractions}
+
+= Unibranch local ring
+{parent=Commutative algebra}
+{wiki=Unibranch_local_ring}
+
+= Weak dimension
+{parent=Commutative algebra}
+{wiki=Weak_dimension}
+
+= Weierstrass preparation theorem
+{parent=Commutative algebra}
+{wiki=Weierstrass_preparation_theorem}
+
+= Weierstrass ring
+{parent=Commutative algebra}
+{wiki=Weierstrass_ring}
+
+= Zariski's finiteness theorem
+{parent=Commutative algebra}
+{wiki=Zariski's_finiteness_theorem}
+
+= Zariski ring
+{parent=Commutative algebra}
+{wiki=Zariski_ring}
+
+= Zero-divisor graph
+{parent=Commutative algebra}
+{wiki=Zero-divisor_graph}
+
+= Étale algebra
+{parent=Commutative algebra}
+{wiki=Étale_algebra}

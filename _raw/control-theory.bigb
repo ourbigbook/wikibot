@@ -1,0 +1,2382 @@
+= Control theory
+{wiki=Control_theory}
+
+= Classical control theory
+{parent=Control theory}
+{wiki=Classical_control_theory}
+
+= Closed-loop pole
+{parent=Classical control theory}
+{wiki=Closed-loop_pole}
+
+= Closed-loop transfer function
+{parent=Classical control theory}
+{wiki=Closed-loop_transfer_function}
+
+= Complex plane
+{parent=Classical control theory}
+{wiki=Complex_plane}
+
+= Controllability
+{parent=Classical control theory}
+{wiki=Controllability}
+
+= Gain scheduling
+{parent=Classical control theory}
+{wiki=Gain_scheduling}
+
+= Integral windup
+{parent=Classical control theory}
+{wiki=Integral_windup}
+
+= Lead–lag compensator
+{parent=Classical control theory}
+{wiki=Lead–lag_compensator}
+
+= Lead–lag effect
+{parent=Classical control theory}
+{wiki=Lead–lag_effect}
+
+= Observability
+{parent=Classical control theory}
+{wiki=Observability}
+
+= Open-loop controller
+{parent=Classical control theory}
+{wiki=Open-loop_controller}
+
+= Overshoot (signal)
+{parent=Classical control theory}
+{wiki=Overshoot_(signal)}
+
+= Plant (control theory)
+{parent=Classical control theory}
+{wiki=Plant_(control_theory)}
+
+= Positive feedback
+{parent=Classical control theory}
+{wiki=Positive_feedback}
+
+= Proportional control
+{parent=Classical control theory}
+{wiki=Proportional_control}
+
+= Proportional–integral–derivative controller
+{parent=Classical control theory}
+{wiki=Proportional–integral–derivative_controller}
+
+= Root locus analysis
+{parent=Classical control theory}
+{wiki=Root_locus_analysis}
+
+= Setpoint (control system)
+{parent=Classical control theory}
+{wiki=Setpoint_(control_system)}
+
+= State-space representation
+{parent=Classical control theory}
+{wiki=State-space_representation}
+
+= State-transition matrix
+{parent=Classical control theory}
+{wiki=State-transition_matrix}
+
+= State observer
+{parent=Classical control theory}
+{wiki=State_observer}
+
+= State variable
+{parent=Classical control theory}
+{wiki=State_variable}
+
+= Control engineering
+{parent=Control theory}
+{wiki=Control_engineering}
+
+= Air traffic control systems
+{parent=Control engineering}
+{wiki=Category:Air_traffic_control_systems}
+
+= Applications of control engineering
+{parent=Control engineering}
+{wiki=Category:Applications_of_control_engineering}
+
+= Automation
+{parent=Control engineering}
+{wiki=Automation}
+
+= Control devices
+{parent=Control engineering}
+{wiki=Category:Control_devices}
+
+= ADMAR
+{parent=Control engineering}
+{wiki=ADMAR}
+
+= ANSI/ISA-95
+{parent=Control engineering}
+{wiki=ANSI/ISA-95}
+
+= Ackermann's formula
+{parent=Control engineering}
+{wiki=Ackermann's_formula}
+
+= Adaptive system
+{parent=Control engineering}
+{wiki=Adaptive_system}
+
+= BELBIC
+{parent=Control engineering}
+{wiki=BELBIC}
+
+= Ball and beam
+{parent=Control engineering}
+{wiki=Ball_and_beam}
+
+= Branislava Peruničić
+{parent=Control engineering}
+{wiki=Branislava_Peruničić}
+
+= CIMACT
+{parent=Control engineering}
+{wiki=CIMACT}
+
+= Campbell diagram
+{parent=Control engineering}
+{wiki=Campbell_diagram}
+
+= Computational steering
+{parent=Control engineering}
+{wiki=Computational_steering}
+
+= Control communications
+{parent=Control engineering}
+{wiki=Control_communications}
+
+= Control loop
+{parent=Control engineering}
+{wiki=Control_loop}
+
+= Critical system
+{parent=Control engineering}
+{wiki=Critical_system}
+
+= Current loop
+{parent=Control engineering}
+{wiki=Current_loop}
+
+= Deterministic Networking
+{parent=Control engineering}
+{wiki=Deterministic_Networking}
+
+= Distributed control system
+{parent=Control engineering}
+{wiki=Distributed_control_system}
+
+= DockNET
+{parent=Control engineering}
+{wiki=DockNET}
+
+= Double inverted pendulum
+{parent=Control engineering}
+{wiki=Double_inverted_pendulum}
+
+= ECU-TEST
+{parent=Control engineering}
+{wiki=ECU-TEST}
+
+= Electrification and controls technology
+{parent=Control engineering}
+{wiki=Electrification_and_controls_technology}
+
+= Enterprise appliance transaction module
+{parent=Control engineering}
+{wiki=Enterprise_appliance_transaction_module}
+
+= Fault tolerance
+{parent=Control engineering}
+{wiki=Fault_tolerance}
+
+= Flight envelope protection
+{parent=Control engineering}
+{wiki=Flight_envelope_protection}
+
+= Furuta pendulum
+{parent=Control engineering}
+{wiki=Furuta_pendulum}
+
+= Fuzzy control system
+{parent=Control engineering}
+{wiki=Fuzzy_control_system}
+
+= High-redundancy actuation
+{parent=Control engineering}
+{wiki=High-redundancy_actuation}
+
+= IEC 62264
+{parent=Control engineering}
+{wiki=IEC_62264}
+
+= IEC 62379
+{parent=Control engineering}
+{wiki=IEC_62379}
+
+= Impedance control
+{parent=Control engineering}
+{wiki=Impedance_control}
+
+= Industrial control system
+{parent=Control engineering}
+{wiki=Industrial_control_system}
+
+= Inertia wheel pendulum
+{parent=Control engineering}
+{wiki=Inertia_wheel_pendulum}
+
+= Instrument mechanic
+{parent=Control engineering}
+{wiki=Instrument_mechanic}
+
+= Instrumentation
+{parent=Control engineering}
+{wiki=Instrumentation}
+
+= Instrumentation in petrochemical industries
+{parent=Control engineering}
+{wiki=Instrumentation_in_petrochemical_industries}
+
+= International Conference on Mechanical Industrial & Energy Engineering
+{parent=Control engineering}
+{wiki=International_Conference_on_Mechanical_Industrial_&_Energy_Engineering}
+
+= International Federation of Automatic Control
+{parent=Control engineering}
+{wiki=International_Federation_of_Automatic_Control}
+
+= Inverted pendulum
+{parent=Control engineering}
+{wiki=Inverted_pendulum}
+
+= Israel Association for Automatic Control
+{parent=Control engineering}
+{wiki=Israel_Association_for_Automatic_Control}
+
+= List of automation protocols
+{parent=Control engineering}
+{wiki=List_of_automation_protocols}
+
+= MIMO
+{parent=Control engineering}
+{wiki=MIMO}
+
+= Map-based controller
+{parent=Control engineering}
+{wiki=Map-based_controller}
+
+= Material flow
+{parent=Control engineering}
+{wiki=Material_flow}
+
+= Model-based design
+{parent=Control engineering}
+{wiki=Model-based_design}
+
+= Motor soft starter
+{parent=Control engineering}
+{wiki=Motor_soft_starter}
+
+= NORBIT
+{parent=Control engineering}
+{wiki=NORBIT}
+
+= Nozzle and flapper
+{parent=Control engineering}
+{wiki=Nozzle_and_flapper}
+
+= Operational technology
+{parent=Control engineering}
+{wiki=Operational_technology}
+
+= Orchestra Control Engine
+{parent=Control engineering}
+{wiki=Orchestra_Control_Engine}
+
+= Outline of control engineering
+{parent=Control engineering}
+{wiki=Outline_of_control_engineering}
+
+= Packaging machinery
+{parent=Control engineering}
+{wiki=Packaging_machinery}
+
+= Plant floor communication
+{parent=Control engineering}
+{wiki=Plant_floor_communication}
+
+= Production control
+{parent=Control engineering}
+{wiki=Production_control}
+
+= Quality control system for paper, board and tissue machines
+{parent=Control engineering}
+{wiki=Quality_control_system_for_paper,_board_and_tissue_machines}
+
+= Real-time Control System Software
+{parent=Control engineering}
+{wiki=Real-time_Control_System_Software}
+
+= Regulator (automatic control)
+{parent=Control engineering}
+{wiki=Regulator_(automatic_control)}
+
+= Remote monitoring and control
+{parent=Control engineering}
+{wiki=Remote_monitoring_and_control}
+
+= Resilient control systems
+{parent=Control engineering}
+{wiki=Resilient_control_systems}
+
+= Richard M. Murray
+{parent=Control engineering}
+{wiki=Richard_M._Murray}
+
+= SCADA
+{parent=Control engineering}
+{wiki=SCADA}
+
+= Safety-critical system
+{parent=Control engineering}
+{wiki=Safety-critical_system}
+
+= Simatic
+{parent=Control engineering}
+{wiki=Simatic}
+
+= Single-input single-output system
+{parent=Control engineering}
+{wiki=Single-input_single-output_system}
+
+= Spinmechatronics
+{parent=Control engineering}
+{wiki=Spinmechatronics}
+
+= Tank blanketing
+{parent=Control engineering}
+{wiki=Tank_blanketing}
+
+= Time-Sensitive Networking
+{parent=Control engineering}
+{wiki=Time-Sensitive_Networking}
+
+= Triconex
+{parent=Control engineering}
+{wiki=Triconex}
+
+= Virtual Cybernetic Building Testbed
+{parent=Control engineering}
+{wiki=Virtual_Cybernetic_Building_Testbed}
+
+= Control loop theory
+{parent=Control theory}
+{wiki=Category:Control_loop_theory}
+
+= Linear–quadratic–Gaussian control
+{parent=Control loop theory}
+{wiki=Linear–quadratic–Gaussian_control}
+
+= Control theorists
+{parent=Control theory}
+{wiki=Category:Control_theorists}
+
+= Fellows of the International Federation of Automatic Control
+{parent=Control theorists}
+{wiki=Category:Fellows_of_the_International_Federation_of_Automatic_Control}
+
+= Variational analysts
+{parent=Control theorists}
+{wiki=Category:Variational_analysts}
+
+= A. V. Balakrishnan
+{parent=Control theorists}
+{wiki=A._V._Balakrishnan}
+
+= Abraham H. Haddad
+{parent=Control theorists}
+{wiki=Abraham_H._Haddad}
+
+= Agnès Sulem
+{parent=Control theorists}
+{wiki=Agnès_Sulem}
+
+= Alberto Isidori
+{parent=Control theorists}
+{wiki=Alberto_Isidori}
+
+= Aleksandr Lyapunov
+{parent=Control theorists}
+{wiki=Aleksandr_Lyapunov}
+
+= Ali Jadbabaie
+{parent=Control theorists}
+{wiki=Ali_Jadbabaie}
+
+= Alma Y. Alanís
+{parent=Control theorists}
+{wiki=Alma_Y._Alanís}
+
+= Angela Schoellig
+{parent=Control theorists}
+{wiki=Angela_Schoellig}
+
+= Anna Stefanopoulou
+{parent=Control theorists}
+{wiki=Anna_Stefanopoulou}
+
+= Antonella Ferrara
+{parent=Control theorists}
+{wiki=Antonella_Ferrara}
+
+= Antonio Ruberti
+{parent=Control theorists}
+{wiki=Antonio_Ruberti}
+
+= Arjan van der Schaft
+{parent=Control theorists}
+{wiki=Arjan_van_der_Schaft}
+
+= Arthur Butz
+{parent=Control theorists}
+{wiki=Arthur_Butz}
+
+= Arthur E. Bryson
+{parent=Control theorists}
+{wiki=Arthur_E._Bryson}
+
+= Arthur J. Krener
+{parent=Control theorists}
+{wiki=Arthur_J._Krener}
+
+= Arthur Pollen
+{parent=Control theorists}
+{wiki=Arthur_Pollen}
+
+= Bernt Øksendal
+{parent=Control theorists}
+{wiki=Bernt_Øksendal}
+
+= Boris Chertok
+{parent=Control theorists}
+{wiki=Boris_Chertok}
+
+= Bozenna Pasik-Duncan
+{parent=Control theorists}
+{wiki=Bozenna_Pasik-Duncan}
+
+= Carla Seatzu
+{parent=Control theorists}
+{wiki=Carla_Seatzu}
+
+= Charles Stark Draper
+{parent=Control theorists}
+{wiki=Charles_Stark_Draper}
+
+= Christiane Koch
+{parent=Control theorists}
+{wiki=Christiane_Koch}
+
+= Claire J. Tomlin
+{parent=Control theorists}
+{wiki=Claire_J._Tomlin}
+
+= Claude Shannon
+{parent=Control theorists}
+{wiki=Claude_Shannon}
+
+= Cristina Verde
+{parent=Control theorists}
+{wiki=Cristina_Verde}
+
+= Damiano Brigo
+{parent=Control theorists}
+{wiki=Damiano_Brigo}
+
+= Daniela L. Rus
+{parent=Control theorists}
+{wiki=Daniela_L._Rus}
+
+= Dante C. Youla
+{parent=Control theorists}
+{wiki=Dante_C._Youla}
+
+= Dawn Tilbury
+{parent=Control theorists}
+{wiki=Dawn_Tilbury}
+
+= Diederich Hinrichsen
+{parent=Control theorists}
+{wiki=Diederich_Hinrichsen}
+
+= Dimitri Bertsekas
+{parent=Control theorists}
+{wiki=Dimitri_Bertsekas}
+
+= Domitilla Del Vecchio
+{parent=Control theorists}
+{wiki=Domitilla_Del_Vecchio}
+
+= Dorothée Normand-Cyrot
+{parent=Control theorists}
+{wiki=Dorothée_Normand-Cyrot}
+
+= Dragoslav D. Šiljak
+{parent=Control theorists}
+{wiki=Dragoslav_D._Šiljak}
+
+= Ebrahim Mamdani
+{parent=Control theorists}
+{wiki=Ebrahim_Mamdani}
+
+= Edward Routh
+{parent=Control theorists}
+{wiki=Edward_Routh}
+
+= Eliahu I. Jury
+{parent=Control theorists}
+{wiki=Eliahu_I._Jury}
+
+= Elmer G. Gilbert
+{parent=Control theorists}
+{wiki=Elmer_G._Gilbert}
+
+= Emilia Fridman
+{parent=Control theorists}
+{wiki=Emilia_Fridman}
+
+= Ernst Guillemin
+{parent=Control theorists}
+{wiki=Ernst_Guillemin}
+
+= Faina Kirillova
+{parent=Control theorists}
+{wiki=Faina_Kirillova}
+
+= Fatiha Alabau
+{parent=Control theorists}
+{wiki=Fatiha_Alabau}
+
+= Gene F. Franklin
+{parent=Control theorists}
+{wiki=Gene_F._Franklin}
+
+= George A. Bekey
+{parent=Control theorists}
+{wiki=George_A._Bekey}
+
+= George Leitmann
+{parent=Control theorists}
+{wiki=George_Leitmann}
+
+= George Zames
+{parent=Control theorists}
+{wiki=George_Zames}
+
+= Gunnar Johannsen
+{parent=Control theorists}
+{wiki=Gunnar_Johannsen}
+
+= Hans-Wilhelm Knobloch
+{parent=Control theorists}
+{wiki=Hans-Wilhelm_Knobloch}
+
+= Harold Chestnut
+{parent=Control theorists}
+{wiki=Harold_Chestnut}
+
+= Harold Stephen Black
+{parent=Control theorists}
+{wiki=Harold_Stephen_Black}
+
+= Harry Nyquist
+{parent=Control theorists}
+{wiki=Harry_Nyquist}
+
+= Henrik I. Christensen
+{parent=Control theorists}
+{wiki=Henrik_I._Christensen}
+
+= Homayoun Seraji
+{parent=Control theorists}
+{wiki=Homayoun_Seraji}
+
+= Hong Chen (engineer)
+{parent=Control theorists}
+{wiki=Hong_Chen_(engineer)}
+
+= Howard Harry Rosenbrock
+{parent=Control theorists}
+{wiki=Howard_Harry_Rosenbrock}
+
+= Irene Gregory
+{parent=Control theorists}
+{wiki=Irene_Gregory}
+
+= Irving Lefkowitz
+{parent=Control theorists}
+{wiki=Irving_Lefkowitz}
+
+= Isaac Horowitz
+{parent=Control theorists}
+{wiki=Isaac_Horowitz}
+
+= J. Karl Hedrick
+{parent=Control theorists}
+{wiki=J._Karl_Hedrick}
+
+= Jack K. Hale
+{parent=Control theorists}
+{wiki=Jack_K._Hale}
+
+= Jacquelien Scherpen
+{parent=Control theorists}
+{wiki=Jacquelien_Scherpen}
+
+= Jakob Stoustrup
+{parent=Control theorists}
+{wiki=Jakob_Stoustrup}
+
+= James S. Albus
+{parent=Control theorists}
+{wiki=James_S._Albus}
+
+= James Truchard
+{parent=Control theorists}
+{wiki=James_Truchard}
+
+= Jan H. van Schuppen
+{parent=Control theorists}
+{wiki=Jan_H._van_Schuppen}
+
+= Jan Maciejowski
+{parent=Control theorists}
+{wiki=Jan_Maciejowski}
+
+= Jeff S. Shamma
+{parent=Control theorists}
+{wiki=Jeff_S._Shamma}
+
+= Jing Sun
+{parent=Control theorists}
+{wiki=Jing_Sun}
+
+= John C. Lozier
+{parent=Control theorists}
+{wiki=John_C._Lozier}
+
+= John Doyle (engineer)
+{parent=Control theorists}
+{wiki=John_Doyle_(engineer)}
+
+= John G. Truxal
+{parent=Control theorists}
+{wiki=John_G._Truxal}
+
+= John G. Ziegler
+{parent=Control theorists}
+{wiki=John_G._Ziegler}
+
+= John J. Leonard
+{parent=Control theorists}
+{wiki=John_J._Leonard}
+
+= John Milsum
+{parent=Control theorists}
+{wiki=John_Milsum}
+
+= John R. Ragazzini
+{parent=Control theorists}
+{wiki=John_R._Ragazzini}
+
+= John V. Breakwell
+{parent=Control theorists}
+{wiki=John_V._Breakwell}
+
+= John Zaborszky
+{parent=Control theorists}
+{wiki=John_Zaborszky}
+
+= Joseph P. LaSalle
+{parent=Control theorists}
+{wiki=Joseph_P._LaSalle}
+
+= Karen Rudie
+{parent=Control theorists}
+{wiki=Karen_Rudie}
+
+= Karl Henrik Johansson
+{parent=Control theorists}
+{wiki=Karl_Henrik_Johansson}
+
+= Karl Johan Åström
+{parent=Control theorists}
+{wiki=Karl_Johan_Åström}
+
+= Katalin Hangos
+{parent=Control theorists}
+{wiki=Katalin_Hangos}
+
+= Keith Glover
+{parent=Control theorists}
+{wiki=Keith_Glover}
+
+= Kevin Warwick
+{parent=Control theorists}
+{wiki=Kevin_Warwick}
+
+= Kristi Morgansen
+{parent=Control theorists}
+{wiki=Kristi_Morgansen}
+
+= Kumpati S. Narendra
+{parent=Control theorists}
+{wiki=Kumpati_S._Narendra}
+
+= Lennart Ljung (engineer)
+{parent=Control theorists}
+{wiki=Lennart_Ljung_(engineer)}
+
+= Lev Pontryagin
+{parent=Control theorists}
+{wiki=Lev_Pontryagin}
+
+= Linda Bushnell
+{parent=Control theorists}
+{wiki=Linda_Bushnell}
+
+= List of people in systems and control
+{parent=Control theorists}
+{wiki=List_of_people_in_systems_and_control}
+
+= Lotfi A. Zadeh
+{parent=Control theorists}
+{wiki=Lotfi_A._Zadeh}
+
+= Luz de Teresa
+{parent=Control theorists}
+{wiki=Luz_de_Teresa}
+
+= Maamar Bettayeb
+{parent=Control theorists}
+{wiki=Maamar_Bettayeb}
+
+= Magnus Egerstedt
+{parent=Control theorists}
+{wiki=Magnus_Egerstedt}
+
+= Malcolm C. Smith
+{parent=Control theorists}
+{wiki=Malcolm_C._Smith}
+
+= Manfred Morari
+{parent=Control theorists}
+{wiki=Manfred_Morari}
+
+= Maria Domenica Di Benedetto
+{parent=Control theorists}
+{wiki=Maria_Domenica_Di_Benedetto}
+
+= Maria Elena Valcher
+{parent=Control theorists}
+{wiki=Maria_Elena_Valcher}
+
+= Maria Pia Fanti
+{parent=Control theorists}
+{wiki=Maria_Pia_Fanti}
+
+= Maria Prandini
+{parent=Control theorists}
+{wiki=Maria_Prandini}
+
+= Mark W. Spong
+{parent=Control theorists}
+{wiki=Mark_W._Spong}
+
+= Masayoshi Tomizuka
+{parent=Control theorists}
+{wiki=Masayoshi_Tomizuka}
+
+= Mathukumalli Vidyasagar
+{parent=Control theorists}
+{wiki=Mathukumalli_Vidyasagar}
+
+= Meeko Oishi
+{parent=Control theorists}
+{wiki=Meeko_Oishi}
+
+= Mehran Mesbahi
+{parent=Control theorists}
+{wiki=Mehran_Mesbahi}
+
+= Michael Athans
+{parent=Control theorists}
+{wiki=Michael_Athans}
+
+= Mihajlo D. Mesarovic
+{parent=Control theorists}
+{wiki=Mihajlo_D._Mesarovic}
+
+= Mireille Broucke
+{parent=Control theorists}
+{wiki=Mireille_Broucke}
+
+= Monique Chyba
+{parent=Control theorists}
+{wiki=Monique_Chyba}
+
+= Mythily Ramaswamy
+{parent=Control theorists}
+{wiki=Mythily_Ramaswamy}
+
+= Naira Hovakimyan
+{parent=Control theorists}
+{wiki=Naira_Hovakimyan}
+
+= Nathan Cohn
+{parent=Control theorists}
+{wiki=Nathan_Cohn}
+
+= Nathaniel B. Nichols
+{parent=Control theorists}
+{wiki=Nathaniel_B._Nichols}
+
+= Nikolay Bogolyubov
+{parent=Control theorists}
+{wiki=Nikolay_Bogolyubov}
+
+= Nikolay Krylov (mathematician, born 1879)
+{parent=Control theorists}
+{wiki=Nikolay_Krylov_(mathematician,_born_1879)}
+
+= Norbert Wiener
+{parent=Control theorists}
+{wiki=Norbert_Wiener}
+
+= P. S. Krishnaprasad
+{parent=Control theorists}
+{wiki=P._S._Krishnaprasad}
+
+= Paola Loreti
+{parent=Control theorists}
+{wiki=Paola_Loreti}
+
+= Paul Tseng
+{parent=Control theorists}
+{wiki=Paul_Tseng}
+
+= Petar V. Kokotovic
+{parent=Control theorists}
+{wiki=Petar_V._Kokotovic}
+
+= Peter Stoica
+{parent=Control theorists}
+{wiki=Peter_Stoica}
+
+= Peter Whittle (mathematician)
+{parent=Control theorists}
+{wiki=Peter_Whittle_(mathematician)}
+
+= Pilar Ibarrola
+{parent=Control theorists}
+{wiki=Pilar_Ibarrola}
+
+= Pravin Varaiya
+{parent=Control theorists}
+{wiki=Pravin_Varaiya}
+
+= Rahmat Shoureshi
+{parent=Control theorists}
+{wiki=Rahmat_Shoureshi}
+
+= Rangasami L. Kashyap
+{parent=Control theorists}
+{wiki=Rangasami_L._Kashyap}
+
+= Reza Olfati-Saber
+{parent=Control theorists}
+{wiki=Reza_Olfati-Saber}
+
+= Richard D. Braatz
+{parent=Control theorists}
+{wiki=Richard_D._Braatz}
+
+= Ronald C. Arkin
+{parent=Control theorists}
+{wiki=Ronald_C._Arkin}
+
+= Rudolf E. Kálmán
+{parent=Control theorists}
+{wiki=Rudolf_E._Kálmán}
+
+= Rufus Isaacs (game theorist)
+{parent=Control theorists}
+{wiki=Rufus_Isaacs_(game_theorist)}
+
+= Sandra Hirche
+{parent=Control theorists}
+{wiki=Sandra_Hirche}
+
+= Sanjoy K. Mitter
+{parent=Control theorists}
+{wiki=Sanjoy_K._Mitter}
+
+= Seth A. Hutchinson
+{parent=Control theorists}
+{wiki=Seth_A._Hutchinson}
+
+= Shankar Sastry
+{parent=Control theorists}
+{wiki=Shankar_Sastry}
+
+= Sivaguru S. Sritharan
+{parent=Control theorists}
+{wiki=Sivaguru_S._Sritharan}
+
+= Song Jian
+{parent=Control theorists}
+{wiki=Song_Jian}
+
+= Sonja Glavaški
+{parent=Control theorists}
+{wiki=Sonja_Glavaški}
+
+= Steve Ciarcia
+{parent=Control theorists}
+{wiki=Steve_Ciarcia}
+
+= Steven M. LaValle
+{parent=Control theorists}
+{wiki=Steven_M._LaValle}
+
+= Tamar Flash
+{parent=Control theorists}
+{wiki=Tamar_Flash}
+
+= Vadim Utkin
+{parent=Control theorists}
+{wiki=Vadim_Utkin}
+
+= Valentin Rumyantsev
+{parent=Control theorists}
+{wiki=Valentin_Rumyantsev}
+
+= Vasile M. Popov
+{parent=Control theorists}
+{wiki=Vasile_M._Popov}
+
+= Vijay Kumar (roboticist)
+{parent=Control theorists}
+{wiki=Vijay_Kumar_(roboticist)}
+
+= Vincent Blondel
+{parent=Control theorists}
+{wiki=Vincent_Blondel}
+
+= Viorel P. Barbu
+{parent=Control theorists}
+{wiki=Viorel_P._Barbu}
+
+= Vladimir Burkov
+{parent=Control theorists}
+{wiki=Vladimir_Burkov}
+
+= Vladimir Yakubovich
+{parent=Control theorists}
+{wiki=Vladimir_Yakubovich}
+
+= Vladimir Zakalyukin
+{parent=Control theorists}
+{wiki=Vladimir_Zakalyukin}
+
+= Václav E. Beneš
+{parent=Control theorists}
+{wiki=Václav_E._Beneš}
+
+= W. Ross Ashby
+{parent=Control theorists}
+{wiki=W._Ross_Ashby}
+
+= Walter Murray Wonham
+{parent=Control theorists}
+{wiki=Walter_Murray_Wonham}
+
+= Walter R. Evans
+{parent=Control theorists}
+{wiki=Walter_R._Evans}
+
+= Warren E. Dixon
+{parent=Control theorists}
+{wiki=Warren_E._Dixon}
+
+= Wassim Michael Haddad
+{parent=Control theorists}
+{wiki=Wassim_Michael_Haddad}
+
+= William L. Brogan
+{parent=Control theorists}
+{wiki=William_L._Brogan}
+
+= William M. Boothby
+{parent=Control theorists}
+{wiki=William_M._Boothby}
+
+= William Sethares
+{parent=Control theorists}
+{wiki=William_Sethares}
+
+= Ya-Jun Pan
+{parent=Control theorists}
+{wiki=Ya-Jun_Pan}
+
+= Yaakov Bar-Shalom
+{parent=Control theorists}
+{wiki=Yaakov_Bar-Shalom}
+
+= Yu-Chi Ho
+{parent=Control theorists}
+{wiki=Yu-Chi_Ho}
+
+= Zdzisław Bubnicki
+{parent=Control theorists}
+{wiki=Zdzisław_Bubnicki}
+
+= Control theory publications
+{parent=Control theory}
+{wiki=Category:Control_theory_publications}
+
+= IEEE Transactions on Control Systems Technology
+{parent=Control theory publications}
+{wiki=IEEE_Transactions_on_Control_Systems_Technology}
+
+= Filter theory
+{parent=Control theory}
+{wiki=Filter_theory}
+
+= Electronic filter topology
+{parent=Filter theory}
+{wiki=Electronic_filter_topology}
+
+= Filter frequency response
+{parent=Filter theory}
+{wiki=Category:Filter_frequency_response}
+
+= Linear filters
+{parent=Filter theory}
+{wiki=Linear_filters}
+
+= Nonlinear filters
+{parent=Filter theory}
+{wiki=Category:Nonlinear_filters}
+
+= Analogue filter
+{parent=Filter theory}
+{wiki=Analogue_filter}
+
+= Antimetric electrical network
+{parent=Filter theory}
+{wiki=Antimetric_electrical_network}
+
+= Bartlett's bisection theorem
+{parent=Filter theory}
+{wiki=Bartlett's_bisection_theorem}
+
+= Boucherot cell
+{parent=Filter theory}
+{wiki=Boucherot_cell}
+
+= Commensurate line circuit
+{parent=Filter theory}
+{wiki=Commensurate_line_circuit}
+
+= Composite image filter
+{parent=Filter theory}
+{wiki=Composite_image_filter}
+
+= Coupling coefficient of resonators
+{parent=Filter theory}
+{wiki=Coupling_coefficient_of_resonators}
+
+= Cutoff frequency
+{parent=Filter theory}
+{wiki=Cutoff_frequency}
+
+= Digital biquad filter
+{parent=Filter theory}
+{wiki=Digital_biquad_filter}
+
+= Dual impedance
+{parent=Filter theory}
+{wiki=Dual_impedance}
+
+= Electrical resonance
+{parent=Filter theory}
+{wiki=Electrical_resonance}
+
+= Equivalent impedance transforms
+{parent=Filter theory}
+{wiki=Equivalent_impedance_transforms}
+
+= Image filter end terminations
+{parent=Filter theory}
+{wiki=Image_filter_end_terminations}
+
+= Image impedance
+{parent=Filter theory}
+{wiki=Image_impedance}
+
+= Impedance matching
+{parent=Filter theory}
+{wiki=Impedance_matching}
+
+= Iterative impedance
+{parent=Filter theory}
+{wiki=Iterative_impedance}
+
+= Kolmogorov–Zurbenko filter
+{parent=Filter theory}
+{wiki=Kolmogorov–Zurbenko_filter}
+
+= Linear filter
+{parent=Filter theory}
+{wiki=Linear_filter}
+
+= Linkwitz–Riley filter
+{parent=Filter theory}
+{wiki=Linkwitz–Riley_filter}
+
+= Multirate filter bank and multidimensional directional filter banks
+{parent=Filter theory}
+{wiki=Multirate_filter_bank_and_multidimensional_directional_filter_banks}
+
+= Network synthesis filters
+{parent=Filter theory}
+{wiki=Network_synthesis_filters}
+
+= Nonlinear filter
+{parent=Filter theory}
+{wiki=Nonlinear_filter}
+
+= Propagation constant
+{parent=Filter theory}
+{wiki=Propagation_constant}
+
+= Prototype filter
+{parent=Filter theory}
+{wiki=Prototype_filter}
+
+= Quarter-wave impedance transformer
+{parent=Filter theory}
+{wiki=Quarter-wave_impedance_transformer}
+
+= Ringing (signal)
+{parent=Filter theory}
+{wiki=Ringing_(signal)}
+
+= Ripple (electrical)
+{parent=Filter theory}
+{wiki=Ripple_(electrical)}
+
+= Sample matrix inversion
+{parent=Filter theory}
+{wiki=Sample_matrix_inversion}
+
+= Savitzky–Golay filter
+{parent=Filter theory}
+{wiki=Savitzky–Golay_filter}
+
+= Stopband
+{parent=Filter theory}
+{wiki=Stopband}
+
+= YIG sphere
+{parent=Filter theory}
+{wiki=YIG_sphere}
+
+= Zero-forcing equalizer
+{parent=Filter theory}
+{wiki=Zero-forcing_equalizer}
+
+= Nonlinear control
+{parent=Control theory}
+{wiki=Nonlinear_control}
+
+= Aizerman's conjecture
+{parent=Nonlinear control}
+{wiki=Aizerman's_conjecture}
+
+= Backstepping
+{parent=Nonlinear control}
+{wiki=Backstepping}
+
+= Circle criterion
+{parent=Nonlinear control}
+{wiki=Circle_criterion}
+
+= Describing function
+{parent=Nonlinear control}
+{wiki=Describing_function}
+
+= Feedback linearization
+{parent=Nonlinear control}
+{wiki=Feedback_linearization}
+
+= Input-to-state stability
+{parent=Nonlinear control}
+{wiki=Input-to-state_stability}
+
+= Kalman's conjecture
+{parent=Nonlinear control}
+{wiki=Kalman's_conjecture}
+
+= Lyapunov redesign
+{parent=Nonlinear control}
+{wiki=Lyapunov_redesign}
+
+= Phase plane
+{parent=Nonlinear control}
+{wiki=Phase_plane}
+
+= Popov criterion
+{parent=Nonlinear control}
+{wiki=Popov_criterion}
+
+= Singular perturbation
+{parent=Nonlinear control}
+{wiki=Singular_perturbation}
+
+= Sliding mode control
+{parent=Nonlinear control}
+{wiki=Sliding_mode_control}
+
+= Small-gain theorem
+{parent=Nonlinear control}
+{wiki=Small-gain_theorem}
+
+= Strict-feedback form
+{parent=Nonlinear control}
+{wiki=Strict-feedback_form}
+
+= Variable structure control
+{parent=Nonlinear control}
+{wiki=Variable_structure_control}
+
+= Variable structure system
+{parent=Nonlinear control}
+{wiki=Variable_structure_system}
+
+= Optimal control
+{parent=Control theory}
+{wiki=Optimal_control}
+
+= Bang–bang control
+{parent=Optimal control}
+{wiki=Bang–bang_control}
+
+= Beltrami identity
+{parent=Optimal control}
+{wiki=Beltrami_identity}
+
+= Caratheodory-π solution
+{parent=Optimal control}
+{wiki=Caratheodory-π_solution}
+
+= Costate equation
+{parent=Optimal control}
+{wiki=Costate_equation}
+
+= Covector mapping principle
+{parent=Optimal control}
+{wiki=Covector_mapping_principle}
+
+= DIDO (software)
+{parent=Optimal control}
+{wiki=DIDO_(software)}
+
+= Double-setpoint control
+{parent=Optimal control}
+{wiki=Double-setpoint_control}
+
+= GPOPS-II
+{parent=Optimal control}
+{wiki=GPOPS-II}
+
+= Gauss pseudospectral method
+{parent=Optimal control}
+{wiki=Gauss_pseudospectral_method}
+
+= Hamiltonian (control theory)
+{parent=Optimal control}
+{wiki=Hamiltonian_(control_theory)}
+
+= Hamilton–Jacobi–Bellman equation
+{parent=Optimal control}
+{wiki=Hamilton–Jacobi–Bellman_equation}
+
+= Hydrological optimization
+{parent=Optimal control}
+{wiki=Hydrological_optimization}
+
+= Legendre–Clebsch condition
+{parent=Optimal control}
+{wiki=Legendre–Clebsch_condition}
+
+= Linear–quadratic regulator
+{parent=Optimal control}
+{wiki=Linear–quadratic_regulator}
+
+= Optimal rotation age
+{parent=Optimal control}
+{wiki=Optimal_rotation_age}
+
+= PDE-constrained optimization
+{parent=Optimal control}
+{wiki=PDE-constrained_optimization}
+
+= PROPT
+{parent=Optimal control}
+{wiki=PROPT}
+
+= Pontryagin's maximum principle
+{parent=Optimal control}
+{wiki=Pontryagin's_maximum_principle}
+
+= Pseudospectral optimal control
+{parent=Optimal control}
+{wiki=Pseudospectral_optimal_control}
+
+= Sethi-Skiba point
+{parent=Optimal control}
+{wiki=Sethi-Skiba_point}
+
+= Sethi model
+{parent=Optimal control}
+{wiki=Sethi_model}
+
+= Shape optimization
+{parent=Optimal control}
+{wiki=Shape_optimization}
+
+= Unscented optimal control
+{parent=Optimal control}
+{wiki=Unscented_optimal_control}
+
+= Value function
+{parent=Optimal control}
+{wiki=Value_function}
+
+= Zermelo's navigation problem
+{parent=Optimal control}
+{wiki=Zermelo's_navigation_problem}
+
+= Real-time technology
+{parent=Control theory}
+{wiki=Real-time_technology}
+
+= Collaborative real-time editors
+{parent=Real-time technology}
+{wiki=Category:Collaborative_real-time_editors}
+
+= Home automation
+{parent=Real-time technology}
+{wiki=Home_automation}
+
+= Instant messaging
+{parent=Real-time technology}
+{wiki=Instant_messaging}
+
+= Real-time gross settlement
+{parent=Real-time technology}
+{wiki=Real-time_gross_settlement}
+
+= Real-time simulation
+{parent=Real-time technology}
+{wiki=Real-time_simulation}
+
+= ETrice
+{parent=Real-time technology}
+{wiki=ETrice}
+
+= Real-Time Object-Oriented Modeling
+{parent=Real-time technology}
+{wiki=Real-Time_Object-Oriented_Modeling}
+
+= Real-time Neutron Monitor Database
+{parent=Real-time technology}
+{wiki=Real-time_Neutron_Monitor_Database}
+
+= Real-time computing
+{parent=Real-time technology}
+{wiki=Real-time_computing}
+
+= Real-time kinematic positioning
+{parent=Real-time technology}
+{wiki=Real-time_kinematic_positioning}
+
+= Real-time locating system
+{parent=Real-time technology}
+{wiki=Real-time_locating_system}
+
+= Real-time text
+{parent=Real-time technology}
+{wiki=Real-time_text}
+
+= Real-time transcription
+{parent=Real-time technology}
+{wiki=Real-time_transcription}
+
+= Remote diagnostics
+{parent=Real-time technology}
+{wiki=Remote_diagnostics}
+
+= Stephen J. Mellor
+{parent=Real-time technology}
+{wiki=Stephen_J._Mellor}
+
+= SwellRT
+{parent=Real-time technology}
+{wiki=SwellRT}
+
+= U-Report
+{parent=Real-time technology}
+{wiki=U-Report}
+
+= Whiteboard animation
+{parent=Real-time technology}
+{wiki=Whiteboard_animation}
+
+= Resonance
+{parent=Control theory}
+{wiki=Resonance}
+
+= Orbital resonance
+{parent=Resonance}
+{wiki=Orbital_resonance}
+
+= Mechanical resonance
+{parent=Resonance}
+{wiki=Mechanical_resonance}
+
+= Resonator
+{parent=Resonance}
+{wiki=Resonator}
+
+= Sympathetic resonance
+{parent=Resonance}
+{wiki=Sympathetic_resonance}
+
+= Tuned mass damper
+{parent=Resonance}
+{wiki=Tuned_mass_damper}
+
+= Wolf tone
+{parent=Resonance}
+{wiki=Wolf_tone}
+
+= Richard E. Bellman Control Heritage Award recipients
+{parent=Control theory}
+{wiki=Category:Richard_E._Bellman_Control_Heritage_Award_recipients}
+
+= Jose B. Cruz Jr.
+{parent=Richard E. Bellman Control Heritage Award recipients}
+{wiki=Jose_B._Cruz_Jr.}
+
+= Richard E. Bellman Control Heritage Award
+{parent=Richard E. Bellman Control Heritage Award recipients}
+{wiki=Richard_E._Bellman_Control_Heritage_Award}
+
+= Thomas F. Edgar
+{parent=Richard E. Bellman Control Heritage Award recipients}
+{wiki=Thomas_F._Edgar}
+
+= Servomechanisms
+{parent=Control theory}
+{wiki=Servomechanisms}
+
+= Servos (radio control)
+{parent=Servomechanisms}
+{wiki=Category:Servos_(radio_control)}
+
+= Heterostasis (cybernetics)
+{parent=Servomechanisms}
+{wiki=Heterostasis_(cybernetics)}
+
+= Joseph Farcot
+{parent=Servomechanisms}
+{wiki=Joseph_Farcot}
+
+= Larner–Johnson valve
+{parent=Servomechanisms}
+{wiki=Larner–Johnson_valve}
+
+= Stability theory
+{parent=Control theory}
+{wiki=Stability_theory}
+
+= Autonomous convergence theorem
+{parent=Stability theory}
+{wiki=Autonomous_convergence_theorem}
+
+= Ballooning instability
+{parent=Stability theory}
+{wiki=Ballooning_instability}
+
+= Briggs–Bers criterion
+{parent=Stability theory}
+{wiki=Briggs–Bers_criterion}
+
+= Butterfly effect
+{parent=Stability theory}
+{wiki=Butterfly_effect}
+
+= Chetaev instability theorem
+{parent=Stability theory}
+{wiki=Chetaev_instability_theorem}
+
+= Comparison function
+{parent=Stability theory}
+{wiki=Comparison_function}
+
+= Control-Lyapunov function
+{parent=Stability theory}
+{wiki=Control-Lyapunov_function}
+
+= Derrick's theorem
+{parent=Stability theory}
+{wiki=Derrick's_theorem}
+
+= Equilibrium point
+{parent=Stability theory}
+{wiki=Equilibrium_point}
+
+= Exponential stability
+{parent=Stability theory}
+{wiki=Exponential_stability}
+
+= Firehose instability
+{parent=Stability theory}
+{wiki=Firehose_instability}
+
+= Hyperbolic equilibrium point
+{parent=Stability theory}
+{wiki=Hyperbolic_equilibrium_point}
+
+= Instability
+{parent=Stability theory}
+{wiki=Instability}
+
+= Jury stability criterion
+{parent=Stability theory}
+{wiki=Jury_stability_criterion}
+
+= Kalman–Yakubovich–Popov lemma
+{parent=Stability theory}
+{wiki=Kalman–Yakubovich–Popov_lemma}
+
+= LaSalle's invariance principle
+{parent=Stability theory}
+{wiki=LaSalle's_invariance_principle}
+
+= Lagrange stability
+{parent=Stability theory}
+{wiki=Lagrange_stability}
+
+= Linear stability
+{parent=Stability theory}
+{wiki=Linear_stability}
+
+= Lyapunov function
+{parent=Stability theory}
+{wiki=Lyapunov_function}
+
+= Lyapunov stability
+{parent=Stability theory}
+{wiki=Lyapunov_stability}
+
+= Lyapunov–Malkin theorem
+{parent=Stability theory}
+{wiki=Lyapunov–Malkin_theorem}
+
+= Marginal stability
+{parent=Stability theory}
+{wiki=Marginal_stability}
+
+= Markus–Yamabe conjecture
+{parent=Stability theory}
+{wiki=Markus–Yamabe_conjecture}
+
+= Massera's lemma
+{parent=Stability theory}
+{wiki=Massera's_lemma}
+
+= Multidimensional system
+{parent=Stability theory}
+{wiki=Multidimensional_system}
+
+= Olech theorem
+{parent=Stability theory}
+{wiki=Olech_theorem}
+
+= Orbital stability
+{parent=Stability theory}
+{wiki=Orbital_stability}
+
+= Plasma stability
+{parent=Stability theory}
+{wiki=Plasma_stability}
+
+= Resistive ballooning mode
+{parent=Stability theory}
+{wiki=Resistive_ballooning_mode}
+
+= Saddle point
+{parent=Stability theory}
+{wiki=Saddle_point}
+
+= Stability criterion
+{parent=Stability theory}
+{wiki=Stability_criterion}
+
+= Structural stability
+{parent=Stability theory}
+{wiki=Structural_stability}
+
+= Vakhitov–Kolokolov stability criterion
+{parent=Stability theory}
+{wiki=Vakhitov–Kolokolov_stability_criterion}
+
+= Variational analysis
+{parent=Control theory}
+{wiki=Variational_analysis}
+
+= Variational principles
+{parent=Variational analysis}
+{wiki=Variational_principles}
+
+= Differential inclusion
+{parent=Variational analysis}
+{wiki=Differential_inclusion}
+
+= Ekeland's variational principle
+{parent=Variational analysis}
+{wiki=Ekeland's_variational_principle}
+
+= Epigraph (mathematics)
+{parent=Variational analysis}
+{wiki=Epigraph_(mathematics)}
+
+= Functional derivative
+{parent=Variational analysis}
+{wiki=Functional_derivative}
+
+= Fuzzy differential inclusion
+{parent=Variational analysis}
+{wiki=Fuzzy_differential_inclusion}
+
+= Hemicontinuity
+{parent=Variational analysis}
+{wiki=Hemicontinuity}
+
+= Mosco convergence
+{parent=Variational analysis}
+{wiki=Mosco_convergence}
+
+= Semi-continuity
+{parent=Variational analysis}
+{wiki=Semi-continuity}
+
+= Subderivative
+{parent=Variational analysis}
+{wiki=Subderivative}
+
+= Tonelli's theorem (functional analysis)
+{parent=Variational analysis}
+{wiki=Tonelli's_theorem_(functional_analysis)}
+
+= Γ-convergence
+{parent=Variational analysis}
+{wiki=Γ-convergence}
+
+= 4D-RCS Reference Model Architecture
+{parent=Control theory}
+{wiki=4D-RCS_Reference_Model_Architecture}
+
+= Active disturbance rejection control
+{parent=Control theory}
+{wiki=Active_disturbance_rejection_control}
+
+= Adaptive control
+{parent=Control theory}
+{wiki=Adaptive_control}
+
+= Affect control theory
+{parent=Control theory}
+{wiki=Affect_control_theory}
+
+= American Automatic Control Council
+{parent=Control theory}
+{wiki=American_Automatic_Control_Council}
+
+= Bellman equation
+{parent=Control theory}
+{wiki=Bellman_equation}
+
+= Bellman filter
+{parent=Control theory}
+{wiki=Bellman_filter}
+
+= Bicycle and motorcycle dynamics
+{parent=Control theory}
+{wiki=Bicycle_and_motorcycle_dynamics}
+
+= Bode's sensitivity integral
+{parent=Control theory}
+{wiki=Bode's_sensitivity_integral}
+
+= Chain-linked model
+{parent=Control theory}
+{wiki=Chain-linked_model}
+
+= Class kappa-ell function
+{parent=Control theory}
+{wiki=Class_kappa-ell_function}
+
+= Class kappa function
+{parent=Control theory}
+{wiki=Class_kappa_function}
+
+= Closed-loop controller
+{parent=Control theory}
+{wiki=Closed-loop_controller}
+
+= Coherent control
+{parent=Control theory}
+{wiki=Coherent_control}
+
+= Compensator (control theory)
+{parent=Control theory}
+{wiki=Compensator_(control_theory)}
+
+= Concurrent estimation
+{parent=Control theory}
+{wiki=Concurrent_estimation}
+
+= Consensus dynamics
+{parent=Control theory}
+{wiki=Consensus_dynamics}
+
+= Control (management)
+{parent=Control theory}
+{wiki=Control_(management)}
+
+= Control reconfiguration
+{parent=Control theory}
+{wiki=Control_reconfiguration}
+
+= Control system
+{parent=Control theory}
+{wiki=Control_system}
+
+= Controllability Gramian
+{parent=Control theory}
+{wiki=Controllability_Gramian}
+
+= Covariance intersection
+{parent=Control theory}
+{wiki=Covariance_intersection}
+
+= Data-driven control system
+{parent=Control theory}
+{wiki=Data-driven_control_system}
+
+= Data assimilation
+{parent=Control theory}
+{wiki=Data_assimilation}
+
+= Dead-beat control
+{parent=Control theory}
+{wiki=Dead-beat_control}
+
+= Deadband
+{parent=Control theory}
+{wiki=Deadband}
+
+= Delay differential equation
+{parent=Control theory}
+{wiki=Delay_differential_equation}
+
+= Digital control
+{parent=Control theory}
+{wiki=Digital_control}
+
+= Discrete event dynamic system
+{parent=Control theory}
+{wiki=Discrete_event_dynamic_system}
+
+= Distributed parameter system
+{parent=Control theory}
+{wiki=Distributed_parameter_system}
+
+= Double integrator
+{parent=Control theory}
+{wiki=Double_integrator}
+
+= Dual control theory
+{parent=Control theory}
+{wiki=Dual_control_theory}
+
+= Dynamic simulation
+{parent=Control theory}
+{wiki=Dynamic_simulation}
+
+= Energy-shaping control
+{parent=Control theory}
+{wiki=Energy-shaping_control}
+
+= Epistemic feedback
+{parent=Control theory}
+{wiki=Epistemic_feedback}
+
+= Falling cat problem
+{parent=Control theory}
+{wiki=Falling_cat_problem}
+
+= Fault detection and isolation
+{parent=Control theory}
+{wiki=Fault_detection_and_isolation}
+
+= Feed forward (control)
+{parent=Control theory}
+{wiki=Feed_forward_(control)}
+
+= Feedback
+{parent=Control theory}
+{wiki=Feedback}
+
+= Climate change feedbacks
+{parent=Feedback}
+{wiki=Category:Climate_change_feedbacks}
+
+= Cybernetics
+{parent=Feedback}
+{wiki=Cybernetics}
+
+= Electronic feedback
+{parent=Feedback}
+{wiki=Category:Electronic_feedback}
+
+= Audio feedback
+{parent=Feedback}
+{wiki=Audio_feedback}
+
+= Biofeedback
+{parent=Feedback}
+{wiki=Biofeedback}
+
+= Climate change feedback
+{parent=Feedback}
+{wiki=Climate_change_feedback}
+
+= Feedback informed treatment
+{parent=Feedback}
+{wiki=Feedback_informed_treatment}
+
+= Fire–vegetation feedbacks and alternative stable states
+{parent=Feedback}
+{wiki=Fire–vegetation_feedbacks_and_alternative_stable_states}
+
+= Local oscillator
+{parent=Feedback}
+{wiki=Local_oscillator}
+
+= OODA loop
+{parent=Feedback}
+{wiki=OODA_loop}
+
+= Self-oscillation
+{parent=Feedback}
+{wiki=Self-oscillation}
+
+= Sidetone
+{parent=Feedback}
+{wiki=Sidetone}
+
+= Video feedback
+{parent=Feedback}
+{wiki=Video_feedback}
+
+= Filtering problem (stochastic processes)
+{parent=Control theory}
+{wiki=Filtering_problem_(stochastic_processes)}
+
+= Flatness (systems theory)
+{parent=Control theory}
+{wiki=Flatness_(systems_theory)}
+
+= Full state feedback
+{parent=Control theory}
+{wiki=Full_state_feedback}
+
+= Generalized filtering
+{parent=Control theory}
+{wiki=Generalized_filtering}
+
+= Glycolytic oscillation
+{parent=Control theory}
+{wiki=Glycolytic_oscillation}
+
+= H-infinity loop-shaping
+{parent=Control theory}
+{wiki=H-infinity_loop-shaping}
+
+= H-infinity methods in control theory
+{parent=Control theory}
+{wiki=H-infinity_methods_in_control_theory}
+
+= H square
+{parent=Control theory}
+{wiki=H_square}
+
+= Halanay inequality
+{parent=Control theory}
+{wiki=Halanay_inequality}
+
+= Hankel singular value
+{parent=Control theory}
+{wiki=Hankel_singular_value}
+
+= Hautus lemma
+{parent=Control theory}
+{wiki=Hautus_lemma}
+
+= Hierarchical control system
+{parent=Control theory}
+{wiki=Hierarchical_control_system}
+
+= Hybrid system
+{parent=Control theory}
+{wiki=Hybrid_system}
+
+= Impulse response
+{parent=Control theory}
+{wiki=Impulse_response}
+
+= Impulse vector
+{parent=Control theory}
+{wiki=Impulse_vector}
+
+= Industrial process control
+{parent=Control theory}
+{wiki=Industrial_process_control}
+
+= Inerter (mechanical networks)
+{parent=Control theory}
+{wiki=Inerter_(mechanical_networks)}
+
+= Input shaping
+{parent=Control theory}
+{wiki=Input_shaping}
+
+= Intelligent control
+{parent=Control theory}
+{wiki=Intelligent_control}
+
+= Intermittent control
+{parent=Control theory}
+{wiki=Intermittent_control}
+
+= Internal environment
+{parent=Control theory}
+{wiki=Internal_environment}
+
+= Internal model (motor control)
+{parent=Control theory}
+{wiki=Internal_model_(motor_control)}
+
+= Iso-damping
+{parent=Control theory}
+{wiki=Iso-damping}
+
+= Iterative learning control
+{parent=Control theory}
+{wiki=Iterative_learning_control}
+
+= Kalman decomposition
+{parent=Control theory}
+{wiki=Kalman_decomposition}
+
+= Kalman filter
+{parent=Control theory}
+{wiki=Kalman_filter}
+
+= Krener's theorem
+{parent=Control theory}
+{wiki=Krener's_theorem}
+
+= Learning automaton
+{parent=Control theory}
+{wiki=Learning_automaton}
+
+= Linear control
+{parent=Control theory}
+{wiki=Linear_control}
+
+= Linear parameter-varying control
+{parent=Control theory}
+{wiki=Linear_parameter-varying_control}
+
+= Loop performance
+{parent=Control theory}
+{wiki=Loop_performance}
+
+= Lyapunov equation
+{parent=Control theory}
+{wiki=Lyapunov_equation}
+
+= Machine learning control
+{parent=Control theory}
+{wiki=Machine_learning_control}
+
+= Mason's gain formula
+{parent=Control theory}
+{wiki=Mason's_gain_formula}
+
+= Meta-system
+{parent=Control theory}
+{wiki=Meta-system}
+
+= Microgrid
+{parent=Control theory}
+{wiki=Microgrid}
+
+= Minimal realization
+{parent=Control theory}
+{wiki=Minimal_realization}
+
+= Minimum energy control
+{parent=Control theory}
+{wiki=Minimum_energy_control}
+
+= Minor loop feedback
+{parent=Control theory}
+{wiki=Minor_loop_feedback}
+
+= Model predictive control
+{parent=Control theory}
+{wiki=Model_predictive_control}
+
+= Motion control
+{parent=Control theory}
+{wiki=Motion_control}
+
+= Motion control photography
+{parent=Motion control}
+{wiki=Motion_control_photography}
+
+= High performance positioning system
+{parent=Motion control}
+{wiki=High_performance_positioning_system}
+
+= Liftware
+{parent=Motion control}
+{wiki=Liftware}
+
+= Power-Packer
+{parent=Motion control}
+{wiki=Power-Packer}
+
+= Servomotor
+{parent=Motion control}
+{wiki=Servomotor}
+
+= Moving horizon estimation
+{parent=Control theory}
+{wiki=Moving_horizon_estimation}
+
+= Multiple models
+{parent=Control theory}
+{wiki=Multiple_models}
+
+= Network controllability
+{parent=Control theory}
+{wiki=Network_controllability}
+
+= Networked control system
+{parent=Control theory}
+{wiki=Networked_control_system}
+
+= Noncommutative signal-flow graph
+{parent=Control theory}
+{wiki=Noncommutative_signal-flow_graph}
+
+= OGSM
+{parent=Control theory}
+{wiki=OGSM}
+
+= Observability Gramian
+{parent=Control theory}
+{wiki=Observability_Gramian}
+
+= Obstacle avoidance
+{parent=Control theory}
+{wiki=Obstacle_avoidance}
+
+= Online model
+{parent=Control theory}
+{wiki=Online_model}
+
+= Optimal projection equations
+{parent=Control theory}
+{wiki=Optimal_projection_equations}
+
+= Optogenetics
+{parent=Control theory}
+{wiki=Optogenetics}
+
+= Orbit (control theory)
+{parent=Control theory}
+{wiki=Orbit_(control_theory)}
+
+= Parasitic oscillation
+{parent=Control theory}
+{wiki=Parasitic_oscillation}
+
+= Perceptual control theory
+{parent=Control theory}
+{wiki=Perceptual_control_theory}
+
+= Pfaffian constraint
+{parent=Control theory}
+{wiki=Pfaffian_constraint}
+
+= Positive systems
+{parent=Control theory}
+{wiki=Positive_systems}
+
+= Process variable
+{parent=Control theory}
+{wiki=Process_variable}
+
+= Proper transfer function
+{parent=Control theory}
+{wiki=Proper_transfer_function}
+
+= Pulse-swallowing counter
+{parent=Control theory}
+{wiki=Pulse-swallowing_counter}
+
+= Quantitative feedback theory
+{parent=Control theory}
+{wiki=Quantitative_feedback_theory}
+
+= Real-time Control System
+{parent=Control theory}
+{wiki=Real-time_Control_System}
+
+= Recursive economics
+{parent=Control theory}
+{wiki=Recursive_economics}
+
+= Reed receiver
+{parent=Control theory}
+{wiki=Reed_receiver}
+
+= Reflexive control
+{parent=Control theory}
+{wiki=Reflexive_control}
+
+= Repetitive control
+{parent=Control theory}
+{wiki=Repetitive_control}
+
+= Rise time
+{parent=Control theory}
+{wiki=Rise_time}
+
+= Robust control
+{parent=Control theory}
+{wiki=Robust_control}
+
+= Sampled data system
+{parent=Control theory}
+{wiki=Sampled_data_system}
+
+= Scenario optimization
+{parent=Control theory}
+{wiki=Scenario_optimization}
+
+= Schmidt–Kalman filter
+{parent=Control theory}
+{wiki=Schmidt–Kalman_filter}
+
+= Self-organized criticality control
+{parent=Control theory}
+{wiki=Self-organized_criticality_control}
+
+= Self-tuning
+{parent=Control theory}
+{wiki=Self-tuning}
+
+= Sense and respond
+{parent=Control theory}
+{wiki=Sense_and_respond}
+
+= Sensitivity (control systems)
+{parent=Control theory}
+{wiki=Sensitivity_(control_systems)}
+
+= Separation principle
+{parent=Control theory}
+{wiki=Separation_principle}
+
+= Separation principle in stochastic control
+{parent=Control theory}
+{wiki=Separation_principle_in_stochastic_control}
+
+= Servo (radio control)
+{parent=Control theory}
+{wiki=Servo_(radio_control)}
+
+= Servo bandwidth
+{parent=Control theory}
+{wiki=Servo_bandwidth}
+
+= Servomechanism
+{parent=Control theory}
+{wiki=Servomechanism}
+
+= Set-valued function
+{parent=Control theory}
+{wiki=Set-valued_function}
+
+= Shift-invariant system
+{parent=Control theory}
+{wiki=Shift-invariant_system}
+
+= Singular control
+{parent=Control theory}
+{wiki=Singular_control}
+
+= Smith predictor
+{parent=Control theory}
+{wiki=Smith_predictor}
+
+= Space vector modulation
+{parent=Control theory}
+{wiki=Space_vector_modulation}
+
+= State-transition equation
+{parent=Control theory}
+{wiki=State-transition_equation}
+
+= Steady state
+{parent=Control theory}
+{wiki=Steady_state}
+
+= Stochastic control
+{parent=Control theory}
+{wiki=Stochastic_control}
+
+= Automatic basis function construction
+{parent=Stochastic control}
+{wiki=Automatic_basis_function_construction}
+
+= Mabinogion sheep problem
+{parent=Stochastic control}
+{wiki=Mabinogion_sheep_problem}
+
+= Markov decision process
+{parent=Stochastic control}
+{wiki=Markov_decision_process}
+
+= Multiplier uncertainty
+{parent=Stochastic control}
+{wiki=Multiplier_uncertainty}
+
+= Partially observable Markov decision process
+{parent=Stochastic control}
+{wiki=Partially_observable_Markov_decision_process}
+
+= Subspace identification method
+{parent=Control theory}
+{wiki=Subspace_identification_method}
+
+= Supervisory control
+{parent=Control theory}
+{wiki=Supervisory_control}
+
+= Supervisory control theory
+{parent=Control theory}
+{wiki=Supervisory_control_theory}
+
+= Switching Kalman filter
+{parent=Control theory}
+{wiki=Switching_Kalman_filter}
+
+= TP model transformation in control theory
+{parent=Control theory}
+{wiki=TP_model_transformation_in_control_theory}
+
+= Tensor product model transformation
+{parent=Control theory}
+{wiki=Tensor_product_model_transformation}
+
+= Terminal sliding mode
+{parent=Control theory}
+{wiki=Terminal_sliding_mode}
+
+= Time-variant system
+{parent=Control theory}
+{wiki=Time-variant_system}
+
+= Transient response
+{parent=Control theory}
+{wiki=Transient_response}
+
+= Transient state
+{parent=Control theory}
+{wiki=Transient_state}
+
+= Underactuation
+{parent=Control theory}
+{wiki=Underactuation}
+
+= Unicycle cart
+{parent=Control theory}
+{wiki=Unicycle_cart}
+
+= Unscented transform
+{parent=Control theory}
+{wiki=Unscented_transform}
+
+= Vector measure
+{parent=Control theory}
+{wiki=Vector_measure}
+
+= Virtual fixture
+{parent=Control theory}
+{wiki=Virtual_fixture}
+
+= Viscous damping
+{parent=Control theory}
+{wiki=Viscous_damping}
+
+= Weighting pattern
+{parent=Control theory}
+{wiki=Weighting_pattern}
+
+= Witsenhausen's counterexample
+{parent=Control theory}
+{wiki=Witsenhausen's_counterexample}
+
+= Youla–Kucera parametrization
+{parent=Control theory}
+{wiki=Youla–Kucera_parametrization}

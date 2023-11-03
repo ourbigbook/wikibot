@@ -1,0 +1,370 @@
+= Formal systems
+{wiki=Formal_systems}
+
+= Rules of inference
+{parent=Formal systems}
+{wiki=Rules_of_inference}
+
+= Absorption (logic)
+{parent=Rules of inference}
+{wiki=Absorption_(logic)}
+
+= Admissible rule
+{parent=Rules of inference}
+{wiki=Admissible_rule}
+
+= Biconditional elimination
+{parent=Rules of inference}
+{wiki=Biconditional_elimination}
+
+= Biconditional introduction
+{parent=Rules of inference}
+{wiki=Biconditional_introduction}
+
+= Commutativity of conjunction
+{parent=Rules of inference}
+{wiki=Commutativity_of_conjunction}
+
+= Conjunction elimination
+{parent=Rules of inference}
+{wiki=Conjunction_elimination}
+
+= Conjunction introduction
+{parent=Rules of inference}
+{wiki=Conjunction_introduction}
+
+= Constructive dilemma
+{parent=Rules of inference}
+{wiki=Constructive_dilemma}
+
+= Contraposition (traditional logic)
+{parent=Rules of inference}
+{wiki=Contraposition_(traditional_logic)}
+
+= Cut rule
+{parent=Rules of inference}
+{wiki=Cut_rule}
+
+= Destructive dilemma
+{parent=Rules of inference}
+{wiki=Destructive_dilemma}
+
+= Disjunction elimination
+{parent=Rules of inference}
+{wiki=Disjunction_elimination}
+
+= Disjunction introduction
+{parent=Rules of inference}
+{wiki=Disjunction_introduction}
+
+= Disjunctive syllogism
+{parent=Rules of inference}
+{wiki=Disjunctive_syllogism}
+
+= Double negation
+{parent=Rules of inference}
+{wiki=Double_negation}
+
+= Existential generalization
+{parent=Rules of inference}
+{wiki=Existential_generalization}
+
+= Existential instantiation
+{parent=Rules of inference}
+{wiki=Existential_instantiation}
+
+= Exportation (logic)
+{parent=Rules of inference}
+{wiki=Exportation_(logic)}
+
+= Hypothetical syllogism
+{parent=Rules of inference}
+{wiki=Hypothetical_syllogism}
+
+= List of rules of inference
+{parent=Rules of inference}
+{wiki=List_of_rules_of_inference}
+
+= List of valid argument forms
+{parent=Rules of inference}
+{wiki=List_of_valid_argument_forms}
+
+= Material implication (rule of inference)
+{parent=Rules of inference}
+{wiki=Material_implication_(rule_of_inference)}
+
+= Modus non excipiens
+{parent=Rules of inference}
+{wiki=Modus_non_excipiens}
+
+= Modus ponendo tollens
+{parent=Rules of inference}
+{wiki=Modus_ponendo_tollens}
+
+= Modus ponens
+{parent=Rules of inference}
+{wiki=Modus_ponens}
+
+= Modus tollens
+{parent=Rules of inference}
+{wiki=Modus_tollens}
+
+= Negation as failure
+{parent=Rules of inference}
+{wiki=Negation_as_failure}
+
+= Negation introduction
+{parent=Rules of inference}
+{wiki=Negation_introduction}
+
+= Resolution (logic)
+{parent=Rules of inference}
+{wiki=Resolution_(logic)}
+
+= Rule of replacement
+{parent=Rules of inference}
+{wiki=Rule_of_replacement}
+
+= SLD resolution
+{parent=Rules of inference}
+{wiki=SLD_resolution}
+
+= Structural rule
+{parent=Rules of inference}
+{wiki=Structural_rule}
+
+= Tautology (rule of inference)
+{parent=Rules of inference}
+{wiki=Tautology_(rule_of_inference)}
+
+= Transposition (logic)
+{parent=Rules of inference}
+{wiki=Transposition_(logic)}
+
+= Universal generalization
+{parent=Rules of inference}
+{wiki=Universal_generalization}
+
+= Universal instantiation
+{parent=Rules of inference}
+{wiki=Universal_instantiation}
+
+= Systems of formal logic
+{parent=Formal systems}
+{wiki=Category:Systems_of_formal_logic}
+
+= Substructural logic
+{parent=Systems of formal logic}
+{wiki=Substructural_logic}
+
+= Alternative semantics
+{parent=Systems of formal logic}
+{wiki=Alternative_semantics}
+
+= Attributional calculus
+{parent=Systems of formal logic}
+{wiki=Attributional_calculus}
+
+= Aṣṭādhyāyī
+{parent=Systems of formal logic}
+{wiki=Aṣṭādhyāyī}
+
+= Dependence logic
+{parent=Systems of formal logic}
+{wiki=Dependence_logic}
+
+= Discourse representation theory
+{parent=Systems of formal logic}
+{wiki=Discourse_representation_theory}
+
+= Dynamic semantics
+{parent=Systems of formal logic}
+{wiki=Dynamic_semantics}
+
+= Epsilon calculus
+{parent=Systems of formal logic}
+{wiki=Epsilon_calculus}
+
+= Formal ethics
+{parent=Systems of formal logic}
+{wiki=Formal_ethics}
+
+= Frege's propositional calculus
+{parent=Systems of formal logic}
+{wiki=Frege's_propositional_calculus}
+
+= Higher-order logic
+{parent=Systems of formal logic}
+{wiki=Higher-order_logic}
+
+= Implicational propositional calculus
+{parent=Systems of formal logic}
+{wiki=Implicational_propositional_calculus}
+
+= Independence-friendly logic
+{parent=Systems of formal logic}
+{wiki=Independence-friendly_logic}
+
+= Infinitary logic
+{parent=Systems of formal logic}
+{wiki=Infinitary_logic}
+
+= Intermediate logic
+{parent=Systems of formal logic}
+{wiki=Intermediate_logic}
+
+= Logics for computability
+{parent=Systems of formal logic}
+{wiki=Logics_for_computability}
+
+= Many-sorted logic
+{parent=Systems of formal logic}
+{wiki=Many-sorted_logic}
+
+= Paraconsistent logic
+{parent=Systems of formal logic}
+{wiki=Paraconsistent_logic}
+
+= Second-order logic
+{parent=Systems of formal logic}
+{wiki=Second-order_logic}
+
+= Zeroth-order logic
+{parent=Systems of formal logic}
+{wiki=Zeroth-order_logic}
+
+= Ω-logic
+{parent=Systems of formal logic}
+{wiki=Ω-logic}
+
+= Systems of probability distributions
+{parent=Formal systems}
+{wiki=Category:Systems_of_probability_distributions}
+
+= Burr distribution
+{parent=Systems of probability distributions}
+{wiki=Burr_distribution}
+
+= Metalog distribution
+{parent=Systems of probability distributions}
+{wiki=Metalog_distribution}
+
+= Mixture distribution
+{parent=Systems of probability distributions}
+{wiki=Mixture_distribution}
+
+= Pearson distribution
+{parent=Systems of probability distributions}
+{wiki=Pearson_distribution}
+
+= Quantile-parameterized distribution
+{parent=Systems of probability distributions}
+{wiki=Quantile-parameterized_distribution}
+
+= Tweedie distribution
+{parent=Systems of probability distributions}
+{wiki=Tweedie_distribution}
+
+= Systems of set theory
+{parent=Formal systems}
+{wiki=Category:Systems_of_set_theory}
+
+= Ackermann set theory
+{parent=Systems of set theory}
+{wiki=Ackermann_set_theory}
+
+= Double extension set theory
+{parent=Systems of set theory}
+{wiki=Double_extension_set_theory}
+
+= Fuzzy set
+{parent=Systems of set theory}
+{wiki=Fuzzy_set}
+
+= General set theory
+{parent=Systems of set theory}
+{wiki=General_set_theory}
+
+= Internal set theory
+{parent=Systems of set theory}
+{wiki=Internal_set_theory}
+
+= Kripke–Platek set theory
+{parent=Systems of set theory}
+{wiki=Kripke–Platek_set_theory}
+
+= Kripke–Platek set theory with urelements
+{parent=Systems of set theory}
+{wiki=Kripke–Platek_set_theory_with_urelements}
+
+= List of alternative set theories
+{parent=Systems of set theory}
+{wiki=List_of_alternative_set_theories}
+
+= Morse–Kelley set theory
+{parent=Systems of set theory}
+{wiki=Morse–Kelley_set_theory}
+
+= Naive set theory
+{parent=Systems of set theory}
+{wiki=Naive_set_theory}
+
+= New Foundations
+{parent=Systems of set theory}
+{wiki=New_Foundations}
+
+= Pocket set theory
+{parent=Systems of set theory}
+{wiki=Pocket_set_theory}
+
+= Positive set theory
+{parent=Systems of set theory}
+{wiki=Positive_set_theory}
+
+= S (set theory)
+{parent=Systems of set theory}
+{wiki=S_(set_theory)}
+
+= Semiset
+{parent=Systems of set theory}
+{wiki=Semiset}
+
+= Tarski–Grothendieck set theory
+{parent=Systems of set theory}
+{wiki=Tarski–Grothendieck_set_theory}
+
+= Vague set
+{parent=Systems of set theory}
+{wiki=Vague_set}
+
+= Zermelo set theory
+{parent=Systems of set theory}
+{wiki=Zermelo_set_theory}
+
+= Axiom schema
+{parent=Formal systems}
+{wiki=Axiom_schema}
+
+= Axiomatic system
+{parent=Formal systems}
+{wiki=Axiomatic_system}
+
+= First principle
+{parent=Formal systems}
+{wiki=First_principle}
+
+= List of formal systems
+{parent=Formal systems}
+{wiki=List_of_formal_systems}
+
+= Physical symbol system
+{parent=Formal systems}
+{wiki=Physical_symbol_system}
+
+= Rule of inference
+{parent=Formal systems}
+{wiki=Rule_of_inference}
+
+= Term graph
+{parent=Formal systems}
+{wiki=Term_graph}
